@@ -1,89 +1,21 @@
-<div align="center">
-  <h1 style="color:#78f7ff;font-family:'Space Mono',monospace;background:#050914;padding:24px 32px;border-radius:16px;border:1px solid #1b2c4a;box-shadow:0 0 30px rgba(120,247,255,0.35);">
-    ⚡ Threat&nbsp;Intel&nbsp;Atlas ⚡
-  </h1>
-  <p style="color:#8af8d3;font-size:1.1rem;">
-    Continuously harvested cyber threat intelligence — aggregated, deduplicated, and curated with a neon glow.
+<div align="center" style="margin-bottom:32px;">
+  <div style="display:inline-block;padding:22px 32px;border-radius:20px;background:linear-gradient(135deg,#051026,#0b0f23 52%,#061f2f);border:1px solid rgba(122,240,255,0.35);box-shadow:0 0 42px rgba(122,240,255,0.28);color:#7af0ff;font-family:'Courier New',monospace;font-size:1.55rem;letter-spacing:0.18rem;text-transform:uppercase;">
+    Threat Intel Atlas · Weekly Signal Briefing
+  </div>
+  <p style="margin-top:18px;color:#8cf6d6;font-size:1rem;font-family:'Trebuchet MS',sans-serif;letter-spacing:0.05rem;">
+    A rolling seven-day intercept of the most urgent threat intelligence drops — neon grade, field ready.
   </p>
+  <div style="margin-top:12px;padding:10px 18px;border-radius:999px;background:rgba(8,24,48,0.8);border:1px solid rgba(122,240,255,0.25);color:#7ae7ff;font-family:'Courier New',monospace;font-size:0.9rem;">
+    updated {{ generated_at.strftime("%Y-%m-%d %H:%M UTC") }} | monitoring {{ feeds_count }} sources | current haul {{ weekly_count }} signals
+  </div>
 </div>
 
----
+<div style="height:3px;width:100%;background:linear-gradient(90deg,rgba(122,240,255,0) 0%,rgba(122,240,255,0.65) 45%,rgba(255,122,217,0.65) 55%,rgba(255,122,217,0) 100%);margin-bottom:32px;"></div>
 
-- `last build`: {{ generated_at.strftime("%Y-%m-%d %H:%M UTC") }}
-- `feeds monitored`: {{ feeds_count }}
-- `signals in cache`: {{ summary.total_count }}
-- `fresh past 24h`: {{ summary.recent_count }}
+<div style="display:flex;flex-direction:column;gap:18px;">
+{{ markdown_snippet | safe }}
+</div>
 
-{% if summary.top_sources %}
-<details>
-  <summary><strong>Top sources (24h)</strong></summary>
-
-{% for name, count in summary.top_sources %}
-- {{ name }} · {{ count }}
-{% endfor %}
-</details>
-{% endif %}
-
-{% if summary.top_tags %}
-<details>
-  <summary><strong>Hot tags (24h)</strong></summary>
-
-{% for tag, count in summary.top_tags %}
-- {{ tag }} · {{ count }}
-{% endfor %}
-</details>
-{% endif %}
-
-## 🛰️ Fresh Signals
-
-{{ markdown_snippet }}
-
-{% if errors %}
-## ⚠️ Feed Issues
-
-The following sources could not be refreshed during the last run:
-
-{% for name, message in errors.items() %}
-- **{{ name }}** – {{ message }}
-{% endfor %}
-{% endif %}
-
----
-
-## 🛠️ How it works
-
-- Scheduled GitHub Actions workflow pulls ~400 intelligence feeds daily.
-- Python pipeline (`scripts/run_pipeline.py`) harmonises entries, deduplicates them, and stores structured JSON in `data/`.
-- README and `site/index.html` are auto-rendered from templates with the newest signals.
-- Cyberpunk UI lives in `site/` and is GitHub Pages-ready.
-
-## 🚦 Local run
-
-```bash
-python3 -m venv .venv
-source .venv/bin/activate
-pip install -r requirements.txt
-python scripts/run_pipeline.py
-```
-
-## ➕ Add / update feeds
-
-1. Edit `feeds.yaml` and append new sources under the `feeds:` list.
-2. Keep the format:
-   ```yaml
-   - name: Your Feed Name
-     url: https://example.com/feed
-     category: vendor  # optional
-   ```
-3. Commit, push, or let the automated workflow pick it up on the next run.
-
-## 🧪 Testing ideas
-
-- Add pytest coverage for parsing if you extend the pipeline.
-- Drop in custom tagging heuristics in `scripts/run_pipeline.py` to enrich metadata.
-
----
-
-<p align="center" style="color:#7af0ff;font-size:0.9rem;">
-  “Track the signal. Ignore the noise.” — Threat Intel Atlas
-</p>
+<div style="margin-top:48px;padding:12px 18px;border-radius:14px;border:1px solid rgba(122,240,255,0.2);background:rgba(6,16,30,0.85);color:#73ecff;font-family:'Courier New',monospace;font-size:0.85rem;text-align:center;">
+  Weekly archive auto-purges entries older than seven days — stay sharp, stay current.
+</div>
