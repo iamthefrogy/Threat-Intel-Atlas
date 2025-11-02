@@ -17,11 +17,11 @@
       ]
     },
     {
-      "uid": "ms-sec-identity-hijack-2024-06-30",
+      "uid": "ms-sec-identity-hijack-2024-07-01",
       "title": "Identity Hijacking Through OAuth Abuse",
       "link": "https://www.microsoft.com/security/blog/oauth-abuse",
       "summary": "Microsoft incident responders detail a surge in OAuth consent phishing that enables persistent access to cloud mailboxes, mapping mitigations with conditional access policies.",
-      "published": "2024-06-30T18:05:00+00:00",
+      "published": "2024-07-01T02:05:00+00:00",
       "source": "Microsoft Security Blog",
       "category": "vendor",
       "tags": [
@@ -30,11 +30,11 @@
       ]
     },
     {
-      "uid": "threatpost-zero-day-supply-2024-06-29",
+      "uid": "threatpost-zero-day-supply-2024-07-01",
       "title": "Supply-Chain Zero-Day Exploits Hit CI/CD Platforms",
       "link": "https://threatpost.com/supply-chain-zero-day-cicd",
       "summary": "Researchers warn that adversaries chained two fresh CVEs to deploy malicious containers across CI/CD pipelines, urging rapid patching and signed artifact verification.",
-      "published": "2024-06-29T14:22:00+00:00",
+      "published": "2024-07-01T00:22:00+00:00",
       "source": "Threatpost",
       "category": "news",
       "tags": [
@@ -43,7 +43,7 @@
       ]
     }
   ],
-  "weekly_items": [
+  "daily_items": [
     {
       "uid": "talos-ransomware-2024-07-01",
       "title": "Ransomware Operators Target Critical Manufacturing",
@@ -58,11 +58,11 @@
       ]
     },
     {
-      "uid": "ms-sec-identity-hijack-2024-06-30",
+      "uid": "ms-sec-identity-hijack-2024-07-01",
       "title": "Identity Hijacking Through OAuth Abuse",
       "link": "https://www.microsoft.com/security/blog/oauth-abuse",
       "summary": "Microsoft incident responders detail a surge in OAuth consent phishing that enables persistent access to cloud mailboxes, mapping mitigations with conditional access policies.",
-      "published": "2024-06-30T18:05:00+00:00",
+      "published": "2024-07-01T02:05:00+00:00",
       "source": "Microsoft Security Blog",
       "category": "vendor",
       "tags": [
@@ -71,11 +71,11 @@
       ]
     },
     {
-      "uid": "threatpost-zero-day-supply-2024-06-29",
+      "uid": "threatpost-zero-day-supply-2024-07-01",
       "title": "Supply-Chain Zero-Day Exploits Hit CI/CD Platforms",
       "link": "https://threatpost.com/supply-chain-zero-day-cicd",
       "summary": "Researchers warn that adversaries chained two fresh CVEs to deploy malicious containers across CI/CD pipelines, urging rapid patching and signed artifact verification.",
-      "published": "2024-06-29T14:22:00+00:00",
+      "published": "2024-07-01T00:22:00+00:00",
       "source": "Threatpost",
       "category": "news",
       "tags": [
@@ -84,7 +84,7 @@
       ]
     }
   ],
-  "weekly_count": 3,
+  "daily_count": 3,
   "summary": {
     "recent_count": 3,
     "total_count": 3,
@@ -126,5 +126,5 @@
     ]
   },
   "errors": {},
-  "markdown_snippet": "| Title | Source | Tags | Summary | Published (UTC) |\\n| --- | --- | --- | --- | --- |\\n| [Ransomware Operators Target Critical Manufacturing](https://blog.talosintelligence.com/ransomware-manufacturing) | Cisco Talos | defense, malware | Cisco Talos observed a coordinated intrusion set targeting industrial control networks with double-extortion ransomware… | 2024-07-01 06:40 |\\n| [Identity Hijacking Through OAuth Abuse](https://www.microsoft.com/security/blog/oauth-abuse) | Microsoft Security Blog | cloud, phishing | Microsoft incident responders detail a surge in OAuth consent phishing that enables persistent access to cloud mailboxes… | 2024-06-30 18:05 |\\n| [Supply-Chain Zero-Day Exploits Hit CI/CD Platforms](https://threatpost.com/supply-chain-zero-day-cicd) | Threatpost | malware, vulnerabilities | Researchers warn that adversaries chained two fresh CVEs to deploy malicious containers across CI/CD pipelines… | 2024-06-29 14:22 |"
+  "markdown_snippet": "| Title | Source | Tags | Summary | Published (UTC) |\\n| --- | --- | --- | --- | --- |\\n| [Ransomware Operators Target Critical Manufacturing](https://blog.talosintelligence.com/ransomware-manufacturing) | Cisco Talos | defense, malware | Cisco Talos observed a coordinated intrusion set targeting industrial control networks with double-extortion ransomware… | 2024-07-01 06:40 |\\n| [Identity Hijacking Through OAuth Abuse](https://www.microsoft.com/security/blog/oauth-abuse) | Microsoft Security Blog | cloud, phishing | Microsoft incident responders detail a surge in OAuth consent phishing that enables persistent access to cloud mailboxes… | 2024-07-01 02:05 |\\n| [Supply-Chain Zero-Day Exploits Hit CI/CD Platforms](https://threatpost.com/supply-chain-zero-day-cicd) | Threatpost | malware, vulnerabilities | Researchers warn that adversaries chained two fresh CVEs to deploy malicious containers across CI/CD pipelines… | 2024-07-01 00:22 |"
 }

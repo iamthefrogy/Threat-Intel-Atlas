@@ -46,7 +46,7 @@ GITHUB_REPOSITORY = os.environ.get("GITHUB_REPOSITORY")
 MAX_HISTORY_ITEMS = 1000
 MAX_LATEST_ITEMS = 200
 README_ITEMS = 40
-README_DAYS = 7
+README_WINDOW_DAYS = 1
 
 # Keyword buckets for light-touch tagging
 KEYWORD_TAGS: Dict[str, Tuple[str, ...]] = {
@@ -466,7 +466,7 @@ def build_markdown_table(
     items: List[Dict[str, Any]],
     *,
     limit: int = README_ITEMS,
-    placeholder: str = "> _No signals detected in the last 7 days._",
+    placeholder: str = "> _No signals detected in the last 24 hours._",
 ) -> str:
     visible = items[:limit]
     if not visible:
@@ -506,19 +506,19 @@ def main() -> None:
     merged_items = merge_items(cache.get("items", []), fetched_entries)
 
     latest_items = merged_items[:MAX_LATEST_ITEMS]
-    weekly_items = filter_recent_entries(merged_items, days=README_DAYS)
+    daily_items = filter_recent_entries(merged_items, days=README_WINDOW_DAYS)
     generated_at = datetime.now(tz=timezone.utc)
 
     summary = summarise(merged_items)
-    markdown_snippet = build_markdown_table(weekly_items)
+    markdown_snippet = build_markdown_table(daily_items)
 
     context = {
         "generated_at": generated_at,
         "generated_at_iso": generated_at.isoformat(),
         "feeds_count": len(feeds),
         "latest_items": latest_items,
-        "weekly_items": weekly_items,
-        "weekly_count": len(weekly_items),
+        "daily_items": daily_items,
+        "daily_count": len(daily_items),
         "summary": summary,
         "errors": errors,
         "markdown_snippet": markdown_snippet,
