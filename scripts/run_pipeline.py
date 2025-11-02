@@ -46,26 +46,149 @@ README_DAYS = 7
 # Keyword buckets for light-touch tagging
 KEYWORD_TAGS: Dict[str, Tuple[str, ...]] = {
     "malware": (
-        "ransomware",
         "malware",
+        "ransomware",
         "botnet",
         "trojan",
         "infostealer",
         "rootkit",
         "loader",
+        "keylogger",
+        "worm",
+        "stealer",
+        "payload",
     ),
     "vulnerabilities": (
         "cve-",
         "vulnerability",
         "zero-day",
+        "zero day",
         "privilege escalation",
         "remote code execution",
+        "buffer overflow",
+        "patch",
+        "exploit",
+        "proof of concept",
     ),
-    "apt": ("apt", "advanced persistent threat", "nation-state", "state-sponsored"),
-    "phishing": ("phishing", "social engineering"),
-    "cloud": ("cloud", "azure", "aws", "gcp", "kubernetes"),
-    "iot": ("iot", "industrial control", "scada", "ot security"),
-    "defense": ("mitigation", "detection", "defender", "hardening"),
+    "apt": (
+        "apt",
+        "advanced persistent threat",
+        "nation-state",
+        "state-sponsored",
+        "espionage",
+        "threat actor",
+        "campaign",
+    ),
+    "phishing": (
+        "phishing",
+        "smishing",
+        "vishing",
+        "social engineering",
+        "business email compromise",
+        "bec",
+        "credential harvest",
+        "consent phishing",
+    ),
+    "cloud": (
+        "cloud",
+        "azure",
+        "aws",
+        "gcp",
+        "kubernetes",
+        "saas",
+        "cloudflare",
+        "okta",
+        "identity provider",
+    ),
+    "identity": (
+        "identity",
+        "credential",
+        "password",
+        "mfa",
+        "authentication",
+        "iam",
+        "okta",
+        "sso",
+    ),
+    "data_breach": (
+        "data breach",
+        "breach",
+        "data leak",
+        "records exposed",
+        "exposed data",
+        "leak",
+    ),
+    "supply_chain": (
+        "supply chain",
+        "dependency",
+        "third-party",
+        "software supply",
+        "ci/cd",
+        "artifact",
+    ),
+    "iot": (
+        "iot",
+        "industrial control",
+        "scada",
+        "ot security",
+        "ics",
+        "plc",
+        "critical infrastructure",
+    ),
+    "mobile": (
+        "android",
+        "ios",
+        "mobile",
+        "smartphone",
+        "app store",
+    ),
+    "defense": (
+        "mitigation",
+        "detection",
+        "defender",
+        "hardening",
+        "telemetry",
+        "hunting",
+        "blue team",
+        "analysis",
+    ),
+    "incident_response": (
+        "incident response",
+        "ir",
+        "forensics",
+        "remediation",
+        "containment",
+        "playbook",
+    ),
+    "policy": (
+        "regulation",
+        "policy",
+        "compliance",
+        "law",
+        "guidance",
+        "framework",
+        "mandate",
+    ),
+    "darkweb": (
+        "dark web",
+        "darknet",
+        "marketplace",
+        "leak site",
+        "ransom note",
+    ),
+    "ai": (
+        "artificial intelligence",
+        "machine learning",
+        "ai",
+        "llm",
+        "generative",
+        "model",
+    ),
+    "ddos": (
+        "ddos",
+        "denial of service",
+        "traffic flood",
+    ),
 }
 
 
@@ -334,20 +457,28 @@ def build_markdown_table(
     if not visible:
         return placeholder
 
-    header = "| Title | Tags | Published (UTC) |\n| --- | --- | --- |"
+    header = "| Title | Source | Tags | Summary | Published (UTC) |\n| --- | --- | --- | --- | --- |"
     rows: List[str] = [header]
     for item in visible:
         title = escape_table_cell(item.get("title", "Untitled"))
         link = item.get("link", "").strip()
         title_cell = f"[{title}]({link})" if link else title
+        source_cell = escape_table_cell(item.get("source", "Unknown Source"))
         tags = ", ".join(item.get("tags", [])) or "unclassified"
         tags_cell = escape_table_cell(tags)
+        summary_raw = item.get("summary", "")
+        summary_short = (
+            textwrap.shorten(summary_raw, width=120, placeholder="…") if summary_raw else ""
+        )
+        summary_cell = escape_table_cell(summary_short) or "—"
         published_raw = item.get("published", "")
         try:
             published_cell = datetime.fromisoformat(published_raw).strftime("%Y-%m-%d %H:%M")
         except ValueError:
             published_cell = published_raw
-        rows.append(f"| {title_cell} | {tags_cell} | {escape_table_cell(published_cell)} |")
+        rows.append(
+            f"| {title_cell} | {source_cell} | {tags_cell} | {summary_cell} | {escape_table_cell(published_cell)} |"
+        )
     return "\n".join(rows)
 
 
