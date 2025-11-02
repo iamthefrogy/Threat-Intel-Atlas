@@ -9,7 +9,7 @@
 
 ---
 
-- `last build`: 2025-11-02 17:24 UTC
+- `last build`: 2025-11-02 17:30 UTC
 - `feeds monitored`: 448
 - `signals in cache`: 1000
 - `fresh past 24h`: 91
@@ -36,44 +36,44 @@
 
 ## 🛰️ Fresh Signals
 
-- **[Madman Theory Spurs Crazy Scattered Lapsus$ Hunters Playbook](https://www.govinfosecurity.com/blogs/madman-theory-spurs-crazy-scattered-lapsus-hunters-playbook-p-3960)** · GovInfoSecurity · 2025-11-02 17:24 UTC · _malware_
-  - <b>Chaos Theory and Ransomware's Love Child Serves Up Nonstop Unpredictability</b><br />All is not quiet on the ransomware front. Long the province of Russian criminals, numerous ransomware campaigns now trace to…
-- **[Turning Experience Into Impact: Careers in Cyber Education](https://www.govinfosecurity.com/blogs/turning-experience-into-impact-careers-in-cyber-education-p-3962)** · GovInfoSecurity · 2025-11-02 17:24 UTC · _iot_
-  - <b>Cyber Professionals Can Follow 2 Different Careers Paths to Training and Education</b><br />When I first began working in cybersecurity education, my background was in teaching, not security operations. Over time, I…
-- **[Australia's Scam Prevention Framework: The Bubble That Burst](https://www.govinfosecurity.com/blogs/australias-scam-prevention-framework-bubble-that-burst-p-3965)** · GovInfoSecurity · 2025-11-02 17:24 UTC · _unclassified_
-  - <b>Treasury Yet to Release Sector-Specific Controls and Reimbursement Mechanisms</b><br />Australia introduced the world to the first-ever Scam Prevention Framework law that promised to make the country the hardest…
-- **[Cyber Pros Needed: Securing the Middle Ground](https://www.govinfosecurity.com/blogs/cyber-pros-needed-securing-middle-ground-p-3967)** · GovInfoSecurity · 2025-11-02 17:24 UTC · _apt, malware_
-  - <b>Midsize Businesses Need Skilled Professionals as Threat Actors Shift Their Tactics</b><br />As large enterprises continue to strengthen their defenses and reduce ransom payouts, ransomware operators are redirecting…
-- **[New Texas Law Targets AI, Health Record Storage](https://www.govinfosecurity.com/interviews/new-texas-law-targets-ai-health-record-storage-i-5495)** · GovInfoSecurity · 2025-11-02 17:24 UTC · _unclassified_
-  - New Texas health information legislation that began to go into effect on Sept. 1 includes several noteworthy provisions including requirements related to health record data storage and artificial intelligence, said…
-- **[NASA, Google Testing AI 'Doctor in a Box' for Space Missions](https://www.govinfosecurity.com/interviews/nasa-google-testing-ai-doctor-in-box-for-space-missions-i-5496)** · GovInfoSecurity · 2025-11-02 17:24 UTC · _unclassified_
-  - A new AI-powered clinical decision support system developed by Google and NASA aims to help astronauts diagnose and treat medical issues during space missions - even when real-time communication with Earth is…
-- **[New York Hospitals Are Facing Tougher Cyber Rules Than HIPAA](https://www.govinfosecurity.com/interviews/new-york-hospitals-are-facing-tougher-cyber-rules-than-hipaa-i-5498)** · GovInfoSecurity · 2025-11-02 17:24 UTC · _unclassified_
-  - State cybersecurity regulations that apply to some hospitals in New York state go well compliance under the federal HIPAA security rule, posing expanded data governance challenges for providers, said Matthew Bernstein…
-- **[AI and Patient Health Data Access: Considering the Risks](https://www.govinfosecurity.com/interviews/ai-patient-health-data-access-considering-risks-i-5500)** · GovInfoSecurity · 2025-11-02 17:24 UTC · _unclassified_
-  - Among pressing issues facing healthcare providers and health IT vendors is how artificial intelligence enabled tools such as AI assistants might further facilitate patients' access to records as well as the transmission…
-- **[When AI Agents Go Rogue: Managing Digital Insider Risk](https://www.govinfosecurity.com/webinars/when-ai-agents-go-rogue-managing-digital-insider-risk-w-6635)** · GovInfoSecurity · 2025-11-02 17:24 UTC · _unclassified_
-- **[Clear the Cloud Noise: Integrating CNAPP for Unified Threat Response](https://www.govinfosecurity.com/webinars/clear-cloud-noise-integrating-cnapp-for-unified-threat-response-w-6636)** · GovInfoSecurity · 2025-11-02 17:24 UTC · _cloud_
-- **[Secure Every Access and Edge: Unified SASE for Data Protection](https://www.govinfosecurity.com/webinars/secure-every-access-edge-unified-sase-for-data-protection-w-6637)** · GovInfoSecurity · 2025-11-02 17:24 UTC · _unclassified_
-- **[AI Agent Risks: Emerging Threats in DevSecOps](https://www.govinfosecurity.com/webinars/ai-agent-risks-emerging-threats-in-devsecops-w-6640)** · GovInfoSecurity · 2025-11-02 17:24 UTC · _unclassified_
-- **[NIST SP 800-39: Managing Information Security Risk](https://www.govinfosecurity.com/agency-releases/nist-sp-800-39-managing-information-security-risk-r-2353)** · GovInfoSecurity · 2025-11-02 17:24 UTC · _unclassified_
-  - Organization, Mission and Information System View
-- **[NIST FIPS PUB 201-2: Personal Identity Verification of Federal Employees and Contractors DRAFT](https://www.govinfosecurity.com/agency-releases/nist-fips-pub-201-2-personal-identity-verification-federal-r-2379)** · GovInfoSecurity · 2025-11-02 17:24 UTC · _unclassified_
-  - Specifying architecture and technical requirements for a common identification standard for federal employees and contractors.
-- **[NIST SP 800-61 Revision 1: Computer Security Incident Handling Guide](https://www.govinfosecurity.com/agency-releases/nist-sp-800-61-revision-1-computer-security-incident-handling-r-2383)** · GovInfoSecurity · 2025-11-02 17:24 UTC · _unclassified_
-  - Guidance on establishing processes to rapidly detect and respond to cyber incidents.
-- **[DoD: Notice of Proposed Rulemaking on Privacy Training](https://www.govinfosecurity.com/agency-releases/dod-notice-proposed-rulemaking-on-privacy-training-r-2575)** · GovInfoSecurity · 2025-11-02 17:24 UTC · _unclassified_
-  - The Department of Defense and two other government agencies have issued a proposed rule designed to help ensure that government contractors provide adequate privacy training to their staff members.
-- **[Searchlight Cyber Buys Intangic to Help Quantify Cyber Risk](https://www.govinfosecurity.com/searchlight-cyber-buys-intangic-to-help-quantify-cyber-risk-a-29906)** · GovInfoSecurity · 2025-11-02 17:24 UTC · _unclassified_
-  - <img align="right" hspace="4" src="https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/searchlight-cyber-buys-intangic-to-help-quantify-cyber-risk-image_small-8-a-29906.jpg" /><b>European Startup Acquisition Aims…
-- **[Denmark Withdraws Chat Control Proposal Amid Controversy](https://www.govinfosecurity.com/denmark-withdraws-chat-control-proposal-amid-controversy-a-29907)** · GovInfoSecurity · 2025-11-02 17:24 UTC · _cloud_
-  - <img align="right" hspace="4" src="https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/denmark-withdraws-chat-control-proposal-amid-controversy-image_small-10-a-29907.jpg" /><b>Denmark Concedes Domestic and…
-- **[Court Finalizes HCA Data Breach Class Action Settlement](https://www.govinfosecurity.com/court-finalizes-hca-data-breach-class-action-settlement-a-29908)** · GovInfoSecurity · 2025-11-02 17:24 UTC · _cloud_
-  - <img align="right" hspace="4" src="https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/hca-settlement-image_small-6-a-29908.jpg" /><b>Multimillion Dollar Deal Resolves 27 Lawsuits After 2023 Email Storage…
-- **[Chainguard Banks $280M for Global Open-Source Security Play](https://www.govinfosecurity.com/chainguard-banks-280m-for-global-open-source-security-play-a-29909)** · GovInfoSecurity · 2025-11-02 17:24 UTC · _unclassified_
-  - <img align="right" hspace="4" src="https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/chainguard-banks-280m-for-global-open-source-security-play-image_small-5-a-29909.jpg" /><b>Non-Dilutive Funding From General…
-- **[Blog](https://brandefense.io/blog/)** · Brandefense Blog · 2025-11-02 17:23 UTC · _unclassified_
+- **[Blog](https://brandefense.io/blog/)** · Brandefense Blog · 2025-11-02 17:30 UTC · _unclassified_
   - <p>The post <a href="https://brandefense.io/blog/" rel="nofollow">Blog</a> appeared first on <a href="https://brandefense.io" rel="nofollow">Brandefense</a>.</p>
+- **[Madman Theory Spurs Crazy Scattered Lapsus$ Hunters Playbook](https://www.govinfosecurity.com/blogs/madman-theory-spurs-crazy-scattered-lapsus-hunters-playbook-p-3960)** · GovInfoSecurity · 2025-11-02 17:30 UTC · _malware_
+  - <b>Chaos Theory and Ransomware's Love Child Serves Up Nonstop Unpredictability</b><br />All is not quiet on the ransomware front. Long the province of Russian criminals, numerous ransomware campaigns now trace to…
+- **[Turning Experience Into Impact: Careers in Cyber Education](https://www.govinfosecurity.com/blogs/turning-experience-into-impact-careers-in-cyber-education-p-3962)** · GovInfoSecurity · 2025-11-02 17:30 UTC · _iot_
+  - <b>Cyber Professionals Can Follow 2 Different Careers Paths to Training and Education</b><br />When I first began working in cybersecurity education, my background was in teaching, not security operations. Over time, I…
+- **[Australia's Scam Prevention Framework: The Bubble That Burst](https://www.govinfosecurity.com/blogs/australias-scam-prevention-framework-bubble-that-burst-p-3965)** · GovInfoSecurity · 2025-11-02 17:30 UTC · _unclassified_
+  - <b>Treasury Yet to Release Sector-Specific Controls and Reimbursement Mechanisms</b><br />Australia introduced the world to the first-ever Scam Prevention Framework law that promised to make the country the hardest…
+- **[Cyber Pros Needed: Securing the Middle Ground](https://www.govinfosecurity.com/blogs/cyber-pros-needed-securing-middle-ground-p-3967)** · GovInfoSecurity · 2025-11-02 17:30 UTC · _apt, malware_
+  - <b>Midsize Businesses Need Skilled Professionals as Threat Actors Shift Their Tactics</b><br />As large enterprises continue to strengthen their defenses and reduce ransom payouts, ransomware operators are redirecting…
+- **[New Texas Law Targets AI, Health Record Storage](https://www.govinfosecurity.com/interviews/new-texas-law-targets-ai-health-record-storage-i-5495)** · GovInfoSecurity · 2025-11-02 17:30 UTC · _unclassified_
+  - New Texas health information legislation that began to go into effect on Sept. 1 includes several noteworthy provisions including requirements related to health record data storage and artificial intelligence, said…
+- **[NASA, Google Testing AI 'Doctor in a Box' for Space Missions](https://www.govinfosecurity.com/interviews/nasa-google-testing-ai-doctor-in-box-for-space-missions-i-5496)** · GovInfoSecurity · 2025-11-02 17:30 UTC · _unclassified_
+  - A new AI-powered clinical decision support system developed by Google and NASA aims to help astronauts diagnose and treat medical issues during space missions - even when real-time communication with Earth is…
+- **[New York Hospitals Are Facing Tougher Cyber Rules Than HIPAA](https://www.govinfosecurity.com/interviews/new-york-hospitals-are-facing-tougher-cyber-rules-than-hipaa-i-5498)** · GovInfoSecurity · 2025-11-02 17:30 UTC · _unclassified_
+  - State cybersecurity regulations that apply to some hospitals in New York state go well compliance under the federal HIPAA security rule, posing expanded data governance challenges for providers, said Matthew Bernstein…
+- **[AI and Patient Health Data Access: Considering the Risks](https://www.govinfosecurity.com/interviews/ai-patient-health-data-access-considering-risks-i-5500)** · GovInfoSecurity · 2025-11-02 17:30 UTC · _unclassified_
+  - Among pressing issues facing healthcare providers and health IT vendors is how artificial intelligence enabled tools such as AI assistants might further facilitate patients' access to records as well as the transmission…
+- **[When AI Agents Go Rogue: Managing Digital Insider Risk](https://www.govinfosecurity.com/webinars/when-ai-agents-go-rogue-managing-digital-insider-risk-w-6635)** · GovInfoSecurity · 2025-11-02 17:30 UTC · _unclassified_
+- **[Clear the Cloud Noise: Integrating CNAPP for Unified Threat Response](https://www.govinfosecurity.com/webinars/clear-cloud-noise-integrating-cnapp-for-unified-threat-response-w-6636)** · GovInfoSecurity · 2025-11-02 17:30 UTC · _cloud_
+- **[Secure Every Access and Edge: Unified SASE for Data Protection](https://www.govinfosecurity.com/webinars/secure-every-access-edge-unified-sase-for-data-protection-w-6637)** · GovInfoSecurity · 2025-11-02 17:30 UTC · _unclassified_
+- **[AI Agent Risks: Emerging Threats in DevSecOps](https://www.govinfosecurity.com/webinars/ai-agent-risks-emerging-threats-in-devsecops-w-6640)** · GovInfoSecurity · 2025-11-02 17:30 UTC · _unclassified_
+- **[NIST SP 800-39: Managing Information Security Risk](https://www.govinfosecurity.com/agency-releases/nist-sp-800-39-managing-information-security-risk-r-2353)** · GovInfoSecurity · 2025-11-02 17:30 UTC · _unclassified_
+  - Organization, Mission and Information System View
+- **[NIST FIPS PUB 201-2: Personal Identity Verification of Federal Employees and Contractors DRAFT](https://www.govinfosecurity.com/agency-releases/nist-fips-pub-201-2-personal-identity-verification-federal-r-2379)** · GovInfoSecurity · 2025-11-02 17:30 UTC · _unclassified_
+  - Specifying architecture and technical requirements for a common identification standard for federal employees and contractors.
+- **[NIST SP 800-61 Revision 1: Computer Security Incident Handling Guide](https://www.govinfosecurity.com/agency-releases/nist-sp-800-61-revision-1-computer-security-incident-handling-r-2383)** · GovInfoSecurity · 2025-11-02 17:30 UTC · _unclassified_
+  - Guidance on establishing processes to rapidly detect and respond to cyber incidents.
+- **[DoD: Notice of Proposed Rulemaking on Privacy Training](https://www.govinfosecurity.com/agency-releases/dod-notice-proposed-rulemaking-on-privacy-training-r-2575)** · GovInfoSecurity · 2025-11-02 17:30 UTC · _unclassified_
+  - The Department of Defense and two other government agencies have issued a proposed rule designed to help ensure that government contractors provide adequate privacy training to their staff members.
+- **[Searchlight Cyber Buys Intangic to Help Quantify Cyber Risk](https://www.govinfosecurity.com/searchlight-cyber-buys-intangic-to-help-quantify-cyber-risk-a-29906)** · GovInfoSecurity · 2025-11-02 17:30 UTC · _unclassified_
+  - <img align="right" hspace="4" src="https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/searchlight-cyber-buys-intangic-to-help-quantify-cyber-risk-image_small-8-a-29906.jpg" /><b>European Startup Acquisition Aims…
+- **[Denmark Withdraws Chat Control Proposal Amid Controversy](https://www.govinfosecurity.com/denmark-withdraws-chat-control-proposal-amid-controversy-a-29907)** · GovInfoSecurity · 2025-11-02 17:30 UTC · _cloud_
+  - <img align="right" hspace="4" src="https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/denmark-withdraws-chat-control-proposal-amid-controversy-image_small-10-a-29907.jpg" /><b>Denmark Concedes Domestic and…
+- **[Court Finalizes HCA Data Breach Class Action Settlement](https://www.govinfosecurity.com/court-finalizes-hca-data-breach-class-action-settlement-a-29908)** · GovInfoSecurity · 2025-11-02 17:30 UTC · _cloud_
+  - <img align="right" hspace="4" src="https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/hca-settlement-image_small-6-a-29908.jpg" /><b>Multimillion Dollar Deal Resolves 27 Lawsuits After 2023 Email Storage…
+- **[Chainguard Banks $280M for Global Open-Source Security Play](https://www.govinfosecurity.com/chainguard-banks-280m-for-global-open-source-security-play-a-29909)** · GovInfoSecurity · 2025-11-02 17:30 UTC · _unclassified_
+  - <img align="right" hspace="4" src="https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/chainguard-banks-280m-for-global-open-source-security-play-image_small-5-a-29909.jpg" /><b>Non-Dilutive Funding From General…
 - **[Interview questions](https://www.reddit.com/r/cybersecurity/comments/1omn4hv/interview_questions/)** · Reddit r/cybersecurity · 2025-11-02 17:21 UTC · _unclassified_
   - <!-- SC_OFF --><div class="md"><p>Hello all, I’ve recently got my first interview for a infosec analyst I position (GRC focused). What would be some questions I could expect? Any hot questions on the market right now?…
 - **[Security Community Slams MIT-Linked Report Claiming AI Powers 80% of Ransomware](https://www.reddit.com/r/cybersecurity/comments/1omn2xa/security_community_slams_mitlinked_report/)** · Reddit r/cybersecurity · 2025-11-02 17:19 UTC · _malware_
@@ -119,33 +119,27 @@ The following sources could not be refreshed during the last run:
 
 - **CERT.at (Austria)** – 403, message='Forbidden', url=URL('https://rss.app/feeds/s861jvmRZd8jJZmD.xml')
 - **CERT.be (Belgium)** – 403, message='Forbidden', url=URL('https://rss.app/feeds/iyubdbVpG224KeE2.xml')
+- **CERT-EE (Estonia/RIA) - News feed** – 403, message='Forbidden', url=URL('https://www.ria.ee/et/news-feed/all/feed')
 - **CrowdStrike - Cybersecurity Blog** – 403, message='Forbidden', url=URL('https://rss.app/feeds/VVqHQdoB1gXxkuF0.xml')
 - **ReliaQuest** – 403, message='Forbidden', url=URL('https://rss.app/feeds/ThNQLIMI5l8VQttP.xml')
-- **Digital Shadows - Blog & Research** – 404, message='Not Found', url=URL('https://reliaquest.com/blog/feed/')
 - **SensePost - Blog** – 404, message='Not Found', url=URL('https://sensepost.com/rss')
-- **Webroot - Threat Blog** – 500, message='Internal Server Error', url=URL('https://www.webroot.com/blog/feed/')
 - **UpGuard - Blog** – 404, message='Not Found', url=URL('https://www.upguard.com/blog/rss')
-- **Zero Day Initiative - Published Advisories** – 404, message='Not Found', url=URL('https://www.zerodayinitiative.com/blog/rss/')
 - **Rapid7 - Blog & Research** – 403, message='Forbidden', url=URL('https://rss.app/feeds/rVscdhBeOYIDYCjU.xml')
-- **RedTeam.Blue - CVE & Vulnerability Blog** – 404, message='Not Found', url=URL('https://www.redteam.blue/feed')
-- **Maxwell Dulin Blog** – Cannot connect to host maxwelldulin.invades.space:443 ssl:default [nodename nor servname provided, or not known]
-- **SecurityOnline - Exploitation** – 404, message='Not Found', url=URL('https://securityonline.info/category/penetration-testing/network-pentest/exploitation/feed/')
+- **Intel Insights (Substack)** – 403, message='Forbidden', url=URL('https://intelinsights.substack.com/feed')
+- **Maxwell Dulin Blog** – Cannot connect to host maxwelldulin.invades.space:443 ssl:default [Name or service not known]
+- **The CyberWire** – 0, message='', url=URL('https://thecyberwire.com/feeds/rss.xml')
 - **Vice - Tech** – 404, message='Not Found', url=URL('https://www.vice.com/en_us/rss/section/tech')
+- **AhnLab ASEC - Malware Info (EN)** – 404, message='Not Found', url=URL('https://asec.ahnlab.com/en/category/malware-information-en/feed/')
 - **Binary Defense - Threat Intelligence** – 404, message='Not Found', url=URL('https://binarydefense.com/resources/tag/threat-intelligence/feed/')
-- **Binary Defense - Threat Research** – 404, message='Not Found', url=URL('https://binarydefense.com/resources/tag/threat-research/feed/')
-- **Binary Defense - Threat Hunting** – 404, message='Not Found', url=URL('https://binarydefense.com/resources/tag/threat-hunting/feed/')
 - **Cofense - Phishing Insights** – 404, message='Not Found', url=URL('https://cofense.com/blog/category/phishing-email-insights/feed/')
 - **Cofense - Threat Intelligence** – 404, message='Not Found', url=URL('https://cofense.com/blog/category/threat-intelligence-insights/feed/')
-- **CrowdStrike - TI Research** – 0, message='', url=URL('https://www.crowdstrike.com/blog/category/threat-intel-research/feed')
+- **Secureworks - Research and Intelligence** – 500, message='Internal Server Error', url=URL('https://www.secureworks.com/rss?feed=blog&category=research-intelligence')
 - **HackerOne Blog** – 404, message='Not Found', url=URL('https://www.hackerone.com/blog.rss')
 - **Infoblox - Cyber Threat Intelligence** – 404, message='Not Found', url=URL('https://blogs.infoblox.com/category/cyber-threat-intelligence/feed/')
-- **Microsoft MSRC** – 404, message='Not Found', url=URL('https://www.microsoft.com/en-us/msrc/blog/feed/report/list/')
 - **Morphisec Blog** – 403, message='Forbidden', url=URL('https://blog.morphisec.com/rss.xml')
 - **ReliaQuest - Threat Hunting** – 404, message='Not Found', url=URL('https://reliaquest.com/blog/category/threat-hunting/feed/')
-- **ReliaQuest - Threat Intelligence** – 404, message='Not Found', url=URL('https://reliaquest.com/blog/category/threat-intelligence/feed/')
 - **ReversingLabs - Threat Research** – 404, message='Not Found', url=URL('https://www.reversinglabs.com/blog/tag/threat-research/rss.xml')
-- **Sekoia.io - Research and Threat Intelligence** – 404, message='Not Found', url=URL('https://blog.sekoia.io/category/research-threat-intelligence/feed/')
-- **SpecterOps Blog** – Cannot connect to host posts.specterops.io:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')]
+- **SpecterOps Blog** – Cannot connect to host posts.specterops.io:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1016)')]
 - **Team Cymru Blog** – 404, message='Not Found', url=URL('https://www.team-cymru.com/blog-feed.xml')
 - **Zimperium Blog - All** – 404, message='Not Found', url=URL('https://zimperium.com/blog/feed/')
 - **Zimperium Blog - Threat Research** – 404, message='Not Found', url=URL('https://zimperium.com/blog-category/threat-research/feed/')
