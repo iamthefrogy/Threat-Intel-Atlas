@@ -345,13 +345,20 @@ def build_markdown_snippet(
         summary_snippet = (
             textwrap.shorten(summary_raw, width=320, placeholder="…") if summary_raw else ""
         )
+        summary_html = ""
+        if summary_snippet:
+            summary_html = (
+                '<p style="margin-top:14px;line-height:1.6;color:#d2f5ff;font-size:1rem;">'
+                f"{escape(summary_snippet)}"
+                "</p>"
+            )
         card = f"""
 <div style="margin-bottom:26px;padding:22px;border-radius:18px;background:linear-gradient(130deg,rgba(8,18,38,0.92),rgba(6,10,24,0.88));border:1px solid rgba(122,240,255,0.22);box-shadow:0 0 24px rgba(127,255,212,0.18);">
   <a href="{escape(item.get('link', ''))}" style="color:#7af0ff;font-size:1.18rem;font-weight:700;text-decoration:none;letter-spacing:0.04em;">{escape(item.get('title', 'Untitled'))}</a>
   <div style="margin-top:10px;font-family:'Courier New',monospace;color:#8dadff;font-size:0.88rem;">
     {escape(item.get('source', 'Unknown Source'))} | {escape(published_display)} | tags: {escape(tags)}
   </div>
-  {"<p style=\"margin-top:14px;line-height:1.6;color:#d2f5ff;font-size:1rem;\">"+escape(summary_snippet)+"</p>" if summary_snippet else ""}
+  {summary_html}
 </div>
 """.strip()
         cards.append(card)
