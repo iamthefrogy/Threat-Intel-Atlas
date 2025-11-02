@@ -10,11 +10,24 @@
   </div>
 </div>
 
+<div style="display:flex;flex-wrap:wrap;gap:16px;justify-content:center;margin-bottom:28px;">
+  <div style="min-width:200px;padding:16px 20px;border-radius:16px;background:linear-gradient(140deg,rgba(8,24,52,0.85),rgba(8,16,28,0.88));border:1px solid rgba(122,240,255,0.25);box-shadow:0 0 24px rgba(122,240,255,0.18);text-align:center;">
+    <div style="color:#6cf7ff;font-size:0.78rem;letter-spacing:0.18rem;text-transform:uppercase;font-family:'Courier New',monospace;">Sources Monitored</div>
+    <div style="margin-top:8px;color:#f1fff9;font-size:1.6rem;font-family:'Courier New',monospace;">{{ feeds_count }}</div>
+  </div>
+  <div style="min-width:200px;padding:16px 20px;border-radius:16px;background:linear-gradient(140deg,rgba(52,12,52,0.82),rgba(12,8,28,0.9));border:1px solid rgba(255,122,217,0.35);box-shadow:0 0 24px rgba(255,122,217,0.22);text-align:center;">
+    <div style="color:#ff99f6;font-size:0.78rem;letter-spacing:0.18rem;text-transform:uppercase;font-family:'Courier New',monospace;">Signals Archived</div>
+    <div style="margin-top:8px;color:#fff2ff;font-size:1.6rem;font-family:'Courier New',monospace;">{{ summary.total_count }}</div>
+  </div>
+  <div style="min-width:200px;padding:16px 20px;border-radius:16px;background:linear-gradient(140deg,rgba(10,38,28,0.82),rgba(6,18,18,0.9));border:1px solid rgba(120,255,200,0.35);box-shadow:0 0 24px rgba(120,255,200,0.2);text-align:center;">
+    <div style="color:#9fffcf;font-size:0.78rem;letter-spacing:0.18rem;text-transform:uppercase;font-family:'Courier New',monospace;">Signals (24h)</div>
+    <div style="margin-top:8px;color:#e9fff4;font-size:1.6rem;font-family:'Courier New',monospace;">{{ summary.recent_count }}</div>
+  </div>
+</div>
+
 <div style="height:3px;width:100%;background:linear-gradient(90deg,rgba(122,240,255,0) 0%,rgba(122,240,255,0.65) 45%,rgba(255,122,217,0.65) 55%,rgba(255,122,217,0) 100%);margin-bottom:32px;"></div>
 
-<div style="display:flex;flex-direction:column;gap:18px;">
 {{ markdown_snippet | safe }}
-</div>
 
 <div style="margin-top:48px;padding:12px 18px;border-radius:14px;border:1px solid rgba(122,240,255,0.2);background:rgba(6,16,30,0.85);color:#73ecff;font-family:'Courier New',monospace;font-size:0.85rem;text-align:center;">
   Weekly archive auto-purges entries older than seven days — stay sharp, stay current.
