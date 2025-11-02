@@ -1,0 +1,47 @@
+name: threat-intel-atlas
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "30 6 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  harvest:
+    name: Harvest & publish threat intel
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+        env:
+          PIP_DISABLE_PIP_VERSION_CHECK: "1"
+
+      - name: Run intelligence pipeline
+        run: python scripts/run_pipeline.py
+
+      - name: Commit and push dataset updates
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: refresh threat intel feed"
+          file_pattern: |
+            README.md
+            data/*.json
+            data/*.md
+            site/index.html
+            site/data/*.json
