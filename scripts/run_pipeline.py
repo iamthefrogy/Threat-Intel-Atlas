@@ -12,7 +12,8 @@ import json
 import textwrap
 from collections import defaultdict
 from dataclasses import dataclass
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
+from html import escape
 from pathlib import Path
 from typing import Any, Dict, Iterable, List, Optional, Tuple
 
@@ -40,6 +41,7 @@ FEEDS_PATH = ROOT / "feeds.yaml"
 MAX_HISTORY_ITEMS = 1000
 MAX_LATEST_ITEMS = 200
 README_ITEMS = 40
+README_DAYS = 7
 
 # Keyword buckets for light-touch tagging
 KEYWORD_TAGS: Dict[str, Tuple[str, ...]] = {
@@ -299,18 +301,61 @@ def render_templates(context: Dict[str, Any]) -> None:
     SITE_OUTPUT.write_text(site_template.render(**context), encoding="utf-8")
 
 
-def build_markdown_snippet(items: List[Dict[str, Any]], limit: int = README_ITEMS) -> str:
-    lines: List[str] = []
-    for item in items[:limit]:
-        published = datetime.fromisoformat(item["published"]).strftime("%Y-%m-%d %H:%M UTC")
+def filter_recent_entries(items: List[Dict[str, Any]], *, days: int) -> List[Dict[str, Any]]:
+    cutoff = datetime.now(timezone.utc) - timedelta(days=days)
+    recent: List[Dict[str, Any]] = []
+    for item in items:
+        published = item.get("published")
+        if not published:
+            continue
+        try:
+            published_dt = datetime.fromisoformat(published)
+        except ValueError:
+            continue
+        if published_dt.tzinfo is None:
+            published_dt = published_dt.replace(tzinfo=timezone.utc)
+        if published_dt >= cutoff:
+            recent.append(item)
+    return recent
+
+
+def build_markdown_snippet(
+    items: List[Dict[str, Any]],
+    *,
+    limit: int = README_ITEMS,
+    placeholder: str = "No signals detected in the last 7 days.",
+) -> str:
+    visible = items[:limit]
+    if not visible:
+        return (
+            f'<div style="padding:18px;border-radius:16px;background:rgba(8,16,32,0.85);'
+            f'border:1px solid rgba(122,240,255,0.25);color:#7af0ff;font-family:'
+            f'\'Courier New\',monospace;text-align:center;">{escape(placeholder)}</div>'
+        )
+
+    cards: List[str] = []
+    for item in visible:
+        published = item.get("published", "")
+        try:
+            published_display = datetime.fromisoformat(published).strftime("%Y-%m-%d %H:%M UTC")
+        except ValueError:
+            published_display = published
         tags = ", ".join(item.get("tags", [])) or "unclassified"
-        summary = item.get("summary", "")
-        summary_snippet = textwrap.shorten(summary, width=220, placeholder="…") if summary else ""
-        line = f"- **[{item['title']}]({item['link']})** · {item['source']} · {published} · _{tags}_"
-        if summary_snippet:
-            line += f"\n  - {summary_snippet}"
-        lines.append(line)
-    return "\n".join(lines)
+        summary_raw = item.get("summary", "")
+        summary_snippet = (
+            textwrap.shorten(summary_raw, width=320, placeholder="…") if summary_raw else ""
+        )
+        card = f"""
+<div style="margin-bottom:26px;padding:22px;border-radius:18px;background:linear-gradient(130deg,rgba(8,18,38,0.92),rgba(6,10,24,0.88));border:1px solid rgba(122,240,255,0.22);box-shadow:0 0 24px rgba(127,255,212,0.18);">
+  <a href="{escape(item.get('link', ''))}" style="color:#7af0ff;font-size:1.18rem;font-weight:700;text-decoration:none;letter-spacing:0.04em;">{escape(item.get('title', 'Untitled'))}</a>
+  <div style="margin-top:10px;font-family:'Courier New',monospace;color:#8dadff;font-size:0.88rem;">
+    {escape(item.get('source', 'Unknown Source'))} | {escape(published_display)} | tags: {escape(tags)}
+  </div>
+  {"<p style=\"margin-top:14px;line-height:1.6;color:#d2f5ff;font-size:1rem;\">"+escape(summary_snippet)+"</p>" if summary_snippet else ""}
+</div>
+""".strip()
+        cards.append(card)
+    return "\n\n".join(cards)
 
 
 def main() -> None:
@@ -322,16 +367,22 @@ def main() -> None:
     merged_items = merge_items(cache.get("items", []), fetched_entries)
 
     latest_items = merged_items[:MAX_LATEST_ITEMS]
+    weekly_items = filter_recent_entries(merged_items, days=README_DAYS)
     generated_at = datetime.now(tz=timezone.utc)
 
     summary = summarise(merged_items)
-    markdown_snippet = build_markdown_snippet(latest_items)
+    markdown_snippet = build_markdown_snippet(
+        weekly_items,
+        placeholder="No signals detected in the last 7 days.",
+    )
 
     context = {
         "generated_at": generated_at,
         "generated_at_iso": generated_at.isoformat(),
         "feeds_count": len(feeds),
         "latest_items": latest_items,
+        "weekly_items": weekly_items,
+        "weekly_count": len(weekly_items),
         "summary": summary,
         "errors": errors,
         "markdown_snippet": markdown_snippet,
