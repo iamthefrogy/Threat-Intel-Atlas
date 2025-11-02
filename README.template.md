@@ -8,6 +8,10 @@
   <div style="margin-top:12px;padding:10px 18px;border-radius:999px;background:rgba(8,24,48,0.8);border:1px solid rgba(122,240,255,0.25);color:#7ae7ff;font-family:'Courier New',monospace;font-size:0.9rem;">
     updated {{ generated_at.strftime("%Y-%m-%d %H:%M UTC") }} | monitoring {{ feeds_count }} sources | current haul {{ weekly_count }} signals
   </div>
+  <div style="margin-top:18px;display:flex;gap:12px;justify-content:center;flex-wrap:wrap;">
+    <a href="{{ live_url }}" style="padding:12px 24px;border-radius:999px;background:linear-gradient(120deg,#7af0ff,#ff7ad9);color:#051026;font-weight:700;font-family:'Trebuchet MS',sans-serif;text-decoration:none;letter-spacing:0.08rem;text-transform:uppercase;">Launch Live Atlas</a>
+    <span style="padding:12px 18px;border-radius:999px;background:rgba(6,12,26,0.85);border:1px solid rgba(122,240,255,0.25);color:#7ae7ff;font-family:'Courier New',monospace;font-size:0.78rem;">Enable GitHub Pages → Settings → Pages → Branch: main /site</span>
+  </div>
 </div>
 
 <div style="display:flex;flex-wrap:wrap;gap:16px;justify-content:center;margin-bottom:28px;">

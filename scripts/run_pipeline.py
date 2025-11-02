@@ -14,6 +14,7 @@ from collections import defaultdict
 from dataclasses import dataclass
 from datetime import datetime, timedelta, timezone
 from html import escape
+import os
 from pathlib import Path
 from typing import Any, Dict, Iterable, List, Optional, Tuple
 
@@ -36,6 +37,10 @@ README_OUTPUT = ROOT / "README.md"
 SITE_TEMPLATE = ROOT / "site" / "index.template.html"
 SITE_OUTPUT = ROOT / "site" / "index.html"
 FEEDS_PATH = ROOT / "feeds.yaml"
+
+# Optional overrides for GitHub Pages link
+ATLAS_LIVE_URL = os.environ.get("ATLAS_LIVE_URL")
+GITHUB_REPOSITORY = os.environ.get("GITHUB_REPOSITORY")
 
 # Limit history to keep repo size manageable
 MAX_HISTORY_ITEMS = 1000
@@ -406,6 +411,16 @@ def ensure_directories() -> None:
     SITE_DATA_DIR.mkdir(parents=True, exist_ok=True)
 
 
+def guess_live_url() -> str:
+    if ATLAS_LIVE_URL:
+        return ATLAS_LIVE_URL.rstrip("/") + "/"
+    if GITHUB_REPOSITORY and "/" in GITHUB_REPOSITORY:
+        owner, repo = GITHUB_REPOSITORY.split("/", 1)
+        if owner and repo:
+            return f"https://{owner}.github.io/{repo}/"
+    return "https://<username>.github.io/threat-intel-atlas/"
+
+
 def render_templates(context: Dict[str, Any]) -> None:
     env = Environment(
         loader=FileSystemLoader(str(ROOT)),
@@ -495,10 +510,7 @@ def main() -> None:
     generated_at = datetime.now(tz=timezone.utc)
 
     summary = summarise(merged_items)
-    markdown_snippet = build_markdown_table(
-        weekly_items,
-        placeholder="No signals detected in the last 7 days.",
-    )
+    markdown_snippet = build_markdown_table(weekly_items)
 
     context = {
         "generated_at": generated_at,
@@ -510,6 +522,7 @@ def main() -> None:
         "summary": summary,
         "errors": errors,
         "markdown_snippet": markdown_snippet,
+        "live_url": guess_live_url(),
     }
 
     CACHE_PATH.write_text(json.dumps({"items": merged_items, "generated_at": generated_at.isoformat()}, indent=2), encoding="utf-8")
