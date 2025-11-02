@@ -472,7 +472,7 @@ def build_markdown_table(
     if not visible:
         return placeholder
 
-    header = "| Title | Source | Tags | Summary | Published (UTC) |\n| --- | --- | --- | --- | --- |"
+    header = "| Title | Source | Tags | Published (UTC) |\n| --- | --- | --- | --- |"
     rows: List[str] = [header]
     for item in visible:
         title = escape_table_cell(item.get("title", "Untitled"))
@@ -481,19 +481,12 @@ def build_markdown_table(
         source_cell = escape_table_cell(item.get("source", "Unknown Source"))
         tags = ", ".join(item.get("tags", [])) or "unclassified"
         tags_cell = escape_table_cell(tags)
-        summary_raw = item.get("summary", "")
-        summary_short = (
-            textwrap.shorten(summary_raw, width=120, placeholder="…") if summary_raw else ""
-        )
-        summary_cell = escape_table_cell(summary_short) or "—"
         published_raw = item.get("published", "")
         try:
             published_cell = datetime.fromisoformat(published_raw).strftime("%Y-%m-%d %H:%M")
         except ValueError:
             published_cell = published_raw
-        rows.append(
-            f"| {title_cell} | {source_cell} | {tags_cell} | {summary_cell} | {escape_table_cell(published_cell)} |"
-        )
+        rows.append(f"| {title_cell} | {source_cell} | {tags_cell} | {escape_table_cell(published_cell)} |")
     return "\n".join(rows)
 
 
