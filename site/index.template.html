@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Threat Intel Atlas</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;600;700&family=Space+Mono&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/styles.css" />
+</head>
+<body>
+  <div class="grid-overlay"></div>
+  <header class="hero">
+    <div class="hero__glow"></div>
+    <div class="hero__content">
+      <h1>Threat Intel Atlas</h1>
+      <p class="tagline">Automated threat intelligence briefings in a luminous cyberpunk skin.</p>
+      <div class="meta">
+        <span>Last build: {{ generated_at.strftime("%Y-%m-%d %H:%M UTC") }}</span>
+        <span>Feeds monitored: {{ feeds_count }}</span>
+        <span>Signals stored: {{ summary.total_count }}</span>
+        <span>🔁 Fresh (24h): {{ summary.recent_count }}</span>
+      </div>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="panel">
+      <h2>Pulseboard</h2>
+      <div class="stats-grid">
+        <div class="stat-card">
+          <span class="stat-label">Top Sources</span>
+          <ul>
+            {% for name, count in summary.top_sources %}
+            <li><strong>{{ name }}</strong> <span>{{ count }}</span></li>
+            {% endfor %}
+          </ul>
+        </div>
+        <div class="stat-card">
+          <span class="stat-label">Hot Tags</span>
+          <ul id="hot-tags">
+            {% for tag, count in summary.top_tags %}
+            <li data-tag="{{ tag }}"><strong>{{ tag }}</strong> <span>{{ count }}</span></li>
+            {% endfor %}
+          </ul>
+        </div>
+        <div class="stat-card">
+          <span class="stat-label">Feed Issues</span>
+          {% if errors %}
+          <ul class="issues">
+            {% for name, msg in errors.items() %}
+            <li>
+              <strong>{{ name }}</strong>
+              <span title="{{ msg }}">{{ msg }}</span>
+            </li>
+            {% endfor %}
+          </ul>
+          {% else %}
+          <p class="all-good">All feeds operational.</p>
+          {% endif %}
+        </div>
+      </div>
+    </section>
+
+    <section class="panel">
+      <div class="panel__header">
+        <h2>Signal Stream</h2>
+        <div class="filters">
+          <input id="search" type="search" placeholder="Search title, source, summary..." />
+          <button id="clear-filters">Reset</button>
+        </div>
+      </div>
+      <div id="feed-list" class="feed-list"></div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <p>Generated {{ generated_at.strftime("%Y-%m-%d %H:%M UTC") }} · <a href="https://github.com/" target="_blank" rel="noopener">GitHub Actions</a> powered.</p>
+    <p>“Track the signal. Ignore the noise.”</p>
+  </footer>
+
+  <script>window.__ATLAS_ITEMS__ = {{ latest_items | tojson }};</script>
+  <script src="assets/app.js" type="module"></script>
+</body>
+</html>

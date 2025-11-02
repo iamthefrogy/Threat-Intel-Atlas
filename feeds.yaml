@@ -1,0 +1,910 @@
+feeds:
+  # Government CERTs / National CSIRTs
+  - name: CISA Alerts
+    url: https://www.cisa.gov/cybersecurity-advisories/alerts.xml
+  - name: CERT.at (Austria)
+    url: https://rss.app/feeds/s861jvmRZd8jJZmD.xml
+  - name: CERT.be (Belgium)
+    url: https://rss.app/feeds/iyubdbVpG224KeE2.xml
+  - name: Canadian Centre for Cyber Security - Alerts
+    url: https://cyber.gc.ca/webservice/en/rss/alerts
+  - name: JPCERT/CC Blog (EN)
+    url: https://blogs.jpcert.or.jp/en/atom.xml
+  - name: NCSC-FI - English RSS
+    url: https://www.kyberturvallisuuskeskus.fi/feed/rss/en
+  - name: NCSC-FI - Daily news (EN)
+    url: https://www.kyberturvallisuuskeskus.fi/sites/default/files/rss/news.xml
+  - name: GovCERT.HK - Security Alerts
+    url: https://www.govcert.gov.hk/en/rss_security_alerts.xml
+  - name: HKCERT - Security Bulletins
+    url: https://www.hkcert.org/getrss/security-bulletin
+  - name: NCSC-NL (Netherlands) - News (EN)
+    url: https://feeds.english.ncsc.nl/news.rss
+  - name: CERT.SI (Slovenia) - News (EN)
+    url: https://www.cert.si/en/category/news/feed/
+  - name: CERT-SE (Sweden)
+    url: https://www.cert.se/feed.rss
+  - name: GovCERT.ch (Switzerland) - Blog
+    url: https://www.govcert.ch/blog/rss.xml
+  - name: GovCERT.ch (Switzerland) - Whitepapers
+    url: https://www.govcert.ch/whitepapers/rss.xml
+  - name: CERT-EE (Estonia/RIA) - News feed
+    url: https://www.ria.ee/et/news-feed/all/feed
+
+  # Major Vendor TI & Research Teams
+  - name: Microsoft TI
+    url: https://www.microsoft.com/en-us/security/blog/topic/threat-intelligence/feed/
+  - name: Google Cloud - Threat Intelligence
+    url: https://feeds.feedburner.com/threatintelligence/pvexyqv7v0v
+  - name: Cisco Talos Blog
+    url: https://blog.talosintelligence.com/category/threat-advisory/rss/
+  - name: CrowdStrike - Cybersecurity Blog
+    url: https://rss.app/feeds/VVqHQdoB1gXxkuF0.xml
+  - name: SentinelOne - Blog
+    url: https://www.sentinelone.com/blog/feed/
+  - name: ThreatLocker
+    url: https://www.threatlocker.com/blog/rss.xml
+  - name: Check Point Research
+    url: https://research.checkpoint.com/feed
+  - name: Sophos News (US)
+    url: https://news.sophos.com/en-us/category/threat-research/feed/
+  - name: Sophos Naked Security
+    url: https://news.sophos.com/en-us/category/serious-security/feed/
+  - name: Proofpoint - Threat Insight
+    url: https://www.proofpoint.com/us/threat-insight-blog.xml
+  - name: Red Canary - Blog
+    url: https://redcanary.com/feed/
+  - name: ReversingLabs - Blog
+    url: https://blog.reversinglabs.com/blog/rss.xml
+  - name: Malwarebytes Labs - Blog
+    url: https://blog.malwarebytes.com/feed/
+  - name: ESET - WeLiveSecurity
+    url: http://feeds.feedburner.com/eset/blog
+  - name: Kaspersky - Securelist
+    url: https://securelist.com/feed/
+  - name: Netskope Threat Labs
+    url: https://www.netskope.com/blog/category/netskope-threat-labs/feed
+  - name: Sekoia.io - Blog
+    url: https://blog.sekoia.io/feed/
+  - name: Recorded Future - Blog
+    url: https://www.recordedfuture.com/feed/
+
+  # Threat Intelligence Companies
+  - name: ReliaQuest
+    url: https://rss.app/feeds/ThNQLIMI5l8VQttP.xml
+  - name: Digital Shadows - Blog & Research
+    url: https://www.digitalshadows.com/blog-and-research/feed/
+  - name: Trend Micro
+    url: https://newsroom.trendmicro.com/news-releases?pagetemplate=rss
+  - name: EclecticIQ - Blog
+    url: https://blog.eclecticiq.com/rss.xml
+  - name: Fox-IT International Blog
+    url: https://blog.fox-it.com/feed/
+  - name: Fortinet - Threat Research
+    url: https://feeds.fortinet.com/fortinet/blog/threat-research
+  - name: Fortinet - Outbreak Alerts
+    url: https://filestore.fortinet.com/fortiguard/rss/outbreakalert.xml
+  - name: Fortinet - Threat Signal
+    url: https://filestore.fortinet.com/fortiguard/rss/threatsignal.xml
+  - name: McAfee Labs - Blog
+    url: https://www.mcafee.com/blogs/other-blogs/mcafee-labs/feed
+  - name: SensePost - Blog
+    url: https://sensepost.com/rss
+  - name: Tripwire - Blog
+    url: https://www.tripwire.com/blogs.xml
+  - name: Virus Bulletin - News
+    url: https://www.virusbulletin.com/rss
+  - name: VirusTotal - Blog
+    url: https://blog.virustotal.com/feeds/posts/default
+  - name: Webroot - Threat Blog
+    url: https://www.webroot.com/blog/feed/
+  - name: UpGuard - Blog
+    url: https://www.upguard.com/blog/rss
+  - name: Palo Alto Networks Blog
+    url: https://www.paloaltonetworks.com/blog/feed
+  - name: Palo Alto Networks - Unit 42
+    url: https://unit42.paloaltonetworks.com/feed/
+  - name: Zscaler - Research Blogs
+    url: https://www.zscaler.com/blogs/feeds
+
+  # Malware Research Companies & Labs
+  - name: F5 Labs - All topics
+    url: https://www.f5.com/labs/rss-feeds/all.xml
+  - name: Reddit Netsec
+    url: https://www.reddit.com/r/netsec/.rss
+  - name: F5 Labs - Threats
+    url: https://www.f5.com/labs/rss-feeds/threats.xml
+  - name: F5 Labs - Insights (CISO)
+    url: https://www.f5.com/labs/rss-feeds/ciso.xml
+  - name: F5 Labs - Learning Center
+    url: https://www.f5.com/labs/rss-feeds/learning.xml
+  - name: Malware.news - Forensics & Malware Analysis
+    url: https://malware.news/c/forensics.rss
+  - name: NCC Group - Research Blog
+    url: https://research.nccgroup.com/feed/
+  - name: Zero Day Initiative - Published Advisories
+    url: https://www.zerodayinitiative.com/blog/rss/
+  - name: SentinelLabs - Research
+    url: https://www.sentinelone.com/feed/
+  - name: Quarkslab - Research
+    url: https://blog.quarkslab.com/feeds/all.rss.xml
+
+  # Incident Report & Breach News Sources
+  - name: BleepingComputer - News
+    url: https://www.bleepingcomputer.com/feed/
+  - name: KrebsOnSecurity - Blog
+    url: https://krebsonsecurity.com/feed/
+  - name: DataBreaches.net - Breach Reports
+    url: https://databreaches.net/feed/
+  - name: The Hacker News - Cybersecurity News
+    url: https://feeds.feedburner.com/TheHackersNews
+  - name: Threatpost - Security News
+    url: https://threatpost.com/feed/
+  - name: Dark Reading
+    url: https://www.darkreading.com/rss.xml
+  - name: GBHackers - Threats & Attacks
+    url: https://gbhackers.com/category/threatsattacks/feed/
+  - name: The Record - News
+    url: https://therecord.media/feed/
+  - name: CyberScoop - Cybersecurity News
+    url: https://cyberscoop.com/feed/
+  - name: SecurityWeek - News
+    url: https://www.securityweek.com/feed/
+  - name: InfoSecurity Magazine - News
+    url: https://www.infosecurity-magazine.com/rss/news/
+  - name: Security Affairs - News
+    url: https://www.securityaffairs.com/feed
+  - name: HackRead - News
+    url: https://www.hackread.com/feed/
+  - name: Cybersecurity DIVE - News
+    url: https://www.cybersecuritydive.com/feeds/news/
+  - name: SC Media - Cyber News
+    url: https://www.scworld.com/feed/topic/latest
+  - name: Cyberguard
+    url: https://cybersguards.com/feed/
+  - name: ZDNet - Security News
+    url: https://www.zdnet.com/topic/security/rss.xml
+  - name: Security Boulevard - Blog
+    url: https://securityboulevard.com/feed/
+  - name: Computer Weekly - Security Analysis
+    url: https://www.techtarget.com/searchsecurity/rss/Threat-Monitor.xml
+  - name: The Register - Security Headlines
+    url: https://www.theregister.com/security/headlines.atom
+  - name: Schneier on Security
+    url: https://www.schneier.com/feed/atom/
+
+  # CVE Research & Vulnerability Discovery
+  - name: Google Project Zero - Vulnerability Research
+    url: https://googleprojectzero.blogspot.com/feeds/posts/default
+  - name: Patch Tuesday
+    url: https://patchtuesday.com/feed/
+  - name: Zero Day Initiative - Vulnerability Research
+    url: https://www.zerodayinitiative.com/rss/published/
+  - name: Zero Day Initiative - Upcoming
+    url: https://www.zerodayinitiative.com/rss/upcoming/
+  - name: Qualys - Vulnerabilities & Threat Research
+    url: https://blog.qualys.com/vulnerabilities-threat-research/feed
+  - name: Tenable - Vulnerability Research
+    url: https://www.tenable.com/blog/feed
+  - name: Rapid7 - Blog & Research
+    url: https://rss.app/feeds/rVscdhBeOYIDYCjU.xml
+  - name: Malware Traffic Analysis - Blog entries
+    url: https://www.malware-traffic-analysis.net/blog-entries.rss
+  - name: Exploit-DB - RSS Feed
+    url: https://www.exploit-db.com/rss.xml
+  - name: Exploit-DB - Google Hacking DB
+    url: https://www.exploit-db.com/rss___ghdb.xml
+  - name: CXSecurity - Exploits
+    url: https://cxsecurity.com/wlb/rss/exploit/
+  - name: RedTeam.Blue - CVE & Vulnerability Blog
+    url: https://redteam.blue/feed
+
+  # Additional Blogs, News, & Research Feeds
+  - name: 0xtoxin Blog
+    url: https://0xtoxin.github.io/feed.xml
+  - name: Alex Plaskett Blog
+    url: https://alexplaskett.github.io/feed
+  - name: Apps3c Blog
+    url: https://www.apps3c.info/feed/
+  - name: Bellingcat - Africa
+    url: https://www.bellingcat.com/category/africa/feed/
+  - name: Bellingcat - All
+    url: https://www.bellingcat.com/feed/
+  - name: Bellingcat - Americas
+    url: https://www.bellingcat.com/category/americas/feed/
+  - name: Bellingcat - News
+    url: https://www.bellingcat.com/category/news/feed
+  - name: Bellingcat - MENA
+    url: https://www.bellingcat.com/category/mena/feed/
+  - name: Bellingcat - Rest of World
+    url: https://www.bellingcat.com/category/rest-of-world/feed/
+  - name: Bellingcat - UK and Europe
+    url: https://www.bellingcat.com/category/uk-and-europe/feed/
+  - name: Bellingcat - Uncategorized
+    url: https://www.bellingcat.com/category/uncategorized/feed
+  - name: BartBlaze Blog
+    url: https://bartblaze.blogspot.com/feeds/posts/default
+  - name: BushidoToken Blog
+    url: https://blog.bushidotoken.net/feeds/posts/default
+  - name: Connor McGarr Blog
+    url: https://connormcgarr.github.io/feed
+  - name: Curated Intelligence
+    url: https://www.curatedintel.org/feeds/posts/default
+  - name: Intel Insights (Substack)
+    url: https://intelinsights.substack.com/feed
+  - name: Cyber Crime Diaries
+    url: https://www.cybercrimediaries.com/blog-feed.xml
+  - name: Darknet.org.uk - Advertorial
+    url: https://www.darknet.org.uk/category/advertorial/feed/
+  - name: Darknet.org.uk - All
+    url: http://www.darknet.org.uk/feed/
+  - name: Darknet.org.uk - Apple Hacking
+    url: https://www.darknet.org.uk/category/apple-hacking/feed/
+  - name: Darknet.org.uk - Countermeasures
+    url: https://www.darknet.org.uk/category/countermeasures/feed/
+  - name: Darknet.org.uk - Cryptography
+    url: https://www.darknet.org.uk/category/cryptography/feed/
+  - name: Darknet.org.uk - Database Hacking
+    url: https://www.darknet.org.uk/category/database-hacking/feed/
+  - name: Darknet.org.uk - Exploits and Vulnerabilities
+    url: https://www.darknet.org.uk/category/exploitsvulnerabilities/feed/
+  - name: Darknet.org.uk - Forensics
+    url: https://www.darknet.org.uk/category/forensics/feed/
+  - name: Darknet.org.uk - Hacker Culture
+    url: https://www.darknet.org.uk/category/hacker-culture/feed/
+  - name: Darknet.org.uk - Hacking News
+    url: https://www.darknet.org.uk/category/hacking-news/feed/
+  - name: Darknet.org.uk - Hacking Tools
+    url: https://www.darknet.org.uk/category/hacking-tools/feed/
+  - name: Darknet.org.uk - Hardware Hacking
+    url: https://www.darknet.org.uk/category/hardware-hacking/feed/
+  - name: Darknet.org.uk - Legal Issues
+    url: https://www.darknet.org.uk/category/legal-issues/feed/
+  - name: Darknet.org.uk - Linux Hacking
+    url: https://www.darknet.org.uk/category/linux-hacking/feed/
+  - name: Darknet.org.uk - Malware
+    url: https://www.darknet.org.uk/category/virustrojanswormsrootkits/feed/
+  - name: Darknet.org.uk - Networking Hacking
+    url: https://www.darknet.org.uk/category/networking-hacking/feed/
+  - name: Darknet.org.uk - Password Cracking
+    url: https://www.darknet.org.uk/category/password-cracking/feed/
+  - name: Darknet.org.uk - Phishing
+    url: https://www.darknet.org.uk/category/phishing/feed/
+  - name: Darknet.org.uk - Privacy
+    url: https://www.darknet.org.uk/category/privacy/feed/
+  - name: Darknet.org.uk - Security Software
+    url: https://www.darknet.org.uk/category/security-software/feed/
+  - name: Darknet.org.uk - Social Engineering
+    url: https://www.darknet.org.uk/category/social-engineering/feed/
+  - name: Darknet.org.uk - Spammers and Scammers
+    url: https://www.darknet.org.uk/category/spammers-scammers/feed/
+  - name: Darknet.org.uk - Stupid Emails
+    url: https://www.darknet.org.uk/category/stupid-emails/feed/
+  - name: Darknet.org.uk - Telecomms Hacking
+    url: https://www.darknet.org.uk/category/telecomms-hacking/feed/
+  - name: Darknet.org.uk - Unix Hacking
+    url: https://www.darknet.org.uk/category/unix-hacking/feed/
+  - name: Darknet.org.uk - Virology
+    url: https://www.darknet.org.uk/category/virology/feed/
+  - name: Darknet.org.uk - Web Hacking
+    url: https://www.darknet.org.uk/category/web-hacking/feed/
+  - name: Darknet.org.uk - Windows Hacking
+    url: https://www.darknet.org.uk/category/windows-hacking/feed/
+  - name: Darknet.org.uk - Wireless Hacking
+    url: https://www.darknet.org.uk/category/wireless-hacking/feed/
+  - name: DoublePulsar
+    url: https://doublepulsar.com/feed
+  - name: Jossef Harush (Medium)
+    url: https://medium.com/@jossef/feed
+  - name: KrebsOnSecurity - Sunshine
+    url: https://krebsonsecurity.com/category/sunshine/feed/
+  - name: KrebsOnSecurity - Skimmers
+    url: https://krebsonsecurity.com/category/all-about-skimmers/feed/
+  - name: KrebsOnSecurity - Ashley Madison Breach
+    url: https://krebsonsecurity.com/category/ashley-madison-breach/feed/
+  - name: KrebsOnSecurity - Breadcrumbs
+    url: https://krebsonsecurity.com/category/breadcrumbs/feed/
+  - name: KrebsOnSecurity - Data Breaches
+    url: https://krebsonsecurity.com/category/data-breaches/feed/
+  - name: KrebsOnSecurity - DDoS-for-Hire
+    url: https://krebsonsecurity.com/category/ddos-for-hire/feed/
+  - name: KrebsOnSecurity - Employment Fraud
+    url: https://krebsonsecurity.com/category/employment-fraud/feed/
+  - name: KrebsOnSecurity - IoT
+    url: https://krebsonsecurity.com/category/internet-of-things-iot/feed/
+  - name: KrebsOnSecurity - Latest Warnings
+    url: https://krebsonsecurity.com/category/latest-warnings/feed/
+  - name: KrebsOnSecurity - Ne'er-do-well News
+    url: https://krebsonsecurity.com/category/neer-do-well-news/feed/
+  - name: KrebsOnSecurity - Other
+    url: https://krebsonsecurity.com/category/other/feed/
+  - name: KrebsOnSecurity - Pharma Wars
+    url: https://krebsonsecurity.com/category/pharma-wars/feed/
+  - name: KrebsOnSecurity - Ransomware
+    url: https://krebsonsecurity.com/category/ransomware/feed/
+  - name: KrebsOnSecurity - Russia and Ukraine War
+    url: https://krebsonsecurity.com/category/russias-war-on-ukraine/feed/
+  - name: KrebsOnSecurity - Security Tools
+    url: https://krebsonsecurity.com/category/security-tools/feed/
+  - name: KrebsOnSecurity - SIM Swapping
+    url: https://krebsonsecurity.com/category/sim-swapping/feed/
+  - name: KrebsOnSecurity - Spam Nation
+    url: https://krebsonsecurity.com/category/spam-nation/feed/
+  - name: KrebsOnSecurity - Small Biz Victims
+    url: https://krebsonsecurity.com/category/smallbizvictims/feed/
+  - name: KrebsOnSecurity - Tax Refund Fraud
+    url: https://krebsonsecurity.com/category/tax-refund-fraud/feed/
+  - name: KrebsOnSecurity - The Coming Storm
+    url: https://krebsonsecurity.com/category/comingstorm/feed/
+  - name: KrebsOnSecurity - Patches
+    url: https://krebsonsecurity.com/category/patches/feed/
+  - name: KrebsOnSecurity - Web Fraud 2.0
+    url: https://krebsonsecurity.com/category/web-fraud-2-0/feed/
+  - name: Lohrmann on Infrastructure (GovTech)
+    url: http://feeds.feedburner.com/govtech/blogs/lohrmann_on_infrastructure
+  - name: 0x434b.dev Blog
+    url: https://0x434b.dev/rss/
+  - name: Maxwell Dulin Blog
+    url: https://maxwelldulin.invades.space/resources-rss.xml
+  - name: n1ght-w0lf Blog
+    url: https://n1ght-w0lf.github.io/feed
+  - name: nao-sec Blog
+    url: https://nao-sec.org/feed
+  - name: Outflux.net Blog
+    url: https://outflux.net/blog/feed/
+  - name: Breaches.cloud
+    url: https://www.breaches.cloud/index.xml
+  - name: Schneier on Security Blog
+    url: https://www.schneier.com/blog/atom.xml
+  - name: Sebdraven (Medium)
+    url: https://sebdraven.medium.com/feed
+  - name: Lordx64 (Medium)
+    url: https://lordx64.medium.com/feed
+  - name: The DFIR Report
+    url: https://thedfirreport.com/feed/
+  - name: Troy Hunt - All
+    url: https://www.troyhunt.com/rss/
+  - name: Troy Hunt - Scam
+    url: https://www.troyhunt.com/tag/scam/rss/
+  - name: Troy Hunt - Security
+    url: https://www.troyhunt.com/tag/security/rss/
+  - name: Will's Root
+    url: https://www.willsroot.io/feeds/posts/default
+  - name: Citizen Lab
+    url: https://citizenlab.ca/feed/
+  - name: SANS ISC - Full
+    url: https://isc.sans.edu/rssfeed_full.xml
+  - name: Reddit r/blueteamsec
+    url: https://www.reddit.com/r/blueteamsec/.rss
+  - name: Reddit r/cybersecurity
+    url: https://www.reddit.com/r/cybersecurity/.rss
+  - name: Reddit r/InfoSecNews
+    url: https://www.reddit.com/r/InfoSecNews/.rss
+  - name: CISA - All Advisories
+    url: https://www.cisa.gov/cybersecurity-advisories/all.xml
+  - name: CISA - ICS Advisories
+    url: https://www.cisa.gov/cybersecurity-advisories/ics-advisories.xml
+  - name: CISA - ICS Medical Advisories
+    url: https://www.cisa.gov/cybersecurity-advisories/ics-medical-advisories.xml
+  - name: CERT.PL (Poland) (EN)
+    url: https://cert.pl/en/atom.xml
+  - name: CERT-FR (France) - CTI
+    url: https://www.cert.ssi.gouv.fr/cti/feed/
+  - name: Canadian Centre for Cyber Security - Alerts and Advisories
+    url: https://www.cyber.gc.ca/api/cccs/rss/v1/get?feed=alerts_advisories&lang=en
+  - name: NCSC (UK) - All
+    url: https://www.ncsc.gov.uk/api/1/services/v1/all-rss-feed.xml
+  - name: NCSC (UK) - News
+    url: https://www.ncsc.gov.uk/api/1/services/v1/news-rss-feed.xml
+  - name: NCSC (UK) - Reports
+    url: https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml
+  - name: US-CERT CISA - Alerts
+    url: https://us-cert.cisa.gov/ncas/alerts.xml
+  - name: US-CERT CISA - Analysis Reports
+    url: https://us-cert.cisa.gov/ncas/analysis-reports.xml
+  - name: US-CERT CISA - Current Activity
+    url: https://us-cert.cisa.gov/ncas/current-activity.xml
+  - name: Ars Technica - Security
+    url: https://arstechnica.com/tag/security/feed/
+  - name: CIO - Security
+    url: https://www.cio.com/security/feed/
+  - name: Cybersecurity News - All
+    url: https://cybersecuritynews.com/feed/
+  - name: Cybersecurity News - AI
+    url: https://cybersecuritynews.com/category/cyber-ai/feed/
+  - name: Cybersecurity News - Cyber Attack
+    url: https://cybersecuritynews.com/category/cyber-attack/feed/
+  - name: Cybersecurity News - Data Breaches
+    url: https://cybersecuritynews.com/category/data-breaches/feed/
+  - name: Cybersecurity News - Threats
+    url: https://cybersecuritynews.com/category/threats/feed/
+  - name: Cybersecurity News - Vulnerability
+    url: https://cybersecuritynews.com/category/vulnerability/feed/
+  - name: Cybersecurity News - Zero Day
+    url: https://cybersecuritynews.com/category/zero-day/feed/
+  - name: CyberScoop - Cybercrime
+    url: https://cyberscoop.com/news/threats/cybercrime/feed
+  - name: CyberScoop - Research
+    url: https://cyberscoop.com/news/research/feed/
+  - name: CyberScoop - Threats
+    url: https://cyberscoop.com/news/threats/feed/
+  - name: GBHackers - All
+    url: https://gbhackers.com/feed/
+  - name: GBHackers - Data Breach
+    url: https://gbhackers.com/category/data-breach/feed/
+  - name: GBHackers - Vulnerability (Android)
+    url: https://gbhackers.com/category/vulnerability-android-2/feed/
+  - name: GovInfoSecurity
+    url: https://www.govinfosecurity.com/rss-feeds
+  - name: Graham Cluley - All
+    url: https://www.grahamcluley.com/feed/
+  - name: Graham Cluley - Data Loss
+    url: https://grahamcluley.com/category/data-loss/feed/
+  - name: Graham Cluley - Law and Order
+    url: https://grahamcluley.com/category/law-order/feed
+  - name: Graham Cluley - Malware
+    url: https://grahamcluley.com/category/security-threats/malware/feed/
+  - name: Graham Cluley - Mobile
+    url: https://grahamcluley.com/category/mobile/feed/
+  - name: Graham Cluley - Privacy
+    url: https://grahamcluley.com/category/privacy/feed/
+  - name: Graham Cluley - Ransomware
+    url: https://grahamcluley.com/category/security-threats/ransomware-malware/feed/
+  - name: Graham Cluley - Spam
+    url: https://grahamcluley.com/category/spam/feed/
+  - name: Hacker Combat - All
+    url: https://www.hackercombat.com/feed/
+  - name: Hacker Combat - Hacks
+    url: https://www.hackercombat.com/category/hacks/feed/
+  - name: Hacker Combat - Malware Attacks
+    url: https://www.hackercombat.com/category/malware-attacks/feed/
+  - name: Hacker Combat - Ransomware
+    url: https://www.hackercombat.com/category/ransomware/feed/
+  - name: Hackmageddon
+    url: https://www.hackmageddon.com/feed/
+  - name: HackRead - Anonymous
+    url: https://www.hackread.com/hacking-news/anonymous/feed/
+  - name: HackRead - AI
+    url: https://www.hackread.com/artificial-intelligence/feed/
+  - name: HackRead - Blockchain
+    url: https://www.hackread.com/blockchain/feed/
+  - name: HackRead - Censorship
+    url: https://www.hackread.com/cyber-events/censorship/feed/
+  - name: HackRead - Cryptocurrency
+    url: https://www.hackread.com/cryptocurrency/feed/
+  - name: HackRead - Cyber Attacks
+    url: https://www.hackread.com/cyber-events/cyber-attacks-cyber-events/feed/
+  - name: HackRead - Cyber Crime
+    url: https://www.hackread.com/latest-cyber-crime/feed/
+  - name: HackRead - Drones
+    url: https://www.hackread.com/surveillance/drones/feed/
+  - name: HackRead - Hacking News
+    url: https://www.hackread.com/hacking-news/feed/
+  - name: HackRead - Leaks
+    url: https://www.hackread.com/hacking-news/leaks-affairs/feed/
+  - name: HackRead - Machine Learning
+    url: https://www.hackread.com/artificial-intelligence/machine-learning/feed/
+  - name: HackRead - Malware
+    url: https://www.hackread.com/security/malware/feed/
+  - name: HackRead - NSA
+    url: https://www.hackread.com/surveillance/nsa/feed/
+  - name: HackRead - Phishing and Scam
+    url: https://www.hackread.com/latest-cyber-crime/phishing-scam/feed/
+  - name: HackRead - Privacy
+    url: https://www.hackread.com/surveillance/privacy/feed/
+  - name: HackRead - Scams and Fraud
+    url: https://www.hackread.com/latest-cyber-crime/scams-and-fraud/feed/
+  - name: HackRead - Security
+    url: https://www.hackread.com/security/feed/
+  - name: HackRead - Surveillance
+    url: https://www.hackread.com/surveillance/feed/
+  - name: HackRead - WikiLeaks
+    url: https://www.hackread.com/hacking-news/wikileaks-affairs/feed/
+  - name: InfoSecurity Mag - Application Security
+    url: https://www.infosecurity-magazine.com/rss/application-security/
+  - name: InfoSecurity Mag - Automation
+    url: https://www.infosecurity-magazine.com/rss/automation/
+  - name: InfoSecurity Mag - Big Data
+    url: https://www.infosecurity-magazine.com/rss/big-data/
+  - name: InfoSecurity Mag - Business Continuity
+    url: https://www.infosecurity-magazine.com/rss/business-continuity/
+  - name: InfoSecurity Mag - Cloud Security
+    url: https://www.infosecurity-magazine.com/rss/cloud-security/
+  - name: InfoSecurity Mag - Compliance
+    url: https://www.infosecurity-magazine.com/rss/compliance/
+  - name: InfoSecurity Mag - Cybercrime
+    url: https://www.infosecurity-magazine.com/rss/cybercrime/
+  - name: InfoSecurity Mag - Data Protection
+    url: https://www.infosecurity-magazine.com/rss/data-protection/
+  - name: InfoSecurity Mag - Digital Forensics
+    url: https://www.infosecurity-magazine.com/rss/digital-forensics/
+  - name: InfoSecurity Mag - Encryption
+    url: https://www.infosecurity-magazine.com/rss/encryption/
+  - name: InfoSecurity Mag - Human Factor
+    url: https://www.infosecurity-magazine.com/rss/human-factor/
+  - name: InfoSecurity Mag - IAM
+    url: https://www.infosecurity-magazine.com/rss/identity-access-management/
+  - name: InfoSecurity Mag - Industry Announcements
+    url: https://www.infosecurity-magazine.com/rss/industry-announcements/
+  - name: InfoSecurity Mag - Internet Security
+    url: https://www.infosecurity-magazine.com/rss/internet-security/
+  - name: InfoSecurity Mag - Malware
+    url: https://www.infosecurity-magazine.com/rss/malware/
+  - name: InfoSecurity Mag - Managed Services
+    url: https://www.infosecurity-magazine.com/rss/managed-services/
+  - name: InfoSecurity Mag - Mobile Security
+    url: https://www.infosecurity-magazine.com/rss/mobile-security/
+  - name: InfoSecurity Mag - Network Security
+    url: https://www.infosecurity-magazine.com/rss/network-security/
+  - name: InfoSecurity Mag - Payment Security
+    url: https://www.infosecurity-magazine.com/rss/payment-security/
+  - name: InfoSecurity Mag - Physical and Information Security Convergence
+    url: https://www.infosecurity-magazine.com/rss/physical-and-information-security-convergence/
+  - name: InfoSecurity Mag - Privacy
+    url: https://www.infosecurity-magazine.com/rss/privacy/
+  - name: InfoSecurity Mag - Risk Management
+    url: https://www.infosecurity-magazine.com/rss/risk-management/
+  - name: InfoSecurity Mag - IoT
+    url: https://www.infosecurity-magazine.com/rss/the-internet-of-things/
+  - name: Nextgov - Cybersecurity
+    url: https://www.nextgov.com/rss/cybersecurity/
+  - name: Security Affairs (dot co) - All
+    url: https://securityaffairs.co/feed
+  - name: Security Affairs - APT
+    url: https://securityaffairs.com/category/apt/feed
+  - name: Security Affairs - Cyber Crime
+    url: https://securityaffairs.com/category/cyber-crime/feed
+  - name: Security Affairs - Cyber Warfare
+    url: https://securityaffairs.com/category/cyber-warfare-2/feed
+  - name: Security Affairs - Data Breach
+    url: https://securityaffairs.com/category/data-breach/feed
+  - name: Security Affairs - Deep Web
+    url: https://securityaffairs.com/category/deep-web/feed
+  - name: Security Affairs - Digital ID
+    url: https://securityaffairs.com/category/digital-id/feed
+  - name: Security Affairs - Hacking
+    url: https://securityaffairs.com/category/hacking/feed
+  - name: Security Affairs - Hacktivism
+    url: https://securityaffairs.com/category/hacktivism/feed
+  - name: Security Affairs - ICS and SCADA
+    url: https://securityaffairs.com/category/ics-scada/feed
+  - name: Security Affairs - Intelligence
+    url: https://securityaffairs.com/category/intelligence/feed
+  - name: Security Affairs - IoT
+    url: https://securityaffairs.com/category/iot/feed
+  - name: Security Affairs - Laws and Regulations
+    url: https://securityaffairs.com/category/laws-and-regulations/feed
+  - name: Security Affairs - Malware
+    url: https://securityaffairs.com/category/malware/feed
+  - name: Security Affairs - Mobile
+    url: https://securityaffairs.com/category/mobile-2/feed
+  - name: Security Affairs - Reports
+    url: https://securityaffairs.com/category/reports/feed
+  - name: Security Affairs - Security
+    url: https://securityaffairs.com/category/security/feed
+  - name: Security Affairs - Social Networks
+    url: https://securityaffairs.com/category/social-networks/feed
+  - name: Security Affairs - Terrorism
+    url: https://securityaffairs.com/category/terrorism/feed
+  - name: SecurityOnline - All
+    url: https://securityonline.info/feed/
+  - name: SecurityOnline - Cybersecurity
+    url: https://securityonline.info/category/news/cybersecurity/feed/
+  - name: SecurityOnline - Data Leak
+    url: https://securityonline.info/category/news/dataleak/feed/
+  - name: SecurityOnline - Exploitation
+    url: https://securityonline.info/category/penetration-testing/network-pentest/exploitation/feed/
+  - name: SecurityOnline - Forensics
+    url: https://securityonline.info/category/forensics/feed/
+  - name: SecurityOnline - Information Gathering
+    url: https://securityonline.info/category/penetration-testing/network-pentest/information-gathering/feed/
+  - name: SecurityOnline - Maintaining Access
+    url: https://securityonline.info/category/penetration-testing/network-pentest/maintaining-access/feed/
+  - name: SecurityOnline - Malware Analysis
+    url: https://securityonline.info/category/malware-analysis/feed/
+  - name: SecurityOnline - Malware News
+    url: https://securityonline.info/category/news/malware/feed/
+  - name: SecurityOnline - Metasploit
+    url: https://securityonline.info/category/penetration-testing/metasploit/feed/
+  - name: SecurityOnline - Network Pentest
+    url: https://securityonline.info/category/penetration-testing/network-pentest/feed/
+  - name: SecurityOnline - Password Attacks
+    url: https://securityonline.info/category/penetration-testing/network-pentest/password-attacks/feed/
+  - name: SecurityOnline - Post-Exploitation
+    url: https://securityonline.info/category/penetration-testing/network-pentest/post-exploitation/feed/
+  - name: SecurityOnline - Reporting
+    url: https://securityonline.info/category/penetration-testing/webapp-pentest/reporting/feed/
+  - name: SecurityOnline - Reverse Engineering
+    url: https://securityonline.info/category/reverse-engineering/feed/
+  - name: SecurityOnline - Smartphone Pentest
+    url: https://securityonline.info/category/penetration-testing/network-pentest/smartphone-pentest/feed/
+  - name: SecurityOnline - Sniffing and Spoofing
+    url: https://securityonline.info/category/penetration-testing/network-pentest/sniffing-spoofing/feed/
+  - name: SecurityOnline - Vulnerability News
+    url: https://securityonline.info/category/news/vulnerability/feed/
+  - name: SecurityOnline - Vulnerability Analysis
+    url: https://securityonline.info/category/penetration-testing/network-pentest/vulnerability-analysis/feed/
+  - name: SecurityOnline - Web Exploitation
+    url: https://securityonline.info/category/penetration-testing/webapp-pentest/web-exploitation/feed/
+  - name: SecurityOnline - Web Information Gathering
+    url: https://securityonline.info/category/penetration-testing/webapp-pentest/web-information-gathering/feed/
+  - name: SecurityOnline - Web Maintaining Access
+    url: https://securityonline.info/category/penetration-testing/webapp-pentest/web-maintaining-access/feed/
+  - name: SecurityOnline - Webapp Pentest
+    url: https://securityonline.info/category/penetration-testing/webapp-pentest/feed/
+  - name: SecurityOnline - Web Vulnerability Analysis
+    url: https://securityonline.info/category/penetration-testing/webapp-pentest/web-vulnerability-analysis/feed/
+  - name: SecurityOnline - Wireless
+    url: https://securityonline.info/category/penetration-testing/network-pentest/wireless/feed/
+  - name: SecurityWeek - Application Security
+    url: https://www.securityweek.com/category/application-security/feed/
+  - name: SecurityWeek - Cloud Security
+    url: https://www.securityweek.com/category/cloud-security/feed/
+  - name: SecurityWeek - Cyber Insurance
+    url: https://www.securityweek.com/category/cyber-insurance/feed/
+  - name: SecurityWeek - Cybercrime
+    url: https://www.securityweek.com/category/cybercrime/feed/
+  - name: SecurityWeek - Cyberwarfare
+    url: https://www.securityweek.com/category/cyberwarfare/feed/
+  - name: SecurityWeek - Data Breaches
+    url: https://www.securityweek.com/category/data-breaches/feed/
+  - name: SecurityWeek - Data Protection
+    url: https://www.securityweek.com/category/data-protection/feed/
+  - name: SecurityWeek - Endpoint Security
+    url: https://www.securityweek.com/category/endpoint-security/feed/
+  - name: SecurityWeek - Fraud and Identity Theft
+    url: https://www.securityweek.com/category/fraud-identity-theft/feed/
+  - name: SecurityWeek - ICS and OT
+    url: https://www.securityweek.com/category/ics-ot/feed/
+  - name: SecurityWeek - Identity and Access
+    url: https://www.securityweek.com/category/identity-access/feed/
+  - name: SecurityWeek - Incident Response
+    url: https://www.securityweek.com/category/incident-response/feed/
+  - name: SecurityWeek - IoT Security
+    url: https://www.securityweek.com/category/iot-security/feed/
+  - name: SecurityWeek - Malware and Cyber Threats
+    url: https://www.securityweek.com/category/malware-cyber-threats/feed/
+  - name: SecurityWeek - Mobile and Wireless
+    url: https://www.securityweek.com/category/mobile-wireless/feed/
+  - name: SecurityWeek - Nation State
+    url: https://www.securityweek.com/category/nation-state/feed/
+  - name: SecurityWeek - Network Security
+    url: https://www.securityweek.com/category/network-security/feed/
+  - name: SecurityWeek - Privacy and Compliance
+    url: https://www.securityweek.com/category/privacy-compliance/feed/
+  - name: SecurityWeek - Ransomware
+    url: https://www.securityweek.com/category/ransomware/feed/
+  - name: SecurityWeek - Risk Management
+    url: https://www.securityweek.com/category/risk-management/feed/
+  - name: SecurityWeek - Supply Chain Security
+    url: https://www.securityweek.com/category/supply-chain-security/feed/
+  - name: SecurityWeek - Threat Intelligence
+    url: https://www.securityweek.com/category/threat-intelligence/feed/
+  - name: SecurityWeek - Tracking and Law Enforcement
+    url: https://www.securityweek.com/category/tracking-law-enforcement/feed/
+  - name: SecurityWeek - Vulnerabilities
+    url: https://www.securityweek.com/category/vulnerabilities/feed/
+  - name: TechCrunch - Security
+    url: https://techcrunch.com/category/security/feed/
+  - name: TechRepublic - Security
+    url: http://www.techrepublic.com/rssfeeds/topic/security/?feedType=rssfeeds
+  - name: The Cyber Express - All
+    url: https://thecyberexpress.com/firewall-daily/feed/
+  - name: The Cyber Express - Dark Web News
+    url: https://thecyberexpress.com/firewall-daily/dark-web-news/feed/
+  - name: The Cyber Express - Data Breaches
+    url: https://thecyberexpress.com/firewall-daily/data-breaches-news/feed/
+  - name: The Cyber Express - Hacker News
+    url: https://thecyberexpress.com/firewall-daily/hacker-news/feed/
+  - name: The Cyber Express - Ransomware News
+    url: https://thecyberexpress.com/firewall-daily/ransomware-news/feed/
+  - name: The Cyber Express - Vulnerabilities
+    url: https://thecyberexpress.com/firewall-daily/vulnerabilities/feed/
+  - name: The CyberWire
+    url: https://thecyberwire.com/feeds/rss.xml
+  - name: The Guardian - Security
+    url: https://www.theguardian.com/technology/data-computer-security/rss
+  - name: The Security Ledger
+    url: https://feeds.feedblitz.com/thesecurityledger&x=1
+  - name: Threatpost - Malware
+    url: https://threatpost.com/category/malware-2/feed/
+  - name: Threatpost - Vulnerabilities
+    url: https://threatpost.com/category/vulnerabilities/feed/
+  - name: Vice - Tech
+    url: https://www.vice.com/en_us/rss/section/tech
+  - name: Wired - Security
+    url: https://www.wired.com/feed/category/security/latest/rss
+  - name: 360 CERT
+    url: https://cert.360.cn/feed
+  - name: AhnLab ASEC - All (EN)
+    url: https://asec.ahnlab.com/en/feed/
+  - name: AhnLab ASEC - Detection (EN)
+    url: https://asec.ahnlab.com/en/category/detection-en/feed/
+  - name: AhnLab ASEC - Malware Info (EN)
+    url: https://asec.ahnlab.com/en/category/malware-information-en/feed/
+  - name: Analyst1 - Blog
+    url: https://analyst1.com/category/blog/feed/
+  - name: ANY.RUN Blog - History
+    url: https://any.run/cybersecurity-blog/category/history/feed/
+  - name: ANY.RUN Blog - Malware Analysis
+    url: https://any.run/cybersecurity-blog/category/malware-analysis/feed/
+  - name: AT&T Cybersecurity Blog
+    url: https://cybersecurity.att.com/site/blog-all-rss
+  - name: Binary Defense - Threat Intelligence
+    url: https://www.binarydefense.com/resources/tag/threat-intelligence/feed/
+  - name: Binary Defense - Threat Research
+    url: https://www.binarydefense.com/resources/tag/threat-research/feed/
+  - name: Binary Defense - Threat Hunting
+    url: https://www.binarydefense.com/resources/tag/threat-hunting/feed/
+  - name: Binary Defense - All
+    url: https://www.binarydefense.com/feed/
+  - name: Bitdefender Labs
+    url: https://www.bitdefender.com/blog/api/rss/labs/
+  - name: Black Hills InfoSec - Blue Team
+    url: https://www.blackhillsinfosec.com/category/blue-team/feed/
+  - name: Brandefense Blog
+    url: https://brandefense.io/blog/rss/
+  - name: Broadcom (Symantec) Blog
+    url: https://sed-cms.broadcom.com/rss/v1/blogs/rss.xml
+  - name: Cado Security
+    url: https://www.cadosecurity.com/feed/
+  - name: CIS Advisories
+    url: https://www.cisecurity.org/feed/advisories
+  - name: Checkmarx Security (Medium)
+    url: https://medium.com/feed/checkmarx-security
+  - name: Cisco Talos (Feedburner)
+    url: http://feeds.feedburner.com/feedburner/Talos
+  - name: Cisco Umbrella Blog
+    url: https://umbrella.cisco.com/feed
+  - name: Cloudflare Blog - Security
+    url: https://blog.cloudflare.com/tag/security/rss
+  - name: Cofense - Lab Notes
+    url: https://cofense.com/blog/category/lab-notes/feed/
+  - name: Cofense - Phishing Insights
+    url: https://cofense.com/blog/category/phishing-email-insights/feed/
+  - name: Cofense - Threat Intelligence
+    url: https://cofense.com/blog/category/threat-intelligence-insights/feed/
+  - name: CrowdStrike - TI Research
+    url: https://www.crowdstrike.com/blog/category/threat-intel-research/feed
+  - name: Cybereason Blog
+    url: https://www.cybereason.com/blog/rss.xml
+  - name: Cyble Blog
+    url: https://cyble.com/blog/feed/
+  - name: Datadog Security Labs
+    url: https://securitylabs.datadoghq.com/rss/feed.xml
+  - name: Secureworks - Research and Intelligence
+    url: https://www.secureworks.com/rss?feed=blog&category=research-intelligence
+  - name: Dr.Web - News (Mobile)
+    url: https://news.drweb.com/rss/get/?c=38
+  - name: Dr.Web - News (Reviews)
+    url: https://news.drweb.com/rss/get/?c=23
+  - name: Dr.Web - News (Viruses)
+    url: https://news.drweb.com/rss/get/?c=10
+  - name: DomainTools Blog
+    url: https://www.domaintools.com/resources/blog/feed/
+  - name: eCrime.ch Intel News
+    url: https://ecrime.ch/app/intel-news.php?rss
+  - name: FalconForce (Medium)
+    url: https://medium.com/feed/falconforce
+  - name: Fidelis Security Blog
+    url: https://fidelissecurity.com/feed/
+  - name: Fox-IT Blog
+    url: https://blog.fox-it.com/feed/
+  - name: GitHub Security Lab
+    url: https://github.blog/tag/github-security-lab/feed/
+  - name: Google Online Security Blog
+    url: http://feeds.feedburner.com/GoogleOnlineSecurityBlog
+  - name: Google Threat Analysis Group (TAG)
+    url: https://blog.google/threat-analysis-group/rss/
+  - name: GreyNoise Grimoire
+    url: https://www.labs.greynoise.io/grimoire/index.xml
+  - name: Group-IB Blog
+    url: https://blog.group-ib.com/rss.xml
+  - name: HackerOne Blog
+    url: https://www.hackerone.com/blog.rss
+  - name: Have I Been Pwned Breaches
+    url: https://feeds.feedburner.com/HaveIBeenPwnedLatestBreaches
+  - name: Heimdal Security - Threat Center
+    url: https://heimdalsecurity.com/blog/category/threat-center/feed/
+  - name: Heimdal Security - Vulnerability
+    url: https://heimdalsecurity.com/blog/category/vulnerability/feed/
+  - name: Huntress Blog
+    url: https://www.huntress.com/blog/rss.xml
+  - name: IBM Security Intelligence
+    url: https://securityintelligence.com/feed/
+  - name: Infoblox - Cyber Threat Intelligence
+    url: https://blogs.infoblox.com/category/cyber-threat-intelligence/feed/
+  - name: Infostealers - All
+    url: https://www.infostealers.com/feed/
+  - name: Infostealers - Malware
+    url: https://www.infostealers.com/topic/malware/feed/
+  - name: Infostealers - Infostealers
+    url: https://www.infostealers.com/topic/infostealers/feed/
+  - name: Intezer - Research
+    url: https://intezer.com/blog/research/feed/
+  - name: KnowBe4 - Ransomware
+    url: https://blog.knowbe4.com/topic/ransomware/rss.xml
+  - name: KnowBe4 - All
+    url: https://blog.knowbe4.com/rss.xml
+  - name: Lab52 Blog
+    url: https://lab52.io/blog/feed/
+  - name: Mandiant Blog
+    url: https://www.mandiant.com/resources/blog/rss.xml
+  - name: Microsoft Security Blog
+    url: https://www.microsoft.com/security/blog/feed/
+  - name: Microsoft MSRC
+    url: https://msrc-blog.microsoft.com/feed/report/list/?feed_uuid=3d89d939-f28f-459d-8313-6268c9955fc7
+  - name: Morphisec Blog
+    url: https://blog.morphisec.com/rss.xml
+  - name: Naked Security (Sophos)
+    url: https://nakedsecurity.sophos.com/feed/
+  - name: Nextron Systems Blog
+    url: https://www.nextron-systems.com/feed/
+  - name: Outpost24 - Research and Threat Intel
+    url: https://outpost24.com/blog/category/research-and-threat-intel/feed/
+  - name: Palo Alto Unit 42 (Feedburner)
+    url: http://feeds.feedburner.com/Unit42
+  - name: Proofpoint - All
+    url: https://www.proofpoint.com/us/rss.xml
+  - name: Pulsedive Blog
+    url: https://blog.pulsedive.com/rss/
+  - name: Quick Heal - Threat Research
+    url: https://blogs.quickheal.com/author/threat-research-labs/feed/
+  - name: ReliaQuest - Threat Hunting
+    url: https://www.reliaquest.com/blog/category/threat-hunting/feed/
+  - name: ReliaQuest - Threat Intelligence
+    url: https://www.reliaquest.com/blog/category/threat-intelligence/feed/
+  - name: ReversingLabs - Threat Research
+    url: https://www.reversinglabs.com/blog/tag/threat-research/rss.xml
+  - name: RST Cloud (Medium)
+    url: https://medium.com/@rst_cloud/feed
+  - name: Security Lit (Medium)
+    url: https://securitylit.medium.com/feed
+  - name: Sekoia.io - Research and Threat Intelligence
+    url: https://blog.sekoia.io/category/research-threat-intelligence/feed/
+  - name: SensePost Blog
+    url: https://sensepost.com/rss.xml
+  - name: SentinelLabs
+    url: https://www.sentinelone.com/labs/feed/
+  - name: Seqrite Blog
+    url: https://www.seqrite.com/blog/feed/
+  - name: SlashNext Blog
+    url: https://slashnext.com/feed/
+  - name: SOC Prime Blog
+    url: https://socprime.com/blog/feed/
+  - name: SpecterOps Blog
+    url: https://posts.specterops.io/feed
+  - name: Team Cymru Blog
+    url: https://www.team-cymru.com/blog-feed.xml
+  - name: The Record - Cybercrime
+    url: https://therecord.media/news/cybercrime/feed/
+  - name: The Record - Elections
+    url: https://therecord.media/news/elections/feed/
+  - name: The Record - Leadership
+    url: https://therecord.media/news/leadership/feed/
+  - name: The Record - Nation State
+    url: https://therecord.media/news/nation-state/feed/
+  - name: The Record - Technology
+    url: https://therecord.media/news/technology/feed/
+  - name: ThreatMon Blog
+    url: https://threatmon.io/blog/feed/
+  - name: TrustedSec Blog
+    url: https://trustedsec.com/feed.rss
+  - name: Trustwave SpiderLabs
+    url: https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/rss.xml
+  - name: UpGuard - Breaches
+    url: https://www.upguard.com/breaches/rss.xml
+  - name: UpGuard - News
+    url: https://www.upguard.com/news/rss.xml
+  - name: Volexity Blog
+    url: https://www.volexity.com/blog/feed/
+  - name: ESET WeLiveSecurity (EN)
+    url: https://www.welivesecurity.com/en/rss/feed/
+  - name: Wiz Blog - All
+    url: https://www.wiz.io/feed/rss.xml
+  - name: Wiz Blog - Cloud Threat Landscape
+    url: https://www.wiz.io/api/feed/cloud-threat-landscape/rss.xml
+  - name: Zimperium Blog - All
+    url: https://www.zimperium.com/blog/feed/
+  - name: Zimperium Blog - Threat Research
+    url: https://www.zimperium.com/blog-category/threat-research/feed/
