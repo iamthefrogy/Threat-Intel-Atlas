@@ -1,6 +1,6 @@
 <p align="center">
   <strong style="font-size:1.9rem;">Threat Intel Atlas · Daily Signal Briefing</strong><br />
-  <span style="font-size:1rem;color:#6ecff6;">Compiled from 168 intelligence sources · refreshed 2025-11-11 11:44 UTC</span>
+  <span style="font-size:1rem;color:#6ecff6;">Compiled from 168 intelligence sources · refreshed 2025-11-11 12:02 UTC</span>
 </p>
 
 ---
@@ -10,8 +10,8 @@
 | Metric | Value |
 | --- | --- |
 | Total signals retained | 1000 |
-| Signals detected in the last 24h | 48 |
-| Signals surfaced in this report | 48 |
+| Signals detected in the last 24h | 46 |
+| Signals surfaced in this report | 46 |
 
 ---
 
@@ -19,6 +19,7 @@
 
 | Title | Source | Tags | Published (UTC) |
 | --- | --- | --- | --- |
+| [Fake NPM Package With 206K Downloads Targeted GitHub for Credentials](https://hackread.com/fake-npm-package-downloads-github-credentials/) | HackRead | ai, identity, supply_chain | 2025-11-11 11:45 |
 | [Cisco Finds Open-Weight AI Models Easy to Exploit in Long Chats](https://hackread.com/cisco-open-weight-ai-models-long-chat-exploit/) | HackRead | ai, vulnerabilities | 2025-11-11 10:35 |
 | [CISA Adds Zero-Day Bug Used in Spyware Attacks to KEV](https://www.infosecurity-magazine.com/news/cisa-zeroday-bugspyware-attacks-kev/) | InfoSecurity Magazine News | vulnerabilities | 2025-11-11 10:30 |
 | [Quantum Route Redirect Phishing Kit Democratizes Cyber-Attacks](https://www.infosecurity-magazine.com/news/quantum-route-redirect-phishing/) | InfoSecurity Magazine News | ai, incident_response, phishing | 2025-11-11 09:45 |
@@ -58,26 +59,26 @@
 | [Incident Response Team (ShieldForce) Partners with AccuKnox for Zero Trust CNAPP in Latin America](https://hackread.com/incident-response-team-shieldforce-partners-with-accuknox-for-zero-trust-cnapp-in-latin-america/) | HackRead | incident_response | 2025-11-10 14:00 |
 | [Yanluowang ransomware IAB pleads guilty](https://databreaches.net/2025/11/10/yanluowang-ransomware-iab-pleads-guilty/?pk_campaign=feed&pk_kwd=yanluowang-ransomware-iab-pleads-guilty) | DataBreaches.net (Notices) | ai, apt, data_breach, iot, malware | 2025-11-10 13:40 |
 | [Lawsuit Alleges Ex-Intel Employee Hid 18,000 Sensitive Documents Prior to Leaving the Company](https://databreaches.net/2025/11/10/lawsuit-alleges-ex-intel-employee-hid-18000-sensitive-documents-prior-to-leaving-the-company/?pk_campaign=feed&pk_kwd=lawsuit-alleges-ex-intel-employee-hid-18000-sensitive-documents-prior-to-leaving-the-company) | DataBreaches.net (Notices) | ai, apt, cloud, data_breach, incident_response, iot, policy | 2025-11-10 13:29 |
-| [HIPAA, but for non-Covered Entities?](https://databreaches.net/2025/11/10/hipaa-but-for-non-covered-entities/?pk_campaign=feed&pk_kwd=hipaa-but-for-non-covered-entities) | DataBreaches.net (Notices) | ai, apt, data_breach, incident_response, iot | 2025-11-10 13:29 |
 
 ---
 
 <details>
 <summary><strong>Feeds that returned errors this run</strong></summary>
 
+- Upstream Auto Blog — 403, message='Forbidden', url=URL('https://upstream.auto/feed')
 - Karamba Security Blog — 404, message='Not Found', url=URL('https://karambasecurity.com/feed')
 - Digital Shadows — 404, message='Not Found', url=URL('https://reliaquest.com/blog/rss/')
 - ESET WeLiveSecurity — 404, message='Not Found', url=URL('https://www.welivesecurity.com/rss-feed/')
 - Mandiant/FireEye — 404, message='Not Found', url=URL('https://www.mandiant.com/resources/blog/feed')
-- McAfee (Trellix) — [Errno 60] Operation timed out
+- Fortinet Threat Research — 404, message='Not Found', url=URL('https://www.fortinet.com/blog/threat-research/feed')
 - Quarkslab — 404, message='Not Found', url=URL('https://blog.quarkslab.com/rss.xml')
 - Dell SecureWorks — 404, message='Not Found', url=URL('https://www.secureworks.com/rss-feeds')
 - SensePost — 404, message='Not Found', url=URL('https://sensepost.com/blog/feed')
-- SpecterOps — Cannot connect to host posts.specterops.io:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)')]
+- SpecterOps — Cannot connect to host posts.specterops.io:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1016)')]
 - Trend Micro Research — 404, message='Not Found', url=URL('https://www.trendmicro.com/en_us/research/rss.html')
 - PhishLabs Blog — 404, message='Not Found', url=URL('https://www.phishlabs.com/blog/feed/')
 - Webroot — 500, message='Internal Server Error', url=URL('https://www.webroot.com/blog/feed')
-- Dark Reading — 404, message='Not Found', url=URL('https://www.darkreading.com/rss/all.xml')
+- Dark Reading — 403, message='Forbidden', url=URL('http://www.darkreading.com/rss/all.xml')
 - Ars Technica Security — 404, message='Not Found', url=URL('http://feeds.arstechnica.com/arstechnica/security')
 - Abuse.ch Feodo Tracker — 404, message='Not Found', url=URL('https://feodotracker.abuse.ch/feeds/rss.xml')
 - Abuse.ch URLhaus — 404, message='Not Found', url=URL('https://urlhaus.abuse.ch/feeds/rss/')
@@ -87,7 +88,7 @@
 - SANS DShield Daily — 404, message='Not Found', url=URL('https://isc.sans.edu/feeds.html')
 - Hunt.io C2 Feed — 404, message='Not Found', url=URL('https://hunt.io/c2-feed/rss')
 - Maltrail Botnet Feed — 404, message='Not Found', url=URL('https://maltrail.github.io/feed.xml')
-- BadIPs — Cannot connect to host www.badips.com:443 ssl:default [nodename nor servname provided, or not known]
+- BadIPs — Cannot connect to host www.badips.com:443 ssl:default [Name or service not known]
 - Domaineyes Sinkhole Feed — Server disconnected
 - ThreatMiner C2 Feed — 404, message='Not Found', url=URL('https://www.threatminer.org/rss.php?type=C2')
 - Hunt.io IOC Hunter — 404, message='Not Found', url=URL('https://hunt.io/ioc-feed/rss')
@@ -97,15 +98,16 @@
 - ThreatNix Phishing — 404, message='Not Found', url=URL('https://threatnix.io/feed/')
 - URLScan.io Malicious — 404, message='Not Found', url=URL('https://urlscan.io/feed/malicious/')
 - Netcraft Phishing — 404, message='Not Found', url=URL('https://www.netcraft.com/rss/phishing.xml')
-- VX-Underground Blog — Cannot connect to host blog.vx-underground.org:443 ssl:default [nodename nor servname provided, or not known]
+- VX-Underground Blog — Cannot connect to host blog.vx-underground.org:443 ssl:default [Name or service not known]
+- Dark Reading Breaches — 403, message='Forbidden', url=URL('https://www.darkreading.com/vulnerabilities-threats/rss')
 - CISA Victim Notifications — 404, message='Not Found', url=URL('https://www.cisa.gov/sites/default/files/rss/vulnfeeds.xml')
-- COVERT Breach Forum — Cannot connect to host covert.io:443 ssl:True [SSLCertVerificationError: (1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'covert.io'. (_ssl.c:1032)")]
+- COVERT Breach Forum — Cannot connect to host covert.io:443 ssl:True [SSLCertVerificationError: (1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'covert.io'. (_ssl.c:1016)")]
 - LeakIX — 404, message='Not Found', url=URL('https://leakix.net/rss')
-- PrivacyWeek — Cannot connect to host privacyweeknews.com:443 ssl:default [nodename nor servname provided, or not known]
+- PrivacyWeek — Cannot connect to host privacyweeknews.com:443 ssl:default [Name or service not known]
 - DailyDarkWeb — 404, message='Not Found', url=URL('https://www.dailydarkweb.com/rss')
-- CyberNews — 404, message='Not Found', url=URL('https://cybernews.com/feed/')
+- CyberNews — 403, message='Forbidden', url=URL('https://cybernews.com/feed/')
 - DarkFeed.io — 404, message='Not Found', url=URL('https://darkfeed.io/feed.xml')
-- Emsisoft Security Blog — Cannot connect to host news.emsisoft.com:443 ssl:default [nodename nor servname provided, or not known]
+- Emsisoft Security Blog — Cannot connect to host news.emsisoft.com:443 ssl:default [No address associated with hostname]
 - HHS OCR Breach Portal — 404, message='404', url=URL('https://ocrportal.hhs.gov/ocr/breach/rss')
 - California AG Breach Notice — 404, message='Not Found', url=URL('https://oag.ca.gov/sites/all/modules/custom/oag_noticelist/rss.xml')
 - Maine AG Breach Notice — 404, message='404', url=URL('https://apps.web.maine.gov/online/aeviewer/maine/rss')
@@ -127,12 +129,14 @@
 - SEC Enforcement Actions — 403, message='Forbidden', url=URL('https://www.sec.gov/rss/news/press.xml')
 - Australian Federal Police News — 401, message='Unauthorized', url=URL('https://www.afp.gov.au/news-centre/rss.xml')
 - Europol Cybercrime Centre — 404, message='Not Found', url=URL('https://www.europol.europa.eu/rss/cybercrime')
+- Risky Business News — 403, message='Forbidden', url=URL('https://riskybiznews.substack.com/feed')
 - The Guardian Tech Security — 404, message='Not Found', url=URL('https://www.theguardian.com/technology/series/security/rss')
 - Ars Technica Security (Signals) — 404, message='Not Found', url=URL('http://feeds.arstechnica.com/arstechnica/security')
 - Motherboard Vice — 404, message='Not Found', url=URL('https://www.vice.com/rss/tag/cybersecurity/')
 - CyberWire Daily Brief — 404, message='Not Found', url=URL('https://thecyberwire.com/podcasts/daily-podcast/rss')
 - Risky Business — 404, message='Not Found', url=URL('https://risky.biz/newsfeed.php')
-- Morning Cybersecurity by Politico — 404, message='Not Found', url=URL('https://www.politico.com/morning-cybersecurity/feed')
+- Cyber Weekly — 403, message='Forbidden', url=URL('https://cyberweekly.substack.com/feed')
+- Morning Cybersecurity by Politico — 403, message='Forbidden', url=URL('https://www.politico.com/morning-cybersecurity/feed')
 - Offensive Security Friday 5 — 404, message='Not Found', url=URL('https://www.offsec.com/friday5/feed/')
 - Huntress HackIt Newsletter — 404, message='Not Found', url=URL('https://www.huntress.com/feed')
 - Abuse.ch ThreatFox (IOC) — 404, message='Not Found', url=URL('https://threatfox.abuse.ch/rss/')
