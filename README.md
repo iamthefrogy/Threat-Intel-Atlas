@@ -1,6 +1,6 @@
 <p align="center">
   <strong style="font-size:1.9rem;">Threat Intel Atlas · Daily Signal Briefing</strong><br />
-  <span style="font-size:1rem;color:#6ecff6;">Compiled from 168 intelligence sources · refreshed 2025-11-13 06:43 UTC</span>
+  <span style="font-size:1rem;color:#6ecff6;">Compiled from 168 intelligence sources · refreshed 2025-11-14 06:43 UTC</span>
 </p>
 
 ---
@@ -10,8 +10,8 @@
 | Metric | Value |
 | --- | --- |
 | Total signals retained | 1000 |
-| Signals detected in the last 24h | 68 |
-| Signals surfaced in this report | 68 |
+| Signals detected in the last 24h | 74 |
+| Signals surfaced in this report | 74 |
 
 ---
 
@@ -19,46 +19,46 @@
 
 | Title | Source | Tags | Published (UTC) |
 | --- | --- | --- | --- |
-| [Homicide investigation launched, Hastings](https://www.police.govt.nz/news/release/homicide-investigation-launched-hastings) | New Zealand Police | ai | 2025-11-13 05:51 |
-| [BreachLock and Vanta Bridge the Gap Between Continuous Security Testing and Compliance with New Integration](https://hackread.com/breachlock-and-vanta-bridge-the-gap-between-continuous-security-testing-and-compliance-with-new-integration/) | HackRead | data_breach, incident_response, policy | 2025-11-13 05:35 |
-| [Over 46,000 Fake npm Packages Flood Registry in Worm-Like Spam Attack](https://thehackernews.com/2025/11/over-46000-fake-npm-packages-flood.html) | The Hacker News | ai, apt, malware | 2025-11-13 04:58 |
-| [Man faces charges after thefts from tourist vehicles](https://www.police.govt.nz/news/release/man-faces-charges-after-thefts-tourist-vehicles) | New Zealand Police | ai, incident_response | 2025-11-13 04:51 |
-| [Merge PR #5748 from @swachchhanda000 - feat: add new CLSID for COM Hi…](https://github.com/SigmaHQ/sigma/commit/3d59e82504ec97f1d329298326f215b2eb114467) | SigmaHQ Core Rules | defense | 2025-11-13 04:18 |
-| [Drugs, Cash and Firearms seized in Operation Leaf](https://www.police.govt.nz/news/release/drugs-cash-and-firearms-seized-operation-leaf) | New Zealand Police | ai, incident_response | 2025-11-13 04:16 |
-| [Merge PR #5601 from @swachchhanda000 - fix: add filters on registry r…](https://github.com/SigmaHQ/sigma/commit/47171af68adec669e379688e98778832a0bc017d) | SigmaHQ Core Rules | malware | 2025-11-13 04:10 |
-| [Fatal crash, Culverden](https://www.police.govt.nz/news/release/fatal-crash-culverden) | New Zealand Police | ai, incident_response | 2025-11-13 04:07 |
-| [Warrant to arrest: Paul Rehua](https://www.police.govt.nz/news/release/warrant-arrest-paul-rehua) | New Zealand Police | ai | 2025-11-13 03:20 |
-| [Media Advisory: Police graduation in Auckland tomorrow](https://www.police.govt.nz/news/release/media-advisory-police-graduation-auckland-tomorrow) | New Zealand Police | ai, identity, incident_response | 2025-11-13 01:14 |
-| [Watching a rescue turns dangerous for a member of the public](https://www.police.govt.nz/news/release/watching-rescue-turns-dangerous-member-public) | New Zealand Police | ai, incident_response | 2025-11-13 01:03 |
-| [ThreatBook Peer-Recognized as a Strong Performer in the 2025 Gartner® Peer Insights™ Voice of the Customer for Network Detection and Response — for the Third Consecutive Year](https://hackread.com/threatbook-peer-recognized-as-a-strong-performer-in-the-2025-gartner-peer-insights-voice-of-the-customer-for-network-detection-and-response-for-the-third-consecutive-year/) | HackRead | defense, incident_response | 2025-11-13 01:01 |
-| [Fifty-five new police for the frontline](https://www.police.govt.nz/news/release/fifty-five-new-police-frontline) | New Zealand Police | ai, incident_response | 2025-11-12 23:18 |
-| [Name release: Fatal crash, Rotorua](https://www.police.govt.nz/news/release/name-release-fatal-crash-rotorua) | New Zealand Police | ai, incident_response | 2025-11-12 22:38 |
-| [US announces ‘strike force’ to counter Southeast Asian cyber scams, sanctions Myanmar armed group](https://therecord.media/strike-force-southeast-asia-scams) | The Record (Signals) | unclassified | 2025-11-12 22:24 |
-| [DHS Kept Chicago Police Records for Months in Violation of Domestic Espionage Rules](https://www.wired.com/story/dhs-kept-chicago-police-records-for-months-in-violation-of-domestic-espionage-rules/) | Wired Security | apt | 2025-11-12 22:03 |
-| [Federal agencies not fully patching vulnerable Cisco devices amid ‘active exploitation,’ CISA warns](https://therecord.media/federal-cisco-patches-warning) | The Record (Signals) | ai, apt, vulnerabilities | 2025-11-12 21:30 |
-| [Mindgard Finds Sora 2 Vulnerability Leaking Hidden System Prompt via Audio](https://hackread.com/mindgard-sora-2-vulnerability-prompt-via-audio/) | HackRead | ai, data_breach, incident_response, policy, vulnerabilities | 2025-11-12 21:23 |
-| [Google sues to dismantle Chinese phishing platform behind US toll scams](https://www.bleepingcomputer.com/news/security/google-sues-to-dismantle-chinese-phishing-platform-behind-us-toll-scams/) | BleepingComputer News | cloud, phishing, policy | 2025-11-12 20:59 |
-| [Doctor Alliance Data Breach: 353GB of Patient Files Allegedly Compromised, Ransom Demanded](https://databreaches.net/2025/11/12/doctor-alliance-data-breach-353gb-of-patient-files-allegedly-compromised-ransom-demanded/?pk_campaign=feed&pk_kwd=doctor-alliance-data-breach-353gb-of-patient-files-allegedly-compromised-ransom-demanded) | DataBreaches.net (Notices) | ai, apt, data_breach, iot | 2025-11-12 20:52 |
-| [Google sues cybercriminal group Smishing Triad](https://securityaffairs.com/184557/cyber-crime/google-sues-cybercriminal-group-smishing-triad.html) | Security Affairs (Dark Web) | ai, cloud, phishing, policy | 2025-11-12 20:25 |
-| [Media advisory: Special Olympics flame in Wellington this weekend](https://www.police.govt.nz/news/release/media-advisory-special-olympics-flame-wellington-weekend) | New Zealand Police | iot | 2025-11-12 20:02 |
-| [New Danabot Windows version appears in the threat landscape after May disruption](https://securityaffairs.com/184548/malware/new-danabot-windows-version-appears-in-the-threat-landscape-after-may-disruption.html) | Security Affairs (Dark Web) | unclassified | 2025-11-12 19:18 |
-| [Russia imposes 24-hour mobile internet blackout for travelers returning home](https://therecord.media/russia-24-hour-traveler-mobile-internet-blackouts-ukraine-drones) | The Record (Signals) | ai, mobile | 2025-11-12 19:10 |
-| [St. Thomas Brushed Off Red Flags Before Dark-Web Data Dump Rocks Houston](https://databreaches.net/2025/11/12/st-thomas-brushed-off-red-flags-before-dark-web-data-dump-rocks-houston/?pk_campaign=feed&pk_kwd=st-thomas-brushed-off-red-flags-before-dark-web-data-dump-rocks-houston) | DataBreaches.net (Notices) | ai, apt, darkweb, data_breach, iot, policy | 2025-11-12 18:45 |
-| [A Wiltshire police breach posed possible safety concerns for violent crime victims as well as prison officers](https://databreaches.net/2025/11/12/a-wiltshire-police-breach-posed-possible-safety-concerns-for-violent-crime-victims-as-well-as-prison-officers/?pk_campaign=feed&pk_kwd=a-wiltshire-police-breach-posed-possible-safety-concerns-for-violent-crime-victims-as-well-as-prison-officers) | DataBreaches.net (Notices) | ai, apt, data_breach, incident_response, iot | 2025-11-12 18:27 |
-| [British government unveils long-awaited landmark cybersecurity bill](https://therecord.media/british-gov-cybersecurity-law) | The Record (Signals) | ai, identity | 2025-11-12 18:27 |
-| [Amendment 13 is gamechanger on data security enforcement in Israel](https://databreaches.net/2025/11/12/amendment-13-is-gamechanger-on-data-security-enforcement-in-israel/?pk_campaign=feed&pk_kwd=amendment-13-is-gamechanger-on-data-security-enforcement-in-israel) | DataBreaches.net (Notices) | ai, apt, data_breach, identity, iot, policy | 2025-11-12 18:18 |
-| [Windows 11 now supports 3rd-party apps for native passkey management](https://www.bleepingcomputer.com/news/security/windows-11-now-supports-3rd-party-apps-for-native-passkey-management/) | BleepingComputer News | identity, incident_response, supply_chain | 2025-11-12 18:18 |
-| [‘Advanced’ hacker seen exploiting Cisco, Citrix zero-days](https://therecord.media/advanced-hacker-exploiting-cisco-citrix-zero-days-amazon) | The Record (Signals) | malware, vulnerabilities | 2025-11-12 18:17 |
-| [DarkComet Spyware Resurfaces Disguised as Fake Bitcoin Wallet](https://hackread.com/darkcomet-spyware-fake-bitcoin-wallet-apps/) | HackRead | identity | 2025-11-12 17:36 |
-| [DanaBot malware is back to infecting Windows after 6-month break](https://www.bleepingcomputer.com/news/security/danabot-malware-is-back-to-infecting-windows-after-6-month-break/) | BleepingComputer News | malware, policy | 2025-11-12 16:34 |
-| [Phishing emails disguised as spam filter alerts are stealing logins](https://www.malwarebytes.com/blog/news/2025/11/phishing-emails-disguised-as-spam-filter-alerts-are-stealing-logins) | Malwarebytes Labs (News) | ai, identity, phishing | 2025-11-12 16:02 |
-| [CVE-2025-62215: Microsoft Patches Windows Kernel Zero-Day Vulnerability Under Active Exploitation](https://socprime.com/blog/latest-threats/cve-2025-62215-windows-kernel-vulnerability/) | SOC Prime | defense, incident_response, policy, vulnerabilities | 2025-11-12 15:59 |
-| [Google Sues China-Based Hackers Behind $1 Billion Lighthouse Phishing Platform](https://thehackernews.com/2025/11/google-sues-china-based-hackers-behind.html) | The Hacker News | ai, cloud, phishing, policy, vulnerabilities | 2025-11-12 15:48 |
-| [GlobalLogic Becomes Latest Cl0p Victim After Oracle EBS Attack](https://www.infosecurity-magazine.com/news/globallogic-latest-cl0p-victim/) | InfoSecurity Magazine News | ai, apt, incident_response, phishing | 2025-11-12 15:30 |
-| [Microsoft fixes bug causing false Windows 10 end-of-support alerts](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-false-windows-10-end-of-support-alerts/) | BleepingComputer News | unclassified | 2025-11-12 15:29 |
-| [Extending Zero Trust to AI Agents: “Never Trust, Always Verify” Goes Autonomous](https://www.bleepingcomputer.com/news/security/extending-zero-trust-to-ai-agents-never-trust-always-verify-goes-autonomous/) | BleepingComputer News | ai | 2025-11-12 15:25 |
-| [Almost two years later, Alpha Omega Winery notifies those affected by a data breach.](https://databreaches.net/2025/11/12/almost-two-years-later-alpha-omega-winery-notifies-those-affected-by-a-data-breach/?pk_campaign=feed&pk_kwd=almost-two-years-later-alpha-omega-winery-notifies-those-affected-by-a-data-breach) | DataBreaches.net (Notices) | ai, apt, data_breach, incident_response, iot, malware | 2025-11-12 15:00 |
-| [Cyber-Insurance Payouts Soar 230% in UK](https://www.infosecurity-magazine.com/news/cyberinsurance-payouts-soar-230-in/) | InfoSecurity Magazine News | ai, policy | 2025-11-12 14:30 |
+| [DoorDash hit by new data breach in October exposing user information](https://www.bleepingcomputer.com/news/security/doordash-hit-by-new-data-breach-in-october-exposing-user-information/) | BleepingComputer News | ai, data_breach | 2025-11-14 04:38 |
+| [Fortinet FortiWeb flaw with public PoC exploited to create admin users](https://www.bleepingcomputer.com/news/security/fortiweb-flaw-with-public-poc-actively-exploited-to-create-admin-users/) | BleepingComputer News | identity, incident_response, policy, vulnerabilities | 2025-11-14 02:41 |
+| [Infringements issued to commercial vehicles in Operation Triangle](https://www.police.govt.nz/news/release/infringements-issued-commercial-vehicles-operation-triangle) | New Zealand Police | ai, policy | 2025-11-14 02:28 |
+| [Name release – fatal cycling crash, Carterton](https://www.police.govt.nz/news/release/name-release-%E2%80%93-fatal-cycling-crash-carterton) | New Zealand Police | incident_response | 2025-11-14 02:27 |
+| [Auckland-based wing graduates with 37 new constables for the frontline](https://www.police.govt.nz/news/release/auckland-based-wing-graduates-37-new-constables-frontline) | New Zealand Police | ai, incident_response | 2025-11-14 02:14 |
+| [Rocky rescue gets good result](https://www.police.govt.nz/news/release/rocky-rescue-gets-good-result) | New Zealand Police | ai, mobile | 2025-11-14 01:49 |
+| [Kraken ransomware benchmarks systems for optimal encryption choice](https://www.bleepingcomputer.com/news/security/kraken-ransomware-benchmarks-systems-for-optimal-encryption-choice/) | BleepingComputer News | malware | 2025-11-13 22:53 |
+| [CISA warns of Akira ransomware Linux encryptor targeting Nutanix VMs](https://www.bleepingcomputer.com/news/security/cisa-warns-of-akira-ransomware-linux-encryptor-targeting-nutanix-vms/) | BleepingComputer News | incident_response, malware | 2025-11-13 22:32 |
+| [New ‘IndonesianFoods’ worm floods npm with 100,000 packages](https://www.bleepingcomputer.com/news/security/new-indonesianfoods-worm-floods-npm-with-100-000-packages/) | BleepingComputer News | malware | 2025-11-13 22:07 |
+| [FBI: Akira gang has received nearly $250 million in ransoms](https://therecord.media/akira-gang-received-million) | The Record (Signals) | ai, incident_response, malware, policy | 2025-11-13 21:46 |
+| [Detection device selected for drug-impaired driver screening](https://www.police.govt.nz/news/release/detection-device-selected-drug-impaired-driver-screening) | New Zealand Police | ai, defense, incident_response, phishing | 2025-11-13 21:41 |
+| [CCTV catches thieves red handed](https://www.police.govt.nz/news/release/cctv-catches-thieves-red-handed) | New Zealand Police | unclassified | 2025-11-13 21:38 |
+| [How Adversaries Exploit the Blind Spots in Your EASM Strategy](https://hackread.com/how-adversaries-exploit-blind-spots-easm-strategy/) | HackRead | ai, incident_response, vulnerabilities | 2025-11-13 21:14 |
+| [Russian Hackers Create 4,300 Fake Travel Sites to Steal Hotel Guests' Payment Data](https://thehackernews.com/2025/11/russian-hackers-create-4300-fake-travel.html) | The Hacker News | ai, apt, phishing | 2025-11-13 20:27 |
+| [RCE flaw in ImunifyAV puts millions of Linux-hosted sites at risk](https://www.bleepingcomputer.com/news/security/rce-flaw-in-imunifyav-puts-millions-of-linux-hosted-sites-at-risk/) | BleepingComputer News | incident_response, malware, policy, vulnerabilities | 2025-11-13 19:04 |
+| [Viasat and the terrible, horrible, no good, very bad day](https://blog.talosintelligence.com/viasat-and-the-terrible-horrible-no-good-very-bad-day/) | Cisco Talos | unclassified | 2025-11-13 19:00 |
+| [Chrome extension “Safery” steals Ethereum wallet seed phrases](https://securityaffairs.com/184585/malware/chrome-extension-safery-steals-ethereum-wallet-seed-phrases.html) | Security Affairs (Dark Web) | ai | 2025-11-13 18:25 |
+| [Scammers Abuse WhatsApp Screen Sharing to Steal OTPs and Funds](https://hackread.com/whatsapp-screen-sharing-scammers-steal-otps-funds/) | HackRead | unclassified | 2025-11-13 17:15 |
+| [Rust in Android: move fast and fix things](http://security.googleblog.com/2025/11/rust-in-android-move-fast-fix-things.html) | Google Security Blog | ai, cloud, defense, identity, incident_response, iot, mobile, phishing, policy, supply_chain, vulnerabilities | 2025-11-13 16:59 |
+| [Kazakhstan becomes latest country to ban 'LGBT propaganda' online](https://therecord.media/kazakhstan-legislation-ban-lgbtq-content-online-media) | The Record (Signals) | phishing | 2025-11-13 16:30 |
+| [Washington Post data breach impacts nearly 10K employees, contractors](https://www.bleepingcomputer.com/news/security/washington-post-data-breach-impacts-nearly-10k-employees-contractors/) | BleepingComputer News | data_breach, incident_response | 2025-11-13 16:00 |
+| [Operation Endgame Hits Rhadamanthys, VenomRAT, Elysium Malware, seize 1025 servers](https://hackread.com/operation-endgame-rhadamanthys-venomrat-elysium-malware/) | HackRead | malware | 2025-11-13 15:58 |
+| [A new round of Europol’s Operation Endgame dismantled Rhadamanthys, Venom RAT, and Elysium botnet](https://securityaffairs.com/184581/cyber-crime/a-new-round-of-europols-operation-endgame-dismantled-rhadamanthys-venom-rat-and-elysium-botnet.html) | Security Affairs (Dark Web) | malware | 2025-11-13 15:19 |
+| [“IndonesianFoods” npm Worm Publishes 44,000 Malicious Packages](https://www.infosecurity-magazine.com/news/indonesianfoods-npm-worm-44000/) | InfoSecurity Magazine News | malware | 2025-11-13 15:15 |
+| [Phishing campaign targets customers of major Italian web hosting provider](https://therecord.media/phishing-campaign-targets-italian-web-hosting-customers) | The Record (Signals) | ai, apt, identity, phishing | 2025-11-13 15:09 |
+| [Kerberoasting in 2025: How to protect your service accounts](https://www.bleepingcomputer.com/news/security/kerberoasting-in-2025-how-to-protect-your-service-accounts/) | BleepingComputer News | ai, identity | 2025-11-13 15:02 |
+| [Two key cyber laws are back as president signs bill to end shutdown](https://therecord.media/cisa-2015-state-local-grants-renewed-legislation-ending-shutdown) | The Record (Signals) | cloud, policy | 2025-11-13 14:47 |
+| [Google Sues to Disrupt Chinese SMS Phishing Triad](https://krebsonsecurity.com/2025/11/google-sues-to-disrupt-chinese-sms-phishing-triad/) | Krebs on Security (Signals) | mobile, phishing | 2025-11-13 14:47 |
+| [1 million victims, 17,500 fake sites: Google takes on toll-fee scammers](https://www.malwarebytes.com/blog/news/2025/11/1-million-victims-17500-fake-sites-google-takes-on-toll-fee-scammers) | Malwarebytes Labs (News) | phishing | 2025-11-13 14:43 |
+| [CISO Pay Increases 7% As Budget Growth Slows](https://www.infosecurity-magazine.com/news/ciso-pay-increases-7-budget-growth/) | InfoSecurity Magazine News | unclassified | 2025-11-13 14:00 |
+| [Microsoft rolls out screen capture prevention for Teams users](https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-screen-capture-prevention-for-teams-users/) | BleepingComputer News | apt | 2025-11-13 13:50 |
+| [Merge PR #5756 from @phantinuss - add a check for duplicate IDs over …](https://github.com/SigmaHQ/sigma/commit/c2f1eb41bc5c9f246339545e8fd5ee14ed7f8332) | SigmaHQ Core Rules | unclassified | 2025-11-13 13:22 |
+| [SAP Pushes Emergency Patch for 9.9 Rated CVE-2025-42887 After Full Takeover Risk](https://hackread.com/sap-patch-cve-2025-42887-takeover-vulnerability/) | HackRead | vulnerabilities | 2025-11-13 13:10 |
+| [Fake Chrome Extension “Safery” Steals Ethereum Wallet Seed Phrases Using Sui Blockchain](https://thehackernews.com/2025/11/fake-chrome-extension-safery-steals.html) | The Hacker News | ai, apt | 2025-11-13 13:04 |
+| [Popular Android-based photo frames download malware on boot](https://www.bleepingcomputer.com/news/security/popular-android-based-photo-frames-download-malware-on-boot/) | BleepingComputer News | malware, mobile | 2025-11-13 13:00 |
+| [Are you paying more than other people? NY cracks down on surveillance pricing](https://www.malwarebytes.com/blog/news/2025/11/are-you-paying-more-than-other-people-ny-cracks-down-on-surveillance-pricing) | Malwarebytes Labs (News) | unclassified | 2025-11-13 12:51 |
+| [Operation Endgame: Police reveal takedowns of three key cybercrime tools](https://therecord.media/operation-endgame-cybercrime-takedowns-rhadamanthys-venomrat-elysium) | The Record (Signals) | malware | 2025-11-13 12:45 |
+| [Operation Endgame 3.0 Dismantles Three Major Malware Networks](https://www.infosecurity-magazine.com/news/operation-endgame-3-dismantles/) | InfoSecurity Magazine News | malware, policy | 2025-11-13 12:25 |
+| [District of Massachusetts Allows Higher-Ed Student Data Breach Claims to Survive](https://databreaches.net/2025/11/13/district-of-massachusetts-allows-higher-ed-student-data-breach-claims-to-survive/?pk_campaign=feed&pk_kwd=district-of-massachusetts-allows-higher-ed-student-data-breach-claims-to-survive) | DataBreaches.net (Notices) | ai, apt, data_breach, iot, phishing | 2025-11-13 12:19 |
+| [End of the game for cybercrime infrastructure: 1025 servers taken down](https://databreaches.net/2025/11/13/end-of-the-game-for-cybercrime-infrastructure-1025-servers-taken-down/?pk_campaign=feed&pk_kwd=end-of-the-game-for-cybercrime-infrastructure-1025-servers-taken-down) | DataBreaches.net (Notices) | ai, apt, data_breach, iot, malware | 2025-11-13 12:13 |
 
 ---
 
