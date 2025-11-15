@@ -1,6 +1,6 @@
 <p align="center">
   <strong style="font-size:1.9rem;">Threat Intel Atlas · Daily Signal Briefing</strong><br />
-  <span style="font-size:1rem;color:#6ecff6;">Compiled from 167 intelligence sources · refreshed 2025-11-15 01:36 UTC</span>
+  <span style="font-size:1rem;color:#6ecff6;">Compiled from 167 intelligence sources · refreshed 2025-11-15 06:40 UTC</span>
 </p>
 
 ---
@@ -10,8 +10,8 @@
 | Metric | Value |
 | --- | --- |
 | Total signals retained | 1000 |
-| Signals detected in the last 24h | 53 |
-| Signals surfaced in this report | 53 |
+| Signals detected in the last 24h | 47 |
+| Signals surfaced in this report | 47 |
 
 ---
 
@@ -19,6 +19,8 @@
 
 | Title | Source | Tags | Published (UTC) |
 | --- | --- | --- | --- |
+| [Fatalities at scene of fire, Sanson](https://www.police.govt.nz/news/release/fatalities-scene-fire-sanson) | New Zealand Police | incident_response | 2025-11-15 06:28 |
+| [Body recovered after boating incident, Pataua South](https://www.police.govt.nz/news/release/body-recovered-after-boating-incident-pataua-south) | New Zealand Police | incident_response | 2025-11-15 03:13 |
 | [Unauthenticated Authentication Bypass in Fortinet FortiWeb (CVE-2025-64446) Exploited in the Wild](https://blog.qualys.com/category/vulnerabilities-threat-research) | Qualys | ai, identity, incident_response, vulnerabilities | 2025-11-15 00:01 |
 | [Friday Squid Blogging: Pilot Whales Eat a Lot of Squid](https://www.schneier.com/blog/archives/2025/11/friday-squid-blogging-pilot-whales-eat-a-lot-of-squid.html) | Schneier on Security | ai, incident_response | 2025-11-14 23:33 |
 | [Digital Doppelgangers: Anatomy of Evolving Impersonation Campaigns Distributing Gh0st RAT](https://unit42.paloaltonetworks.com/impersonation-campaigns-deliver-gh0st-rat/) | Palo Alto Networks Unit 42 | ai, apt, incident_response | 2025-11-14 23:00 |
@@ -57,8 +59,6 @@
 | [Fortinet Releases Security Advisory for Relative Path Traversal Vulnerability Affecting FortiWeb Products](https://www.cisa.gov/news-events/alerts/2025/11/14/fortinet-releases-security-advisory-relative-path-traversal-vulnerability-affecting-fortiweb) | CISA Joint Advisories | ai, incident_response, policy, vulnerabilities | 2025-11-14 12:00 |
 | [Google backpedals on new Android developer registration rules](https://www.bleepingcomputer.com/news/google/google-backpedals-on-new-android-developer-registration-rules/) | BleepingComputer News | identity, mobile | 2025-11-14 11:54 |
 | [Akira Ransomware Haul Surpasses $244M in Illicit Proceeds](https://www.infosecurity-magazine.com/news/akira-ransomware-244m-in-illicit/) | InfoSecurity Magazine News | incident_response, malware | 2025-11-14 11:13 |
-| [Ransomware's Fragmentation Reaches a Breaking Point While LockBit Returns](https://thehackernews.com/2025/11/ransomwares-fragmentation-reaches.html) | The Hacker News | ai, darkweb, data_breach, malware, policy | 2025-11-14 10:37 |
-| [Chinese Hackers Use Anthropic's AI to Launch Automated Cyber Espionage Campaign](https://thehackernews.com/2025/11/chinese-hackers-use-anthropics-ai-to.html) | The Hacker News | ai, apt | 2025-11-14 09:53 |
 
 ---
 
