@@ -252,8 +252,6 @@ feeds:
     url: 'https://www.oaic.gov.au/rss/news'
   - name: OS Commissioner
     url: 'https://www.priv.gc.ca/en/rss/'
-  - name: New Zealand Privacy Commissioner
-    url: 'https://www.privacy.org.nz/rss/'
 
   # Law enforcement & legal actions
   - name: Europol Press Releases
