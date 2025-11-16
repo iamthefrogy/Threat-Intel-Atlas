@@ -1,6 +1,6 @@
 <p align="center">
   <strong style="font-size:1.9rem;">Threat Intel Atlas · Daily Signal Briefing</strong><br />
-  <span style="font-size:1rem;color:#6ecff6;">Compiled from 167 intelligence sources · refreshed 2025-11-15 06:40 UTC</span>
+  <span style="font-size:1rem;color:#6ecff6;">Compiled from 167 intelligence sources · refreshed 2025-11-16 06:41 UTC</span>
 </p>
 
 ---
@@ -10,8 +10,8 @@
 | Metric | Value |
 | --- | --- |
 | Total signals retained | 1000 |
-| Signals detected in the last 24h | 47 |
-| Signals surfaced in this report | 47 |
+| Signals detected in the last 24h | 19 |
+| Signals surfaced in this report | 19 |
 
 ---
 
@@ -19,46 +19,25 @@
 
 | Title | Source | Tags | Published (UTC) |
 | --- | --- | --- | --- |
-| [Fatalities at scene of fire, Sanson](https://www.police.govt.nz/news/release/fatalities-scene-fire-sanson) | New Zealand Police | incident_response | 2025-11-15 06:28 |
-| [Body recovered after boating incident, Pataua South](https://www.police.govt.nz/news/release/body-recovered-after-boating-incident-pataua-south) | New Zealand Police | incident_response | 2025-11-15 03:13 |
-| [Unauthenticated Authentication Bypass in Fortinet FortiWeb (CVE-2025-64446) Exploited in the Wild](https://blog.qualys.com/category/vulnerabilities-threat-research) | Qualys | ai, identity, incident_response, vulnerabilities | 2025-11-15 00:01 |
-| [Friday Squid Blogging: Pilot Whales Eat a Lot of Squid](https://www.schneier.com/blog/archives/2025/11/friday-squid-blogging-pilot-whales-eat-a-lot-of-squid.html) | Schneier on Security | ai, incident_response | 2025-11-14 23:33 |
-| [Digital Doppelgangers: Anatomy of Evolving Impersonation Campaigns Distributing Gh0st RAT](https://unit42.paloaltonetworks.com/impersonation-campaigns-deliver-gh0st-rat/) | Palo Alto Networks Unit 42 | ai, apt, incident_response | 2025-11-14 23:00 |
-| [Logitech confirms data breach after Clop extortion attack](https://www.bleepingcomputer.com/news/security/logitech-confirms-data-breach-after-clop-extortion-attack/) | BleepingComputer News | ai, data_breach, identity, incident_response | 2025-11-14 22:18 |
-| [DOJ Issued Seizure Warrant to Starlink Over Satellite Internet Systems Used at Scam Compound](https://www.wired.com/story/doj-issued-seizure-warrants-to-starlink-over-satellite-internet-systems-used-at-scam-compounds/) | Wired Security | ai, policy | 2025-11-14 20:30 |
-| [Multiple US citizens plead guilty to helping North Korean IT workers earn $2 million](https://therecord.media/multiple-us-nationals-guilty-pleas-north-korean-it-worker-scams) | The Record (Signals) | ai, incident_response | 2025-11-14 20:11 |
-| [Five plead guilty to helping North Koreans infiltrate US firms](https://www.bleepingcomputer.com/news/security/five-plead-guilty-to-helping-north-koreans-infiltrate-us-firms/) | BleepingComputer News | ai, incident_response | 2025-11-14 20:11 |
-| [Suspected Russian hacker reportedly detained in Thailand, faces possible US extradition](https://databreaches.net/2025/11/14/suspected-russian-hacker-reportedly-detained-in-thailand-faces-possible-us-extradition/?pk_campaign=feed&pk_kwd=suspected-russian-hacker-reportedly-detained-in-thailand-faces-possible-us-extradition) | DataBreaches.net (Notices) | ai, apt, data_breach, incident_response, iot | 2025-11-14 19:23 |
-| [Critical CVE-2025-59367 flaw lets hackers access ASUS DSL routers remotely](https://securityaffairs.com/184636/security/critical-cve-2025-59367-flaw-lets-hackers-access-asus-dsl-routers-remotely.html) | Security Affairs (Dark Web) | policy, vulnerabilities | 2025-11-14 19:16 |
-| [Did you hear the one about the ransom victim who made a ransom installment payment after they were told that it wouldn’t be accepted?](https://databreaches.net/2025/11/14/did-you-hear-the-one-about-the-ransom-victim-who-made-a-ransom-installment-payment-after-they-were-told-that-it-wouldnt-be-accepted/?pk_campaign=feed&pk_kwd=did-you-hear-the-one-about-the-ransom-victim-who-made-a-ransom-installment-payment-after-they-were-told-that-it-wouldnt-be-accepted) | DataBreaches.net (Notices) | ai, apt, data_breach, iot, mobile | 2025-11-14 19:07 |
-| [Fatal crash, Tokerau Beach, Far North](https://www.police.govt.nz/news/release/fatal-crash-tokerau-beach-far-north) | New Zealand Police | ai, incident_response | 2025-11-14 19:05 |
-| [Anthropic claims of Claude AI-automated cyberattacks met with doubt](https://www.bleepingcomputer.com/news/security/anthropic-claims-of-claude-ai-automated-cyberattacks-met-with-doubt/) | BleepingComputer News | ai, apt | 2025-11-14 18:31 |
-| [North Korean Hackers Turn JSON Services into Covert Malware Delivery Channels](https://thehackernews.com/2025/11/north-korean-hackers-turn-json-services.html) | The Hacker News | ai, apt, incident_response, iot, malware | 2025-11-14 18:25 |
-| [Chinese state hackers used Anthropic AI systems in dozens of attacks](https://therecord.media/chinese-hackers-anthropic-cyberattacks) | The Record (Signals) | ai, apt, data_breach | 2025-11-14 18:05 |
-| [CISA Warns of Active Attacks on Cisco ASA and Firepower Flaws](https://hackread.com/cisa-attacks-cisco-asa-firepower-flaws/) | HackRead | ai, apt, cloud, incident_response, policy, vulnerabilities | 2025-11-14 17:48 |
-| [Upcoming Speaking Engagements](https://www.schneier.com/blog/archives/2025/11/upcoming-speaking-engagements-50.html) | Schneier on Security | ai | 2025-11-14 17:08 |
-| [Fortinet confirms silent patch for FortiWeb zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/fortinet-confirms-silent-patch-for-fortiweb-zero-day-exploited-in-attacks/) | BleepingComputer News | incident_response, vulnerabilities | 2025-11-14 17:00 |
-| [Civil society decries digital rights ‘rollback' as European Commission pushes data protection changes](https://therecord.media/civil-society-privacy-rollback) | The Record (Signals) | ai, cloud, policy | 2025-11-14 16:39 |
-| [Cyberattack on Russian port operator aimed to disrupt coal, fertilizer shipments](https://therecord.media/cyberattack-on-russian-port-operator) | The Record (Signals) | ai | 2025-11-14 16:38 |
-| [Be careful responding to unexpected job interviews](https://www.malwarebytes.com/blog/news/2025/11/be-careful-responding-to-unexpected-job-interviews) | Malwarebytes Labs (News) | incident_response, malware | 2025-11-14 16:30 |
-| [Checkout.com snubs hackers after data breach, to donate ransom instead](https://www.bleepingcomputer.com/news/security/checkoutcom-snubs-shinyhunters-hackers-to-donate-ransom-instead/) | BleepingComputer News | cloud, data_breach | 2025-11-14 16:25 |
-| [Chinese State Hackers Jailbroke Claude AI Code for Automated Breaches](https://hackread.com/chinese-hackers-jailbroke-claude-ai-breaches/) | HackRead | ai, apt, data_breach | 2025-11-14 16:06 |
-| [Researchers Find Serious AI Bugs Exposing Meta, Nvidia, and Microsoft Inference Frameworks](https://thehackernews.com/2025/11/researchers-find-serious-ai-bugs.html) | The Hacker News | ai, policy, vulnerabilities | 2025-11-14 15:20 |
-| [Suspected Russian hacker reportedly detained in Thailand, faces possible US extradition](https://therecord.media/russian-hacker-detained-thailand-possible-us-extradition) | The Record (Signals) | ai | 2025-11-14 15:04 |
-| [Millions of sites at risk from Imunify360 critical flaw exploit](https://securityaffairs.com/184628/security/millions-of-sites-at-risk-from-imunify360-critical-flaw-exploit.html) | Security Affairs (Dark Web) | incident_response, malware, policy, vulnerabilities | 2025-11-14 14:58 |
-| [US announces new strike force targeting Chinese crypto scammers](https://www.bleepingcomputer.com/news/security/us-announces-new-strike-force-targeting-chinese-crypto-scammers/) | BleepingComputer News | unclassified | 2025-11-14 14:54 |
-| [Chinese Tech Firm Leak Reportedly Exposes State Linked Hacking](https://hackread.com/chinese-tech-firm-leak-state-linked-hacking/) | HackRead | ai, data_breach, incident_response | 2025-11-14 14:41 |
-| [Iranian Hackers Launch ‘SpearSpecter’ Spy Operation on Defense & Government Targets](https://thehackernews.com/2025/11/iranian-hackers-launch-spearspecter-spy.html) | The Hacker News | ai, apt, incident_response | 2025-11-14 14:40 |
-| [AI Malware and LLM Abuse: The Next Wave of Cyber Threats](https://socprime.com/blog/latest-threats/ai-malware-and-llm-abuse/) | SOC Prime | ai, defense, incident_response, malware | 2025-11-14 14:26 |
-| [The Good, the Bad and the Ugly in Cybersecurity – Week 46](https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-46-7/) | SentinelOne Labs | vulnerabilities | 2025-11-14 14:00 |
-| [Critical FortiWeb flaw under attack, allowing complete compromise](https://securityaffairs.com/184615/hacking/critical-fortiweb-flaw-under-attack-allowing-complete-compromise.html) | Security Affairs (Dark Web) | identity, policy, vulnerabilities | 2025-11-14 12:41 |
-| [Your passport, now on your iPhone. Helpful or risky?](https://www.malwarebytes.com/blog/news/2025/11/your-passport-now-on-your-iphone-helpful-or-risky) | Malwarebytes Labs (News) | unclassified | 2025-11-14 12:17 |
-| [Chinese Hackers Automate Cyber-Attacks With AI-Powered Claude Code](https://www.infosecurity-magazine.com/news/chinese-hackers-cyberattacks-ai/) | InfoSecurity Magazine News | ai, apt | 2025-11-14 12:15 |
-| [The Role of Humans in an AI-Powered World](https://www.schneier.com/blog/archives/2025/11/the-role-of-humans-in-an-ai-powered-world.html) | Schneier on Security | ai, phishing | 2025-11-14 12:00 |
-| [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2025/11/14/cisa-adds-one-known-exploited-vulnerability-catalog) | CISA Joint Advisories | ai, incident_response, vulnerabilities | 2025-11-14 12:00 |
-| [Fortinet Releases Security Advisory for Relative Path Traversal Vulnerability Affecting FortiWeb Products](https://www.cisa.gov/news-events/alerts/2025/11/14/fortinet-releases-security-advisory-relative-path-traversal-vulnerability-affecting-fortiweb) | CISA Joint Advisories | ai, incident_response, policy, vulnerabilities | 2025-11-14 12:00 |
-| [Google backpedals on new Android developer registration rules](https://www.bleepingcomputer.com/news/google/google-backpedals-on-new-android-developer-registration-rules/) | BleepingComputer News | identity, mobile | 2025-11-14 11:54 |
-| [Akira Ransomware Haul Surpasses $244M in Illicit Proceeds](https://www.infosecurity-magazine.com/news/akira-ransomware-244m-in-illicit/) | InfoSecurity Magazine News | incident_response, malware | 2025-11-14 11:13 |
+| [Work ongoing to locate fourth deceased at Sanson fire scene](https://www.police.govt.nz/news/release/work-ongoing-locate-fourth-deceased-sanson-fire-scene) | New Zealand Police | incident_response | 2025-11-16 06:19 |
+| [Homicide investigation launched, Kaitaia](https://www.police.govt.nz/news/release/homicide-investigation-launched-kaitaia) | New Zealand Police | ai | 2025-11-16 03:21 |
+| [Renewed appeal for information for missing man Louis](https://www.police.govt.nz/news/release/renewed-appeal-information-missing-man-louis) | New Zealand Police | ai | 2025-11-15 23:34 |
+| [Police appealing for information after burglary in Napier South](https://www.police.govt.nz/news/release/police-appealing-information-after-burglary-napier-south) | New Zealand Police | incident_response | 2025-11-15 22:47 |
+| [Update: Fatal house fire incident, Sanson](https://www.police.govt.nz/news/release/update-fatal-house-fire-incident-sanson) | New Zealand Police | ai, incident_response | 2025-11-15 22:11 |
+| [Multiple Vulnerabilities in GoSign Desktop lead to Remote Code Execution](https://securityaffairs.com/184672/hacking/multiple-vulnerabilities-in-gosign-desktop-lead-to-remote-code-execution.html) | Security Affairs (Dark Web) | cloud, vulnerabilities | 2025-11-15 21:40 |
+| [Search resumes for missing fisherman, Pataua South](https://www.police.govt.nz/news/release/search-resumes-missing-fisherman-pataua-south) | New Zealand Police | ai | 2025-11-15 21:09 |
+| [Police stop antisocial road users in their tracks across Tāmaki Makaurau](https://www.police.govt.nz/news/release/police-stop-antisocial-road-users-their-tracks-across-t%C4%81maki-makaurau) | New Zealand Police | incident_response, policy | 2025-11-15 21:08 |
+| [Microsoft: Windows 10 KB5068781 ESU update may fail with 0x800f0922 errors](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-10-kb5068781-esu-update-may-fail-with-0x800f0922-errors/) | BleepingComputer News | ai, incident_response | 2025-11-15 20:42 |
+| [Police appeal for information after fatal hit and run, Henderson](https://www.police.govt.nz/news/release/police-appeal-information-after-fatal-hit-and-run-henderson) | New Zealand Police | ai, incident_response | 2025-11-15 20:38 |
+| [Decades-old ‘Finger’ protocol abused in ClickFix malware attacks](https://www.bleepingcomputer.com/news/security/decades-old-finger-protocol-abused-in-clickfix-malware-attacks/) | BleepingComputer News | apt, malware | 2025-11-15 18:46 |
+| [DoorDash hit by data breach after an employee falls for social engineering scam](https://hackread.com/doordash-data-breach-employee-social-engineering-scam/) | HackRead | ai, data_breach, incident_response, phishing | 2025-11-15 18:35 |
+| [RondoDox Exploits Unpatched XWiki Servers to Pull More Devices Into Its Botnet](https://thehackernews.com/2025/11/rondodox-exploits-unpatched-xwiki.html) | The Hacker News | ai, malware, policy, vulnerabilities | 2025-11-15 16:35 |
+| [Jaguar Land Rover cyberattack cost the company over $220 million](https://www.bleepingcomputer.com/news/security/jaguar-land-rover-cyberattack-cost-the-company-over-220-million/) | BleepingComputer News | unclassified | 2025-11-15 15:09 |
+| [Washington Post hack exposes personal data of John Bolton, almost 10,000 others](https://databreaches.net/2025/11/15/washington-post-hack-exposes-personal-data-of-john-bolton-almost-10000-others/?pk_campaign=feed&pk_kwd=washington-post-hack-exposes-personal-data-of-john-bolton-almost-10000-others) | DataBreaches.net (Notices) | ai, apt, data_breach, defense, iot | 2025-11-15 12:19 |
+| [Draft UK Cyber Security and Resilience Bill Enters UK Parliament](https://databreaches.net/2025/11/15/draft-uk-cyber-security-and-resilience-bill-enters-uk-parliament/?pk_campaign=feed&pk_kwd=draft-uk-cyber-security-and-resilience-bill-enters-uk-parliament) | DataBreaches.net (Notices) | ai, apt, data_breach, identity, iot, policy | 2025-11-15 12:19 |
+| [A Major Leak Spills a Chinese Hacking Contractor’s Tools and Targets](https://www.wired.com/story/major-leak-spills-chinese-hacking-contractor-tools-targets/) | Wired Security | ai, apt, data_breach | 2025-11-15 11:30 |
+| [Five Plead Guilty in U.S. for Helping North Korean IT Workers Infiltrate 136 Companies](https://thehackernews.com/2025/11/five-us-citizens-plead-guilty-to.html) | The Hacker News | unclassified | 2025-11-15 10:21 |
+| [U.S. CISA adds Fortinet FortiWeb flaw to its Known Exploited Vulnerabilities catalog](https://securityaffairs.com/184652/hacking/u-s-cisa-adds-fortinet-fortiweb-flaw-to-its-known-exploited-vulnerabilities-catalog-2.html) | Security Affairs (Dark Web) | policy, vulnerabilities | 2025-11-15 06:58 |
 
 ---
 
@@ -116,7 +95,7 @@
 - Washington AG Breach — 404, message='Not Found', url=URL('https://www.atg.wa.gov/rss/breach.xml')
 - U.K. ICO Monetary Penalties — 404, message='Not Found', url=URL('https://ico.org.uk/rss/news/')
 - Office of Australian Information Commissioner — 404, message='Not Found', url=URL('https://www.oaic.gov.au/rss/news')
-- OS Commissioner — 404, message='Not Found', url=URL('https://www.priv.gc.ca/en/rss/')
+- OS Commissioner — 403, message='Forbidden', url=URL('https://www.priv.gc.ca/en/rss/')
 - Europol Press Releases — 404, message='Not Found', url=URL('https://www.europol.europa.eu/rss/police-press-releases')
 - FBI Press Releases — 404, message='Not Found', url=URL('https://www.fbi.gov/feeds/press-releases-news.xml')
 - U.S. DOJ Press Releases — 404, message='Not Found', url=URL('https://www.justice.gov/rss/pressreleases/all')
