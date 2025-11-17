@@ -1,6 +1,6 @@
 <p align="center">
   <strong style="font-size:1.9rem;">Threat Intel Atlas · Daily Signal Briefing</strong><br />
-  <span style="font-size:1rem;color:#6ecff6;">Compiled from 167 intelligence sources · refreshed 2025-11-16 06:41 UTC</span>
+  <span style="font-size:1rem;color:#6ecff6;">Compiled from 167 intelligence sources · refreshed 2025-11-17 06:43 UTC</span>
 </p>
 
 ---
@@ -10,8 +10,8 @@
 | Metric | Value |
 | --- | --- |
 | Total signals retained | 1000 |
-| Signals detected in the last 24h | 19 |
-| Signals surfaced in this report | 19 |
+| Signals detected in the last 24h | 22 |
+| Signals surfaced in this report | 22 |
 
 ---
 
@@ -19,25 +19,28 @@
 
 | Title | Source | Tags | Published (UTC) |
 | --- | --- | --- | --- |
-| [Work ongoing to locate fourth deceased at Sanson fire scene](https://www.police.govt.nz/news/release/work-ongoing-locate-fourth-deceased-sanson-fire-scene) | New Zealand Police | incident_response | 2025-11-16 06:19 |
-| [Homicide investigation launched, Kaitaia](https://www.police.govt.nz/news/release/homicide-investigation-launched-kaitaia) | New Zealand Police | ai | 2025-11-16 03:21 |
-| [Renewed appeal for information for missing man Louis](https://www.police.govt.nz/news/release/renewed-appeal-information-missing-man-louis) | New Zealand Police | ai | 2025-11-15 23:34 |
-| [Police appealing for information after burglary in Napier South](https://www.police.govt.nz/news/release/police-appealing-information-after-burglary-napier-south) | New Zealand Police | incident_response | 2025-11-15 22:47 |
-| [Update: Fatal house fire incident, Sanson](https://www.police.govt.nz/news/release/update-fatal-house-fire-incident-sanson) | New Zealand Police | ai, incident_response | 2025-11-15 22:11 |
-| [Multiple Vulnerabilities in GoSign Desktop lead to Remote Code Execution](https://securityaffairs.com/184672/hacking/multiple-vulnerabilities-in-gosign-desktop-lead-to-remote-code-execution.html) | Security Affairs (Dark Web) | cloud, vulnerabilities | 2025-11-15 21:40 |
-| [Search resumes for missing fisherman, Pataua South](https://www.police.govt.nz/news/release/search-resumes-missing-fisherman-pataua-south) | New Zealand Police | ai | 2025-11-15 21:09 |
-| [Police stop antisocial road users in their tracks across Tāmaki Makaurau](https://www.police.govt.nz/news/release/police-stop-antisocial-road-users-their-tracks-across-t%C4%81maki-makaurau) | New Zealand Police | incident_response, policy | 2025-11-15 21:08 |
-| [Microsoft: Windows 10 KB5068781 ESU update may fail with 0x800f0922 errors](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-10-kb5068781-esu-update-may-fail-with-0x800f0922-errors/) | BleepingComputer News | ai, incident_response | 2025-11-15 20:42 |
-| [Police appeal for information after fatal hit and run, Henderson](https://www.police.govt.nz/news/release/police-appeal-information-after-fatal-hit-and-run-henderson) | New Zealand Police | ai, incident_response | 2025-11-15 20:38 |
-| [Decades-old ‘Finger’ protocol abused in ClickFix malware attacks](https://www.bleepingcomputer.com/news/security/decades-old-finger-protocol-abused-in-clickfix-malware-attacks/) | BleepingComputer News | apt, malware | 2025-11-15 18:46 |
-| [DoorDash hit by data breach after an employee falls for social engineering scam](https://hackread.com/doordash-data-breach-employee-social-engineering-scam/) | HackRead | ai, data_breach, incident_response, phishing | 2025-11-15 18:35 |
-| [RondoDox Exploits Unpatched XWiki Servers to Pull More Devices Into Its Botnet](https://thehackernews.com/2025/11/rondodox-exploits-unpatched-xwiki.html) | The Hacker News | ai, malware, policy, vulnerabilities | 2025-11-15 16:35 |
-| [Jaguar Land Rover cyberattack cost the company over $220 million](https://www.bleepingcomputer.com/news/security/jaguar-land-rover-cyberattack-cost-the-company-over-220-million/) | BleepingComputer News | unclassified | 2025-11-15 15:09 |
-| [Washington Post hack exposes personal data of John Bolton, almost 10,000 others](https://databreaches.net/2025/11/15/washington-post-hack-exposes-personal-data-of-john-bolton-almost-10000-others/?pk_campaign=feed&pk_kwd=washington-post-hack-exposes-personal-data-of-john-bolton-almost-10000-others) | DataBreaches.net (Notices) | ai, apt, data_breach, defense, iot | 2025-11-15 12:19 |
-| [Draft UK Cyber Security and Resilience Bill Enters UK Parliament](https://databreaches.net/2025/11/15/draft-uk-cyber-security-and-resilience-bill-enters-uk-parliament/?pk_campaign=feed&pk_kwd=draft-uk-cyber-security-and-resilience-bill-enters-uk-parliament) | DataBreaches.net (Notices) | ai, apt, data_breach, identity, iot, policy | 2025-11-15 12:19 |
-| [A Major Leak Spills a Chinese Hacking Contractor’s Tools and Targets](https://www.wired.com/story/major-leak-spills-chinese-hacking-contractor-tools-targets/) | Wired Security | ai, apt, data_breach | 2025-11-15 11:30 |
-| [Five Plead Guilty in U.S. for Helping North Korean IT Workers Infiltrate 136 Companies](https://thehackernews.com/2025/11/five-us-citizens-plead-guilty-to.html) | The Hacker News | unclassified | 2025-11-15 10:21 |
-| [U.S. CISA adds Fortinet FortiWeb flaw to its Known Exploited Vulnerabilities catalog](https://securityaffairs.com/184652/hacking/u-s-cisa-adds-fortinet-fortiweb-flaw-to-its-known-exploited-vulnerabilities-catalog-2.html) | Security Affairs (Dark Web) | policy, vulnerabilities | 2025-11-15 06:58 |
+| [Merge PR #5757 from @nasbench - Clone #5504](https://github.com/SigmaHQ/sigma/commit/ddcccfe4d3180f7ec0006f5a9a0f17942bc91047) | SigmaHQ Core Rules | unclassified | 2025-11-17 06:38 |
+| [Two people in court after disappointing weekend on Marlborough roads](https://www.police.govt.nz/news/release/two-people-court-after-disappointing-weekend-marlborough-roads) | New Zealand Police | ai, incident_response | 2025-11-17 03:33 |
+| [Update: Fatal house fire incident, Sanson](https://www.police.govt.nz/news/release/update-fatal-house-fire-incident-sanson-0) | New Zealand Police | ai, incident_response | 2025-11-17 02:52 |
+| [Sudden death – Riversdale Beach, Wairarapa](https://www.police.govt.nz/news/release/sudden-death-%E2%80%93-riversdale-beach-wairarapa) | New Zealand Police | ai, incident_response | 2025-11-17 01:53 |
+| [AIPAC Discloses Data Breach, Says Hundreds Affected](https://hackread.com/aipac-data-breach-hundreds-affected/) | HackRead | ai, data_breach | 2025-11-17 01:23 |
+| [Phase Three of Mental Health Response Change Programme begins](https://www.police.govt.nz/news/release/phase-three-mental-health-response-change-programme-begins) | New Zealand Police | ai | 2025-11-17 01:15 |
+| [Sudden death at Takapuna Beach](https://www.police.govt.nz/news/release/sudden-death-takapuna-beach) | New Zealand Police | ai, identity, incident_response | 2025-11-17 00:18 |
+| [Man sought for escaping custody arrested](https://www.police.govt.nz/news/release/man-sought-escaping-custody-arrested) | New Zealand Police | ai | 2025-11-17 00:11 |
+| [Media advisory: Fatal house fire incident, Sanson](https://www.police.govt.nz/news/release/media-advisory-fatal-house-fire-incident-sanson) | New Zealand Police | ai, incident_response | 2025-11-16 23:55 |
+| [Three off to court following quick Police work](https://www.police.govt.nz/news/release/three-court-following-quick-police-work) | New Zealand Police | unclassified | 2025-11-16 23:21 |
+| [Search resumes for missing fisherman off Northland coast](https://www.police.govt.nz/news/release/search-resumes-missing-fisherman-northland-coast) | New Zealand Police | ai | 2025-11-16 23:09 |
+| [Police appeal for information following serious assault in Edendale](https://www.police.govt.nz/news/release/police-appeal-information-following-serious-assault-edendale) | New Zealand Police | ai | 2025-11-16 23:06 |
+| [Microsoft Patch Tuesday, November 2025 Edition](https://krebsonsecurity.com/2025/11/microsoft-patch-tuesday-november-2025-edition/) | Krebs on Security (Signals) | phishing, policy, vulnerabilities | 2025-11-16 21:47 |
+| [Five admit helping North Korea evade sanctions through IT worker schemes](https://securityaffairs.com/184712/cyber-crime/five-admit-helping-north-korea-evade-sanctions-through-it-worker-schemes.html) | Security Affairs (Dark Web) | ai | 2025-11-16 21:39 |
+| [Bump pytest from 8.4.2 to 9.0.0 (#3227)](https://github.com/redcanaryco/atomic-red-team/commit/e197ef4b0c4570a40de0ea087f7019d863baabd6) | Atomic Red Team | unclassified | 2025-11-16 19:01 |
+| [Bump hypothesis from 6.145.0 to 6.147.0 (#3228)](https://github.com/redcanaryco/atomic-red-team/commit/9a6f46abbcc1dd1081d79c3a42f9f7c3b8645c99) | Atomic Red Team | unclassified | 2025-11-16 18:24 |
+| [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 71](https://securityaffairs.com/184695/malware/security-affairs-malware-newsletter-round-71.html) | Security Affairs (Dark Web) | ai, apt, incident_response, malware | 2025-11-16 15:36 |
+| [Security Affairs newsletter Round 550 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/184688/breaking-news/security-affairs-newsletter-round-550-by-pierluigi-paganini-international-edition.html) | Security Affairs (Dark Web) | ai, incident_response, policy, vulnerabilities | 2025-11-16 15:27 |
+| [Google to flag Android apps with excessive battery use on the Play Store](https://www.bleepingcomputer.com/news/security/google-to-flag-android-apps-with-excessive-battery-use-on-the-play-store/) | BleepingComputer News | ai, mobile | 2025-11-16 15:15 |
+| [Checkout.com Discloses Data Breach After Extortion Attempt](https://databreaches.net/2025/11/16/checkout-com-discloses-data-breach-after-extortion-attempt/?pk_campaign=feed&pk_kwd=checkout-com-discloses-data-breach-after-extortion-attempt) | DataBreaches.net (Notices) | ai, apt, cloud, data_breach, incident_response, iot, supply_chain | 2025-11-16 13:29 |
+| [Weekly Update 478](https://www.troyhunt.com/weekly-update-478/) | Troy Hunt Blog | unclassified | 2025-11-16 08:13 |
+| [Anthropic: China-backed hackers launch first large-scale autonomous AI cyberattack](https://securityaffairs.com/184666/hacking/anthropic-china-backed-hackers-launch-first-large-scale-autonomous-ai-cyberattack.html) | Security Affairs (Dark Web) | ai, apt, incident_response, policy | 2025-11-16 07:56 |
 
 ---
 
@@ -95,7 +98,7 @@
 - Washington AG Breach — 404, message='Not Found', url=URL('https://www.atg.wa.gov/rss/breach.xml')
 - U.K. ICO Monetary Penalties — 404, message='Not Found', url=URL('https://ico.org.uk/rss/news/')
 - Office of Australian Information Commissioner — 404, message='Not Found', url=URL('https://www.oaic.gov.au/rss/news')
-- OS Commissioner — 403, message='Forbidden', url=URL('https://www.priv.gc.ca/en/rss/')
+- OS Commissioner — 404, message='Not Found', url=URL('https://www.priv.gc.ca/en/rss/')
 - Europol Press Releases — 404, message='Not Found', url=URL('https://www.europol.europa.eu/rss/police-press-releases')
 - FBI Press Releases — 404, message='Not Found', url=URL('https://www.fbi.gov/feeds/press-releases-news.xml')
 - U.S. DOJ Press Releases — 404, message='Not Found', url=URL('https://www.justice.gov/rss/pressreleases/all')
