@@ -1,6 +1,6 @@
 <p align="center">
   <strong style="font-size:1.9rem;">Threat Intel Atlas · Daily Signal Briefing</strong><br />
-  <span style="font-size:1rem;color:#6ecff6;">Compiled from 167 intelligence sources · refreshed 2025-11-20 06:42 UTC</span>
+  <span style="font-size:1rem;color:#6ecff6;">Compiled from 167 intelligence sources · refreshed 2025-11-21 06:44 UTC</span>
 </p>
 
 ---
@@ -10,8 +10,8 @@
 | Metric | Value |
 | --- | --- |
 | Total signals retained | 1000 |
-| Signals detected in the last 24h | 75 |
-| Signals surfaced in this report | 75 |
+| Signals detected in the last 24h | 70 |
+| Signals surfaced in this report | 70 |
 
 ---
 
@@ -19,46 +19,46 @@
 
 | Title | Source | Tags | Published (UTC) |
 | --- | --- | --- | --- |
-| [Trio before the courts following Operation Mist](https://www.police.govt.nz/news/release/trio-courts-following-operation-mist) | New Zealand Police | unclassified | 2025-11-20 05:09 |
-| [TamperedChef Malware Spreads via Fake Software Installers in Ongoing Global Campaign](https://thehackernews.com/2025/11/tamperedchef-malware-spreads-via-fake.html) | The Hacker News | ai, apt, malware | 2025-11-20 04:06 |
-| [Warrant to arrest: Kayci Tapine](https://www.police.govt.nz/news/release/warrant-arrest-kayci-tapine) | New Zealand Police | ai | 2025-11-20 03:39 |
-| [Update: Waikanae homicide investigation](https://www.police.govt.nz/news/release/update-waikanae-homicide-investigation) | New Zealand Police | ai, incident_response | 2025-11-20 03:08 |
-| [Man in court after spate of crimes in Feilding](https://www.police.govt.nz/news/release/man-court-after-spate-crimes-feilding) | New Zealand Police | unclassified | 2025-11-20 01:06 |
-| [Update: Allegations of electoral fraud, Ōtara-Papatoetoe](https://www.police.govt.nz/news/release/update-allegations-electoral-fraud-%C5%8Dtara-papatoetoe) | New Zealand Police | ai, incident_response | 2025-11-20 00:56 |
-| [Fatal crash, Mount Eden](https://www.police.govt.nz/news/release/fatal-crash-mount-eden) | New Zealand Police | ai, incident_response | 2025-11-20 00:41 |
-| [Police stop alleged offenders in their tracks](https://www.police.govt.nz/news/release/police-stop-alleged-offenders-their-tracks) | New Zealand Police | ai, incident_response | 2025-11-20 00:35 |
-| [Death following fatal Manawatū crash](https://www.police.govt.nz/news/release/death-following-fatal-manawat%C5%AB-crash) | New Zealand Police | ai, incident_response | 2025-11-19 23:40 |
-| [Kaitaia homicide: Name release](https://www.police.govt.nz/news/release/kaitaia-homicide-name-release-0) | New Zealand Police | ai, incident_response | 2025-11-19 22:46 |
-| [Bump hypothesis from 6.147.0 to 6.148.1 (#3230)](https://github.com/redcanaryco/atomic-red-team/commit/340a7b9e5f936117baa6c0d1311e967a8d022254) | Atomic Red Team | unclassified | 2025-11-19 22:37 |
-| [Homicide enquiry underway in Waikanae](https://www.police.govt.nz/news/release/homicide-enquiry-underway-waikanae) | New Zealand Police | ai, incident_response | 2025-11-19 22:26 |
-| [WIRED Roundup: DHS’s Privacy Breach, AI Romantic Affairs, and Google Sues Text Scammers](https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-dhs-privacy-breach-ai-romantic-affairs-google-sues-text-scammers/) | Wired Security | ai, data_breach, incident_response | 2025-11-19 22:09 |
-| [Sneaky2FA PhaaS kit now uses redteamers' Browser-in-the-Browser attack](https://www.bleepingcomputer.com/news/security/sneaky2fa-phaas-kit-now-uses-redteamers-browser-in-the-browser-attack/) | BleepingComputer News | phishing | 2025-11-19 21:59 |
-| [Lawmakers reintroduce bill to bolster cybersecurity at Securities and Exchange Commission](https://therecord.media/lawmakers-bill-beefs-security-sec) | The Record (Signals) | policy | 2025-11-19 21:37 |
-| [U.S. CISA adds a Google Chromium V8 flaw to its Known Exploited Vulnerabilities catalog](https://securityaffairs.com/184856/hacking/u-s-cisa-adds-a-google-chromium-v8-flaw-to-its-known-exploited-vulnerabilities-catalog.html) | Security Affairs (Dark Web) | cloud, policy, vulnerabilities | 2025-11-19 21:12 |
-| [Google's Gemini 3 is living up to the hype and creating games in one shot](https://www.bleepingcomputer.com/news/artificial-intelligence/googles-gemini-3-is-living-up-to-the-hype-and-creating-games-in-one-shot/) | BleepingComputer News | unclassified | 2025-11-19 20:39 |
-| [International operation traces $55 million crypto trail of digital piracy sites](https://therecord.media/international-operation-traces-millions-crypto-streaming-piracy) | The Record (Signals) | ai, incident_response | 2025-11-19 19:52 |
-| [Google Search is now using AI to create interactive UI to answer your questions](https://www.bleepingcomputer.com/news/artificial-intelligence/google-search-is-now-using-ai-to-create-interactive-ui-to-answer-your-questions/) | BleepingComputer News | ai | 2025-11-19 19:45 |
-| [7-Zip RCE flaw (CVE-2025-11001) actively exploited in attacks in the wild](https://securityaffairs.com/184850/security/7-zip-rce-flaw-cve-2025-11001-actively-exploited-in-attacks-in-the-wild.html) | Security Affairs (Dark Web) | policy, vulnerabilities | 2025-11-19 19:23 |
-| [UK Exposes Bulletproof Hosting Operator Linked to LockBit and Evil Corp](https://hackread.com/uk-bulletproof-hosting-operator-lockbit-evil-corp/) | HackRead | malware | 2025-11-19 19:02 |
-| [Operation WrtHug hijacks 50,000+ ASUS routers to build a global botnet](https://securityaffairs.com/184841/cyber-crime/operation-wrthug-hijacks-50000-asus-routers-to-build-a-global-botnet.html) | Security Affairs (Dark Web) | ai, apt, malware | 2025-11-19 18:31 |
-| [US, allies sanction Russian bulletproof hosting services for ransomware support](https://therecord.media/bulletproof-hosting-sanctions-ransomware) | The Record (Signals) | malware | 2025-11-19 18:23 |
-| [Canadian privacy regulators say schools share blame for PowerSchool hack](https://therecord.media/canadian-privacy-regulators-say-schools-share-blame-powerschool-hack) | The Record (Signals) | incident_response | 2025-11-19 17:41 |
-| [W3 Total Cache WordPress plugin vulnerable to PHP command injection](https://www.bleepingcomputer.com/news/security/w3-total-cache-wordpress-plugin-vulnerable-to-php-command-injection/) | BleepingComputer News | ai, malware, policy, vulnerabilities | 2025-11-19 17:34 |
-| [European Commission ‘simplification’ proposal would weaken GDPR, AI regulations](https://therecord.media/european-commission-proposal-gdpr-ai-simplification) | The Record (Signals) | ai, incident_response, policy | 2025-11-19 16:52 |
-| [Hacker Selling Alleged Samsung Medison Data Stolen In 3rd Party Breach](https://hackread.com/hacker-samsung-medison-data-breach-3rd-party/) | HackRead | ai, data_breach, incident_response | 2025-11-19 16:47 |
-| [Russian bulletproof hosting provider sanctioned over ransomware ties](https://www.bleepingcomputer.com/news/security/us-sanctions-russian-bulletproof-hosting-provider-media-land-over-ransomware-ties/) | BleepingComputer News | malware | 2025-11-19 16:43 |
-| [Hackers Actively Exploiting 7-Zip Symbolic Link–Based RCE Vulnerability (CVE-2025-11001)](https://thehackernews.com/2025/11/hackers-actively-exploiting-7-zip.html) | The Hacker News | policy, vulnerabilities | 2025-11-19 16:27 |
-| [Mac users warned about new DigitStealer information stealer](https://www.malwarebytes.com/blog/news/2025/11/mac-users-warned-about-new-digitstealer-information-stealer) | Malwarebytes Labs (News) | malware | 2025-11-19 16:23 |
-| [Report released on PowerSchool cyber attack](https://databreaches.net/2025/11/19/report-released-on-powerschool-cyber-attack/?pk_campaign=feed&pk_kwd=report-released-on-powerschool-cyber-attack) | DataBreaches.net (Notices) | ai, apt, data_breach, iot | 2025-11-19 16:23 |
-| [Europol Operation Disrupts $55m in Cryptocurrency For Piracy](https://www.infosecurity-magazine.com/news/europol-disrupts-cryptocurrency/) | InfoSecurity Magazine News | incident_response | 2025-11-19 16:00 |
-| [Seraphic Becomes the First and Only Secure Enterprise Browser Solution to Protect Electron-Based Applications](https://hackread.com/seraphic-becomes-the-first-and-only-secure-enterprise-browser-solution-to-protect-electron-based-applications/) | HackRead | incident_response, phishing | 2025-11-19 15:43 |
-| [Python-Based WhatsApp Worm Spreads Eternidade Stealer Across Brazilian Devices](https://thehackernews.com/2025/11/python-based-whatsapp-worm-spreads.html) | The Hacker News | ai, apt, malware, phishing | 2025-11-19 15:35 |
-| [Fortinet Issues Fixes as FortiWeb Takeover Flaw Sees Active Attacks](https://hackread.com/fortinet-fixes-fortiweb-takeover-flaw-active-attacks/) | HackRead | policy, vulnerabilities | 2025-11-19 15:29 |
-| [Eternidade Stealer Trojan Fuels Aggressive Brazil Cybercrime](https://www.infosecurity-magazine.com/news/eternidade-stealer-trojan-brazil/) | InfoSecurity Magazine News | malware | 2025-11-19 15:00 |
-| [Sue The Hackers – Google Sues Over Phishing as a Service](https://databreaches.net/2025/11/19/sue-the-hackers-google-sues-over-phishing-as-a-service/?pk_campaign=feed&pk_kwd=sue-the-hackers-google-sues-over-phishing-as-a-service) | DataBreaches.net (Notices) | ai, apt, data_breach, iot, phishing, policy | 2025-11-19 14:44 |
-| [Princeton University Data Breach Impacts Alumni, Students, Employees](https://databreaches.net/2025/11/19/princeton-university-data-breach-impacts-alumni-students-employees/?pk_campaign=feed&pk_kwd=princeton-university-data-breach-impacts-alumni-students-employees) | DataBreaches.net (Notices) | ai, apt, data_breach, incident_response, iot | 2025-11-19 14:44 |
-| [Eurofiber admits crooks swiped data from French unit after cyberattack](https://databreaches.net/2025/11/19/eurofiber-admits-crooks-swiped-data-from-french-unit-after-cyberattack/?pk_campaign=feed&pk_kwd=eurofiber-admits-crooks-swiped-data-from-french-unit-after-cyberattack) | DataBreaches.net (Notices) | ai, apt, cloud, data_breach, incident_response, iot | 2025-11-19 14:44 |
-| [Five major changes to the regulation of cybersecurity in the UK under the Cyber Security and Resilience Bill](https://databreaches.net/2025/11/19/five-major-changes-to-the-regulation-of-cybersecurity-in-the-uk-under-the-cyber-security-and-resilience-bill/?pk_campaign=feed&pk_kwd=five-major-changes-to-the-regulation-of-cybersecurity-in-the-uk-under-the-cyber-security-and-resilience-bill) | DataBreaches.net (Notices) | ai, apt, data_breach, iot, policy | 2025-11-19 14:44 |
+| [Merge PR #5519 from @jstnk9 - Suspicious Use of for Loop with Directo…](https://github.com/SigmaHQ/sigma/commit/55e61044ff87b2cc208e46750943cd7a5d5cc6c6) | SigmaHQ Core Rules | incident_response | 2025-11-21 06:41 |
+| [Salesforce Flags Unauthorized Data Access via Gainsight-Linked OAuth Activity](https://thehackernews.com/2025/11/salesforce-flags-unauthorized-data.html) | The Hacker News | ai, cloud, incident_response | 2025-11-21 05:32 |
+| [Man to appear in court after baby receives injuries](https://www.police.govt.nz/news/release/man-appear-court-after-baby-receives-injuries) | New Zealand Police | ai | 2025-11-21 05:20 |
+| [Wanted to arrest: Dean Shedden](https://www.police.govt.nz/news/release/wanted-arrest-dean-shedden) | New Zealand Police | ai, incident_response | 2025-11-21 04:37 |
+| [Police investigation saves tourist’s 11th hour dilemma](https://www.police.govt.nz/news/release/police-investigation-saves-tourist%E2%80%99s-11th-hour-dilemma) | New Zealand Police | unclassified | 2025-11-21 04:11 |
+| [Police find hole in alleged burglar’s story](https://www.police.govt.nz/news/release/police-find-hole-alleged-burglar%E2%80%99s-story) | New Zealand Police | unclassified | 2025-11-21 00:57 |
+| [Young people arrested after aggravated robbery, Napier](https://www.police.govt.nz/news/release/young-people-arrested-after-aggravated-robbery-napier) | New Zealand Police | ai, incident_response, policy | 2025-11-21 00:54 |
+| [Violent assault lands man in court](https://www.police.govt.nz/news/release/violent-assault-lands-man-court) | New Zealand Police | ai | 2025-11-21 00:33 |
+| [UK drug funds flowed into bank tied to Russian spy services, military](https://therecord.media/uk-drug-funds-flowed-into-bank-tied-to-russia) | The Record (Signals) | incident_response | 2025-11-21 00:01 |
+| [Name release: Fatal crash, Whitianga](https://www.police.govt.nz/news/release/name-release-fatal-crash-whitianga) | New Zealand Police | ai, incident_response | 2025-11-20 23:30 |
+| [Salesforce cuts off access to third-party app after discovering ‘unusual activity’](https://therecord.media/salesforce-cuts-off-access-to-third-party-unusual-activity) | The Record (Signals) | ai, incident_response, supply_chain | 2025-11-20 23:10 |
+| [Researchers devised a new enumeration technique that exposed 3.5B WhatsApp profiles](https://securityaffairs.com/184886/mobile-2/researchers-devised-a-new-enumeration-technique-that-exposed-3-5b-whatsapp-profiles.html) | Security Affairs (Dark Web) | policy, vulnerabilities | 2025-11-20 22:56 |
+| [4 People Indicted in Alleged Conspiracy to Smuggle Supercomputers and Nvidia Chips to China](https://www.wired.com/story/smuggling-supercomputers-china-nvidia-indictment/) | Wired Security | incident_response | 2025-11-20 22:26 |
+| [Appeal following crashes in Timaru](https://www.police.govt.nz/news/release/appeal-following-crashes-timaru) | New Zealand Police | ai, incident_response | 2025-11-20 22:24 |
+| [Privacy oversight board finds FBI does not buy real-time location data](https://therecord.media/pclob-finds-fbi-does-not-use-real-time-location-data) | The Record (Signals) | unclassified | 2025-11-20 22:19 |
+| [Google exposes BadAudio malware used in APT24 espionage campaigns](https://www.bleepingcomputer.com/news/security/google-exposes-badaudio-malware-used-in-apt24-espionage-campaigns/) | BleepingComputer News | ai, apt, malware | 2025-11-20 22:12 |
+| [GenAI: Harness the Power, Eliminate the Risk — A Practical Playbook for Securing AI from Day One](https://blog.qualys.com/category/product-tech) | Qualys | ai, incident_response | 2025-11-20 21:36 |
+| [Budget Samsung phones shipped with unremovable spyware, say researchers](https://www.malwarebytes.com/blog/news/2025/11/budget-samsung-phones-shipped-with-unremovable-spyware-say-researchers) | Malwarebytes Labs (News) | ai, cloud, incident_response | 2025-11-20 21:30 |
+| [Sturnus: New Android banking trojan targets WhatsApp, Telegram, and Signal](https://securityaffairs.com/184878/cyber-crime/sturnus-new-android-banking-trojan-targets-whatsapp-telegram-and-signal.html) | Security Affairs (Dark Web) | apt, defense, identity, malware, mobile | 2025-11-20 20:44 |
+| [Coordinated sanctions hit Russian bulletproof hosting providers enabling top ransomware Ops](https://securityaffairs.com/184871/cyber-crime/coordinated-sanctions-hit-russian-bulletproof-hosting-providers-enabling-top-ransomware-ops.html) | Security Affairs (Dark Web) | ai, incident_response, malware | 2025-11-20 19:12 |
+| [Mozilla Says It’s Finally Done With Two-Faced Onerep](https://krebsonsecurity.com/2025/11/mozilla-says-its-finally-done-with-two-faced-onerep/) | Krebs on Security (Signals) | ai, identity, incident_response | 2025-11-20 19:06 |
+| [It’s not personal, it’s just business](https://blog.talosintelligence.com/its-not-personal-its-just-business/) | Cisco Talos | ai | 2025-11-20 19:00 |
+| [Hacker claims to steal 2.3TB data from Italian rail group, Almaviva](https://www.bleepingcomputer.com/news/security/hacker-claims-to-steal-23tb-data-from-italian-rail-group-almaviva/) | BleepingComputer News | ai, apt, data_breach | 2025-11-20 18:54 |
+| [New Android malware can capture private messages, researchers warn](https://therecord.media/new-android-malware-captures-private-messages) | The Record (Signals) | apt, malware, mobile | 2025-11-20 17:41 |
+| [Everest Ransomware Says It Breached Brazilian Energy Giant Petrobras](https://hackread.com/everest-ransomware-brazil-petrobras-breach/) | HackRead | ai, data_breach, malware | 2025-11-20 17:41 |
+| [Man charged in relation to Dunedin arsons](https://www.police.govt.nz/news/release/man-charged-relation-dunedin-arsons) | New Zealand Police | incident_response | 2025-11-20 17:39 |
+| [ShadowRay 2.0 Exploits Unpatched Ray Flaw to Build Self-Spreading GPU Cryptomining Botnet](https://thehackernews.com/2025/11/shadowray-20-exploits-unpatched-ray.html) | The Hacker News | ai, malware, policy, vulnerabilities | 2025-11-20 17:24 |
+| [GlobalProtect VPN portals probed with 2.3 million scan sessions](https://www.bleepingcomputer.com/news/security/globalprotect-vpn-portals-probed-with-23-million-scan-sessions/) | BleepingComputer News | ai | 2025-11-20 17:08 |
+| [FCC spikes Biden-era cyber regulations prompted by Salt Typhoon telecom breaches](https://therecord.media/fcc-removes-biden-era-cybersecurity-rules-telecoms-salt-typhoon) | The Record (Signals) | data_breach, policy | 2025-11-20 17:00 |
+| [Android Quick Share Support for AirDrop: A Secure Approach to Cross-Platform File Sharing](http://security.googleblog.com/2025/11/android-quick-share-support-for-airdrop-security.html) | Google Security Blog | ai, data_breach, identity, incident_response, mobile, phishing, supply_chain, vulnerabilities | 2025-11-20 17:00 |
+| [Tsundere Botnet Expands Using Game Lures and Ethereum-Based C2 on Windows](https://thehackernews.com/2025/11/tsundere-botnet-expands-using-game.html) | The Hacker News | ai, defense, malware | 2025-11-20 16:57 |
+| [Salesforce investigates customer data theft via Gainsight breach](https://www.bleepingcomputer.com/news/security/salesforce-investigates-customer-data-theft-via-gainsight-breach/) | BleepingComputer News | ai, data_breach | 2025-11-20 16:47 |
+| [Threat actors have reportedly launched yet another campaign involving an application connected to Salesforce](https://databreaches.net/2025/11/20/threat-actors-have-reportedly-launched-yet-another-campaign-involving-an-application-connected-to-salesforce/?pk_campaign=feed&pk_kwd=threat-actors-have-reportedly-launched-yet-another-campaign-involving-an-application-connected-to-salesforce) | DataBreaches.net (Notices) | ai, apt, data_breach, incident_response, iot | 2025-11-20 16:35 |
+| [What the Flock is happening with license plate readers?](https://www.malwarebytes.com/blog/privacy/2025/11/what-the-flock-is-happening-with-license-plate-readers) | Malwarebytes Labs (News) | unclassified | 2025-11-20 16:34 |
+| [UNC2891 Money Mule Network Reveals Full Scope of ATM Fraud Operation](https://www.infosecurity-magazine.com/news/unc2891-money-mule-network-atm/) | InfoSecurity Magazine News | ai, apt | 2025-11-20 16:00 |
+| [New SonicWall SonicOS flaw allows hackers to crash firewalls](https://www.bleepingcomputer.com/news/security/new-sonicwall-sonicos-flaw-allows-hackers-to-crash-firewalls/) | BleepingComputer News | incident_response, policy, vulnerabilities | 2025-11-20 15:56 |
+| [D-Link warns of new RCE flaws in end-of-life DIR-878 routers](https://www.bleepingcomputer.com/news/security/d-link-warns-of-new-rce-flaws-in-end-of-life-dir-878-routers/) | BleepingComputer News | ai, cloud, incident_response, policy, vulnerabilities | 2025-11-20 15:38 |
+| [Turn your Windows 11 migration into a security opportunity](https://www.bleepingcomputer.com/news/security/turn-your-windows-11-migration-into-a-security-opportunity/) | BleepingComputer News | ai, malware | 2025-11-20 15:05 |
+| [CISA Issues New Guidance on Bulletproof Hosting Threat](https://www.infosecurity-magazine.com/news/cisa-guidance-bulletproof-hosting/) | InfoSecurity Magazine News | policy | 2025-11-20 15:00 |
+| [Supply Chain Breaches Impact Almost All Firms Globally, BlueVoyant Reveals](https://www.infosecurity-magazine.com/news/supply-chain-breaches-impact/) | InfoSecurity Magazine News | ai, data_breach, incident_response, supply_chain | 2025-11-20 14:15 |
 
 ---
 
@@ -79,7 +79,7 @@
 - Tripwire State of Security — 403, message='Forbidden', url=URL('https://www.tripwire.com/state-of-security/feed/')
 - PhishLabs Blog — 403, message='Forbidden', url=URL('https://www.phishlabs.com/blog/feed/')
 - Webroot — 500, message='Internal Server Error', url=URL('https://www.webroot.com/blog/feed')
-- Dark Reading — 403, message='Forbidden', url=URL('https://www.darkreading.com/rss/all.xml')
+- Dark Reading — 403, message='Forbidden', url=URL('http://www.darkreading.com/rss/all.xml')
 - Ars Technica Security — 404, message='Not Found', url=URL('http://feeds.arstechnica.com/arstechnica/security')
 - Abuse.ch Feodo Tracker — 404, message='Not Found', url=URL('https://feodotracker.abuse.ch/feeds/rss.xml')
 - Abuse.ch URLhaus — 404, message='Not Found', url=URL('https://urlhaus.abuse.ch/feeds/rss/')
@@ -92,7 +92,6 @@
 - BadIPs — Cannot connect to host www.badips.com:443 ssl:default [Name or service not known]
 - Domaineyes Sinkhole Feed — Server disconnected
 - ThreatMiner C2 Feed — 404, message='Not Found', url=URL('https://www.threatminer.org/rss.php?type=C2')
-- Hunt.io IOC Hunter — 404, message='Not Found', url=URL('https://hunt.io/ioc-feed/rss')
 - OpenPhish — 404, message='Not Found', url=URL('https://openphish.com/feed.xml')
 - PhishLabs Blog (Phishing) — 403, message='Forbidden', url=URL('https://www.phishlabs.com/blog/feed/')
 - Spamhaus Phishing — 404, message='Not Found', url=URL('https://www.spamhaus.org/phishing_lasso')
@@ -108,7 +107,7 @@
 - PrivacyWeek — Cannot connect to host privacyweeknews.com:443 ssl:default [Name or service not known]
 - DailyDarkWeb — 404, message='Not Found', url=URL('https://www.dailydarkweb.com/rss')
 - CyberNews — 403, message='Forbidden', url=URL('https://cybernews.com/feed/')
-- DarkFeed.io — 404, message='Not Found', url=URL('https://darkfeed.io/feed.xml')
+- DarkFeed.io — 500, message='Internal Server Error', url=URL('https://darkfeed.io/feed.xml')
 - Emsisoft Security Blog — Cannot connect to host news.emsisoft.com:443 ssl:default [No address associated with hostname]
 - HHS OCR Breach Portal — 404, message='404', url=URL('https://ocrportal.hhs.gov/ocr/breach/rss')
 - California AG Breach Notice — 404, message='Not Found', url=URL('https://oag.ca.gov/sites/all/modules/custom/oag_noticelist/rss.xml')
@@ -133,7 +132,7 @@
 - Risky Business News — 403, message='Forbidden', url=URL('https://riskybiznews.substack.com/feed')
 - The Guardian Tech Security — 404, message='Not Found', url=URL('https://www.theguardian.com/technology/series/security/rss')
 - Ars Technica Security (Signals) — 404, message='Not Found', url=URL('http://feeds.arstechnica.com/arstechnica/security')
-- Motherboard Vice — 403, message='Forbidden', url=URL('https://www.vice.com/en/rss/topic/cybersecurity')
+- Motherboard Vice — 404, message='Not Found', url=URL('https://www.vice.com/rss/tag/cybersecurity/')
 - CyberWire Daily Brief — 404, message='Not Found', url=URL('https://thecyberwire.com/podcasts/daily-podcast/rss')
 - Risky Business — 404, message='Not Found', url=URL('https://risky.biz/newsfeed.php')
 - Cyber Weekly — 403, message='Forbidden', url=URL('https://cyberweekly.substack.com/feed')
