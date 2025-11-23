@@ -1,6 +1,6 @@
 <p align="center">
   <strong style="font-size:1.9rem;">Threat Intel Atlas · Daily Signal Briefing</strong><br />
-  <span style="font-size:1rem;color:#6ecff6;">Compiled from 167 intelligence sources · refreshed 2025-11-22 06:40 UTC</span>
+  <span style="font-size:1rem;color:#6ecff6;">Compiled from 167 intelligence sources · refreshed 2025-11-23 06:41 UTC</span>
 </p>
 
 ---
@@ -10,8 +10,8 @@
 | Metric | Value |
 | --- | --- |
 | Total signals retained | 1000 |
-| Signals detected in the last 24h | 52 |
-| Signals surfaced in this report | 52 |
+| Signals detected in the last 24h | 12 |
+| Signals surfaced in this report | 12 |
 
 ---
 
@@ -19,46 +19,18 @@
 
 | Title | Source | Tags | Published (UTC) |
 | --- | --- | --- | --- |
-| [Fatal crash, Manuka Street, Matamata](https://www.police.govt.nz/news/release/fatal-crash-manuka-street-matamata) | New Zealand Police | ai, incident_response | 2025-11-22 03:52 |
-| [Update: Name release, fatal house fire incident, Sanson](https://www.police.govt.nz/news/release/update-name-release-fatal-house-fire-incident-sanson) | New Zealand Police | incident_response | 2025-11-22 03:13 |
-| [CISA warns Oracle Identity Manager RCE flaw is being actively exploited](https://www.bleepingcomputer.com/news/security/cisa-warns-oracle-identity-manager-rce-flaw-is-being-actively-exploited/) | BleepingComputer News | identity, policy, vulnerabilities | 2025-11-21 23:50 |
-| [Friday Squid Blogging: New “Squid” Sneaker](https://www.schneier.com/blog/archives/2025/11/friday-squid-blogging-new-squid-sneaker.html) | Schneier on Security | policy | 2025-11-21 22:08 |
-| [CrowdStrike denies breach after insider sent internal screenshots to hackers](https://securityaffairs.com/184926/security/crowdstrike-denies-breach-after-insider-sent-internal-screenshots-to-hackers.html) | Security Affairs (Dark Web) | ai, data_breach, incident_response | 2025-11-21 21:31 |
-| [Des Moines Man Charged with Computer Fraud](https://databreaches.net/2025/11/21/des-moines-man-charged-with-computer-fraud/?pk_campaign=feed&pk_kwd=des-moines-man-charged-with-computer-fraud) | DataBreaches.net (Notices) | ai, apt, data_breach, iot | 2025-11-21 20:19 |
-| [Nvidia confirms October Windows updates cause gaming issues](https://www.bleepingcomputer.com/news/technology/nvidia-fixes-gaming-issues-caused-by-october-windows-update/) | BleepingComputer News | incident_response | 2025-11-21 19:57 |
-| [More on Rewiring Democracy](https://www.schneier.com/blog/archives/2025/11/71226.html) | Schneier on Security | ai, apt, incident_response, iot | 2025-11-21 19:07 |
-| [Name release: Fatal crash, Tokerau Beach](https://www.police.govt.nz/news/release/name-release-fatal-crash-tokerau-beach) | New Zealand Police | ai, incident_response | 2025-11-21 18:56 |
-| [AI teddy bear for kids responds with sexual content and advice about weapons](https://www.malwarebytes.com/blog/news/2025/11/ai-teddy-bear-for-kids-responds-with-sexual-content-and-advice-about-weapons) | Malwarebytes Labs (News) | ai | 2025-11-21 18:45 |
-| [Local law enforcement agencies in Oklahoma, Massachusetts responding to cyber incidents](https://therecord.media/cleveland-county-okla-attleboro-mass-law-enforcement-cyberattacks) | The Record (Signals) | ai, incident_response, policy | 2025-11-21 18:35 |
-| [Microsoft: Out-of-band update fixes Windows 11 hotpatch install loop](https://www.bleepingcomputer.com/news/microsoft/microsoft-out-of-band-update-fixes-windows-11-hotpatch-install-loop/) | BleepingComputer News | vulnerabilities | 2025-11-21 18:02 |
-| [Grafana warns of max severity admin spoofing vulnerability](https://www.bleepingcomputer.com/news/security/grafana-warns-of-max-severity-admin-spoofing-vulnerability/) | BleepingComputer News | vulnerabilities | 2025-11-21 17:58 |
-| [CrowdStrike catches insider feeding information to ScatteredLapsus$Hunters](https://databreaches.net/2025/11/21/crowdstrike-catches-insider-feeding-information-to-scatteredlapsushunters/?pk_campaign=feed&pk_kwd=crowdstrike-catches-insider-feeding-information-to-scatteredlapsushunters) | DataBreaches.net (Notices) | ai, apt, data_breach, incident_response, iot | 2025-11-21 17:44 |
-| [Flock Safety cameras used to monitor protesters, rights group finds](https://therecord.media/flock-safety-rights-group-eff) | The Record (Signals) | unclassified | 2025-11-21 17:26 |
-| [Microsoft named a Leader in the Gartner® Magic Quadrant™ for Access Management for the ninth consecutive year](https://www.microsoft.com/en-us/security/blog/2025/11/21/microsoft-named-a-leader-in-the-gartner-magic-quadrant-for-access-management-for-the-ninth-consecutive-year/) | Microsoft Security Blog | incident_response | 2025-11-21 17:00 |
-| [New Sturnus Android Malware Reads WhatsApp, Telegram, Signal Chats via Accessibility Abuse](https://hackread.com/sturnus-android-malware-whatsapp-telegram-signal-chats/) | HackRead | identity, malware, mobile | 2025-11-21 16:52 |
-| [CrowdStrike catches insider feeding information to hackers](https://www.bleepingcomputer.com/news/security/crowdstrike-catches-insider-feeding-information-to-hackers/) | BleepingComputer News | apt, data_breach, incident_response | 2025-11-21 16:48 |
-| [FCC rolls back cybersecurity rules for telcos, despite state-hacking risks](https://www.bleepingcomputer.com/news/security/fcc-rolls-back-cybersecurity-rules-for-telcos-despite-state-hacking-risks/) | BleepingComputer News | incident_response | 2025-11-21 16:01 |
-| [Cybercriminals Exploit Browser Push Notifications to Deliver Malware](https://www.infosecurity-magazine.com/news/browser-push-notifications-deliver/) | InfoSecurity Magazine News | malware, vulnerabilities | 2025-11-21 15:45 |
-| ['Scattered Spider' teens plead not guilty to UK transport hack](https://www.bleepingcomputer.com/news/security/scattered-spider-teens-plead-not-guilty-to-uk-transport-hack/) | BleepingComputer News | data_breach | 2025-11-21 15:41 |
-| [Grafana Patches CVSS 10.0 SCIM Flaw Enabling Impersonation and Privilege Escalation](https://thehackernews.com/2025/11/grafana-patches-cvss-100-scim-flaw.html) | The Hacker News | ai, identity, incident_response, policy, vulnerabilities | 2025-11-21 15:40 |
-| [Fake calendar invites are spreading. Here’s how to remove them and prevent more](https://www.malwarebytes.com/blog/news/2025/11/fake-calendar-invites-are-spreading-heres-how-to-remove-them-and-prevent-more) | Malwarebytes Labs (News) | ai | 2025-11-21 15:28 |
-| [ShinyHunters Breach Gainsight Apps on Salesforce, Claim Data from 1000 Firms](https://hackread.com/shinyhunters-breach-gainsight-salesforce-1000-firms/) | HackRead | ai, data_breach, identity, incident_response | 2025-11-21 15:24 |
-| [Two suspected Scattered Spider hackers plead not guilty over Transport for London cyberattack](https://databreaches.net/2025/11/21/two-suspected-scattered-spider-hackers-plead-not-guilty-over-transport-for-london-cyberattack/?pk_campaign=feed&pk_kwd=two-suspected-scattered-spider-hackers-plead-not-guilty-over-transport-for-london-cyberattack) | DataBreaches.net (Notices) | ai, apt, data_breach, incident_response, iot | 2025-11-21 15:05 |
-| [Avast Makes AI-Driven Scam Defense Available for Free Worldwide](https://www.bleepingcomputer.com/news/security/avast-makes-ai-driven-scam-defense-available-for-free-worldwide/) | BleepingComputer News | ai, policy | 2025-11-21 15:00 |
-| [China’s APT31 linked to hacks on Russian tech firms](https://therecord.media/russia-report-apt31-china-linked-hacks) | The Record (Signals) | apt, data_breach, incident_response | 2025-11-21 14:48 |
-| [SolarWinds addressed three critical flaws in Serv-U](https://securityaffairs.com/184916/security/solarwinds-addressed-three-critical-flaws-in-serv-u.html) | Security Affairs (Dark Web) | cloud, incident_response, policy, vulnerabilities | 2025-11-21 14:08 |
-| [The Good, the Bad and the Ugly in Cybersecurity – Week 47](https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-47-7/) | SentinelOne Labs | ai, incident_response | 2025-11-21 14:00 |
-| [SEC voluntarily dismisses SolarWinds lawsuit](https://therecord.media/solawards-lawsuit-dismissed-sec) | The Record (Signals) | cloud, policy | 2025-11-21 13:18 |
-| [Google begins showing ads in AI Mode (AI answers)](https://www.bleepingcomputer.com/news/artificial-intelligence/google-begins-showing-ads-in-ai-mode-ai-answers/) | BleepingComputer News | ai | 2025-11-21 13:02 |
-| [Google Brings AirDrop Compatibility to Android’s Quick Share Using Rust-Hardened Security](https://thehackernews.com/2025/11/google-adds-airdrop-compatibility-to.html) | The Hacker News | ai, incident_response, mobile | 2025-11-21 13:00 |
-| [Two suspected Scattered Spider hackers plead not guilty over Transport for London cyberattack](https://therecord.media/transport-for-london-hack-scattered-spider-suspects-plead-not-guilty) | The Record (Signals) | unclassified | 2025-11-21 12:53 |
-| [Massive data leak hits Italian railway operator Ferrovie dello Stato via Almaviva hack](https://securityaffairs.com/184907/data-breach/massive-data-leak-hits-italian-railway-operator-ferrovie-dello-stato-via-almaviva-hack.html) | Security Affairs (Dark Web) | ai, data_breach | 2025-11-21 12:14 |
-| [Attleboro investigating ‘cybersecurity incident’ impacting city’s IT systems](https://databreaches.net/2025/11/21/attleboro-investigating-cybersecurity-incident-impacting-citys-it-systems/?pk_campaign=feed&pk_kwd=attleboro-investigating-cybersecurity-incident-impacting-citys-it-systems) | DataBreaches.net (Notices) | ai, apt, data_breach, iot | 2025-11-21 12:08 |
-| [AI as Cyberattacker](https://www.schneier.com/blog/archives/2025/11/ai-as-cyberattacker.html) | Schneier on Security | ai, apt, incident_response | 2025-11-21 12:01 |
-| [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2025/11/21/cisa-adds-one-known-exploited-vulnerability-catalog) | CISA Joint Advisories | ai, identity, incident_response, vulnerabilities | 2025-11-21 12:00 |
-| [Fired techie admits sabotaging ex-employer, causing $862K in damage](https://databreaches.net/2025/11/21/fired-techie-admits-sabotaging-ex-employer-causing-862k-in-damage/?pk_campaign=feed&pk_kwd=fired-techie-admits-sabotaging-ex-employer-causing-862k-in-damage) | DataBreaches.net (Notices) | ai, apt, data_breach, identity, incident_response, iot | 2025-11-21 11:49 |
-| [Merge PR #5746 from @deftoner - improve logsource format](https://github.com/SigmaHQ/sigma/commit/8c50909141aea1d62b6e2f3fcc1b8ccf5012b7f7) | SigmaHQ Core Rules | ai | 2025-11-21 11:13 |
-| [Why IT Admins Choose Samsung for Mobile Security](https://thehackernews.com/2025/11/why-it-admins-choose-samsung-for-mobile.html) | The Hacker News | mobile | 2025-11-21 11:00 |
+| [Weekly Update 479](https://www.troyhunt.com/weekly-update-479/) | Troy Hunt Blog | iot, phishing | 2025-11-23 04:44 |
+| [WhatsApp API flaw let researchers scrape 3.5 billion accounts](https://www.bleepingcomputer.com/news/security/whatsapp-api-flaw-let-researchers-scrape-35-billion-accounts/) | BleepingComputer News | identity, mobile, policy | 2025-11-22 18:53 |
+| [BadAudio malware: how APT24 scaled its cyberespionage through supply chain attacks](https://securityaffairs.com/184941/apt/badaudio-malware-how-apt24-scaled-its-cyberespionage-through-supply-chain-attacks.html) | Security Affairs (Dark Web) | ai, apt, malware, supply_chain | 2025-11-22 17:11 |
+| [CrowdStrike Fires Worker Over Insider Leak to Scattered Lapsus Hunters](https://hackread.com/crowdstrike-fires-worker-insider-leak-scattered-lapsus-hunters/) | HackRead | data_breach, incident_response | 2025-11-22 16:13 |
+| [China-Linked APT31 Launches Stealthy Cyberattacks on Russian IT Using Cloud Services](https://thehackernews.com/2025/11/china-linked-apt31-launches-stealthy.html) | The Hacker News | apt, cloud | 2025-11-22 15:19 |
+| [Cox Enterprises discloses Oracle E-Business Suite data breach](https://www.bleepingcomputer.com/news/security/cox-enterprises-discloses-oracle-e-business-suite-data-breach/) | BleepingComputer News | data_breach, incident_response, policy, vulnerabilities | 2025-11-22 15:16 |
+| [Piecing Together the Puzzle: A Qilin Ransomware Investigation](https://www.bleepingcomputer.com/news/security/piecing-together-the-puzzle-a-qilin-ransomware-investigation/) | BleepingComputer News | ai, malware | 2025-11-22 13:45 |
+| [Cyberattack disables Onsolve Code Red emergency alert system across St. Louis region (1)](https://databreaches.net/2025/11/22/cyberattack-disables-onsolve-code-red-emergency-alert-system-across-st-louis-region/?pk_campaign=feed&pk_kwd=cyberattack-disables-onsolve-code-red-emergency-alert-system-across-st-louis-region) | DataBreaches.net (Notices) | ai, apt, data_breach, identity, incident_response, iot | 2025-11-22 12:16 |
+| [US Border Patrol Is Spying on Millions of American Drivers](https://www.wired.com/story/security-news-this-week-us-border-patrol-is-spying-on-millions-of-american-drivers/) | Wired Security | ddos | 2025-11-22 11:30 |
+| [U.S. CISA adds an Oracle Fusion Middleware flaw to its Known Exploited Vulnerabilities catalog](https://securityaffairs.com/184935/security/u-s-cisa-adds-an-oracle-fusion-middleware-flaw-to-its-known-exploited-vulnerabilities-catalog.html) | Security Affairs (Dark Web) | identity, policy, vulnerabilities | 2025-11-22 10:34 |
+| [Matrix Push C2 Uses Browser Notifications for Fileless, Cross-Platform Phishing Attacks](https://thehackernews.com/2025/11/matrix-push-c2-uses-browser.html) | The Hacker News | ai, incident_response, phishing, policy | 2025-11-22 06:47 |
+| [CISA Warns of Actively Exploited Critical Oracle Identity Manager Zero-Day Vulnerability](https://thehackernews.com/2025/11/cisa-warns-of-actively-exploited.html) | The Hacker News | identity, policy, vulnerabilities | 2025-11-22 06:45 |
 
 ---
 
@@ -79,6 +51,7 @@
 - Tripwire State of Security — 403, message='Forbidden', url=URL('https://www.tripwire.com/state-of-security/feed/')
 - PhishLabs Blog — 403, message='Forbidden', url=URL('https://www.phishlabs.com/blog/feed/')
 - Webroot — 500, message='Internal Server Error', url=URL('https://www.webroot.com/blog/feed')
+- Krebs on Security — 403, message='Forbidden', url=URL('https://krebsonsecurity.com/feed/')
 - Dark Reading — 403, message='Forbidden', url=URL('http://www.darkreading.com/rss/all.xml')
 - Ars Technica Security — 404, message='Not Found', url=URL('http://feeds.arstechnica.com/arstechnica/security')
 - Abuse.ch Feodo Tracker — 404, message='Not Found', url=URL('https://feodotracker.abuse.ch/feeds/rss.xml')
@@ -128,6 +101,7 @@
 - SEC Enforcement Actions — 403, message='Forbidden', url=URL('https://www.sec.gov/rss/news/press.xml')
 - Australian Federal Police News — 401, message='Unauthorized', url=URL('https://www.afp.gov.au/news-centre/rss.xml')
 - Europol Cybercrime Centre — 404, message='Not Found', url=URL('https://www.europol.europa.eu/rss/cybercrime')
+- Krebs on Security (Signals) — 403, message='Forbidden', url=URL('https://krebsonsecurity.com/feed/')
 - Risky Business News — 403, message='Forbidden', url=URL('https://riskybiznews.substack.com/feed')
 - The Guardian Tech Security — 404, message='Not Found', url=URL('https://www.theguardian.com/technology/series/security/rss')
 - Ars Technica Security (Signals) — 404, message='Not Found', url=URL('http://feeds.arstechnica.com/arstechnica/security')
