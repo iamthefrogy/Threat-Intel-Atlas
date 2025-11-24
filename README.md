@@ -1,6 +1,6 @@
 <p align="center">
   <strong style="font-size:1.9rem;">Threat Intel Atlas · Daily Signal Briefing</strong><br />
-  <span style="font-size:1rem;color:#6ecff6;">Compiled from 167 intelligence sources · refreshed 2025-11-24 06:43 UTC</span>
+  <span style="font-size:1rem;color:#6ecff6;">Compiled from 166 intelligence sources · refreshed 2025-11-24 14:45 UTC</span>
 </p>
 
 ---
@@ -10,8 +10,8 @@
 | Metric | Value |
 | --- | --- |
 | Total signals retained | 1000 |
-| Signals detected in the last 24h | 23 |
-| Signals surfaced in this report | 23 |
+| Signals detected in the last 24h | 34 |
+| Signals surfaced in this report | 34 |
 
 ---
 
@@ -19,29 +19,40 @@
 
 | Title | Source | Tags | Published (UTC) |
 | --- | --- | --- | --- |
-| [Second arrest made in relation to Pukehinau Flats shooting incident](https://www.police.govt.nz/news/release/second-arrest-made-relation-pukehinau-flats-shooting-incident) | New Zealand Police | ai | 2025-11-24 03:56 |
+| [Merge PR #5627 from @tsale - Filename with Embedded Base64 Commands](https://github.com/SigmaHQ/sigma/commit/5a2885c310724c05a93cde93866bfba69472a6bc) | SigmaHQ Core Rules | unclassified | 2025-11-24 14:33 |
+| [Shai-Hulud malware infects 500 npm packages, leaks secrets on GitHub](https://www.bleepingcomputer.com/news/security/shai-hulud-malware-infects-500-npm-packages-leaks-secrets-on-github/) | BleepingComputer News | ai, apt, data_breach, malware | 2025-11-24 14:32 |
+| [Harvard University discloses data breach affecting alumni, donors](https://www.bleepingcomputer.com/news/security/harvard-university-discloses-data-breach-affecting-alumni-donors/) | BleepingComputer News | ai, data_breach, incident_response, phishing | 2025-11-24 14:06 |
+| [Russian-linked Malware Campaign Hides in Blender 3D Files](https://www.infosecurity-magazine.com/news/russian-malware-blender-3d-files/) | InfoSecurity Magazine News | ai, apt, malware | 2025-11-24 14:00 |
+| [Amazon Is Using Specialized AI Agents for Deep Bug Hunting](https://www.wired.com/story/amazon-autonomous-threat-analysis/) | Wired Security | ai, defense | 2025-11-24 14:00 |
+| [Microsoft tests File Explorer preloading for faster performance](https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-file-explorer-preloading-for-faster-launches/) | BleepingComputer News | unclassified | 2025-11-24 13:08 |
+| [Second Sha1-Hulud Wave Affects 25,000+ Repositories via npm Preinstall Credential Theft](https://thehackernews.com/2025/11/second-sha1-hulud-wave-affects-25000.html) | The Hacker News | ai, apt, identity, supply_chain | 2025-11-24 13:03 |
+| [Elite Cyber Veterans Launch Blast Security with $10M to Turn Cloud Detection into Prevention](https://hackread.com/elite-cyber-veterans-launch-blast-security-with-10m-to-turn-cloud-detection-into-prevention/) | HackRead | cloud, defense, incident_response | 2025-11-24 13:00 |
+| [Fake Prettier Extension on VSCode Marketplace Dropped Anivia Stealer](https://hackread.com/prettier-extension-vscode-marketplace-anivia-stealer/) | HackRead | darkweb, identity, incident_response, malware | 2025-11-24 12:43 |
+| [Attackers deliver ShadowPad via newly patched WSUS RCE bug](https://securityaffairs.com/185007/malware/attackers-deliver-shadowpad-via-newly-patched-wsus-rce-bug.html) | Security Affairs (Dark Web) | ai, apt, malware, policy, vulnerabilities | 2025-11-24 12:35 |
+| [⚡ Weekly Recap: Fortinet Exploit, Chrome 0-Day, BadIIS Malware, Record DDoS, SaaS Breach & More](https://thehackernews.com/2025/11/weekly-recap-fortinet-exploit-chrome-0.html) | The Hacker News | ai, cloud, data_breach, ddos, incident_response, malware, policy, supply_chain, vulnerabilities | 2025-11-24 12:32 |
+| [To buy or not to buy: How cybercriminals capitalize on Black Friday](https://securelist.com/black-friday-threat-report-2025/118083/) | SecureList (Kaspersky) | darkweb, malware, phishing | 2025-11-24 12:30 |
+| [IACR Nullifies Election Because of Lost Decryption Key](https://www.schneier.com/blog/archives/2025/11/iacr-nullifies-election-because-of-lost-decryption-key.html) | Schneier on Security | cloud, identity, incident_response, mobile, phishing, policy | 2025-11-24 12:03 |
+| [New RadzaRat Spyware Poses as File Manager to Hijack Android Devices](https://hackread.com/radzarat-spyware-hijack-android-devices/) | HackRead | defense, identity, incident_response, mobile | 2025-11-24 11:47 |
+| [Microsoft to remove WINS support after Windows Server 2025](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-remove-wins-support-after-windows-server-2025/) | BleepingComputer News | unclassified | 2025-11-24 11:47 |
+| [CVE-2025-41115: A Maximum-Severity Privilege Escalation Vulnerability in the Grafana SCIM Component](https://socprime.com/blog/cve-2025-41115-vulnerability/) | SOC Prime | incident_response, iot, mobile, policy, vulnerabilities | 2025-11-24 11:24 |
+| [Chinese DeepSeek-R1 AI Generates Insecure Code When Prompts Mention Tibet or Uyghurs](https://thehackernews.com/2025/11/chinese-ai-model-deepseek-r1-generates.html) | The Hacker News | ai, iot | 2025-11-24 11:07 |
+| [CISA Urges Patch of Actively Exploited Flaw in Oracle Identity Manager](https://www.infosecurity-magazine.com/news/cisa-kev-oracle-identity-manager/) | InfoSecurity Magazine News | identity, policy, vulnerabilities | 2025-11-24 11:07 |
+| [Microsoft: Windows 11 24H2 bug crashes Explorer and Start Menu](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-24h2-bug-crashes-key-system-components/) | BleepingComputer News | incident_response | 2025-11-24 10:41 |
+| [Iberia Airlines Notifies Customers of Supply Chain Data Breach](https://www.infosecurity-magazine.com/news/iberia-airlines-supply-chain-data/) | InfoSecurity Magazine News | ai, data_breach, incident_response, supply_chain | 2025-11-24 10:15 |
+| [AI attack agents are accelerators, not autonomous weapons: the Anthropic attack](https://securityaffairs.com/184943/security/ai-attack-agents-are-accelerators-not-autonomous-weapons-the-anthropic-attack.html) | Security Affairs (Dark Web) | ai, phishing | 2025-11-24 09:38 |
+| [MoD Launches World’s First Military Gaming Tournament](https://www.infosecurity-magazine.com/news/mod-worlds-first-military-gaming/) | InfoSecurity Magazine News | incident_response | 2025-11-24 09:30 |
+| [Merge PR #5769 from @nasbench - fix keywords rule and remove the fiel…](https://github.com/SigmaHQ/sigma/commit/9d58e38bbcd23d2303d9003af38d8c0e75228d36) | SigmaHQ Core Rules | vulnerabilities | 2025-11-24 08:54 |
+| [Scattered Spider alleged members deny TfL charges](https://securityaffairs.com/185000/hacking/scattered-spider-alleged-members-deny-tfl-charges.html) | Security Affairs (Dark Web) | ai, incident_response | 2025-11-24 08:24 |
+| [A week in security (November 17 &#8211; November 23)](https://www.malwarebytes.com/blog/news/2025/11/a-week-in-security-november-17-november-23) | Malwarebytes Labs (News) | iot | 2025-11-24 08:03 |
+| [ShadowPad Malware Actively Exploits WSUS Vulnerability for Full System Access](https://thehackernews.com/2025/11/shadowpad-malware-actively-exploits.html) | The Hacker News | ai, apt, malware, policy, vulnerabilities | 2025-11-24 07:18 |
 | [Merge PR #5669 from @JasonPhang98 - Extend Atomic MacOS Stealer - Fil…](https://github.com/SigmaHQ/sigma/commit/bbbfb67ab0a2cb05af5a3f0329ab28f4fac6d3b7) | SigmaHQ Core Rules | malware | 2025-11-24 02:52 |
-| [Update in search for missing woman Te Anihana Pomana](https://www.police.govt.nz/news/release/update-search-missing-woman-te-anihana-pomana) | New Zealand Police | incident_response | 2025-11-24 01:44 |
-| [Body located, Lake Rua](https://www.police.govt.nz/news/release/body-located-lake-rua) | New Zealand Police | ai | 2025-11-24 00:40 |
-| [Police release descriptions of offenders in Edendale assault](https://www.police.govt.nz/news/release/police-release-descriptions-offenders-edendale-assault) | New Zealand Police | unclassified | 2025-11-23 23:43 |
 | [Browser isolation: What is it and why does it matter?](https://www.comparitech.com/blog/vpn-privacy/what-is-browser-isolation/) | Comparitech Blog | ai, malware | 2025-11-23 21:29 |
-| [Seach for missing fisherman, Tapotupotu Bay](https://www.police.govt.nz/news/release/seach-missing-fisherman-tapotupotu-bay) | New Zealand Police | vulnerabilities | 2025-11-23 19:17 |
 | [SEC Voluntarily Dismisses SolarWinds Litigation](https://databreaches.net/2025/11/23/sec-voluntarily-dismisses-solarwinds-litigation/?pk_campaign=feed&pk_kwd=sec-voluntarily-dismisses-solarwinds-litigation) | DataBreaches.net (Notices) | ai, apt, data_breach, identity, iot | 2025-11-23 18:42 |
 | [Iberia discloses security incident tied to supplier breach](https://securityaffairs.com/184985/data-breach/iberia-discloses-security-incident-tied-to-supplier-breach.html) | Security Affairs (Dark Web) | ai, apt, data_breach, incident_response, supply_chain | 2025-11-23 17:25 |
 | [Google enables Pixel-to-iPhone file sharing via Quick Share, AirDrop](https://www.bleepingcomputer.com/news/mobile/google-enables-pixel-to-iphone-file-sharing-via-quick-share-airdrop/) | BleepingComputer News | ai, incident_response, mobile | 2025-11-23 15:32 |
 | [Merge PR #5761 from @swachchhanda000 - feat: Suspicious Kerberos tick…](https://github.com/SigmaHQ/sigma/commit/37024247ae013b5e59725d3d05282c71d23aaf47) | SigmaHQ Core Rules | unclassified | 2025-11-23 15:27 |
 | [Merge PR #5717 from @tropChaud - Add and Enhance Windows Default Doma…](https://github.com/SigmaHQ/sigma/commit/0d7658fb3a666c11dc89caef9c598c4cdfedb655) | SigmaHQ Core Rules | ai | 2025-11-23 14:51 |
 | [Enterprise password security and secrets management with Passwork 7](https://www.bleepingcomputer.com/news/security/enterprise-password-security-and-secrets-management-with-passwork-7/) | BleepingComputer News | identity | 2025-11-23 14:45 |
-| [Merge PR #5652 from @swachchhanda000 - Abuse of WerFaultSecure for PP…](https://github.com/SigmaHQ/sigma/commit/5121401b01843e2cc18881eb43025e4c9fa1682e) | SigmaHQ Core Rules | unclassified | 2025-11-23 14:15 |
-| [Iberia discloses customer data leak after vendor security breach](https://www.bleepingcomputer.com/news/security/iberia-discloses-customer-data-leak-after-vendor-security-breach/) | BleepingComputer News | ai, apt, data_breach, incident_response | 2025-11-23 13:46 |
-| [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 72](https://securityaffairs.com/184979/breaking-news/security-affairs-malware-newsletter-round-72.html) | Security Affairs (Dark Web) | ai, apt, incident_response, malware | 2025-11-23 13:28 |
-| [Security Affairs newsletter Round 551 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/184975/breaking-news/security-affairs-newsletter-round-551-by-pierluigi-paganini-international-edition.html) | Security Affairs (Dark Web) | ai, apt, incident_response, malware, supply_chain | 2025-11-23 13:18 |
-| [New Costco Gold Star Members also get a $40 Digital Costco Shop Card](https://www.bleepingcomputer.com/news/security/new-costco-gold-star-members-also-get-a-40-digital-costco-shop-card/) | BleepingComputer News | unclassified | 2025-11-23 13:09 |
-| [A Swath of Bank Customer Data Was Hacked. The F.B.I. Is Investigating.](https://databreaches.net/2025/11/23/a-swath-of-bank-customer-data-was-hacked-the-f-b-i-is-investigating/?pk_campaign=feed&pk_kwd=a-swath-of-bank-customer-data-was-hacked-the-f-b-i-is-investigating) | DataBreaches.net (Notices) | ai, apt, data_breach, iot | 2025-11-23 13:00 |
-| [Ph: Department of the Interior and Local Government to probe alleged data breach by hackers](https://databreaches.net/2025/11/23/ph-department-of-the-interior-and-local-government-to-probe-alleged-data-breach-by-hackers/?pk_campaign=feed&pk_kwd=ph-department-of-the-interior-and-local-government-to-probe-alleged-data-breach-by-hackers) | DataBreaches.net (Notices) | ai, apt, data_breach, incident_response, iot | 2025-11-23 12:59 |
-| [Critical 7 Zip Vulnerability With Public Exploit Requires Manual Update](https://hackread.com/7-zip-vulnerability-public-exploit-manual-update/) | HackRead | incident_response, policy, vulnerabilities | 2025-11-23 12:48 |
-| [SonicWall flags SSLVPN flaw allowing firewall crashes](https://securityaffairs.com/184967/security/sonicwall-flags-sslvpn-flaw-allowing-firewall-crashes.html) | Security Affairs (Dark Web) | incident_response, policy, vulnerabilities | 2025-11-23 10:34 |
-| [Data harvesting: What it is and how to stay safe](https://www.comparitech.com/blog/information-security/what-is-data-harvesting/) | Comparitech Blog | cloud, policy | 2025-11-23 09:27 |
 
 ---
 
@@ -51,7 +62,7 @@
 - Upstream Auto Blog — 403, message='Forbidden', url=URL('https://upstream.auto/feed')
 - Karamba Security Blog — 404, message='Not Found', url=URL('https://karambasecurity.com/feed')
 - Digital Shadows — 404, message='Not Found', url=URL('https://reliaquest.com/blog/rss/')
-- ESET WeLiveSecurity — 404, message='Not Found', url=URL('https://www.welivesecurity.com/rss-feed/')
+- ESET WeLiveSecurity — 403, message='Forbidden', url=URL('https://www.welivesecurity.com/rss-feed/')
 - Mandiant/FireEye — 404, message='Not Found', url=URL('https://www.mandiant.com/resources/blog/feed')
 - Fortinet Threat Research — 404, message='Not Found', url=URL('https://www.fortinet.com/blog/threat-research/feed')
 - Quarkslab — 404, message='Not Found', url=URL('https://blog.quarkslab.com/rss.xml')
