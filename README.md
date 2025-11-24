@@ -1,6 +1,6 @@
 <p align="center">
   <strong style="font-size:1.9rem;">Threat Intel Atlas · Daily Signal Briefing</strong><br />
-  <span style="font-size:1rem;color:#6ecff6;">Compiled from 167 intelligence sources · refreshed 2025-11-23 06:41 UTC</span>
+  <span style="font-size:1rem;color:#6ecff6;">Compiled from 167 intelligence sources · refreshed 2025-11-24 06:43 UTC</span>
 </p>
 
 ---
@@ -10,8 +10,8 @@
 | Metric | Value |
 | --- | --- |
 | Total signals retained | 1000 |
-| Signals detected in the last 24h | 12 |
-| Signals surfaced in this report | 12 |
+| Signals detected in the last 24h | 23 |
+| Signals surfaced in this report | 23 |
 
 ---
 
@@ -19,18 +19,29 @@
 
 | Title | Source | Tags | Published (UTC) |
 | --- | --- | --- | --- |
-| [Weekly Update 479](https://www.troyhunt.com/weekly-update-479/) | Troy Hunt Blog | iot, phishing | 2025-11-23 04:44 |
-| [WhatsApp API flaw let researchers scrape 3.5 billion accounts](https://www.bleepingcomputer.com/news/security/whatsapp-api-flaw-let-researchers-scrape-35-billion-accounts/) | BleepingComputer News | identity, mobile, policy | 2025-11-22 18:53 |
-| [BadAudio malware: how APT24 scaled its cyberespionage through supply chain attacks](https://securityaffairs.com/184941/apt/badaudio-malware-how-apt24-scaled-its-cyberespionage-through-supply-chain-attacks.html) | Security Affairs (Dark Web) | ai, apt, malware, supply_chain | 2025-11-22 17:11 |
-| [CrowdStrike Fires Worker Over Insider Leak to Scattered Lapsus Hunters](https://hackread.com/crowdstrike-fires-worker-insider-leak-scattered-lapsus-hunters/) | HackRead | data_breach, incident_response | 2025-11-22 16:13 |
-| [China-Linked APT31 Launches Stealthy Cyberattacks on Russian IT Using Cloud Services](https://thehackernews.com/2025/11/china-linked-apt31-launches-stealthy.html) | The Hacker News | apt, cloud | 2025-11-22 15:19 |
-| [Cox Enterprises discloses Oracle E-Business Suite data breach](https://www.bleepingcomputer.com/news/security/cox-enterprises-discloses-oracle-e-business-suite-data-breach/) | BleepingComputer News | data_breach, incident_response, policy, vulnerabilities | 2025-11-22 15:16 |
-| [Piecing Together the Puzzle: A Qilin Ransomware Investigation](https://www.bleepingcomputer.com/news/security/piecing-together-the-puzzle-a-qilin-ransomware-investigation/) | BleepingComputer News | ai, malware | 2025-11-22 13:45 |
-| [Cyberattack disables Onsolve Code Red emergency alert system across St. Louis region (1)](https://databreaches.net/2025/11/22/cyberattack-disables-onsolve-code-red-emergency-alert-system-across-st-louis-region/?pk_campaign=feed&pk_kwd=cyberattack-disables-onsolve-code-red-emergency-alert-system-across-st-louis-region) | DataBreaches.net (Notices) | ai, apt, data_breach, identity, incident_response, iot | 2025-11-22 12:16 |
-| [US Border Patrol Is Spying on Millions of American Drivers](https://www.wired.com/story/security-news-this-week-us-border-patrol-is-spying-on-millions-of-american-drivers/) | Wired Security | ddos | 2025-11-22 11:30 |
-| [U.S. CISA adds an Oracle Fusion Middleware flaw to its Known Exploited Vulnerabilities catalog](https://securityaffairs.com/184935/security/u-s-cisa-adds-an-oracle-fusion-middleware-flaw-to-its-known-exploited-vulnerabilities-catalog.html) | Security Affairs (Dark Web) | identity, policy, vulnerabilities | 2025-11-22 10:34 |
-| [Matrix Push C2 Uses Browser Notifications for Fileless, Cross-Platform Phishing Attacks](https://thehackernews.com/2025/11/matrix-push-c2-uses-browser.html) | The Hacker News | ai, incident_response, phishing, policy | 2025-11-22 06:47 |
-| [CISA Warns of Actively Exploited Critical Oracle Identity Manager Zero-Day Vulnerability](https://thehackernews.com/2025/11/cisa-warns-of-actively-exploited.html) | The Hacker News | identity, policy, vulnerabilities | 2025-11-22 06:45 |
+| [Second arrest made in relation to Pukehinau Flats shooting incident](https://www.police.govt.nz/news/release/second-arrest-made-relation-pukehinau-flats-shooting-incident) | New Zealand Police | ai | 2025-11-24 03:56 |
+| [Merge PR #5669 from @JasonPhang98 - Extend Atomic MacOS Stealer - Fil…](https://github.com/SigmaHQ/sigma/commit/bbbfb67ab0a2cb05af5a3f0329ab28f4fac6d3b7) | SigmaHQ Core Rules | malware | 2025-11-24 02:52 |
+| [Update in search for missing woman Te Anihana Pomana](https://www.police.govt.nz/news/release/update-search-missing-woman-te-anihana-pomana) | New Zealand Police | incident_response | 2025-11-24 01:44 |
+| [Body located, Lake Rua](https://www.police.govt.nz/news/release/body-located-lake-rua) | New Zealand Police | ai | 2025-11-24 00:40 |
+| [Police release descriptions of offenders in Edendale assault](https://www.police.govt.nz/news/release/police-release-descriptions-offenders-edendale-assault) | New Zealand Police | unclassified | 2025-11-23 23:43 |
+| [Browser isolation: What is it and why does it matter?](https://www.comparitech.com/blog/vpn-privacy/what-is-browser-isolation/) | Comparitech Blog | ai, malware | 2025-11-23 21:29 |
+| [Seach for missing fisherman, Tapotupotu Bay](https://www.police.govt.nz/news/release/seach-missing-fisherman-tapotupotu-bay) | New Zealand Police | vulnerabilities | 2025-11-23 19:17 |
+| [SEC Voluntarily Dismisses SolarWinds Litigation](https://databreaches.net/2025/11/23/sec-voluntarily-dismisses-solarwinds-litigation/?pk_campaign=feed&pk_kwd=sec-voluntarily-dismisses-solarwinds-litigation) | DataBreaches.net (Notices) | ai, apt, data_breach, identity, iot | 2025-11-23 18:42 |
+| [Iberia discloses security incident tied to supplier breach](https://securityaffairs.com/184985/data-breach/iberia-discloses-security-incident-tied-to-supplier-breach.html) | Security Affairs (Dark Web) | ai, apt, data_breach, incident_response, supply_chain | 2025-11-23 17:25 |
+| [Google enables Pixel-to-iPhone file sharing via Quick Share, AirDrop](https://www.bleepingcomputer.com/news/mobile/google-enables-pixel-to-iphone-file-sharing-via-quick-share-airdrop/) | BleepingComputer News | ai, incident_response, mobile | 2025-11-23 15:32 |
+| [Merge PR #5761 from @swachchhanda000 - feat: Suspicious Kerberos tick…](https://github.com/SigmaHQ/sigma/commit/37024247ae013b5e59725d3d05282c71d23aaf47) | SigmaHQ Core Rules | unclassified | 2025-11-23 15:27 |
+| [Merge PR #5717 from @tropChaud - Add and Enhance Windows Default Doma…](https://github.com/SigmaHQ/sigma/commit/0d7658fb3a666c11dc89caef9c598c4cdfedb655) | SigmaHQ Core Rules | ai | 2025-11-23 14:51 |
+| [Enterprise password security and secrets management with Passwork 7](https://www.bleepingcomputer.com/news/security/enterprise-password-security-and-secrets-management-with-passwork-7/) | BleepingComputer News | identity | 2025-11-23 14:45 |
+| [Merge PR #5652 from @swachchhanda000 - Abuse of WerFaultSecure for PP…](https://github.com/SigmaHQ/sigma/commit/5121401b01843e2cc18881eb43025e4c9fa1682e) | SigmaHQ Core Rules | unclassified | 2025-11-23 14:15 |
+| [Iberia discloses customer data leak after vendor security breach](https://www.bleepingcomputer.com/news/security/iberia-discloses-customer-data-leak-after-vendor-security-breach/) | BleepingComputer News | ai, apt, data_breach, incident_response | 2025-11-23 13:46 |
+| [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 72](https://securityaffairs.com/184979/breaking-news/security-affairs-malware-newsletter-round-72.html) | Security Affairs (Dark Web) | ai, apt, incident_response, malware | 2025-11-23 13:28 |
+| [Security Affairs newsletter Round 551 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/184975/breaking-news/security-affairs-newsletter-round-551-by-pierluigi-paganini-international-edition.html) | Security Affairs (Dark Web) | ai, apt, incident_response, malware, supply_chain | 2025-11-23 13:18 |
+| [New Costco Gold Star Members also get a $40 Digital Costco Shop Card](https://www.bleepingcomputer.com/news/security/new-costco-gold-star-members-also-get-a-40-digital-costco-shop-card/) | BleepingComputer News | unclassified | 2025-11-23 13:09 |
+| [A Swath of Bank Customer Data Was Hacked. The F.B.I. Is Investigating.](https://databreaches.net/2025/11/23/a-swath-of-bank-customer-data-was-hacked-the-f-b-i-is-investigating/?pk_campaign=feed&pk_kwd=a-swath-of-bank-customer-data-was-hacked-the-f-b-i-is-investigating) | DataBreaches.net (Notices) | ai, apt, data_breach, iot | 2025-11-23 13:00 |
+| [Ph: Department of the Interior and Local Government to probe alleged data breach by hackers](https://databreaches.net/2025/11/23/ph-department-of-the-interior-and-local-government-to-probe-alleged-data-breach-by-hackers/?pk_campaign=feed&pk_kwd=ph-department-of-the-interior-and-local-government-to-probe-alleged-data-breach-by-hackers) | DataBreaches.net (Notices) | ai, apt, data_breach, incident_response, iot | 2025-11-23 12:59 |
+| [Critical 7 Zip Vulnerability With Public Exploit Requires Manual Update](https://hackread.com/7-zip-vulnerability-public-exploit-manual-update/) | HackRead | incident_response, policy, vulnerabilities | 2025-11-23 12:48 |
+| [SonicWall flags SSLVPN flaw allowing firewall crashes](https://securityaffairs.com/184967/security/sonicwall-flags-sslvpn-flaw-allowing-firewall-crashes.html) | Security Affairs (Dark Web) | incident_response, policy, vulnerabilities | 2025-11-23 10:34 |
+| [Data harvesting: What it is and how to stay safe](https://www.comparitech.com/blog/information-security/what-is-data-harvesting/) | Comparitech Blog | cloud, policy | 2025-11-23 09:27 |
 
 ---
 
@@ -51,7 +62,6 @@
 - Tripwire State of Security — 403, message='Forbidden', url=URL('https://www.tripwire.com/state-of-security/feed/')
 - PhishLabs Blog — 403, message='Forbidden', url=URL('https://www.phishlabs.com/blog/feed/')
 - Webroot — 500, message='Internal Server Error', url=URL('https://www.webroot.com/blog/feed')
-- Krebs on Security — 403, message='Forbidden', url=URL('https://krebsonsecurity.com/feed/')
 - Dark Reading — 403, message='Forbidden', url=URL('http://www.darkreading.com/rss/all.xml')
 - Ars Technica Security — 404, message='Not Found', url=URL('http://feeds.arstechnica.com/arstechnica/security')
 - Abuse.ch Feodo Tracker — 404, message='Not Found', url=URL('https://feodotracker.abuse.ch/feeds/rss.xml')
@@ -63,14 +73,13 @@
 - Hunt.io C2 Feed — 404, message='Not Found', url=URL('https://hunt.io/c2-feed/rss')
 - Maltrail Botnet Feed — 404, message='Not Found', url=URL('https://maltrail.github.io/feed.xml')
 - BadIPs — Cannot connect to host www.badips.com:443 ssl:default [Name or service not known]
-- Domaineyes Sinkhole Feed — Server disconnected
 - ThreatMiner C2 Feed — 404, message='Not Found', url=URL('https://www.threatminer.org/rss.php?type=C2')
-- Hunt.io IOC Hunter — 404, message='Not Found', url=URL('https://hunt.io/ioc-feed/rss')
 - OpenPhish — 404, message='Not Found', url=URL('https://openphish.com/feed.xml')
 - PhishLabs Blog (Phishing) — 403, message='Forbidden', url=URL('https://www.phishlabs.com/blog/feed/')
 - Spamhaus Phishing — 404, message='Not Found', url=URL('https://www.spamhaus.org/phishing_lasso')
 - ThreatNix Phishing — 404, message='Not Found', url=URL('https://threatnix.io/feed/')
 - URLScan.io Malicious — 404, message='Not Found', url=URL('https://urlscan.io/feed/malicious/')
+- BrandShield — 403, message='Forbidden', url=URL('https://brandshield.com/feed/')
 - Netcraft Phishing — 404, message='Not Found', url=URL('https://www.netcraft.com/rss/phishing.xml')
 - VX-Underground Blog — Cannot connect to host blog.vx-underground.org:443 ssl:default [Name or service not known]
 - Dark Reading Breaches — 403, message='Forbidden', url=URL('https://www.darkreading.com/vulnerabilities-threats/rss')
@@ -89,6 +98,7 @@
 - Washington AG Breach — 404, message='Not Found', url=URL('https://www.atg.wa.gov/rss/breach.xml')
 - U.K. ICO Monetary Penalties — 404, message='Not Found', url=URL('https://ico.org.uk/rss/news/')
 - Office of Australian Information Commissioner — 404, message='Not Found', url=URL('https://www.oaic.gov.au/rss/news')
+- OS Commissioner — 404, message='Not Found', url=URL('https://www.priv.gc.ca/en/rss/')
 - Europol Press Releases — 404, message='Not Found', url=URL('https://www.europol.europa.eu/rss/police-press-releases')
 - FBI Press Releases — 404, message='Not Found', url=URL('https://www.fbi.gov/feeds/press-releases-news.xml')
 - U.S. DOJ Press Releases — 404, message='Not Found', url=URL('https://www.justice.gov/rss/pressreleases/all')
@@ -101,7 +111,6 @@
 - SEC Enforcement Actions — 403, message='Forbidden', url=URL('https://www.sec.gov/rss/news/press.xml')
 - Australian Federal Police News — 401, message='Unauthorized', url=URL('https://www.afp.gov.au/news-centre/rss.xml')
 - Europol Cybercrime Centre — 404, message='Not Found', url=URL('https://www.europol.europa.eu/rss/cybercrime')
-- Krebs on Security (Signals) — 403, message='Forbidden', url=URL('https://krebsonsecurity.com/feed/')
 - Risky Business News — 403, message='Forbidden', url=URL('https://riskybiznews.substack.com/feed')
 - The Guardian Tech Security — 404, message='Not Found', url=URL('https://www.theguardian.com/technology/series/security/rss')
 - Ars Technica Security (Signals) — 404, message='Not Found', url=URL('http://feeds.arstechnica.com/arstechnica/security')
