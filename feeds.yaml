@@ -282,8 +282,6 @@ feeds:
     url: 'https://www.cisa.gov/uscert/ncas/all.xml'
   - name: RCMP Cybercrime
     url: 'https://www.rcmp-grc.gc.ca/en/news?format=feed'
-  - name: New Zealand Police
-    url: 'https://www.police.govt.nz/rss/news'
 
   # Social media & journalist signals
   - name: Krebs on Security (Signals)
