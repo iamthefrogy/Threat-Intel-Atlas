@@ -1,6 +1,6 @@
 <p align="center">
   <strong style="font-size:1.9rem;">Threat Intel Atlas · Daily Signal Briefing</strong><br />
-  <span style="font-size:1rem;color:#6ecff6;">Compiled from 166 intelligence sources · refreshed 2025-11-25 06:44 UTC</span>
+  <span style="font-size:1rem;color:#6ecff6;">Compiled from 166 intelligence sources · refreshed 2025-11-26 06:44 UTC</span>
 </p>
 
 ---
@@ -10,8 +10,8 @@
 | Metric | Value |
 | --- | --- |
 | Total signals retained | 1000 |
-| Signals detected in the last 24h | 49 |
-| Signals surfaced in this report | 49 |
+| Signals detected in the last 24h | 57 |
+| Signals surfaced in this report | 57 |
 
 ---
 
@@ -19,46 +19,46 @@
 
 | Title | Source | Tags | Published (UTC) |
 | --- | --- | --- | --- |
-| [Malicious Blender model files deliver StealC infostealing malware](https://www.bleepingcomputer.com/news/security/malicious-blender-model-files-deliver-stealc-infostealing-malware/) | BleepingComputer News | ai, apt, darkweb, malware | 2025-11-24 22:00 |
-| [UK privacy regulator has seen ‘collapse in enforcement activity,’ rights coalition says](https://therecord.media/privacy-regulator-ico-collapse) | The Record (Signals) | iot | 2025-11-24 21:27 |
-| [The Future of Cloud Security: A New Act for Cyber Risk Operations](https://blog.qualys.com/category/product-tech) | Qualys | cloud, incident_response | 2025-11-24 21:09 |
-| [Shai-Hulud malware infects 500 npm packages, leaks secrets on GitHub](https://databreaches.net/2025/11/24/shai-hulud-malware-infects-500-npm-packages-leaks-secrets-on-github/?pk_campaign=feed&pk_kwd=shai-hulud-malware-infects-500-npm-packages-leaks-secrets-on-github) | DataBreaches.net (Notices) | ai, apt, data_breach, iot, malware, supply_chain | 2025-11-24 20:46 |
-| [ClickFix attack uses fake Windows Update screen to push malware](https://www.bleepingcomputer.com/news/security/clickfix-attack-uses-fake-windows-update-screen-to-push-malware/) | BleepingComputer News | apt, malware | 2025-11-24 20:42 |
-| [The hidden costs of illegal streaming and modded Amazon Fire TV Sticks](https://www.malwarebytes.com/blog/news/2025/11/illegal-streaming-is-costing-people-real-money-research-finds) | Malwarebytes Labs (News) | incident_response | 2025-11-24 20:30 |
-| [Harvard reports vishing breach exposing alumni and donor contact data](https://securityaffairs.com/185034/security/harvard-reports-vishing-breach-exposing-alumni-and-donor-contact-data.html) | Security Affairs (Dark Web) | ai, apt, data_breach, incident_response, phishing | 2025-11-24 19:28 |
-| [Is Your Android TV Streaming Box Part of a Botnet?](https://krebsonsecurity.com/2025/11/is-your-android-tv-streaming-box-part-of-a-botnet/) | Krebs on Security (Signals) | ai, incident_response, malware, mobile | 2025-11-24 18:44 |
-| [How To Hide Your Country Location on X (Twitter) by Switching to Region](https://hackread.com/how-to-hide-x-twitter-location-switch-region/) | HackRead | ai | 2025-11-24 17:46 |
-| [Managed Defense Reimagined: Introducing Wayfinder Threat Detection and Response](https://www.sentinelone.com/blog/managed-defense-reimagined-introducing-wayfinder-threat-detection-and-response/) | SentinelOne Labs | defense | 2025-11-24 17:40 |
-| [Black Friday scammers offer fake gifts from big-name brands to empty bank accounts](https://www.malwarebytes.com/blog/scams/2025/11/black-friday-scammers-offer-fake-gifts-from-big-name-brands-to-empty-bank-accounts) | Malwarebytes Labs (News) | ai, apt, iot | 2025-11-24 17:36 |
-| [Real-estate finance services giant SitusAMC breach exposes client data](https://www.bleepingcomputer.com/news/security/real-estate-finance-services-giant-situsamc-breach-exposes-client-data/) | BleepingComputer News | data_breach | 2025-11-24 17:36 |
-| [From Vision to Value: Gartner® Identifies Qualys as 2025 Magic Quadrant™ Leader in Exposure Assessment Platforms](https://blog.qualys.com/category/product-tech) | Qualys | unclassified | 2025-11-24 17:16 |
-| [Zero-Day Zero: The AI Attack That Just Ended the Era of the Forgiving Internet](https://blog.qualys.com/category/vulnerabilities-threat-research) | Qualys | ai, vulnerabilities | 2025-11-24 16:00 |
-| [Matrix Push C2 abuses browser notifications to deliver phishing and malware](https://www.malwarebytes.com/blog/news/2025/11/matrix-push-c2-abuses-browser-notifications-to-deliver-phishing-and-malware) | Malwarebytes Labs (News) | malware, phishing | 2025-11-24 15:43 |
-| [Shai Hulud npm Worm Impacts 26,000+ Repos in Supply Chain Attack](https://hackread.com/shai-hulud-npm-worm-supply-chain-attack/) | HackRead | ai, malware, supply_chain | 2025-11-24 15:32 |
-| [New Fluent Bit Flaws Expose Cloud to RCE and Stealthy Infrastructure Intrusions](https://thehackernews.com/2025/11/new-fluent-bit-flaws-expose-cloud-to.html) | The Hacker News | ai, cloud, defense, identity, policy, vulnerabilities | 2025-11-24 15:03 |
-| [SCCM and WSUS in a Hybrid World: Why It’s Time for Cloud-native Patching](https://www.bleepingcomputer.com/news/security/sccm-and-wsus-in-a-hybrid-world-why-its-time-for-cloud-native-patching/) | BleepingComputer News | cloud, policy, vulnerabilities | 2025-11-24 15:01 |
-| [Flaws Expose Risks in Fluent Bit Logging Agent](https://www.infosecurity-magazine.com/news/flaws-expose-risks-fluent-bit/) | InfoSecurity Magazine News | cloud, defense, policy | 2025-11-24 15:00 |
-| [Delta Dental of Virginia data breach impacts 145,918 customers](https://securityaffairs.com/185019/data-breach/delta-dental-of-virginia-data-breach-impacts-145918-customers.html) | Security Affairs (Dark Web) | ai, data_breach, incident_response | 2025-11-24 14:49 |
-| [Hackers knock out systems at Moscow-run postal operator in occupied Ukraine](https://therecord.media/hackers-knock-out-systems-russia-operated-post-ukraine) | The Record (Signals) | ai, data_breach | 2025-11-24 14:46 |
-| [Software companies must be held liable for British economic security, say MPs](https://therecord.media/software-companies-liable-britain-security) | The Record (Signals) | ai, policy | 2025-11-24 14:43 |
-| [Merge PR #5627 from @tsale - Filename with Embedded Base64 Commands](https://github.com/SigmaHQ/sigma/commit/5a2885c310724c05a93cde93866bfba69472a6bc) | SigmaHQ Core Rules | unclassified | 2025-11-24 14:33 |
-| [Shai-Hulud malware infects 500 npm packages, leaks secrets on GitHub](https://www.bleepingcomputer.com/news/security/shai-hulud-malware-infects-500-npm-packages-leaks-secrets-on-github/) | BleepingComputer News | ai, apt, data_breach, malware | 2025-11-24 14:32 |
-| [Harvard University discloses data breach affecting alumni, donors](https://www.bleepingcomputer.com/news/security/harvard-university-discloses-data-breach-affecting-alumni-donors/) | BleepingComputer News | ai, data_breach, incident_response, phishing | 2025-11-24 14:06 |
-| [Russian-linked Malware Campaign Hides in Blender 3D Files](https://www.infosecurity-magazine.com/news/russian-malware-blender-3d-files/) | InfoSecurity Magazine News | ai, apt, malware | 2025-11-24 14:00 |
-| [Amazon Is Using Specialized AI Agents for Deep Bug Hunting](https://www.wired.com/story/amazon-autonomous-threat-analysis/) | Wired Security | ai, defense | 2025-11-24 14:00 |
-| [Microsoft tests File Explorer preloading for faster performance](https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-file-explorer-preloading-for-faster-launches/) | BleepingComputer News | unclassified | 2025-11-24 13:08 |
-| [Second Sha1-Hulud Wave Affects 25,000+ Repositories via npm Preinstall Credential Theft](https://thehackernews.com/2025/11/second-sha1-hulud-wave-affects-25000.html) | The Hacker News | ai, apt, identity, malware, supply_chain | 2025-11-24 13:03 |
-| [Elite Cyber Veterans Launch Blast Security with $10M to Turn Cloud Detection into Prevention](https://hackread.com/elite-cyber-veterans-launch-blast-security-with-10m-to-turn-cloud-detection-into-prevention/) | HackRead | cloud, defense, incident_response | 2025-11-24 13:00 |
-| [Fake Prettier Extension on VSCode Marketplace Dropped Anivia Stealer](https://hackread.com/prettier-extension-vscode-marketplace-anivia-stealer/) | HackRead | darkweb, identity, incident_response, malware | 2025-11-24 12:43 |
-| [Attackers deliver ShadowPad via newly patched WSUS RCE bug](https://securityaffairs.com/185007/malware/attackers-deliver-shadowpad-via-newly-patched-wsus-rce-bug.html) | Security Affairs (Dark Web) | ai, apt, malware, policy, vulnerabilities | 2025-11-24 12:35 |
-| [⚡ Weekly Recap: Fortinet Exploit, Chrome 0-Day, BadIIS Malware, Record DDoS, SaaS Breach & More](https://thehackernews.com/2025/11/weekly-recap-fortinet-exploit-chrome-0.html) | The Hacker News | ai, cloud, data_breach, ddos, incident_response, malware, policy, supply_chain, vulnerabilities | 2025-11-24 12:32 |
-| [To buy or not to buy: How cybercriminals capitalize on Black Friday](https://securelist.com/black-friday-threat-report-2025/118083/) | SecureList (Kaspersky) | darkweb, malware, phishing | 2025-11-24 12:30 |
-| [IACR Nullifies Election Because of Lost Decryption Key](https://www.schneier.com/blog/archives/2025/11/iacr-nullifies-election-because-of-lost-decryption-key.html) | Schneier on Security | cloud, identity, incident_response, mobile, phishing, policy | 2025-11-24 12:03 |
-| [​​Spyware Allows Cyber Threat Actors to Target Users of Messaging Applications​](https://www.cisa.gov/news-events/alerts/2025/11/24/spyware-allows-cyber-threat-actors-target-users-messaging-applications) | CISA Joint Advisories | ai, apt, cloud, defense, incident_response, iot, malware, mobile, phishing, policy, vulnerabilities | 2025-11-24 12:00 |
-| [New RadzaRat Spyware Poses as File Manager to Hijack Android Devices](https://hackread.com/radzarat-spyware-hijack-android-devices/) | HackRead | defense, identity, incident_response, mobile | 2025-11-24 11:47 |
-| [Microsoft to remove WINS support after Windows Server 2025](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-remove-wins-support-after-windows-server-2025/) | BleepingComputer News | unclassified | 2025-11-24 11:47 |
-| [CVE-2025-41115: A Maximum-Severity Privilege Escalation Vulnerability in the Grafana SCIM Component](https://socprime.com/blog/cve-2025-41115-vulnerability/) | SOC Prime | incident_response, iot, mobile, policy, vulnerabilities | 2025-11-24 11:24 |
-| [Chinese DeepSeek-R1 AI Generates Insecure Code When Prompts Mention Tibet or Uyghurs](https://thehackernews.com/2025/11/chinese-ai-model-deepseek-r1-generates.html) | The Hacker News | ai, iot | 2025-11-24 11:07 |
+| [FBI Reports $262M in ATO Fraud as Researchers Cite Growing AI Phishing and Holiday Scams](https://thehackernews.com/2025/11/fbi-reports-262m-in-ato-fraud-as.html) | The Hacker News | ai, phishing | 2025-11-26 04:29 |
+| [Bump hypothesis from 6.148.1 to 6.148.2 (#3234)](https://github.com/redcanaryco/atomic-red-team/commit/aa4d9e2becba7ae13647557aa5a2d9f757ee11d8) | Atomic Red Team | unclassified | 2025-11-26 02:13 |
+| [Bump actions/checkout from 5 to 6 (#3235)](https://github.com/redcanaryco/atomic-red-team/commit/0c89f6317e777029eb00b70b0d5ee47b1d5ceb2c) | Atomic Red Team | unclassified | 2025-11-26 02:11 |
+| [OnSolve CodeRED cyberattack disrupts emergency alert systems nationwide](https://www.bleepingcomputer.com/news/security/onsolve-codered-cyberattack-disrupts-emergency-alert-systems-nationwide/) | BleepingComputer News | incident_response | 2025-11-25 21:48 |
+| [FBI: bank impersonators fuel $262M surge in account takeover fraud](https://securityaffairs.com/185060/cyber-crime/fbi-bank-impersonators-fuel-262m-surge-in-account-takeover-fraud.html) | Security Affairs (Dark Web) | data_breach | 2025-11-25 21:03 |
+| [ICE Offers Up to $280 Million to Immigrant-Tracking ‘Bounty Hunter’ Firms](https://www.wired.com/story/ice-bounty-hunter-spy-program/) | Wired Security | incident_response | 2025-11-25 19:54 |
+| [Crime Rings Enlist Hackers to Hijack Trucks](https://www.proofpoint.com/us/newsroom/news/crime-rings-enlist-hackers-hijack-trucks) | Proofpoint | unclassified | 2025-11-25 19:47 |
+| [$262 million stolen in account takeover fraud schemes this year, FBI says ahead of holiday season](https://therecord.media/millions-in-account-takeover-fbi-warns-ahead-of-holidays) | The Record (Signals) | ai, policy | 2025-11-25 19:46 |
+| [Can We Trust AI with Our Cybersecurity? The Growing Importance of AI Security](https://hackread.com/can-we-trust-ai-with-cybersecurity-ai-security/) | HackRead | ai | 2025-11-25 19:31 |
+| [The Black Friday 2025 Cybersecurity, IT, VPN, & Antivirus Deals](https://www.bleepingcomputer.com/news/security/the-black-friday-2025-cybersecurity-it-vpn-and-antivirus-deals/) | BleepingComputer News | ai, incident_response | 2025-11-25 19:14 |
+| [Little Rock Psychologist Indicted by Federal Grand Jury for Defrauding Medicare and Arkansas Blue Cross Blue Shield](https://databreaches.net/2025/11/25/little-rock-psychologist-indicted-by-federal-grand-jury-for-defrauding-medicare-and-arkansas-blue-cross-blue-shield/?pk_campaign=feed&pk_kwd=little-rock-psychologist-indicted-by-federal-grand-jury-for-defrauding-medicare-and-arkansas-blue-cross-blue-shield) | DataBreaches.net (Notices) | ai, apt, data_breach, incident_response, iot | 2025-11-25 18:48 |
+| [Georgia court filing organization warns of outages after ransomware allegations](https://therecord.media/georgia-court-filing-org-ransomware-warning) | The Record (Signals) | ai, malware | 2025-11-25 17:57 |
+| [FBI: Cybercriminals stole $262M by impersonating bank support teams](https://www.bleepingcomputer.com/news/security/fbi-cybercriminals-stole-262-million-by-impersonating-bank-support-teams-since-january/) | BleepingComputer News | unclassified | 2025-11-25 17:23 |
+| [Everest ransomware claims breach at Spain’s national airline Iberia with 596 GB data theft](https://hackread.com/everest-ransomware-spai-airline-iberia-breach/) | HackRead | ai, data_breach, incident_response, malware | 2025-11-25 17:13 |
+| [Tor switches to new Counter Galois Onion relay encryption algorithm](https://www.bleepingcomputer.com/news/security/tor-switches-to-new-counter-galois-onion-relay-encryption-algorithm/) | BleepingComputer News | incident_response | 2025-11-25 17:09 |
+| [Charting the future of SOC: Human and AI collaboration for better security](https://techcommunity.microsoft.com/blog/microsoftsecurityexperts/charting-the-future-of-soc-human-and-ai-collaboration-for-better-security/4470688) | Microsoft Security Blog | ai, incident_response | 2025-11-25 17:00 |
+| [Years of JSONFormatter and CodeBeautify Leaks Expose Thousands of Passwords and API Keys](https://thehackernews.com/2025/11/years-of-jsonformatter-and-codebeautify.html) | The Hacker News | ai, apt, data_breach, identity, iot | 2025-11-25 16:49 |
+| [Microsoft: Exchange Online outage blocks access to Outlook mailboxes](https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-blocks-access-to-outlook-mailboxes/) | BleepingComputer News | ai, incident_response | 2025-11-25 16:18 |
+| [New ClickFix wave infects users with hidden malware in images and fake Windows updates](https://www.malwarebytes.com/blog/news/2025/11/new-clickfix-wave-infects-users-with-hidden-malware-in-images-and-fake-windows-updates) | Malwarebytes Labs (News) | malware | 2025-11-25 16:08 |
+| [Detego Global Launches Case Management Platform for Digital Forensics and Incident Response Teams](https://hackread.com/detego-global-launches-case-management-platform-for-digital-forensics-and-incident-response-teams/) | HackRead | incident_response, iot | 2025-11-25 16:05 |
+| ["Shai-Hulud" Worm Compromises npm Ecosystem in Supply Chain Attack (Updated November 25)](https://unit42.paloaltonetworks.com/npm-supply-chain-attack/) | Palo Alto Networks Unit 42 | ai, incident_response, malware, supply_chain | 2025-11-25 16:00 |
+| [Smishing Triad Impersonation Campaigns Expand Globally](https://www.infosecurity-magazine.com/news/smishing-triad-campaigns-expand/) | InfoSecurity Magazine News | ai, apt, phishing | 2025-11-25 16:00 |
+| [Software companies must be held liable for British economic security, say MPs](https://databreaches.net/2025/11/25/software-companies-must-be-held-liable-for-british-economic-security-say-mps/?pk_campaign=feed&pk_kwd=software-companies-must-be-held-liable-for-british-economic-security-say-mps) | DataBreaches.net (Notices) | ai, apt, data_breach, iot, policy | 2025-11-25 15:36 |
+| [Russia arrests young cybersecurity entrepreneur on treason charges](https://databreaches.net/2025/11/25/russia-arrests-young-cybersecurity-entrepreneur-on-treason-charges/?pk_campaign=feed&pk_kwd=russia-arrests-young-cybersecurity-entrepreneur-on-treason-charges) | DataBreaches.net (Notices) | ai, apt, data_breach, incident_response, iot | 2025-11-25 15:34 |
+| [Merge PR #5766 from @SethHanford - Update `Potential Container Discov…](https://github.com/SigmaHQ/sigma/commit/5f57f9e81642f7aa3b0d79caa2a2f7be5a3c5897) | SigmaHQ Core Rules | ai, incident_response | 2025-11-25 15:29 |
+| [Merge PR #5770 from @EzLucky - Update MITRE Attack mapping for Linux …](https://github.com/SigmaHQ/sigma/commit/66e091c08c5eeeec74de03c1c2f32188b5b6fcd2) | SigmaHQ Core Rules | ai, incident_response | 2025-11-25 15:23 |
+| [Morphisec warns StealC V2 malware spread through weaponized blender files](https://securityaffairs.com/185052/cyber-crime/stealc-v2-malware-spread-through-weaponized-blender-files.html) | Security Affairs (Dark Web) | ai, apt, darkweb, incident_response, malware | 2025-11-25 15:15 |
+| [Russia arrests young cybersecurity entrepreneur on treason charges](https://therecord.media/russia-arrests-tech-entrepreneur-treason) | The Record (Signals) | ai, incident_response | 2025-11-25 15:14 |
+| [Merge PR #5719 from @nasbench - Add regression test CI, data and simu…](https://github.com/SigmaHQ/sigma/commit/2cb7375c6b1d8035bf773ef29d065793b645eb37) | SigmaHQ Core Rules | unclassified | 2025-11-25 15:00 |
+| [Microsoft is speeding up the Teams desktop client for Windows](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-boost-teams-performance-with-new-call-handler/) | BleepingComputer News | unclassified | 2025-11-25 14:24 |
+| [JackFix Uses Fake Windows Update Pop-Ups on Adult Sites to Deliver Multiple Stealers](https://thehackernews.com/2025/11/jackfix-uses-fake-windows-update-pop.html) | The Hacker News | ai, apt, malware, phishing | 2025-11-25 14:18 |
+| [Year-end approaches: How to maximize your cyber spend](https://www.bleepingcomputer.com/news/security/year-end-approaches-how-to-maximize-your-cyber-spend/) | BleepingComputer News | identity | 2025-11-25 14:03 |
+| [New FlexibleFerret Malware Chain Targets macOS With Go Backdoor](https://www.infosecurity-magazine.com/news/flexibleferret-malware-macos-go/) | InfoSecurity Magazine News | ai, identity, malware | 2025-11-25 13:45 |
+| [UK privacy regulator has seen ‘collapse in enforcement activity,’ rights coalition says](https://databreaches.net/2025/11/25/uk-privacy-regulator-has-seen-collapse-in-enforcement-activity-rights-coalition-says/?pk_campaign=feed&pk_kwd=uk-privacy-regulator-has-seen-collapse-in-enforcement-activity-rights-coalition-says) | DataBreaches.net (Notices) | ai, apt, data_breach, identity, incident_response, iot | 2025-11-25 13:26 |
+| [Thinking Beyond Price: What Tech Teams Should Look for in a Hosting Provider](https://hackread.com/what-tech-teams-look-in-hosting-provider/) | HackRead | unclassified | 2025-11-25 13:24 |
+| [Update Firefox to Patch CVE-2025-13016 Vulnerability Affecting 180 Million Users](https://hackread.com/update-firefox-patch-cve-2025-13016-vulnerability/) | HackRead | ai, incident_response, policy, vulnerabilities | 2025-11-25 12:45 |
+| [Merge PR #5762 from @HullaBrian - Unsigned .node File Load](https://github.com/SigmaHQ/sigma/commit/23a375bfa6d6b9f40d66e7a2ff668271cffadb79) | SigmaHQ Core Rules | unclassified | 2025-11-25 12:03 |
+| [Code beautifiers expose credentials from banks, govt, tech orgs](https://www.bleepingcomputer.com/news/security/code-beautifiers-expose-credentials-from-banks-govt-tech-orgs/) | BleepingComputer News | identity | 2025-11-25 12:01 |
+| [Four Ways AI Is Being Used to Strengthen Democracies Worldwide](https://www.schneier.com/blog/archives/2025/11/four-ways-ai-is-being-used-to-strengthen-democracies-worldwide.html) | Schneier on Security | ai, incident_response, iot | 2025-11-25 12:00 |
+| [SiRcom SMART Alert (SiSA)](https://www.cisa.gov/news-events/ics-advisories/icsa-25-329-06) | CISA Joint Advisories | ai, defense, identity, incident_response, iot, phishing, policy, vulnerabilities | 2025-11-25 12:00 |
 
 ---
 
@@ -91,6 +91,7 @@
 - Maltrail Botnet Feed — 404, message='Not Found', url=URL('https://maltrail.github.io/feed.xml')
 - BadIPs — Cannot connect to host www.badips.com:443 ssl:default [Name or service not known]
 - ThreatMiner C2 Feed — 404, message='Not Found', url=URL('https://www.threatminer.org/rss.php?type=C2')
+- Hunt.io IOC Hunter — 404, message='Not Found', url=URL('https://hunt.io/ioc-feed/rss')
 - OpenPhish — 404, message='Not Found', url=URL('https://openphish.com/feed.xml')
 - PhishLabs Blog (Phishing) — 403, message='Forbidden', url=URL('https://www.phishlabs.com/blog/feed/')
 - Spamhaus Phishing — 404, message='Not Found', url=URL('https://www.spamhaus.org/phishing_lasso')
