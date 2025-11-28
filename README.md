@@ -1,6 +1,6 @@
 <p align="center">
   <strong style="font-size:1.9rem;">Threat Intel Atlas · Daily Signal Briefing</strong><br />
-  <span style="font-size:1rem;color:#6ecff6;">Compiled from 166 intelligence sources · refreshed 2025-11-27 06:44 UTC</span>
+  <span style="font-size:1rem;color:#6ecff6;">Compiled from 166 intelligence sources · refreshed 2025-11-28 06:44 UTC</span>
 </p>
 
 ---
@@ -10,8 +10,8 @@
 | Metric | Value |
 | --- | --- |
 | Total signals retained | 1000 |
-| Signals detected in the last 24h | 49 |
-| Signals surfaced in this report | 49 |
+| Signals detected in the last 24h | 28 |
+| Signals surfaced in this report | 28 |
 
 ---
 
@@ -19,46 +19,34 @@
 
 | Title | Source | Tags | Published (UTC) |
 | --- | --- | --- | --- |
-| [Elena Lazar: Failures are Inevitable – Reliability is a Choice](https://hackread.com/elena-lazar-inevitable-failures-reliability-choice/) | HackRead | ai, vulnerabilities | 2025-11-26 22:53 |
-| [New ShadowV2 botnet malware used AWS outage as a test opportunity](https://www.bleepingcomputer.com/news/security/new-shadowv2-botnet-malware-used-aws-outage-as-a-test-opportunity/) | BleepingComputer News | ai, cloud, incident_response, iot, malware, vulnerabilities | 2025-11-26 22:24 |
-| [Defending Against Sha1-Hulud: The Second Coming](https://www.sentinelone.com/blog/defending-against-sha1-hulud-the-second-coming/) | SentinelOne Labs | ai, defense, incident_response, malware | 2025-11-26 21:17 |
-| [At least 35,000 impacted by Dartmouth College breach through Oracle EBS campaign](https://therecord.media/dartmouth-data-breach-thousands) | The Record (Signals) | ai, apt, data_breach | 2025-11-26 20:37 |
-| [For the first time, a RomCom payload has been observed being distributed via SocGholish](https://securityaffairs.com/185084/security/for-the-first-time-a-romcom-payload-has-been-observed-being-distributed-via-socgholish.html) | Security Affairs (Dark Web) | apt, incident_response, malware, vulnerabilities | 2025-11-26 20:13 |
-| [NordVPN Black Friday Deal: Unlock 77% off VPN plans in 2025](https://www.bleepingcomputer.com/news/security/nordvpn-black-friday-deal-unlock-77-percent-off-vpn-plans-in-2025/) | BleepingComputer News | ai | 2025-11-26 20:00 |
-| [Popular Forge library gets fix for signature verification bypass flaw](https://www.bleepingcomputer.com/news/security/popular-forge-library-gets-fix-for-signature-verification-bypass-flaw/) | BleepingComputer News | policy, vulnerabilities | 2025-11-26 19:32 |
-| [Dell ControlVault, Lasso, GL.iNet vulnerabilities](https://blog.talosintelligence.com/dell-controlvault-lasso-gl-inet-vulnerabilities/) | Cisco Talos | identity, incident_response, vulnerabilities | 2025-11-26 18:36 |
-| [Comcast to pay $1.5M fine for vendor breach affecting 270K customers](https://www.bleepingcomputer.com/news/security/comcast-to-pay-15-million-fine-after-a-vendor-data-breach-affecting-270-000-customers/) | BleepingComputer News | data_breach | 2025-11-26 18:30 |
-| [Shai-Hulud v2 Spreads From npm to Maven, as Campaign Exposes Thousands of Secrets](https://thehackernews.com/2025/11/shai-hulud-v2-campaign-spreads-from-npm.html) | The Hacker News | ai, apt, identity, incident_response, malware, supply_chain | 2025-11-26 18:08 |
-| [Merge PR #5776 from @phantinuss - bump validator version 0.20](https://github.com/SigmaHQ/sigma/commit/3cbce7d48c8fa921da5e453d9bfe8fb0304b048b) | SigmaHQ Core Rules | unclassified | 2025-11-26 18:07 |
-| [House Energy and Commerce Committee unveils new draft children’s online safety bill](https://therecord.media/house-commttee-unveils-new-kosa-bill) | The Record (Signals) | ai, vulnerabilities | 2025-11-26 17:59 |
-| [Multiple London councils' IT systems disrupted by cyberattack](https://www.bleepingcomputer.com/news/security/multiple-london-councils-it-systems-disrupted-by-cyberattack/) | BleepingComputer News | unclassified | 2025-11-26 17:26 |
-| [Meet Rey, the Admin of ‘Scattered Lapsus$ Hunters’](https://krebsonsecurity.com/2025/11/meet-rey-the-admin-of-scattered-lapsus-hunters/) | Krebs on Security (Signals) | identity, incident_response | 2025-11-26 17:22 |
-| [Care that you share](https://blog.talosintelligence.com/care-that-you-share/) | Cisco Talos | unclassified | 2025-11-26 17:00 |
-| [AI Meeting Assistants Are Rising – But Is Your Data Safe? A Deep Look at TicNote AI](https://hackread.com/ai-meeting-assistants-data-security-ticnote-ai/) | HackRead | ai, phishing | 2025-11-26 16:57 |
-| [The Destruction of a Notorious Myanmar Scam Compound Appears to Have Been ‘Performative’](https://www.wired.com/story/myanmar-kk-park-scam-compound-destruction/) | Wired Security | unclassified | 2025-11-26 16:33 |
-| [Thailand bans World iris scans, orders company to delete data](https://therecord.media/thailand-world-iris-scans-ban) | The Record (Signals) | ai, incident_response | 2025-11-26 16:29 |
-| [Cyber-Attack Disrupts OnSolve CodeRED Emergency Notification System](https://www.infosecurity-magazine.com/news/cyberattack-disrupts-onsolve/) | InfoSecurity Magazine News | ai | 2025-11-26 16:15 |
-| [Microsoft Teams Flaw in Guest Chat Exposes Users to Malware Attacks](https://hackread.com/microsoft-teams-guest-chat-flaw-malware/) | HackRead | defense, malware, policy | 2025-11-26 16:13 |
-| [UK Report Proposes Liability For Software Provider Insecurity](https://www.infosecurity-magazine.com/news/uk-liability-software-providers/) | InfoSecurity Magazine News | cloud, policy | 2025-11-26 15:00 |
-| [Multiple London councils faced a cyberattack](https://securityaffairs.com/185086/security/multiple-london-councils-faced-a-cyberattack.html) | Security Affairs (Dark Web) | unclassified | 2025-11-26 14:59 |
-| [Microsoft: Security keys may prompt for PIN after recent updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-fido2-security-keys-may-prompt-for-pin-after-recent-windows-updates/) | BleepingComputer News | unclassified | 2025-11-26 14:43 |
-| [Hackers exploit 3D design software to target game developers, animators](https://therecord.media/hackers-blender-software-malware) | The Record (Signals) | malware, mobile, vulnerabilities | 2025-11-26 14:38 |
-| [Qilin Ransomware Turns South Korean MSP Breach Into 28-Victim 'Korean Leaks' Data Heist](https://thehackernews.com/2025/11/qilin-ransomware-turns-south-korean-msp.html) | The Hacker News | ai, data_breach, malware, supply_chain | 2025-11-26 14:31 |
-| [FBI Warns of $262M Losses from Account Takeover Fraud in 2025](https://www.infosecurity-magazine.com/news/fbi-warns-account-takeover-fraud/) | InfoSecurity Magazine News | unclassified | 2025-11-26 14:15 |
-| [Fake LinkedIn jobs trick Mac users into downloading Flexible Ferret malware](https://www.malwarebytes.com/blog/news/2025/11/fake-linkedin-jobs-trick-mac-users-into-downloading-flexible-ferret-malware) | Malwarebytes Labs (News) | malware | 2025-11-26 14:11 |
-| [Municipal emergency warning service offline after hackers steal user data](https://therecord.media/emergency-warning-service-offline) | The Record (Signals) | unclassified | 2025-11-26 14:02 |
-| [INE Expands Cross-Skilling Innovations](https://hackread.com/ine-expands-cross-skilling-innovations/) | HackRead | incident_response | 2025-11-26 14:01 |
-| [Microsoft to secure Entra ID sign-ins from script injection attacks](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-secure-entra-id-sign-ins-from-external-script-injection-attacks/) | BleepingComputer News | ai, identity | 2025-11-26 13:26 |
-| [Samourai Wallet Founders Jailed in $237M Crypto Laundering Case](https://hackread.com/samourai-wallet-founders-jailed-crypto-laundering/) | HackRead | ai, identity, incident_response | 2025-11-26 13:12 |
-| [Huawei and Chinese Surveillance](https://www.schneier.com/blog/archives/2025/11/huawei-and-chinese-surveillance.html) | Schneier on Security | ai | 2025-11-26 12:05 |
-| [Gainsight Cyber-Attack Affect More Salesforce Customers](https://www.infosecurity-magazine.com/news/gainsight-cyberattack-more/) | InfoSecurity Magazine News | ai, data_breach, incident_response | 2025-11-26 12:05 |
-| [When Your $2M Security Detection Fails: Can your SOC Save You?](https://thehackernews.com/2025/11/when-your-2m-security-detection-fails.html) | The Hacker News | ai, defense, incident_response | 2025-11-26 11:55 |
-| [ASUS warns of new critical auth bypass flaw in AiCloud routers](https://www.bleepingcomputer.com/news/security/asus-warns-of-new-critical-auth-bypass-flaw-in-aicloud-routers/) | BleepingComputer News | ai, cloud, identity, incident_response, policy, vulnerabilities | 2025-11-26 11:41 |
-| [Emergency alerts go dark after cyberattack on OnSolve CodeRED](https://securityaffairs.com/185075/cyber-crime/emergency-alerts-go-dark-after-cyberattack-on-onsolve-codered.html) | Security Affairs (Dark Web) | cloud, incident_response | 2025-11-26 11:17 |
-| [Fake Battlefield 6 Downloads Are Spreading Malware, Stealing Player Data](https://hackread.com/fake-battlefield-6-downloads-malware-data/) | HackRead | ai, defense, incident_response, malware | 2025-11-26 11:14 |
-| [Webinar: Learn to Spot Risks and Patch Safely with Community-Maintained Tools](https://thehackernews.com/2025/11/webinar-learn-to-spot-risks-and-patch.html) | The Hacker News | ai, vulnerabilities | 2025-11-26 11:10 |
-| [Chrome Extension Caught Injecting Hidden Solana Transfer Fees Into Raydium Swaps](https://thehackernews.com/2025/11/chrome-extension-caught-injecting.html) | The Hacker News | incident_response | 2025-11-26 11:10 |
-| [The Golden Scale: 'Tis the Season for Unwanted Gifts](https://unit42.paloaltonetworks.com/new-shinysp1d3r-ransomware/) | Palo Alto Networks Unit 42 | incident_response, malware | 2025-11-26 11:00 |
+| [Merge PR #5482 from @swachchhanda000 - Update `Suspicious Copy From o…](https://github.com/SigmaHQ/sigma/commit/0a6d9299743af4efec4268899b02d3d5c9335a1d) | SigmaHQ Core Rules | incident_response | 2025-11-27 22:44 |
+| [Merge PR #5475 from @swachchhanda000 - Add `Renamed Schtasks Execution`](https://github.com/SigmaHQ/sigma/commit/1821bcbb00397ecb2c9e70f29db2ece4f7216c78) | SigmaHQ Core Rules | unclassified | 2025-11-27 22:19 |
+| [Merge PR #5763 from @swachchhanda000 - Update ClickFix/FileFix relate…](https://github.com/SigmaHQ/sigma/commit/3e9318e23fa3b335b9562326e442fe8f43a2d3ba) | SigmaHQ Core Rules | ai, incident_response | 2025-11-27 22:00 |
+| [Merge PR #5707 from @YxinMiracle - Add `Grixba Malware Reconnaissance…](https://github.com/SigmaHQ/sigma/commit/238e6f070f7dca2a6aa1d42313cfd627452eb349) | SigmaHQ Core Rules | ai, incident_response, malware | 2025-11-27 21:36 |
+| [Asahi says crooks stole data of approximately 2M customers and employees](https://securityaffairs.com/185126/data-breach/asahi-says-crooks-stole-data-of-approximately-2m-customers-and-employees.html) | Security Affairs (Dark Web) | apt, malware | 2025-11-27 20:03 |
+| [Poland detains Russian citizen suspected of hacking local firms](https://therecord.media/poland-detains-russian-citizen-accused-of-hacks) | The Record (Signals) | ai, identity, incident_response | 2025-11-27 18:51 |
+| [Bloody Wolf Expands Java-based NetSupport RAT Attacks in Kyrgyzstan and Uzbekistan](https://thehackernews.com/2025/11/bloody-wolf-expands-java-based.html) | The Hacker News | ai, apt, incident_response | 2025-11-27 18:13 |
+| [Report Names Teen in Scattered LAPSUS$ Hunters, Group Denies](https://hackread.com/report-names-teen-scattered-lapsus-hunters-group/) | HackRead | ai | 2025-11-27 17:19 |
+| [FCC Warns of Hackers Hijacking Radio Equipment For False Alerts](https://www.infosecurity-magazine.com/news/fcc-hackers-hijacking-radio/) | InfoSecurity Magazine News | unclassified | 2025-11-27 16:50 |
+| [Bloody Wolf Threat Actor Expands Activity Across Central Asia](https://www.infosecurity-magazine.com/news/bloody-wolf-expands-central-asia/) | InfoSecurity Magazine News | ai, apt, vulnerabilities | 2025-11-27 16:00 |
+| [Microsoft to Block Unauthorized Scripts in Entra ID Logins with 2026 CSP Update](https://thehackernews.com/2025/11/microsoft-to-block-unauthorized-scripts.html) | The Hacker News | ai, identity, policy | 2025-11-27 15:37 |
+| [OpenAI data may have been exposed after a cyberattack on analytics firm Mixpanel](https://securityaffairs.com/185121/data-breach/openai-data-may-have-been-exposed-after-a-cyberattack-on-analytics-firm-mixpanel.html) | Security Affairs (Dark Web) | ai, incident_response, iot | 2025-11-27 15:28 |
+| [One Identity Safeguard Named a Visionary in the 2025 Gartner Magic Quadrant for PAM](https://hackread.com/one-identity-safeguard-named-a-visionary-in-the-2025-gartner-magic-quadrant-for-pam/) | HackRead | identity, incident_response | 2025-11-27 15:28 |
+| [Webinar: Learn to Spot Risks and Patch Safely with Community-Maintained Tools](https://thehackernews.com/2025/11/webinar-learn-to-spot-risks-and-patch.html) | The Hacker News | ai, vulnerabilities | 2025-11-27 14:59 |
+| [Millions at risk after nationwide CodeRED alert system outage and data breach](https://www.malwarebytes.com/blog/news/2025/11/millions-at-risk-after-nationwide-codered-alert-system-outage-and-data-breach) | Malwarebytes Labs (News) | ai, data_breach, malware | 2025-11-27 14:40 |
+| [Asahi Confirms 1.5 Million Customers Affected in Major Cyber-Attack](https://www.infosecurity-magazine.com/news/asahi-15-million-customers/) | InfoSecurity Magazine News | incident_response | 2025-11-27 14:30 |
+| [Cronos Kicks Off $42K Global Hackathon Focused on AI-Powered On-Chain Payments](https://hackread.com/cronos-hackathon-ai-powered-chain-payments/) | HackRead | ai | 2025-11-27 13:39 |
+| [Holiday shoppers targeted as Amazon and FBI warn of surge in account takeover attacks](https://www.malwarebytes.com/blog/news/2025/11/holiday-shoppers-targeted-as-amazon-and-fbi-warn-of-surge-in-account-takeover-attacks) | Malwarebytes Labs (News) | incident_response | 2025-11-27 13:18 |
+| [OpenAI API User Data Exposed in Mixpanel Breach, ChatGPT Unaffected](https://hackread.com/openai-api-mixpanel-data-breach-chatgpt/) | HackRead | ai, data_breach, incident_response, supply_chain | 2025-11-27 12:19 |
+| [3 Best VPN for iPhone (2025), Tested and Reviewed](https://www.wired.com/gallery/best-vpn-for-iphone/) | Wired Security | unclassified | 2025-11-27 11:30 |
+| [OpenAI discloses API customer data breach via Mixpanel vendor hack](https://www.bleepingcomputer.com/news/security/openai-discloses-api-customer-data-breach-via-mixpanel-vendor-hack/) | BleepingComputer News | ai, data_breach, incident_response, iot, supply_chain | 2025-11-27 11:27 |
+| [OpenAI Warns of Mixpanel Data Breach Impacting API Users](https://www.infosecurity-magazine.com/news/openai-warns-mixpanel-data-breach/) | InfoSecurity Magazine News | ai, data_breach | 2025-11-27 11:15 |
+| [Fraud Fears But No Breach Spike Expected This Festive Season](https://www.infosecurity-magazine.com/news/fraud-fears-no-breach-spike/) | InfoSecurity Magazine News | data_breach, defense | 2025-11-27 10:45 |
+| [ThreatsDay Bulletin: AI Malware, Voice Bot Flaws, Crypto Laundering, IoT Attacks — and 20 More Stories](https://thehackernews.com/2025/11/threatsday-bulletin-ai-malware-voice.html) | The Hacker News | ai, cloud, iot, malware, policy | 2025-11-27 10:03 |
+| [Scattered Lapsus$ Hunters Take Aim At Zendesk Users](https://www.infosecurity-magazine.com/news/scattered-lapsus-hunters-zendesk/) | InfoSecurity Magazine News | ai, apt, phishing | 2025-11-27 09:30 |
+| [Key Provisions of the UK Cyber Resilience Bill Revealed](https://www.infosecurity-magazine.com/news/key-provisions-uk-cyber-resilience/) | InfoSecurity Magazine News | policy | 2025-11-27 09:00 |
+| [New ASUS firmware patches critical AiCloud vulnerability](https://securityaffairs.com/185109/iot/new-asus-firmware-patches-critical-aicloud-vulnerability.html) | Security Affairs (Dark Web) | ai, cloud, identity, incident_response, policy, vulnerabilities | 2025-11-27 08:33 |
+| [Gainsight Expands Impacted Customer List Following Salesforce Security Alert](https://thehackernews.com/2025/11/gainsight-expands-impacted-customer.html) | The Hacker News | ai | 2025-11-27 07:03 |
 
 ---
 
@@ -96,6 +84,7 @@
 - Spamhaus Phishing — 404, message='Not Found', url=URL('https://www.spamhaus.org/phishing_lasso')
 - ThreatNix Phishing — 404, message='Not Found', url=URL('https://threatnix.io/feed/')
 - URLScan.io Malicious — 404, message='Not Found', url=URL('https://urlscan.io/feed/malicious/')
+- BrandShield — 403, message='Forbidden', url=URL('https://brandshield.com/feed/')
 - Netcraft Phishing — 404, message='Not Found', url=URL('https://www.netcraft.com/rss/phishing.xml')
 - VX-Underground Blog — Cannot connect to host blog.vx-underground.org:443 ssl:default [Name or service not known]
 - Dark Reading Breaches — 403, message='Forbidden', url=URL('https://www.darkreading.com/vulnerabilities-threats/rss')
