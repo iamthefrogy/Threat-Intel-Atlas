@@ -1,6 +1,6 @@
 <p align="center">
   <strong style="font-size:1.9rem;">Threat Intel Atlas · Daily Signal Briefing</strong><br />
-  <span style="font-size:1rem;color:#6ecff6;">Compiled from 166 intelligence sources · refreshed 2025-11-28 06:44 UTC</span>
+  <span style="font-size:1rem;color:#6ecff6;">Compiled from 166 intelligence sources · refreshed 2025-11-29 06:42 UTC</span>
 </p>
 
 ---
@@ -10,8 +10,8 @@
 | Metric | Value |
 | --- | --- |
 | Total signals retained | 1000 |
-| Signals detected in the last 24h | 28 |
-| Signals surfaced in this report | 28 |
+| Signals detected in the last 24h | 32 |
+| Signals surfaced in this report | 32 |
 
 ---
 
@@ -19,34 +19,38 @@
 
 | Title | Source | Tags | Published (UTC) |
 | --- | --- | --- | --- |
-| [Merge PR #5482 from @swachchhanda000 - Update `Suspicious Copy From o…](https://github.com/SigmaHQ/sigma/commit/0a6d9299743af4efec4268899b02d3d5c9335a1d) | SigmaHQ Core Rules | incident_response | 2025-11-27 22:44 |
-| [Merge PR #5475 from @swachchhanda000 - Add `Renamed Schtasks Execution`](https://github.com/SigmaHQ/sigma/commit/1821bcbb00397ecb2c9e70f29db2ece4f7216c78) | SigmaHQ Core Rules | unclassified | 2025-11-27 22:19 |
-| [Merge PR #5763 from @swachchhanda000 - Update ClickFix/FileFix relate…](https://github.com/SigmaHQ/sigma/commit/3e9318e23fa3b335b9562326e442fe8f43a2d3ba) | SigmaHQ Core Rules | ai, incident_response | 2025-11-27 22:00 |
-| [Merge PR #5707 from @YxinMiracle - Add `Grixba Malware Reconnaissance…](https://github.com/SigmaHQ/sigma/commit/238e6f070f7dca2a6aa1d42313cfd627452eb349) | SigmaHQ Core Rules | ai, incident_response, malware | 2025-11-27 21:36 |
-| [Asahi says crooks stole data of approximately 2M customers and employees](https://securityaffairs.com/185126/data-breach/asahi-says-crooks-stole-data-of-approximately-2m-customers-and-employees.html) | Security Affairs (Dark Web) | apt, malware | 2025-11-27 20:03 |
-| [Poland detains Russian citizen suspected of hacking local firms](https://therecord.media/poland-detains-russian-citizen-accused-of-hacks) | The Record (Signals) | ai, identity, incident_response | 2025-11-27 18:51 |
-| [Bloody Wolf Expands Java-based NetSupport RAT Attacks in Kyrgyzstan and Uzbekistan](https://thehackernews.com/2025/11/bloody-wolf-expands-java-based.html) | The Hacker News | ai, apt, incident_response | 2025-11-27 18:13 |
-| [Report Names Teen in Scattered LAPSUS$ Hunters, Group Denies](https://hackread.com/report-names-teen-scattered-lapsus-hunters-group/) | HackRead | ai | 2025-11-27 17:19 |
-| [FCC Warns of Hackers Hijacking Radio Equipment For False Alerts](https://www.infosecurity-magazine.com/news/fcc-hackers-hijacking-radio/) | InfoSecurity Magazine News | unclassified | 2025-11-27 16:50 |
-| [Bloody Wolf Threat Actor Expands Activity Across Central Asia](https://www.infosecurity-magazine.com/news/bloody-wolf-expands-central-asia/) | InfoSecurity Magazine News | ai, apt, vulnerabilities | 2025-11-27 16:00 |
-| [Microsoft to Block Unauthorized Scripts in Entra ID Logins with 2026 CSP Update](https://thehackernews.com/2025/11/microsoft-to-block-unauthorized-scripts.html) | The Hacker News | ai, identity, policy | 2025-11-27 15:37 |
-| [OpenAI data may have been exposed after a cyberattack on analytics firm Mixpanel](https://securityaffairs.com/185121/data-breach/openai-data-may-have-been-exposed-after-a-cyberattack-on-analytics-firm-mixpanel.html) | Security Affairs (Dark Web) | ai, incident_response, iot | 2025-11-27 15:28 |
-| [One Identity Safeguard Named a Visionary in the 2025 Gartner Magic Quadrant for PAM](https://hackread.com/one-identity-safeguard-named-a-visionary-in-the-2025-gartner-magic-quadrant-for-pam/) | HackRead | identity, incident_response | 2025-11-27 15:28 |
-| [Webinar: Learn to Spot Risks and Patch Safely with Community-Maintained Tools](https://thehackernews.com/2025/11/webinar-learn-to-spot-risks-and-patch.html) | The Hacker News | ai, vulnerabilities | 2025-11-27 14:59 |
-| [Millions at risk after nationwide CodeRED alert system outage and data breach](https://www.malwarebytes.com/blog/news/2025/11/millions-at-risk-after-nationwide-codered-alert-system-outage-and-data-breach) | Malwarebytes Labs (News) | ai, data_breach, malware | 2025-11-27 14:40 |
-| [Asahi Confirms 1.5 Million Customers Affected in Major Cyber-Attack](https://www.infosecurity-magazine.com/news/asahi-15-million-customers/) | InfoSecurity Magazine News | incident_response | 2025-11-27 14:30 |
-| [Cronos Kicks Off $42K Global Hackathon Focused on AI-Powered On-Chain Payments](https://hackread.com/cronos-hackathon-ai-powered-chain-payments/) | HackRead | ai | 2025-11-27 13:39 |
-| [Holiday shoppers targeted as Amazon and FBI warn of surge in account takeover attacks](https://www.malwarebytes.com/blog/news/2025/11/holiday-shoppers-targeted-as-amazon-and-fbi-warn-of-surge-in-account-takeover-attacks) | Malwarebytes Labs (News) | incident_response | 2025-11-27 13:18 |
-| [OpenAI API User Data Exposed in Mixpanel Breach, ChatGPT Unaffected](https://hackread.com/openai-api-mixpanel-data-breach-chatgpt/) | HackRead | ai, data_breach, incident_response, supply_chain | 2025-11-27 12:19 |
-| [3 Best VPN for iPhone (2025), Tested and Reviewed](https://www.wired.com/gallery/best-vpn-for-iphone/) | Wired Security | unclassified | 2025-11-27 11:30 |
-| [OpenAI discloses API customer data breach via Mixpanel vendor hack](https://www.bleepingcomputer.com/news/security/openai-discloses-api-customer-data-breach-via-mixpanel-vendor-hack/) | BleepingComputer News | ai, data_breach, incident_response, iot, supply_chain | 2025-11-27 11:27 |
-| [OpenAI Warns of Mixpanel Data Breach Impacting API Users](https://www.infosecurity-magazine.com/news/openai-warns-mixpanel-data-breach/) | InfoSecurity Magazine News | ai, data_breach | 2025-11-27 11:15 |
-| [Fraud Fears But No Breach Spike Expected This Festive Season](https://www.infosecurity-magazine.com/news/fraud-fears-no-breach-spike/) | InfoSecurity Magazine News | data_breach, defense | 2025-11-27 10:45 |
-| [ThreatsDay Bulletin: AI Malware, Voice Bot Flaws, Crypto Laundering, IoT Attacks — and 20 More Stories](https://thehackernews.com/2025/11/threatsday-bulletin-ai-malware-voice.html) | The Hacker News | ai, cloud, iot, malware, policy | 2025-11-27 10:03 |
-| [Scattered Lapsus$ Hunters Take Aim At Zendesk Users](https://www.infosecurity-magazine.com/news/scattered-lapsus-hunters-zendesk/) | InfoSecurity Magazine News | ai, apt, phishing | 2025-11-27 09:30 |
-| [Key Provisions of the UK Cyber Resilience Bill Revealed](https://www.infosecurity-magazine.com/news/key-provisions-uk-cyber-resilience/) | InfoSecurity Magazine News | policy | 2025-11-27 09:00 |
-| [New ASUS firmware patches critical AiCloud vulnerability](https://securityaffairs.com/185109/iot/new-asus-firmware-patches-critical-aicloud-vulnerability.html) | Security Affairs (Dark Web) | ai, cloud, identity, incident_response, policy, vulnerabilities | 2025-11-27 08:33 |
-| [Gainsight Expands Impacted Customer List Following Salesforce Security Alert](https://thehackernews.com/2025/11/gainsight-expands-impacted-customer.html) | The Hacker News | ai | 2025-11-27 07:03 |
+| [Generated docs from job=generate-docs branch=master [ci skip]](https://github.com/redcanaryco/atomic-red-team/commit/0de6af53a15a901fad0d76bfc48c0c551d448c4d) | Atomic Red Team | unclassified | 2025-11-29 04:49 |
+| [Update  T1007 to enhance service discovery methods across platforms (…](https://github.com/redcanaryco/atomic-red-team/commit/79ff2fac436e6160cc0953592c1b5c21ed18dd3c) | Atomic Red Team | unclassified | 2025-11-29 04:48 |
+| [Generated docs from job=generate-docs branch=master [ci skip]](https://github.com/redcanaryco/atomic-red-team/commit/7d0948382d8c59ff08d15ceb5569328ba765e012) | Atomic Red Team | unclassified | 2025-11-29 04:39 |
+| [Fix formatting issues in T1562.003.md (#3236)](https://github.com/redcanaryco/atomic-red-team/commit/e71c0c3b57b635f2c8d7917311f27c3a975b1c31) | Atomic Red Team | unclassified | 2025-11-29 04:38 |
+| [Generated docs from job=generate-docs branch=master [ci skip]](https://github.com/redcanaryco/atomic-red-team/commit/6e5582f7a66959f3a00fe7492e4987818fee361f) | Atomic Red Team | unclassified | 2025-11-29 04:34 |
+| [Update T1049 atomics with process aware and cross platform network di…](https://github.com/redcanaryco/atomic-red-team/commit/07a88142a70fd5ca58275f6bb6bdffc6a32419a8) | Atomic Red Team | iot | 2025-11-29 04:33 |
+| [Bump pydantic from 2.12.3 to 2.12.4 (#3226)](https://github.com/redcanaryco/atomic-red-team/commit/79a3602930b74f6021a286b716623d623e776813) | Atomic Red Team | unclassified | 2025-11-29 02:40 |
+| [Attackers stole member data from French Soccer Federation](https://securityaffairs.com/185160/data-breach/attackers-stole-member-data-from-french-soccer-federation.html) | Security Affairs (Dark Web) | data_breach, incident_response | 2025-11-28 22:21 |
+| [Friday Squid Blogging: Flying Neon Squid Found on Israeli Beach](https://www.schneier.com/blog/archives/2025/11/friday-squid-blogging-flying-neon-squid-found-on-israeli-beach.html) | Schneier on Security | unclassified | 2025-11-28 20:56 |
+| [Man behind in-flight Evil Twin WiFi attacks gets 7 years in prison](https://www.bleepingcomputer.com/news/security/man-behind-in-flight-evil-twin-wifi-attacks-gets-7-years-in-prison/) | BleepingComputer News | ai, incident_response | 2025-11-28 18:25 |
+| [Microsoft: Windows updates make password login option invisible](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-updates-hide-password-icon-on-lock-screen/) | BleepingComputer News | ai, identity | 2025-11-28 18:07 |
+| [Public GitLab repositories exposed more than 17,000 secrets](https://www.bleepingcomputer.com/news/security/public-gitlab-repositories-exposed-more-than-17-000-secrets/) | BleepingComputer News | ai, cloud | 2025-11-28 17:43 |
+| [Japanese beer giant Asahi says ransomware attack may have exposed data of 1.5 million people](https://therecord.media/asahi-says-ransomware-incident-exposed-data) | The Record (Signals) | ai, data_breach, malware | 2025-11-28 17:16 |
+| [Legacy Python Bootstrap Scripts Create Domain-Takeover Risk in Multiple PyPI Packages](https://thehackernews.com/2025/11/legacy-python-bootstrap-scripts-create.html) | The Hacker News | ai, supply_chain, vulnerabilities | 2025-11-28 16:27 |
+| [North Korean Hackers Deploy 197 npm Packages to Spread Updated OtterCookie Malware](https://thehackernews.com/2025/11/north-korean-hackers-deploy-197-npm.html) | The Hacker News | ai, apt, malware | 2025-11-28 16:18 |
+| [French Football Federation discloses data breach after cyberattack](https://www.bleepingcomputer.com/news/security/french-football-federation-fff-discloses-data-breach-after-cyberattack/) | BleepingComputer News | ai, data_breach | 2025-11-28 16:12 |
+| [‘Trickery and f…ery’: Agency under fire over senior manager’s ‘serious’ privacy breach](https://databreaches.net/2025/11/28/trickery-and-f-ery-agency-under-fire-over-senior-managers-serious-privacy-breach/?pk_campaign=feed&pk_kwd=trickery-and-f-ery-agency-under-fire-over-senior-managers-serious-privacy-breach) | DataBreaches.net (Notices) | ai, apt, data_breach, incident_response, iot | 2025-11-28 16:03 |
+| [Threat Actors Exploit Calendar Subscriptions for Phishing and Malware Delivery](https://www.infosecurity-magazine.com/news/threat-actors-exploit-calendar-subs/) | InfoSecurity Magazine News | ai, apt, malware, phishing, vulnerabilities | 2025-11-28 15:05 |
+| [Prompt Injection Through Poetry](https://www.schneier.com/blog/archives/2025/11/prompt-injection-through-poetry.html) | Schneier on Security | ai, incident_response, vulnerabilities | 2025-11-28 14:54 |
+| [The Good, the Bad and the Ugly in Cybersecurity – Week 48](https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-48-7/) | SentinelOne Labs | ai, apt, data_breach | 2025-11-28 14:00 |
+| [Three Black Friday Scams to Watch Out For This Year](https://www.infosecurity-magazine.com/news/three-black-friday-scams-2025/) | InfoSecurity Magazine News | phishing | 2025-11-28 13:55 |
+| [How CVSS v4.0 works: characterizing and scoring vulnerabilities](https://www.malwarebytes.com/blog/news/2025/11/how-cvss-v4-0-works-characterizing-and-scoring-vulnerabilities) | Malwarebytes Labs (News) | ai, vulnerabilities | 2025-11-28 12:42 |
+| [California law regulating web browsers could have national data privacy impact, experts say](https://therecord.media/california-web-browser-law-national-implications) | The Record (Signals) | incident_response, policy | 2025-11-28 12:36 |
+| [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2025/11/28/cisa-adds-one-known-exploited-vulnerability-catalog) | CISA Joint Advisories | ai, incident_response, iot, vulnerabilities | 2025-11-28 12:00 |
+| [Why Organizations Are Turning to RPAM](https://thehackernews.com/2025/11/why-organizations-are-turning-to-rpam.html) | The Hacker News | ai, incident_response, phishing, supply_chain | 2025-11-28 11:09 |
+| [French Football Federation Suffers Data Breach](https://www.infosecurity-magazine.com/news/french-football-federation-data/) | InfoSecurity Magazine News | data_breach | 2025-11-28 10:06 |
+| [Poems Can Trick AI Into Helping You Make a Nuclear Weapon](https://www.wired.com/story/poems-can-trick-ai-into-helping-you-make-a-nuclear-weapon/) | Wired Security | ai | 2025-11-28 10:00 |
+| [Thousands of sensitive secrets published on JSONFormatter and CodeBeautify](https://securityaffairs.com/185150/security/thousands-of-sensitive-secrets-published-on-jsonformatter-and-codebeautify.html) | Security Affairs (Dark Web) | ai, data_breach, identity | 2025-11-28 09:55 |
+| [Merge PR #5536 from @suKTech24 - Add `AWS GuardDuty Detector Deleted …](https://github.com/SigmaHQ/sigma/commit/3565dee3eb7eb98dbee87ba8b3daa8493fcc5322) | SigmaHQ Core Rules | cloud | 2025-11-28 09:33 |
+| [MS Teams Guest Access Can Remove Defender Protection When Users Join External Tenants](https://thehackernews.com/2025/11/ms-teams-guest-access-can-remove.html) | The Hacker News | ai, defense, incident_response | 2025-11-28 08:33 |
+| [New Mirai variant ShadowV2 tests IoT exploits amid AWS disruption](https://securityaffairs.com/185135/malware/new-mirai-variant-shadowv2-tests-iot-exploits-amid-aws-disruption.html) | Security Affairs (Dark Web) | ai, cloud, incident_response, iot, malware, vulnerabilities | 2025-11-28 08:20 |
+| [Tomiris wreaks Havoc: New tools and techniques of the APT group](https://securelist.com/tomiris-new-tools/118143/) | SecureList (Kaspersky) | apt, incident_response, policy | 2025-11-28 07:00 |
 
 ---
 
