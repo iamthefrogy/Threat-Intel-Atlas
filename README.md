@@ -1,6 +1,6 @@
 <p align="center">
   <strong style="font-size:1.9rem;">Threat Intel Atlas · Daily Signal Briefing</strong><br />
-  <span style="font-size:1rem;color:#6ecff6;">Compiled from 166 intelligence sources · refreshed 2025-11-30 06:42 UTC</span>
+  <span style="font-size:1rem;color:#6ecff6;">Compiled from 166 intelligence sources · refreshed 2025-12-01 06:45 UTC</span>
 </p>
 
 ---
@@ -10,8 +10,8 @@
 | Metric | Value |
 | --- | --- |
 | Total signals retained | 1000 |
-| Signals detected in the last 24h | 5 |
-| Signals surfaced in this report | 5 |
+| Signals detected in the last 24h | 10 |
+| Signals surfaced in this report | 10 |
 
 ---
 
@@ -19,11 +19,16 @@
 
 | Title | Source | Tags | Published (UTC) |
 | --- | --- | --- | --- |
-| [Contagious Interview campaign expands with 197 npm Ppackages spreading new OtterCookie malware](https://securityaffairs.com/185170/apt/contagious-interview-campaign-expands-with-197-npm-ppackages-spreading-new-ottercookie-malware.html) | Security Affairs (Dark Web) | ai, apt, incident_response, malware | 2025-11-30 01:02 |
-| [Japanese beer giant Asahi says data breach hit 1.5 million people](https://www.bleepingcomputer.com/news/security/japanese-beer-giant-asahi-says-data-breach-hit-15-million-people/) | BleepingComputer News | data_breach | 2025-11-29 15:17 |
-| [HashJack Attack Uses URL ‘#’ to Control AI Browser Behavior](https://hackread.com/hashjack-attack-url-control-ai-browser-behavior/) | HackRead | ai, incident_response, policy, vulnerabilities | 2025-11-29 14:03 |
-| [The WIRED Guide to Digital Opsec for Teens](https://www.wired.com/story/digital-opsec-for-teens/) | Wired Security | incident_response | 2025-11-29 12:00 |
-| [Leak confirms OpenAI is preparing ads on ChatGPT for public roll out](https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-openai-is-preparing-ads-on-chatgpt-for-public-roll-out/) | BleepingComputer News | ai, data_breach, incident_response | 2025-11-29 11:31 |
+| [Weekly Update 480](https://www.troyhunt.com/weekly-update-480/) | Troy Hunt Blog | incident_response | 2025-12-01 06:11 |
+| [Tomiris Shifts to Public-Service Implants for Stealthier C2 in Attacks on Government Targets](https://thehackernews.com/2025/12/tomiris-shifts-to-public-service.html) | The Hacker News | ai, apt, incident_response, iot | 2025-12-01 05:07 |
+| [Over 2,000 Fake Shopping Sites Spotted Before Cyber Monday](https://hackread.com/fake-shopping-sites-cyber-monday/) | HackRead | cloud | 2025-11-30 22:28 |
+| [How to bypass age verification on Instagram in Australia](https://www.comparitech.com/blog/vpn-privacy/bypass-age-verification-instagram/) | Comparitech Blog | unclassified | 2025-11-30 19:45 |
+| [Student finance scams: what are they and how to avoid them](https://www.comparitech.com/blog/information-security/student-finance-scams/) | Comparitech Blog | phishing | 2025-11-30 19:23 |
+| [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 73](https://securityaffairs.com/185181/uncategorized/security-affairs-malware-newsletter-round-73.html) | Security Affairs (Dark Web) | ai, apt, defense, incident_response, malware, supply_chain, vulnerabilities | 2025-11-30 16:11 |
+| [Security Affairs newsletter Round 552 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/185178/breaking-news/security-affairs-newsletter-round-552-by-pierluigi-paganini-international-edition.html) | Security Affairs (Dark Web) | ai, incident_response | 2025-11-30 15:30 |
+| [Quttera Launches “Evidence-as-Code” API to Automate Security Compliance for SOC 2 and PCI DSS v4.0](https://hackread.com/quttera-evidence-as-code-api-soc-pci-dss/) | HackRead | ai, policy | 2025-11-30 15:15 |
+| [BREAKING:  Dos-Op exposes the Nova RaaS gang](https://databreaches.net/2025/11/30/breaking-dos-op-exposes-the-nova-raas-gang/?pk_campaign=feed&pk_kwd=breaking-dos-op-exposes-the-nova-raas-gang) | DataBreaches.net (Notices) | ai, apt, data_breach, iot, malware | 2025-11-30 13:25 |
+| [CISA Adds Actively Exploited XSS Bug CVE-2021-26829 in OpenPLC ScadaBR to KEV](https://thehackernews.com/2025/11/cisa-adds-actively-exploited-xss-bug.html) | The Hacker News | iot, policy, vulnerabilities | 2025-11-30 09:23 |
 
 ---
 
@@ -62,6 +67,7 @@
 - Spamhaus Phishing — 404, message='Not Found', url=URL('https://www.spamhaus.org/phishing_lasso')
 - ThreatNix Phishing — 404, message='Not Found', url=URL('https://threatnix.io/feed/')
 - URLScan.io Malicious — 404, message='Not Found', url=URL('https://urlscan.io/feed/malicious/')
+- BrandShield — 403, message='Forbidden', url=URL('https://brandshield.com/feed/')
 - Netcraft Phishing — 404, message='Not Found', url=URL('https://www.netcraft.com/rss/phishing.xml')
 - VX-Underground Blog — Cannot connect to host blog.vx-underground.org:443 ssl:default [Name or service not known]
 - Dark Reading Breaches — 403, message='Forbidden', url=URL('https://www.darkreading.com/vulnerabilities-threats/rss')
