@@ -1,6 +1,6 @@
 <p align="center">
   <strong style="font-size:1.9rem;">Threat Intel Atlas · Daily Signal Briefing</strong><br />
-  <span style="font-size:1rem;color:#6ecff6;">Compiled from 166 intelligence sources · refreshed 2025-12-04 06:44 UTC</span>
+  <span style="font-size:1rem;color:#6ecff6;">Compiled from 166 intelligence sources · refreshed 2025-12-05 06:44 UTC</span>
 </p>
 
 ---
@@ -10,8 +10,8 @@
 | Metric | Value |
 | --- | --- |
 | Total signals retained | 1000 |
-| Signals detected in the last 24h | 53 |
-| Signals surfaced in this report | 53 |
+| Signals detected in the last 24h | 66 |
+| Signals surfaced in this report | 66 |
 
 ---
 
@@ -19,46 +19,46 @@
 
 | Title | Source | Tags | Published (UTC) |
 | --- | --- | --- | --- |
-| [Merge PR #5782 from @Koifman - Add `Github Self-Hosted Runner Execution`](https://github.com/SigmaHQ/sigma/commit/0aa29891df9b171109b5b14e32b27e4f4300d5f1) | SigmaHQ Core Rules | ai, incident_response | 2025-12-03 23:55 |
-| [Why Does Have I Been Pwned Contain "Fake" Email Addresses?](https://www.troyhunt.com/why-does-have-i-been-pwned-contain-fake-email-addresses/) | Troy Hunt Blog | ai, phishing | 2025-12-03 23:37 |
-| [King Addons flaw lets anyone become WordPress admin](https://securityaffairs.com/185286/hacking/king-addons-flaw-lets-anyone-become-wordpress-admin.html) | Security Affairs (Dark Web) | ai, phishing, policy, vulnerabilities | 2025-12-03 22:27 |
-| [Virginia Twins Arrested for Conspiring to Destroy Government Databases](https://databreaches.net/2025/12/03/virginia-twins-arrested-for-conspiring-to-destroy-government-databases/?pk_campaign=feed&pk_kwd=virginia-twins-arrested-for-conspiring-to-destroy-government-databases) | DataBreaches.net (Notices) | ai, apt, data_breach, incident_response, iot | 2025-12-03 22:08 |
-| [Marquis data breach impacts over 74 US banks, credit unions](https://www.bleepingcomputer.com/news/security/marquis-data-breach-impacts-over-74-us-banks-credit-unions/) | BleepingComputer News | data_breach | 2025-12-03 22:06 |
-| [Best 5 Dark Web Intelligence Platforms](https://hackread.com/best-dark-web-intelligence-platforms/) | HackRead | cloud, darkweb, incident_response | 2025-12-03 21:39 |
-| [Critical flaw in WordPress add-on for Elementor exploited in attacks](https://www.bleepingcomputer.com/news/security/critical-flaw-in-wordpress-add-on-for-elementor-exploited-in-attacks/) | BleepingComputer News | ai, policy, vulnerabilities | 2025-12-03 21:31 |
-| [French DIY retail giant Leroy Merlin discloses a data breach](https://www.bleepingcomputer.com/news/security/french-diy-retail-giant-leroy-merlin-discloses-a-data-breach/) | BleepingComputer News | ai, data_breach, incident_response | 2025-12-03 20:52 |
-| [Freedom Mobile discloses data breach exposing customer data](https://www.bleepingcomputer.com/news/security/freedom-mobile-discloses-data-breach-exposing-customer-data/) | BleepingComputer News | data_breach, incident_response, mobile | 2025-12-03 20:28 |
-| [Shai Hulud 2.0, now with a wiper flavor](https://securelist.com/shai-hulud-2-0/118214/) | SecureList (Kaspersky) | ai, malware | 2025-12-03 20:10 |
-| [University of Pennsylvania and University of Phoenix disclose data breaches](https://securityaffairs.com/185279/data-breach/university-of-pennsylvania-and-university-of-phoenix-disclose-data-breaches.html) | Security Affairs (Dark Web) | ai, apt, data_breach, incident_response | 2025-12-03 19:17 |
-| [University of Phoenix says 'numerous individuals' impacted by Oracle EBS breach](https://therecord.media/university-of-phoenix-data-breach) | The Record (Signals) | data_breach, vulnerabilities | 2025-12-03 18:23 |
-| [Critical RSC Bugs in React and Next.js Allow Unauthenticated Remote Code Execution](https://thehackernews.com/2025/12/critical-rsc-bugs-in-react-and-nextjs.html) | The Hacker News | malware, policy, vulnerabilities | 2025-12-03 18:19 |
-| [Cyberattack on Puerto Rico IT vendor Truenorth hits 3 agencies](https://databreaches.net/2025/12/03/cyberattack-on-puerto-rico-it-vendor-truenorth-hits-3-agencies/?pk_campaign=feed&pk_kwd=cyberattack-on-puerto-rico-it-vendor-truenorth-hits-3-agencies) | DataBreaches.net (Notices) | ai, apt, data_breach, incident_response, iot, malware | 2025-12-03 17:59 |
-| [Discover the AI Tools Fueling the Next Cybercrime Wave — Watch the Webinar](https://thehackernews.com/2025/12/discover-ai-tools-fueling-next.html) | The Hacker News | ai, apt, incident_response, phishing | 2025-12-03 17:56 |
-| [Microsoft Silently Patches Windows LNK Flaw After Years of Active Exploitation](https://thehackernews.com/2025/12/microsoft-silently-patches-windows-lnk.html) | The Hacker News | apt, policy, vulnerabilities | 2025-12-03 17:46 |
-| [Fake ChatGPT Atlas Browser Used in ClickFix Attack to Steal Passwords](https://hackread.com/fake-chatgpt-atlas-clickfix-steal-passwords/) | HackRead | identity, incident_response | 2025-12-03 17:34 |
-| [Russia blocks Roblox over distribution of LGBT "propaganda"](https://www.bleepingcomputer.com/news/security/russia-blocks-roblox-over-distribution-of-lgbt-propaganda/) | BleepingComputer News | ai | 2025-12-03 17:33 |
-| [WordPress King Addons Flaw Under Active Attack Lets Hackers Make Admin Accounts](https://thehackernews.com/2025/12/wordpress-king-addons-flaw-under-active.html) | The Hacker News | policy, vulnerabilities | 2025-12-03 17:08 |
-| [Google expands Android scam protection feature to Chase, Cash App in U.S.](https://www.bleepingcomputer.com/news/security/google-expands-android-scam-protection-feature-to-chase-cash-app-in-us/) | BleepingComputer News | mobile | 2025-12-03 17:00 |
-| [Android expands pilot for in-call scam protection for financial apps](http://security.googleblog.com/2025/12/android-expands-pilot-in-call-scam-protection-financial-apps.html) | Google Security Blog | ai, defense, identity, incident_response, iot, mobile, phishing | 2025-12-03 16:59 |
-| [Microsoft "mitigates" Windows LNK flaw exploited as zero-day](https://www.bleepingcomputer.com/news/microsoft/microsoft-mitigates-windows-lnk-flaw-exploited-as-zero-day/) | BleepingComputer News | policy, vulnerabilities | 2025-12-03 16:45 |
-| [French NGO Reporters Without Borders Targeted by Star Blizzard](https://www.infosecurity-magazine.com/news/star-blizzard-targets-reporters/) | InfoSecurity Magazine News | phishing | 2025-12-03 16:45 |
-| [Canadian police department becomes first to trial body cameras equipped with facial recognition technology](https://therecord.media/canadian-police-department-trials-facial-recognition-body-cameras) | The Record (Signals) | incident_response, phishing | 2025-12-03 16:32 |
-| [UK's Cyber Service for Telcos Blocks 1 Billion Malicious Site Attempts](https://www.infosecurity-magazine.com/news/uk-cyber-service-blocks-billion/) | InfoSecurity Magazine News | ai | 2025-12-03 16:08 |
-| [Attackers have a new way to slip past your MFA](https://www.malwarebytes.com/blog/news/2025/12/attackers-have-a-new-way-to-slip-past-your-mfa) | Malwarebytes Labs (News) | identity | 2025-12-03 15:44 |
-| [India backs off mandatory 'cyber safety' app after surveillance backlash](https://therecord.media/india-drops-mandate-sanchar-saathi-app-privacy-surveillance) | The Record (Signals) | incident_response, mobile | 2025-12-03 15:39 |
-| [Easy Question, Complicated Answer: What Does It Take to Stop Workers From Snooping?](https://databreaches.net/2025/12/03/easy-question-complicated-answer-what-does-it-take-to-stop-workers-from-snooping/?pk_campaign=feed&pk_kwd=easy-question-complicated-answer-what-does-it-take-to-stop-workers-from-snooping) | DataBreaches.net (Notices) | ai, apt, data_breach, iot, mobile | 2025-12-03 15:33 |
-| [Brazil Hit by Banking Trojan Spread via WhatsApp Worm and RelayNFC NFC Relay Fraud](https://thehackernews.com/2025/12/brazil-hit-by-banking-trojan-spread-via.html) | The Hacker News | ai, apt, iot, malware | 2025-12-03 15:32 |
-| [Yearn Finance yETH Pool Hit by $9M Exploit](https://www.infosecurity-magazine.com/news/yearn-finance-yeth-pool-exploit/) | InfoSecurity Magazine News | vulnerabilities | 2025-12-03 15:30 |
-| [Architecture Patterns That Enable Cycode alternatives at Scale](https://hackread.com/architecture-patterns-enable-cycode-alternatives/) | HackRead | incident_response | 2025-12-03 15:26 |
-| [Deep dive into DragonForce ransomware and its Scattered Spider connection](https://www.bleepingcomputer.com/news/security/deep-dive-into-dragonforce-ransomware-and-its-scattered-spider-connection/) | BleepingComputer News | ai, incident_response, malware, phishing | 2025-12-03 15:05 |
-| [Japan’s Askul resumes limited online sales 6 weeks after ransomware attack](https://therecord.media/askul-resumes-limited-ordering-following-ransomware-attack) | The Record (Signals) | ai, malware | 2025-12-03 14:47 |
-| [How attackers use real IT tools to take over your computer](https://www.malwarebytes.com/blog/news/2025/12/how-attackers-use-real-it-tools-to-take-over-your-computer) | Malwarebytes Labs (News) | vulnerabilities | 2025-12-03 14:12 |
-| [Aisuru botnet behind new record-breaking 29.7 Tbps DDoS attack](https://www.bleepingcomputer.com/news/security/aisuru-botnet-behind-new-record-breaking-297-tbps-ddos-attack/) | BleepingComputer News | ai, ddos, malware | 2025-12-03 14:01 |
-| [Fileless protection explained: Blocking the invisible threat others miss](https://www.malwarebytes.com/blog/inside-malwarebytes/2025/12/fileless) | Malwarebytes Labs (News) | ai, incident_response | 2025-12-03 13:33 |
-| [We're at Black Hat Europe](https://blog.eclecticiq.com/were-at-black-hat-europe) | EclecticIQ Blog | unclassified | 2025-12-03 13:31 |
-| [UK Ransomware Payment Ban to Come with Exemptions, Security Minster Say](https://www.infosecurity-magazine.com/news/uk-ransomware-payment-ban/) | InfoSecurity Magazine News | iot, malware | 2025-12-03 13:25 |
-| [University of Phoenix discloses data breach after Oracle hack](https://www.bleepingcomputer.com/news/security/university-of-phoenix-discloses-data-breach-after-oracle-hack/) | BleepingComputer News | ai, apt, data_breach | 2025-12-03 13:23 |
-| [Researchers spotted Lazarus’s remote IT workers in action](https://securityaffairs.com/185271/hacking/researchers-spotted-lazaruss-remote-it-workers-in-action.html) | Security Affairs (Dark Web) | apt, incident_response | 2025-12-03 13:21 |
+| [JPCERT Confirms Active Command Injection Attacks on Array AG Gateways](https://thehackernews.com/2025/12/jpcert-confirms-active-command.html) | The Hacker News | incident_response, vulnerabilities | 2025-12-05 05:40 |
+| [Merge PR #5674 from @skaynum - Add `HTML File Opened From Download Fo…](https://github.com/SigmaHQ/sigma/commit/0490e31eb5b4bfc5e98ef66bbc4870176e4bed9e) | SigmaHQ Core Rules | ai, incident_response | 2025-12-05 00:22 |
+| [‘Signalgate’ Inspector General Report Wants Just One Change to Avoid a Repeat Debacle](https://www.wired.com/story/signalgate-inspector-general-report-hegseth-change/) | Wired Security | unclassified | 2025-12-05 00:02 |
+| [Hackers are exploiting ArrayOS AG VPN flaw to plant webshells](https://www.bleepingcomputer.com/news/security/hackers-are-exploiting-arrayos-ag-vpn-flaw-to-plant-webshells/) | BleepingComputer News | apt, policy, vulnerabilities | 2025-12-04 23:05 |
+| [SMS Phishers Pivot to Points, Taxes, Fake Retailers](https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/) | Krebs on Security (Signals) | ai, mobile, phishing | 2025-12-04 23:02 |
+| [NCSC's ‘Proactive Notifications’ warns orgs of flaws in exposed devices](https://www.bleepingcomputer.com/news/security/ncscs-proactive-notifications-warns-orgs-of-flaws-in-exposed-devices/) | BleepingComputer News | cloud, incident_response, policy | 2025-12-04 22:21 |
+| [Cloudflare Has Blocked 416 Billion AI Bot Requests Since July 1](https://www.wired.com/story/big-interview-event-matthew-prince-cloudflare/) | Wired Security | ai, cloud | 2025-12-04 22:04 |
+| [U.S. CISA adds a new an OpenPLC ScadaBR flaw to its Known Exploited Vulnerabilities catalog](https://securityaffairs.com/185327/hacking/u-s-cisa-adds-new-openplc-scadabr-flaw-to-its-known-exploited-vulnerabilities-catalog.html) | Security Affairs (Dark Web) | iot, policy, vulnerabilities | 2025-12-04 21:56 |
+| [CISA, NSA warn of China’s BRICKSTORM malware after incident response efforts](https://therecord.media/cisa-nsa-warn-brickstorm-china) | The Record (Signals) | defense, incident_response, malware | 2025-12-04 21:35 |
+| [Predator spyware uses new infection vector for zero-click attacks](https://www.bleepingcomputer.com/news/security/predator-spyware-uses-new-infection-vector-for-zero-click-attacks/) | BleepingComputer News | unclassified | 2025-12-04 20:47 |
+| [Critical Vulnerabilities in React Server Components and Next.js](https://unit42.paloaltonetworks.com/cve-2025-55182-react-and-cve-2025-66478-next/) | Palo Alto Networks Unit 42 | incident_response, vulnerabilities | 2025-12-04 20:30 |
+| [Socomec DIRIS Digiware M series and Easy Config, PDF XChange Editor vulnerabilities](https://blog.talosintelligence.com/socomec-diris-digiware-m-series-and-easy-config-pdf-xchange-editor-vulnerabilities/) | Cisco Talos | cloud, incident_response, policy, vulnerabilities | 2025-12-04 20:23 |
+| [Phishing attempt against Reporters Without Borders attributed to Russia-linked group](https://therecord.media/phishing-attempt-reporters-without-borders-callisto-coldriver) | The Record (Signals) | ai, phishing | 2025-12-04 20:06 |
+| [LummaC2 Infects North Korean Hacker Device Linked to Bybit Heist](https://hackread.com/north-korean-hacker-device-lummac2-infostealer-bybit/) | HackRead | ai, malware | 2025-12-04 19:55 |
+| [FBI Says DC Pipe Bomb Suspect Brian Cole Kept Buying Bomb Parts After January 6](https://www.wired.com/story/fbi-says-dc-pipe-bomb-suspect-brian-cole-kept-buying-bomb-parts-after-jan-6/) | Wired Security | apt, incident_response | 2025-12-04 19:42 |
+| [British officials seek to expand facial recognition technology use](https://therecord.media/british-officials-seek-to-expand-facial-recognition-tech-use) | The Record (Signals) | ai | 2025-12-04 19:24 |
+| [Russia blocks FaceTime and Snapchat for alleged use by terrorists](https://www.bleepingcomputer.com/news/security/russia-blocks-facetime-and-snapchat-over-use-in-terrorist-attacks/) | BleepingComputer News | ai | 2025-12-04 19:12 |
+| [Virginia brothers charged with hacking, deleting federal databases holding FOIA info](https://therecord.media/twin-brothers-arrested-hacking-deleting-foia-databases) | The Record (Signals) | incident_response | 2025-12-04 19:01 |
+| [Your year-end infosec wrapped](https://blog.talosintelligence.com/your-year-end-infosec-wrapped/) | Cisco Talos | ai, identity | 2025-12-04 19:00 |
+| [Marquis data breach impacted more than 780,000 individuals](https://securityaffairs.com/185320/data-breach/marquis-data-breach-impacted-more-than-780000-individuals.html) | Security Affairs (Dark Web) | data_breach, incident_response, iot | 2025-12-04 18:42 |
+| [Marquis data breach impacts over 74 US banks, credit unions](https://databreaches.net/2025/12/04/marquis-data-breach-impacts-over-74-us-banks-credit-unions/?pk_campaign=feed&pk_kwd=marquis-data-breach-impacts-over-74-us-banks-credit-unions) | DataBreaches.net (Notices) | ai, apt, data_breach, iot, policy | 2025-12-04 18:29 |
+| [CISA warns of Chinese "BrickStorm" malware attacks on VMware servers](https://www.bleepingcomputer.com/news/security/cisa-warns-of-chinese-brickstorm-malware-attacks-on-vmware-servers/) | BleepingComputer News | defense, malware | 2025-12-04 18:19 |
+| [Amid rising threats, NATO holds its largest-ever cyberdefense exercise](https://therecord.media/nato-holds-largest-ever-cyberdefense-exercise-estonia) | The Record (Signals) | unclassified | 2025-12-04 18:06 |
+| [How scammers use fake insurance texts to steal your identity](https://www.malwarebytes.com/blog/news/2025/12/how-scammers-use-fake-insurance-texts-to-steal-your-identity) | Malwarebytes Labs (News) | ai, identity, incident_response | 2025-12-04 17:55 |
+| [Silver Fox Uses Fake Microsoft Teams Installer to Spread ValleyRAT Malware in China](https://thehackernews.com/2025/12/silver-fox-uses-fake-microsoft-teams.html) | The Hacker News | ai, apt, malware | 2025-12-04 17:25 |
+| [Cybersecurity strategies to prioritize now​​](https://www.microsoft.com/en-us/security/blog/2025/12/04/cybersecurity-strategies-to-prioritize-now/) | Microsoft Security Blog | incident_response, phishing | 2025-12-04 17:00 |
+| [A New Anonymous Phone Carrier Lets You Sign Up With Nothing but a Zip Code](https://www.wired.com/story/new-anonymous-phone-carrier-sign-up-with-nothing-but-a-zip-code/) | Wired Security | unclassified | 2025-12-04 17:00 |
+| [Contractors with hacking records accused of wiping 96 govt databases](https://www.bleepingcomputer.com/news/security/contractors-with-hacking-records-accused-of-wiping-96-govt-databases/) | BleepingComputer News | incident_response | 2025-12-04 16:30 |
+| [CISA and International Partners Issue Guidance for Secure AI in Infrastructure](https://www.infosecurity-magazine.com/news/us-guidance-secure-ai-ot/) | InfoSecurity Magazine News | ai, policy | 2025-12-04 16:30 |
+| [Cloudflare Blocks Aisuru Botnet Powered Largest Ever 29.7 Tbps DDoS Attack](https://hackread.com/cloudflare-aisuru-botnet-ddos-attack/) | HackRead | ai, cloud, ddos, malware | 2025-12-04 16:19 |
+| [ASUS confirms vendor breach as Everest gang leaks data, claims ArcSoft and Qualcomm](https://securityaffairs.com/185310/data-breach/asus-confirms-vendor-breach-as-everest-gang-leaks-data-claims-arcsoft-and-qualcomm.html) | Security Affairs (Dark Web) | ai, data_breach, incident_response, malware, supply_chain | 2025-12-04 15:53 |
+| [Active Exploitation of 7-Zip RCE Vulnerability Shows Why Manual Patching is No Longer an Option](https://blog.qualys.com/category/product-tech) | Qualys | incident_response, vulnerabilities | 2025-12-04 15:25 |
+| [Critical React, Next.js flaw lets hackers execute code on servers](https://www.bleepingcomputer.com/news/security/critical-react2shell-flaw-in-react-nextjs-lets-hackers-run-javascript-code/) | BleepingComputer News | identity, policy, vulnerabilities | 2025-12-04 15:11 |
+| [How strong password policies secure OT systems against cyber threats](https://www.bleepingcomputer.com/news/security/how-strong-password-policies-secure-ot-systems-against-cyber-threats/) | BleepingComputer News | ai, identity, incident_response | 2025-12-04 15:11 |
+| [Cyber Agencies Push for Digital Trust Amid AI Era with New Provenance Report](https://www.infosecurity-magazine.com/news/cyber-agencies-new-provenance/) | InfoSecurity Magazine News | ai | 2025-12-04 15:00 |
+| [2025-041: Critical Security Vulnerability in React Server Components](https://cert.europa.eu/publications/security-advisories/2025-041/) | CERT-EU Security Advisories | policy, vulnerabilities | 2025-12-04 14:50 |
+| [New GhostFrame Phishing Framework Hits Over One Million Attacks](https://www.infosecurity-magazine.com/news/ghostframe-phishing-hits-one/) | InfoSecurity Magazine News | phishing, policy | 2025-12-04 14:30 |
+| [SpyCloud Data Shows Corporate Users 3x More Likely to Be Targeted by Phishing Than by Malware](https://hackread.com/spycloud-data-shows-corporate-users-3x-more-likely-to-be-targeted-by-phishing-than-by-malware/) | HackRead | cloud, incident_response, malware, phishing | 2025-12-04 14:01 |
+| [Canadian police trialing facial recognition bodycams](https://www.malwarebytes.com/blog/news/2025/12/canadian-police-trialing-facial-recognition-bodycams) | Malwarebytes Labs (News) | unclassified | 2025-12-04 13:19 |
+| [Microsoft 365 license check bug blocks desktop app downloads](https://www.bleepingcomputer.com/news/microsoft/microsoft-bug-in-microsoft-365-license-checks-blocks-desktop-app-downloads/) | BleepingComputer News | unclassified | 2025-12-04 13:18 |
 
 ---
 
@@ -74,7 +74,6 @@
 - Quarkslab — 404, message='Not Found', url=URL('https://blog.quarkslab.com/rss.xml')
 - Dell SecureWorks — 404, message='Not Found', url=URL('https://www.secureworks.com/rss-feeds')
 - SensePost — 404, message='Not Found', url=URL('https://sensepost.com/blog/feed')
-- SpecterOps — Cannot connect to host posts.specterops.io:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1016)')]
 - Trend Micro Research — 404, message='Not Found', url=URL('https://www.trendmicro.com/en_us/research/rss.html')
 - Tripwire State of Security — 403, message='Forbidden', url=URL('https://www.tripwire.com/state-of-security/feed/')
 - PhishLabs Blog — 403, message='Forbidden', url=URL('https://www.phishlabs.com/blog/feed/')
