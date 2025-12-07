@@ -1,6 +1,6 @@
 <p align="center">
   <strong style="font-size:1.9rem;">Threat Intel Atlas · Daily Signal Briefing</strong><br />
-  <span style="font-size:1rem;color:#6ecff6;">Compiled from 166 intelligence sources · refreshed 2025-12-06 06:41 UTC</span>
+  <span style="font-size:1rem;color:#6ecff6;">Compiled from 166 intelligence sources · refreshed 2025-12-07 06:41 UTC</span>
 </p>
 
 ---
@@ -10,8 +10,8 @@
 | Metric | Value |
 | --- | --- |
 | Total signals retained | 1000 |
-| Signals detected in the last 24h | 44 |
-| Signals surfaced in this report | 44 |
+| Signals detected in the last 24h | 10 |
+| Signals surfaced in this report | 10 |
 
 ---
 
@@ -19,46 +19,16 @@
 
 | Title | Source | Tags | Published (UTC) |
 | --- | --- | --- | --- |
-| [Maximum-severity XXE vulnerability discovered in Apache Tika](https://securityaffairs.com/185363/security/maximum-severity-xxe-vulnerability-discovered-in-apache-tika.html) | Security Affairs (Dark Web) | phishing, vulnerabilities | 2025-12-06 00:03 |
-| [From React to Remote Code – Protecting Against the Critical React2Shell RCE Exposure](https://www.sentinelone.com/blog/protecting-against-critical-react2shell-rce-exposure/) | SentinelOne Labs | ai, policy | 2025-12-05 23:35 |
-| [New Prompt Injection Attack Vectors Through MCP Sampling](https://unit42.paloaltonetworks.com/model-context-protocol-attack-vectors/) | Palo Alto Networks Unit 42 | ai, incident_response | 2025-12-05 23:00 |
-| [Friday Squid Blogging: Vampire Squid Genome](https://www.schneier.com/blog/archives/2025/12/friday-squid-blogging-vampire-squid-genome.html) | Schneier on Security | ai, incident_response | 2025-12-05 22:06 |
-| [UK Government Considers Computer Misuse Act Revision](https://databreaches.net/2025/12/05/uk-government-considers-computer-misuse-act-revision/?pk_campaign=feed&pk_kwd=uk-government-considers-computer-misuse-act-revision) | DataBreaches.net (Notices) | ai, apt, data_breach, iot, policy | 2025-12-05 21:39 |
-| [Japan issues arrest warrant against teen suspected of cyberattack using AI](https://databreaches.net/2025/12/05/japan-issues-arrest-warrant-against-teen-suspected-of-cyberattack-using-ai/?pk_campaign=feed&pk_kwd=japan-issues-arrest-warrant-against-teen-suspected-of-cyberattack-using-ai) | DataBreaches.net (Notices) | ai, apt, data_breach, iot | 2025-12-05 21:38 |
-| [Microsoft named a leader in the 2025 Gartner® Magic Quadrant™ for Email Security](https://www.microsoft.com/en-us/security/blog/2025/12/05/microsoft-named-a-leader-in-the-2025-gartner-magic-quadrant-for-email-security/) | Microsoft Security Blog | ai, defense, incident_response | 2025-12-05 20:00 |
-| [Barts Health NHS discloses data breach after Oracle zero-day hack](https://www.bleepingcomputer.com/news/security/barts-health-nhs-discloses-data-breach-after-oracle-zero-day-hack/) | BleepingComputer News | data_breach, malware, vulnerabilities | 2025-12-05 18:55 |
-| [Maryland man sentenced for N. Korea IT worker scheme involving US government contracts](https://therecord.media/north-korea-it-worker-scheme-maryland-man-sentenced) | The Record (Signals) | identity | 2025-12-05 18:45 |
-| [Zero-Click Agentic Browser Attack Can Delete Entire Google Drive Using Crafted Emails](https://thehackernews.com/2025/12/zero-click-agentic-browser-attack-can.html) | The Hacker News | ai, incident_response | 2025-12-05 17:53 |
-| [The Good, the Bad and the Ugly in Cybersecurity – Week 49](https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-49-7/) | SentinelOne Labs | identity, policy | 2025-12-05 17:00 |
-| [One-Person Production: Wondershare Filmora V15 Empowers Solo Creators With AI](https://hackread.com/wondershare-filmora-v15-ai-solo-creators/) | HackRead | ai | 2025-12-05 16:43 |
-| [FBI warns of virtual kidnapping scams using altered social media photos](https://www.bleepingcomputer.com/news/security/fbi-warns-of-virtual-kidnapping-ransom-scams-using-altered-social-media-photos/) | BleepingComputer News | incident_response | 2025-12-05 16:37 |
-| [Critical XXE Bug CVE-2025-66516 (CVSS 10.0) Hits Apache Tika, Requires Urgent Patch](https://thehackernews.com/2025/12/critical-xxe-bug-cve-2025-66516-cvss.html) | The Hacker News | incident_response, policy, vulnerabilities | 2025-12-05 16:23 |
-| [Chinese hackers exploiting React2Shell bug impacting countless websites, Amazon researchers say](https://therecord.media/chinese-hackers-exploiting-react2shell-vulnerability-amazon) | The Record (Signals) | vulnerabilities | 2025-12-05 16:21 |
-| [React.js Hit by Maximum-Severity 'React2Shell' Vulnerability](https://www.infosecurity-magazine.com/news/reactjs-hit-by-react2shell/) | InfoSecurity Magazine News | policy, vulnerabilities | 2025-12-05 16:00 |
-| [React2Shell Vulnerability: Maximum-Severity Flaw in React Server Components Actively Exploited by China-Backed Groups](https://socprime.com/blog/react2shell-vulnerability-exploitation/) | SOC Prime | defense, incident_response, mobile, policy, vulnerabilities | 2025-12-05 15:49 |
-| [Sprocket Security Earns Repeat Recognition in G2’s Winter 2025 Relationship Index for Penetration Testing](https://hackread.com/sprocket-security-earns-repeat-recognition-in-g2s-winter-2025-relationship-index-for-penetration-testing/) | HackRead | incident_response | 2025-12-05 15:24 |
-| [New Variant of ClayRat Android Spyware Seize Full Device Control](https://hackread.com/clayrat-android-spyware-variant-device-control/) | HackRead | ai, mobile, phishing | 2025-12-05 15:21 |
-| [On cyber, Trump’s national security strategy emphasizes industry and regional partners](https://therecord.media/trump-national-security-strategy-cyber-elements) | The Record (Signals) | ai, incident_response, iot | 2025-12-05 15:18 |
-| [Criminal IP to Host Webinar: Beyond CVEs – From Visibility to Action with ASM](https://hackread.com/criminal-ip-to-host-webinar-beyond-cves-from-visibility-to-action-with-asm/) | HackRead | incident_response | 2025-12-05 15:00 |
-| [A Practical Guide to Continuous Attack Surface Visibility](https://www.bleepingcomputer.com/news/security/a-practical-guide-to-continuous-attack-surface-visibility/) | BleepingComputer News | ai, cloud | 2025-12-05 15:00 |
-| [EU fines X $140 million over deceptive blue checkmarks](https://www.bleepingcomputer.com/news/security/eu-fines-x-140-million-over-deceptive-blue-checkmarks-transparency-violations/) | BleepingComputer News | unclassified | 2025-12-05 14:41 |
-| [China-Linked Warp Panda Targets North American Firms in Espionage Campaign](https://www.infosecurity-magazine.com/news/chinalinked-warp-panda/) | InfoSecurity Magazine News | ai, apt, incident_response | 2025-12-05 14:30 |
-| [Chinese Hackers Have Started Exploiting the Newly Disclosed React2Shell Vulnerability](https://thehackernews.com/2025/12/chinese-hackers-have-started-exploiting.html) | The Hacker News | phishing, policy, vulnerabilities | 2025-12-05 14:10 |
-| [EU issues €120 million fine to Elon Musk’s X under rules to tackle disinformation](https://therecord.media/eu-fines-x-under-digital-services-act-disinformation-transparecy-rules) | The Record (Signals) | ai | 2025-12-05 14:04 |
-| [Cloudflare blames today's outage on React2Shell mitigations](https://www.bleepingcomputer.com/news/security/cloudflare-blames-todays-outage-on-emergency-react2shell-patch/) | BleepingComputer News | cloud, defense, vulnerabilities | 2025-12-05 13:53 |
-| [How old is the average hacker? What does a new research report suggest? (1)](https://databreaches.net/2025/12/05/how-old-is-the-average-hacker-what-does-a-new-research-report-suggest/?pk_campaign=feed&pk_kwd=how-old-is-the-average-hacker-what-does-a-new-research-report-suggest) | DataBreaches.net (Notices) | ai, apt, data_breach, defense, incident_response, iot | 2025-12-05 13:43 |
-| [Leaks show Intellexa burning zero-days to keep Predator spyware running](https://www.malwarebytes.com/blog/news/2025/12/leaks-show-intellexa-burning-zero-days-to-keep-predator-spyware-running) | Malwarebytes Labs (News) | data_breach, vulnerabilities | 2025-12-05 13:31 |
-| [PromptPwnd Vulnerability Exposes AI driven build systems to Data Theft](https://hackread.com/promptpwnd-vulnerabilit-ai-systems-data-theft/) | HackRead | ai, policy, vulnerabilities | 2025-12-05 13:25 |
-| [JPCERT/CC Reports Widespread Exploitation of Array Networks AG Gateway Vulnerability](https://securityaffairs.com/185358/uncategorized/jpcert-cc-reports-widespread-exploitation-of-array-networks-ag-gateway-vulnerability.html) | Security Affairs (Dark Web) | incident_response, policy, vulnerabilities | 2025-12-05 13:19 |
-| [Pharma firm Inotiv discloses data breach after ransomware attack](https://www.bleepingcomputer.com/news/security/pharma-firm-inotiv-discloses-data-breach-after-ransomware-attack/) | BleepingComputer News | data_breach, incident_response, malware | 2025-12-05 13:05 |
-| [Louvre to Bolster Its Security, Issues €57m Public Tender](https://www.infosecurity-magazine.com/news/louvre-bolster-security-57m-public/) | InfoSecurity Magazine News | unclassified | 2025-12-05 12:30 |
-| [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2025/12/05/cisa-adds-one-known-exploited-vulnerability-catalog) | CISA Joint Advisories | ai, incident_response, vulnerabilities | 2025-12-05 12:00 |
-| [Intellexa Leaks Reveal Zero-Days and Ads-Based Vector for Predator Spyware Delivery](https://thehackernews.com/2025/12/intellexa-leaks-reveal-zero-days-and.html) | The Hacker News | ai, data_breach, incident_response, policy, vulnerabilities | 2025-12-05 11:47 |
-| ["Getting to Yes": An Anti-Sales Guide for MSPs](https://thehackernews.com/2025/12/getting-to-yes-anti-sales-guide-for-msps.html) | The Hacker News | incident_response, phishing | 2025-12-05 11:30 |
-| [Critical React2Shell flaw actively exploited in China-linked attacks](https://www.bleepingcomputer.com/news/security/react2shell-critical-flaw-actively-exploited-in-china-linked-attacks/) | BleepingComputer News | apt, policy, vulnerabilities | 2025-12-05 11:26 |
-| [BRICKSTORM backdoor exposed: CISA warns of advanced China-backed intrusions](https://securityaffairs.com/185346/intelligence/brickstorm-backdoor-exposed-cisa-warns-of-advanced-china-backed-intrusions.html) | Security Affairs (Dark Web) | ai, apt | 2025-12-05 11:03 |
-| [Huge Trove of Nude Images Leaked by AI Image Generator Startup’s Exposed Database](https://www.wired.com/story/huge-trove-of-nude-images-leaked-by-ai-image-generator-startups-exposed-database/) | Wired Security | ai, data_breach | 2025-12-05 11:00 |
-| [Predator Spyware Maker Intellexa Evades Sanctions, New Victims Identified](https://www.infosecurity-magazine.com/news/predator-spyware-intellexa-evades/) | InfoSecurity Magazine News | data_breach | 2025-12-05 09:15 |
+| [React2Shell flaw exploited to breach 30 orgs, 77k IP addresses vulnerable](https://www.bleepingcomputer.com/news/security/react2shell-flaw-exploited-to-breach-30-orgs-77k-ip-addresses-vulnerable/) | BleepingComputer News | data_breach, incident_response, policy, vulnerabilities | 2025-12-06 19:07 |
+| [Barts Health NHS Confirms Cl0p Ransomware Behind Data Breach](https://hackread.com/barts-health-nhs-cl0p-ransomware-data-breach/) | HackRead | ai, data_breach, incident_response, malware, policy | 2025-12-06 16:34 |
+| [Attackers launch dual campaign on GlobalProtect portals and SonicWall APIs](https://securityaffairs.com/185382/hacking/attackers-launch-dual-campaign-on-globalprotect-portals-and-sonicwall-apis.html) | Security Affairs (Dark Web) | ai, apt | 2025-12-06 16:08 |
+| [Researchers Uncover 30+ Flaws in AI Coding Tools Enabling Data Theft and RCE Attacks](https://thehackernews.com/2025/12/researchers-uncover-30-flaws-in-ai.html) | The Hacker News | ai, cloud, incident_response, policy, vulnerabilities | 2025-12-06 15:24 |
+| [New wave of VPN login attempts targets Palo Alto GlobalProtect portals](https://www.bleepingcomputer.com/news/security/new-wave-of-vpn-login-attempts-targets-palo-alto-globalprotect-portals/) | BleepingComputer News | ai, apt | 2025-12-06 15:18 |
+| [Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill](https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/) | Krebs on Security (Signals) | ai | 2025-12-06 14:45 |
+| [Chinese State Hackers Use New BRICKSTORM Malware Against VMware Systems](https://hackread.com/chinese-state-hackers-brickstorm-vmware-systems/) | HackRead | ai, apt, malware | 2025-12-06 13:02 |
+| [Ex-teen hackers warn parents are clueless as children steal ‘millions’](https://databreaches.net/2025/12/06/ex-teen-hackers-warn-parents-are-clueless-as-children-steal-millions/?pk_campaign=feed&pk_kwd=ex-teen-hackers-warn-parents-are-clueless-as-children-steal-millions) | DataBreaches.net (Notices) | ai, apt, data_breach, iot, phishing | 2025-12-06 12:39 |
+| [Critical React2Shell Flaw Added to CISA KEV After Confirmed Active Exploitation](https://thehackernews.com/2025/12/critical-react2shell-flaw-added-to-cisa.html) | The Hacker News | incident_response, policy, vulnerabilities | 2025-12-06 11:40 |
+| [Security News This Week: Oh Crap, Kohler’s Toilet Cameras Aren’t Really End-to-End Encrypted](https://www.wired.com/story/security-news-this-week-oh-crap-kohlers-toilet-cameras-arent-really-end-to-end-encrypted/) | Wired Security | malware | 2025-12-06 11:30 |
 
 ---
 
@@ -77,7 +47,7 @@
 - Trend Micro Research — 404, message='Not Found', url=URL('https://www.trendmicro.com/en_us/research/rss.html')
 - Tripwire State of Security — 403, message='Forbidden', url=URL('https://www.tripwire.com/state-of-security/feed/')
 - PhishLabs Blog — 403, message='Forbidden', url=URL('https://www.phishlabs.com/blog/feed/')
-- Dark Reading — 403, message='Forbidden', url=URL('https://www.darkreading.com/rss/all.xml')
+- Dark Reading — 403, message='Forbidden', url=URL('http://www.darkreading.com/rss/all.xml')
 - Ars Technica Security — 404, message='Not Found', url=URL('http://feeds.arstechnica.com/arstechnica/security')
 - Abuse.ch Feodo Tracker — 404, message='Not Found', url=URL('https://feodotracker.abuse.ch/feeds/rss.xml')
 - Abuse.ch URLhaus — 404, message='Not Found', url=URL('https://urlhaus.abuse.ch/feeds/rss/')
@@ -89,12 +59,12 @@
 - Maltrail Botnet Feed — 404, message='Not Found', url=URL('https://maltrail.github.io/feed.xml')
 - BadIPs — Cannot connect to host www.badips.com:443 ssl:default [Name or service not known]
 - ThreatMiner C2 Feed — 404, message='Not Found', url=URL('https://www.threatminer.org/rss.php?type=C2')
+- Hunt.io IOC Hunter — 404, message='Not Found', url=URL('https://hunt.io/ioc-feed/rss')
 - OpenPhish — 404, message='Not Found', url=URL('https://openphish.com/feed.xml')
 - PhishLabs Blog (Phishing) — 403, message='Forbidden', url=URL('https://www.phishlabs.com/blog/feed/')
 - Spamhaus Phishing — 404, message='Not Found', url=URL('https://www.spamhaus.org/phishing_lasso')
 - ThreatNix Phishing — 404, message='Not Found', url=URL('https://threatnix.io/feed/')
 - URLScan.io Malicious — 404, message='Not Found', url=URL('https://urlscan.io/feed/malicious/')
-- BrandShield — 403, message='Forbidden', url=URL('https://brandshield.com/feed/')
 - Netcraft Phishing — 404, message='Not Found', url=URL('https://www.netcraft.com/rss/phishing.xml')
 - VX-Underground Blog — Cannot connect to host blog.vx-underground.org:443 ssl:default [Name or service not known]
 - Dark Reading Breaches — 403, message='Forbidden', url=URL('https://www.darkreading.com/vulnerabilities-threats/rss')
