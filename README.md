@@ -1,6 +1,6 @@
 <p align="center">
   <strong style="font-size:1.9rem;">Threat Intel Atlas · Daily Signal Briefing</strong><br />
-  <span style="font-size:1rem;color:#6ecff6;">Compiled from 166 intelligence sources · refreshed 2025-12-07 06:41 UTC</span>
+  <span style="font-size:1rem;color:#6ecff6;">Compiled from 166 intelligence sources · refreshed 2025-12-08 06:45 UTC</span>
 </p>
 
 ---
@@ -19,16 +19,16 @@
 
 | Title | Source | Tags | Published (UTC) |
 | --- | --- | --- | --- |
-| [React2Shell flaw exploited to breach 30 orgs, 77k IP addresses vulnerable](https://www.bleepingcomputer.com/news/security/react2shell-flaw-exploited-to-breach-30-orgs-77k-ip-addresses-vulnerable/) | BleepingComputer News | data_breach, incident_response, policy, vulnerabilities | 2025-12-06 19:07 |
-| [Barts Health NHS Confirms Cl0p Ransomware Behind Data Breach](https://hackread.com/barts-health-nhs-cl0p-ransomware-data-breach/) | HackRead | ai, data_breach, incident_response, malware, policy | 2025-12-06 16:34 |
-| [Attackers launch dual campaign on GlobalProtect portals and SonicWall APIs](https://securityaffairs.com/185382/hacking/attackers-launch-dual-campaign-on-globalprotect-portals-and-sonicwall-apis.html) | Security Affairs (Dark Web) | ai, apt | 2025-12-06 16:08 |
-| [Researchers Uncover 30+ Flaws in AI Coding Tools Enabling Data Theft and RCE Attacks](https://thehackernews.com/2025/12/researchers-uncover-30-flaws-in-ai.html) | The Hacker News | ai, cloud, incident_response, policy, vulnerabilities | 2025-12-06 15:24 |
-| [New wave of VPN login attempts targets Palo Alto GlobalProtect portals](https://www.bleepingcomputer.com/news/security/new-wave-of-vpn-login-attempts-targets-palo-alto-globalprotect-portals/) | BleepingComputer News | ai, apt | 2025-12-06 15:18 |
-| [Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill](https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/) | Krebs on Security (Signals) | ai | 2025-12-06 14:45 |
-| [Chinese State Hackers Use New BRICKSTORM Malware Against VMware Systems](https://hackread.com/chinese-state-hackers-brickstorm-vmware-systems/) | HackRead | ai, apt, malware | 2025-12-06 13:02 |
-| [Ex-teen hackers warn parents are clueless as children steal ‘millions’](https://databreaches.net/2025/12/06/ex-teen-hackers-warn-parents-are-clueless-as-children-steal-millions/?pk_campaign=feed&pk_kwd=ex-teen-hackers-warn-parents-are-clueless-as-children-steal-millions) | DataBreaches.net (Notices) | ai, apt, data_breach, iot, phishing | 2025-12-06 12:39 |
-| [Critical React2Shell Flaw Added to CISA KEV After Confirmed Active Exploitation](https://thehackernews.com/2025/12/critical-react2shell-flaw-added-to-cisa.html) | The Hacker News | incident_response, policy, vulnerabilities | 2025-12-06 11:40 |
-| [Security News This Week: Oh Crap, Kohler’s Toilet Cameras Aren’t Really End-to-End Encrypted](https://www.wired.com/story/security-news-this-week-oh-crap-kohlers-toilet-cameras-arent-really-end-to-end-encrypted/) | Wired Security | malware | 2025-12-06 11:30 |
+| [They’ve escaped a lot of media attention, but Anubis RaaS is a threat to the medical sector](https://databreaches.net/2025/12/07/theyve-escaped-a-lot-of-media-attention-but-anubis-raas-is-a-threat-to-the-medical-sector/?pk_campaign=feed&pk_kwd=theyve-escaped-a-lot-of-media-attention-but-anubis-raas-is-a-threat-to-the-medical-sector) | DataBreaches.net (Notices) | ai, apt, data_breach, iot, malware | 2025-12-07 22:06 |
+| [“In the most expedient time possible…”](https://databreaches.net/2025/12/07/in-the-most-expedient-time-possible/?pk_campaign=feed&pk_kwd=in-the-most-expedient-time-possible) | DataBreaches.net (Notices) | ai, apt, cloud, data_breach, incident_response, iot, policy | 2025-12-07 21:04 |
+| [OpenAI denies rolling out ads on ChatGPT paid plans](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-denies-rolling-out-ads-on-chatgpt-paid-plans/) | BleepingComputer News | ai | 2025-12-07 20:51 |
+| [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 74](https://securityaffairs.com/185422/malware/security-affairs-malware-newsletter-round-74.html) | Security Affairs (Dark Web) | ai, apt, defense, incident_response, malware, supply_chain, vulnerabilities | 2025-12-07 19:08 |
+| [Security Affairs newsletter Round 553 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/185415/uncategorized/security-affairs-newsletter-round-553-by-pierluigi-paganini-international-edition.html) | Security Affairs (Dark Web) | ai, apt, incident_response, vulnerabilities | 2025-12-07 18:12 |
+| [Portugal updates cybercrime law to exempt security researchers](https://databreaches.net/2025/12/07/portugal-updates-cybercrime-law-to-exempt-security-researchers/?pk_campaign=feed&pk_kwd=portugal-updates-cybercrime-law-to-exempt-security-researchers) | DataBreaches.net (Notices) | ai, apt, data_breach, iot, policy | 2025-12-07 15:51 |
+| [Portugal updates cybercrime law to exempt security researchers](https://www.bleepingcomputer.com/news/security/portugal-updates-cybercrime-law-to-exempt-security-researchers/) | BleepingComputer News | ai, policy | 2025-12-07 15:09 |
+| [Porsche outage in Russia serves as a reminder of the risks in connected vehicle security](https://securityaffairs.com/185398/security/porsche-outage-in-russia-serves-as-a-reminder-of-the-risks-in-connected-vehicle-security.html) | Security Affairs (Dark Web) | incident_response, phishing | 2025-12-07 13:42 |
+| [LockBit 5’s “new secure blog domain” infra leaked already](https://databreaches.net/2025/12/07/lockbit-5s-new-secure-blog-domain-infra-leaked-already/?pk_campaign=feed&pk_kwd=lockbit-5s-new-secure-blog-domain-infra-leaked-already) | DataBreaches.net (Notices) | ai, apt, data_breach, iot | 2025-12-07 12:16 |
+| [NL: Nuenen accidentally leaks addresses of 1,000 asylum center opponents](https://databreaches.net/2025/12/07/nl-nuenen-accidentally-leaks-addresses-of-1000-asylum-center-opponents/?pk_campaign=feed&pk_kwd=nl-nuenen-accidentally-leaks-addresses-of-1000-asylum-center-opponents) | DataBreaches.net (Notices) | ai, apt, data_breach, iot | 2025-12-07 12:01 |
 
 ---
 
@@ -65,6 +65,7 @@
 - Spamhaus Phishing — 404, message='Not Found', url=URL('https://www.spamhaus.org/phishing_lasso')
 - ThreatNix Phishing — 404, message='Not Found', url=URL('https://threatnix.io/feed/')
 - URLScan.io Malicious — 404, message='Not Found', url=URL('https://urlscan.io/feed/malicious/')
+- BrandShield — 403, message='Forbidden', url=URL('https://brandshield.com/feed/')
 - Netcraft Phishing — 404, message='Not Found', url=URL('https://www.netcraft.com/rss/phishing.xml')
 - VX-Underground Blog — Cannot connect to host blog.vx-underground.org:443 ssl:default [Name or service not known]
 - Dark Reading Breaches — 403, message='Forbidden', url=URL('https://www.darkreading.com/vulnerabilities-threats/rss')
