@@ -1,6 +1,6 @@
 <p align="center">
   <strong style="font-size:1.9rem;">Threat Intel Atlas · Daily Signal Briefing</strong><br />
-  <span style="font-size:1rem;color:#6ecff6;">Compiled from 166 intelligence sources · refreshed 2025-12-09 06:45 UTC</span>
+  <span style="font-size:1rem;color:#6ecff6;">Compiled from 166 intelligence sources · refreshed 2025-12-10 06:45 UTC</span>
 </p>
 
 ---
@@ -10,8 +10,8 @@
 | Metric | Value |
 | --- | --- |
 | Total signals retained | 1000 |
-| Signals detected in the last 24h | 52 |
-| Signals surfaced in this report | 52 |
+| Signals detected in the last 24h | 67 |
+| Signals surfaced in this report | 67 |
 
 ---
 
@@ -19,46 +19,46 @@
 
 | Title | Source | Tags | Published (UTC) |
 | --- | --- | --- | --- |
-| [Merge PR #5788 from @swachchhanda000 -  Recon via RDP Logging Event](https://github.com/SigmaHQ/sigma/commit/f05a8c4d94ebe6e2f6b7c8efae1ad31891e482c4) | SigmaHQ Core Rules | unclassified | 2025-12-09 03:03 |
-| [Merge PR #5789 from @swachchhanda000 -  Add fps filter observed on AR…](https://github.com/SigmaHQ/sigma/commit/f7f61a9f9539398efb43f547031c98593355e566) | SigmaHQ Core Rules | incident_response, policy | 2025-12-09 02:44 |
-| [Merge #5798 from @swachchhanda000 - fix: aurora fps](https://github.com/SigmaHQ/sigma/commit/f58b44eb162c3f06cc60073f337939b569653c07) | SigmaHQ Core Rules | ai | 2025-12-09 02:36 |
-| [Merge PR #5778 from @swachchhanda000 - fix: add some filters or tune …](https://github.com/SigmaHQ/sigma/commit/57c71b3b8a4560be4fb8ddec9696edca828ddab8) | SigmaHQ Core Rules | unclassified | 2025-12-09 02:30 |
-| [Merge PR #5791 from @Niicolaa - fix: add correct osascript path](https://github.com/SigmaHQ/sigma/commit/ed2650a0eb71dd97fa33aebafa15322a3920478f) | SigmaHQ Core Rules | apt | 2025-12-09 02:18 |
-| [FinCEN data shows $4.5B in ransomware payments, record spike in 2023](https://securityaffairs.com/185465/cyber-crime/fincen-data-shows-4-5b-in-ransomware-payments-record-spike-in-2023.html) | Security Affairs (Dark Web) | malware | 2025-12-09 00:26 |
-| [Ransomware gangs turn to Shanya EXE packer to hide EDR killers](https://www.bleepingcomputer.com/news/security/ransomware-gangs-turn-to-shanya-exe-packer-to-hide-edr-killers/) | BleepingComputer News | defense, malware | 2025-12-09 00:00 |
-| [GrayBravo’s CastleLoader Activity Clusters Target Multiple Industries](https://www.recordedfuture.com/research/graybravos-castleloader-activity-clusters-target-multiple-industries) | Recorded Future Blog | ai, apt, cloud, defense, identity, incident_response, iot, malware, mobile, phishing, policy, vulnerabilities | 2025-12-09 00:00 |
-| [Malicious VSCode extensions on Microsoft's registry drop infostealers](https://www.bleepingcomputer.com/news/security/malicious-vscode-extensions-on-microsofts-registry-drop-infostealers/) | BleepingComputer News | darkweb, identity, malware | 2025-12-08 22:30 |
-| [Trump plans executive order curbing state AI laws](https://therecord.media/trump-plans-ai-exec-order-curbing-state-laws) | The Record (Signals) | ai, cloud, policy | 2025-12-08 21:25 |
-| [More than $2 billion in payments from 4,000 ransomware incidents reported to Treasury in recent years](https://therecord.media/fincen-treasury-2-billion-ransomware-payments-report) | The Record (Signals) | malware | 2025-12-08 21:15 |
-| [FinCEN says ransomware gangs extorted over $2.1B from 2022 to 2024](https://www.bleepingcomputer.com/news/security/fincen-says-ransomware-gangs-extorted-over-21b-from-2022-to-2024/) | BleepingComputer News | malware, policy | 2025-12-08 21:07 |
-| [Exploitation of Critical Vulnerability in React Server Components (Updated December 8)](https://unit42.paloaltonetworks.com/cve-2025-55182-react-and-cve-2025-66478-next/) | Palo Alto Networks Unit 42 | incident_response, vulnerabilities | 2025-12-08 21:00 |
-| [ChrimeraWire Trojan Fakes Chrome Activity to Manipulate Search Rankings](https://hackread.com/chrimerawire-trojan-fakes-chrome-search-activity/) | HackRead | incident_response, malware | 2025-12-08 20:37 |
-| [Meta proposal for less data sharing is approved by European Commission](https://therecord.media/meta-less-data-sharing-european-commission) | The Record (Signals) | unclassified | 2025-12-08 20:01 |
-| [Poland arrests Ukrainians utilizing 'advanced' hacking equipment](https://www.bleepingcomputer.com/news/security/poland-arrests-ukrainians-utilizing-advanced-hacking-equipment/) | BleepingComputer News | ai | 2025-12-08 18:31 |
-| [New JS#SMUGGLER Campaign Drops NetSupport RAT Through Infected Sites](https://hackread.com/jssmuggler-netsupport-rat-infected-sites/) | HackRead | ai, apt | 2025-12-08 18:16 |
-| [FBI: Crooks manipulate online photos to fuel virtual kidnapping ransoms](https://securityaffairs.com/185456/cyber-crime/fbi-crooks-manipulate-online-photos-to-fuel-virtual-kidnapping-ransoms.html) | Security Affairs (Dark Web) | ai, incident_response | 2025-12-08 18:16 |
-| [Google Chrome adds new security layer for Gemini AI agentic browsing](https://www.bleepingcomputer.com/news/security/google-chrome-adds-new-security-layer-for-gemini-ai-agentic-browsing/) | BleepingComputer News | ai | 2025-12-08 18:08 |
-| [Architecting Security for Agentic Capabilities in Chrome](http://security.googleblog.com/2025/12/architecting-security-for-agentic.html) | Google Security Blog | ai, apt, data_breach, defense, identity, incident_response, iot, phishing, policy, supply_chain, vulnerabilities | 2025-12-08 18:03 |
-| [Experts Confirm JS#SMUGGLER Uses Compromised Sites to Deploy NetSupport RAT](https://thehackernews.com/2025/12/experts-confirm-jssmuggler-uses.html) | The Hacker News | ai, apt, incident_response, malware | 2025-12-08 17:37 |
-| [Russian kids revolt as Kremlin bans Roblox, other popular apps](https://therecord.media/russia-bans-roblox-drawing-criticism-from-kids) | The Record (Signals) | ai, apt | 2025-12-08 17:02 |
-| [Stronger together: New Beazley collaboration enhances cyber resilience](https://www.microsoft.com/en-us/security/blog/2025/12/08/stronger-together-new-beazley-collaboration-enhances-cyber-resilience/) | Microsoft Security Blog | incident_response | 2025-12-08 17:00 |
-| [ClayRat Android Spyware Expands Capabilities](https://www.infosecurity-magazine.com/news/clayrat-android-spyware-upgraded/) | InfoSecurity Magazine News | mobile | 2025-12-08 16:45 |
-| [Researchers track dozens of organizations affected by React2Shell compromises tied to China’s MSS](https://therecord.media/researchers-track-dozens-react2shell-vuln) | The Record (Signals) | incident_response | 2025-12-08 16:30 |
-| [Marquis Software Breach Affects Over 780,000 Nationwide](https://www.infosecurity-magazine.com/news/marquis-software-breach/) | InfoSecurity Magazine News | data_breach, incident_response, policy | 2025-12-08 16:00 |
-| [How phishers hide banking scams behind free Cloudflare Pages](https://www.malwarebytes.com/blog/news/2025/12/how-phishers-hide-banking-scams-behind-free-cloudflare-pages) | Malwarebytes Labs (News) | ai, apt, cloud | 2025-12-08 15:26 |
-| [INE Earns G2 Winter 2026 Badges Across Global Markets](https://hackread.com/ine-earns-g2-winter-2026-badges-across-global-markets/) | HackRead | incident_response | 2025-12-08 15:16 |
-| [Merge PR #5793 from @nasbench - Rename Auditd Folder Entries and upda…](https://github.com/SigmaHQ/sigma/commit/5656c48a97b26044f66ce5555ef6ad0edadeec85) | SigmaHQ Core Rules | apt, incident_response | 2025-12-08 15:03 |
-| [How Agentic BAS AI Turns Threat Headlines Into Defense Strategies](https://www.bleepingcomputer.com/news/security/how-agentic-bas-ai-turns-threat-headlines-into-defense-strategies/) | BleepingComputer News | ai, incident_response | 2025-12-08 15:02 |
-| [Oracle EBS zero-day used by Clop to breach Barts Health NHS](https://securityaffairs.com/185447/data-breach/oracle-ebs-zero-day-used-by-clop-to-breach-barts-health-nhs.html) | Security Affairs (Dark Web) | darkweb, data_breach, incident_response, malware, vulnerabilities | 2025-12-08 14:53 |
-| [CVE-2025-66516: Maximum-Severity Vulnerability in Apache Tika Could Lead to XML External Entity Injection Attack](https://socprime.com/blog/cve-2025-66516-vulnerability/) | SOC Prime | incident_response, policy, vulnerabilities | 2025-12-08 13:48 |
-| [AWS: China-linked threat actors weaponized React2Shell hours after disclosure](https://securityaffairs.com/185436/security/aws-china-linked-threat-actors-weaponized-react2shell-hours-after-disclosure.html) | Security Affairs (Dark Web) | apt, cloud, incident_response, policy, vulnerabilities | 2025-12-08 13:37 |
-| [Leavenworth, Kansas cyberattack disrupts city services](https://databreaches.net/2025/12/08/leavenworth-kansas-cyberattack-disrupts-city-services/?pk_campaign=feed&pk_kwd=leavenworth-kansas-cyberattack-disrupts-city-services) | DataBreaches.net (Notices) | ai, apt, data_breach, incident_response, iot | 2025-12-08 13:31 |
-| [Scammers harvesting Facebook photos to stage fake kidnappings, warns FBI](https://www.malwarebytes.com/blog/news/2025/12/scammers-harvesting-facebook-photos-to-stage-fake-kidnappings-warns-fbi) | Malwarebytes Labs (News) | incident_response | 2025-12-08 13:17 |
-| [Space Bears Ransomware Claims Comcast Data Theft Through Quasar Breach](https://hackread.com/space-bears-ransomware-comcast-quasar-breach/) | HackRead | ai, data_breach, malware | 2025-12-08 13:13 |
-| [⚡ Weekly Recap: USB Malware, React2Shell, WhatsApp Worms, AI IDE Bugs & More](https://thehackernews.com/2025/12/weekly-recap-usb-malware-react2shell.html) | The Hacker News | ai, cloud, malware, policy, vulnerabilities | 2025-12-08 12:44 |
-| [Substitution Cipher Based on The Voynich Manuscript](https://www.schneier.com/blog/archives/2025/12/substitution-cipher-based-on-the-voynich-manuscript.html) | Schneier on Security | ai, incident_response | 2025-12-08 12:04 |
-| [CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2025/12/08/cisa-adds-two-known-exploited-vulnerabilities-catalog) | CISA Joint Advisories | ai, incident_response, vulnerabilities | 2025-12-08 12:00 |
-| [How Can Retailers Cyber-Prepare for the Most Vulnerable Time of the Year?](https://thehackernews.com/2025/12/how-can-retailers-cyber-prepare-for.html) | The Hacker News | ai, apt, identity | 2025-12-08 11:58 |
+| [Fortinet, Ivanti, and SAP Issue Urgent Patches for Authentication and Code Execution Flaws](https://thehackernews.com/2025/12/fortinet-ivanti-and-sap-issue-urgent.html) | The Hacker News | cloud, identity, incident_response, mobile, policy, vulnerabilities | 2025-12-10 04:50 |
+| [Merge PR #5795 from @swachchhanda000 - Add new rules for CVE-2025-551…](https://github.com/SigmaHQ/sigma/commit/13aae8c1eacb68172fd79f343b23d39aa1773d79) | SigmaHQ Core Rules | vulnerabilities | 2025-12-10 02:13 |
+| [Microsoft Patch Tuesday for December 2025 — Snort rules and prominent vulnerabilities](https://blog.talosintelligence.com/microsoft-patch-tuesday-december-2025/) | Cisco Talos | ai, vulnerabilities | 2025-12-09 23:29 |
+| [Microsoft Patch Tuesday, December 2025 Edition](https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/) | Krebs on Security (Signals) | cloud, policy, vulnerabilities | 2025-12-09 23:18 |
+| [2025 Business Impact Report Webinar by the Identity Theft Resource Center](https://www.idtheftcenter.org/2025-business-impact-report-webinar-by-itrc/) | ID Theft Resource Center | ai, data_breach, identity, incident_response | 2025-12-09 22:44 |
+| [SAP fixes three critical vulnerabilities across multiple products](https://www.bleepingcomputer.com/news/security/sap-fixes-three-critical-vulnerabilities-across-multiple-products/) | BleepingComputer News | cloud, policy | 2025-12-09 22:41 |
+| [Spiderman Phishing Kit Targets European Banks with Real-Time Credential Theft](https://hackread.com/spiderman-phishing-kit-european-banks-credential-theft/) | HackRead | ai, identity, phishing | 2025-12-09 22:14 |
+| [Ivanti warns customers of new EPM flaw enabling remote code execution](https://securityaffairs.com/185508/hacking/ivanti-warns-customers-of-new-epm-flaw-enabling-remote-code-execution.html) | Security Affairs (Dark Web) | incident_response, policy, vulnerabilities | 2025-12-09 22:11 |
+| [Mbed TLS 3.6.4 Use-After-Free](https://cxsecurity.com/issue/WLB-2025120009) | CXSecurity Exploit Feed | vulnerabilities | 2025-12-09 21:45 |
+| [The Dark Web Economy Behind Ad Fraud: What Marketers Don’t See](https://hackread.com/ad-fraud-dark-web-economy-market/) | HackRead | ai, darkweb | 2025-12-09 21:45 |
+| [California man pleads guilty to RICO charges as DOJ indicts crypto theft gang](https://therecord.media/california-man-pleads-guilty-rico-charges-crypto-theft) | The Record (Signals) | phishing | 2025-12-09 21:44 |
+| [Shai-Hulud 2.0: Guidance for detecting, investigating, and defending against the supply chain attack](https://www.microsoft.com/en-us/security/blog/2025/12/09/shai-hulud-2-0-guidance-for-detecting-investigating-and-defending-against-the-supply-chain-attack/) | Microsoft Security Blog | ai, cloud, identity, incident_response, policy, supply_chain | 2025-12-09 21:41 |
+| [Windows PowerShell now warns when running Invoke-WebRequest scripts](https://www.bleepingcomputer.com/news/security/microsoft-windows-powershell-now-warns-when-running-invoke-webrequest-scripts/) | BleepingComputer News | ai | 2025-12-09 20:45 |
+| [Exploitation of Critical Vulnerability in React Server Components (Updated December 9)](https://unit42.paloaltonetworks.com/cve-2025-55182-react-and-cve-2025-66478-next/) | Palo Alto Networks Unit 42 | incident_response, vulnerabilities | 2025-12-09 20:30 |
+| [Microsoft Patch Tuesday, December 2025 Security Update Review](https://blog.qualys.com/category/vulnerabilities-threat-research) | Qualys | vulnerabilities | 2025-12-09 19:59 |
+| [Microsoft releases Windows 10 KB5071546 extended security update](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5071546-extended-security-update/) | BleepingComputer News | cloud, policy, vulnerabilities | 2025-12-09 19:54 |
+| [Microsoft December 2025 Patch Tuesday fixes 3 zero-days, 57 flaws](https://www.bleepingcomputer.com/news/microsoft/microsoft-december-2025-patch-tuesday-fixes-3-zero-days-57-flaws/) | BleepingComputer News | cloud, policy, vulnerabilities | 2025-12-09 18:38 |
+| [Fortinet warns of critical FortiCloud SSO login auth bypass flaws](https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-forticloud-sso-login-auth-bypass-flaws/) | BleepingComputer News | cloud, identity, mobile, policy | 2025-12-09 18:36 |
+| [Windows 11 KB5072033 & KB5071417 cumulative updates released](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5072033-and-kb5071417-cumulative-updates-released/) | BleepingComputer News | unclassified | 2025-12-09 18:31 |
+| [North Korea-linked Actors Exploit React2Shell to Deploy New EtherRAT Malware](https://thehackernews.com/2025/12/north-korea-linked-actors-exploit.html) | The Hacker News | apt, malware, phishing, policy, vulnerabilities | 2025-12-09 18:25 |
+| [Police Dismantle EUR 700 Million Crypto Scam That Used Deepfakes](https://hackread.com/police-bust-eur-700m-deepfake-crypto-network/) | HackRead | unclassified | 2025-12-09 17:43 |
+| [React2Shell Exploit Campaigns Tied to North Korean Cyber Intrusion Tactics](https://www.infosecurity-magazine.com/news/react2shell-exploit-campaigns/) | InfoSecurity Magazine News | ai, apt, iot, vulnerabilities | 2025-12-09 17:15 |
+| [Cybersecurity 2026 \| The Year Ahead in AI, Adversaries, and Global Change](https://www.sentinelone.com/blog/cybersecurity-2026-the-year-ahead-in-ai-adversaries-and-global-change/) | SentinelOne Labs | ai | 2025-12-09 17:10 |
+| [Ivanti warns of critical Endpoint Manager code execution flaw](https://www.bleepingcomputer.com/news/security/ivanti-warns-of-critical-endpoint-manager-code-execution-flaw/) | BleepingComputer News | policy, vulnerabilities | 2025-12-09 17:10 |
+| [Maintaining enterprise IT hygiene using Wazuh SIEM/XDR](https://www.bleepingcomputer.com/news/security/maintaining-enterprise-it-hygiene-using-wazuh-siem-xdr/) | BleepingComputer News | ai | 2025-12-09 17:09 |
+| [Further Hardening Android GPUs](http://security.googleblog.com/2025/12/further-hardening-android-gpus.html) | Google Security Blog | ai, cloud, defense, incident_response, iot, mobile, phishing, policy, vulnerabilities | 2025-12-09 17:00 |
+| [Changing the physics of cyber defense](https://www.microsoft.com/en-us/security/blog/2025/12/09/changing-the-physics-of-cyber-defense/) | Microsoft Security Blog | ai, incident_response, iot | 2025-12-09 17:00 |
+| [Spain arrests teen who stole 64 million personal data records](https://www.bleepingcomputer.com/news/security/spain-arrests-teen-who-stole-64-million-personal-data-records/) | BleepingComputer News | ai, data_breach | 2025-12-09 16:57 |
+| [Malicious VS Code Extensions Deploy Advanced Infostealer](https://www.infosecurity-magazine.com/news/malicious-vs-code-extensions/) | InfoSecurity Magazine News | ai, malware | 2025-12-09 16:45 |
+| [Khashoggi widow files complaint in France alleging Saudi government infected devices with spyware](https://therecord.media/khashoggi-widow-legal-complaint-filed-alleging-saudi-government-spyware) | The Record (Signals) | ai | 2025-12-09 16:44 |
+| [Defense Bill Would Require New Cyber Requirements for Some DoD Telecom Contracts](https://databreaches.net/2025/12/09/defense-bill-would-require-new-cyber-requirements-for-some-dod-telecom-contracts/?pk_campaign=feed&pk_kwd=defense-bill-would-require-new-cyber-requirements-for-some-dod-telecom-contracts) | DataBreaches.net (Notices) | ai, apt, data_breach, incident_response, iot | 2025-12-09 16:08 |
+| [Four Threat Clusters Using CastleLoader as GrayBravo Expands Its Malware Service Infrastructure](https://thehackernews.com/2025/12/four-threat-clusters-using-castleloader.html) | The Hacker News | ai, apt, malware | 2025-12-09 16:01 |
+| [DeadLock Ransomware Uses BYOVD to Evade Security Measures](https://www.infosecurity-magazine.com/news/deadlock-ransomware-uses-byovd/) | InfoSecurity Magazine News | iot, malware | 2025-12-09 16:00 |
+| [North Korean hackers exploit React2Shell flaw in EtherRAT malware attacks](https://www.bleepingcomputer.com/news/security/north-korean-hackers-exploit-react2shell-flaw-in-etherrat-malware-attacks/) | BleepingComputer News | malware, policy, vulnerabilities | 2025-12-09 15:43 |
+| [Tell the truth, or someone will tell it for you — Trumbull County, Ohio edition (1)](https://databreaches.net/2025/12/09/tell-the-truth-or-someone-will-tell-it-for-you-trumbull-county-ohio-edition/?pk_campaign=feed&pk_kwd=tell-the-truth-or-someone-will-tell-it-for-you-trumbull-county-ohio-edition) | DataBreaches.net (Notices) | ai, apt, data_breach, incident_response, iot, malware | 2025-12-09 15:30 |
+| [Ransomware IAB abuses EDR for stealthy malware execution](https://www.bleepingcomputer.com/news/security/ransomware-iab-abuses-edr-for-stealthy-malware-execution/) | BleepingComputer News | defense, malware | 2025-12-09 15:24 |
+| [Broadside botnet hits TBK DVRs, raising alarms for maritime logistics](https://securityaffairs.com/185491/malware/broadside-botnet-hits-tbk-dvrs-raising-alarms-for-maritime-logistics.html) | Security Affairs (Dark Web) | ai, incident_response, iot, malware, vulnerabilities | 2025-12-09 15:10 |
+| [US Posts $10 Million Bounty for Iranian Hackers](https://databreaches.net/2025/12/09/us-posts-10-million-bounty-for-iranian-hackers/?pk_campaign=feed&pk_kwd=us-posts-10-million-bounty-for-iranian-hackers) | DataBreaches.net (Notices) | ai, apt, data_breach, incident_response, iot | 2025-12-09 15:04 |
+| [New GeminiJack 0-Click Flaw in Gemini AI Exposed Users to Data Leaks](https://hackread.com/geminijack-0-click-flaw-gemini-ai-data-leaks/) | HackRead | ai, data_breach, policy | 2025-12-09 15:00 |
+| [Seoul cyber investigators seize data, devices from ‘South Korea’s Amazon’ following data breach](https://therecord.media/seoul-cyber-investigators-seize-data-korea-tech-giant) | The Record (Signals) | data_breach, incident_response | 2025-12-09 14:51 |
 
 ---
 
@@ -89,6 +89,7 @@
 - Maltrail Botnet Feed — 404, message='Not Found', url=URL('https://maltrail.github.io/feed.xml')
 - BadIPs — Cannot connect to host www.badips.com:443 ssl:default [Name or service not known]
 - ThreatMiner C2 Feed — 404, message='Not Found', url=URL('https://www.threatminer.org/rss.php?type=C2')
+- Hunt.io IOC Hunter — 404, message='Not Found', url=URL('https://hunt.io/ioc-feed/rss')
 - OpenPhish — 404, message='Not Found', url=URL('https://openphish.com/feed.xml')
 - PhishLabs Blog (Phishing) — 403, message='Forbidden', url=URL('https://www.phishlabs.com/blog/feed/')
 - Spamhaus Phishing — 404, message='Not Found', url=URL('https://www.spamhaus.org/phishing_lasso')
@@ -140,7 +141,7 @@
 - Abuse.ch ThreatFox (IOC) — 404, message='Not Found', url=URL('https://threatfox.abuse.ch/rss/')
 - Abuse.ch URLhaus (IOC) — 404, message='Not Found', url=URL('https://urlhaus.abuse.ch/feeds/rss/')
 - MalwareBazaar (IOC) — 404, message='Not Found', url=URL('https://bazaar.abuse.ch/rss/')
-- OSINT Combine — 404, message='Not Found', url=URL('https://www.osintcombine.com/feed')
+- OSINT Combine — 404, message='Not Found', url=URL('https://www.osintcombine.com/feed/')
 - GreyNoise — 404, message='Not Found', url=URL('https://www.greynoise.io/feed')
 - Circl.lu IOC — 404, message='Not Found', url=URL('https://www.circl.lu/opendata/feed/')
 - InQuest Labs — Server disconnected
