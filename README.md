@@ -1,6 +1,6 @@
 <p align="center">
   <strong style="font-size:1.9rem;">Threat Intel Atlas · Daily Signal Briefing</strong><br />
-  <span style="font-size:1rem;color:#6ecff6;">Compiled from 166 intelligence sources · refreshed 2025-12-12 06:45 UTC</span>
+  <span style="font-size:1rem;color:#6ecff6;">Compiled from 166 intelligence sources · refreshed 2025-12-13 06:43 UTC</span>
 </p>
 
 ---
@@ -10,8 +10,8 @@
 | Metric | Value |
 | --- | --- |
 | Total signals retained | 1000 |
-| Signals detected in the last 24h | 73 |
-| Signals surfaced in this report | 73 |
+| Signals detected in the last 24h | 52 |
+| Signals surfaced in this report | 52 |
 
 ---
 
@@ -19,46 +19,46 @@
 
 | Title | Source | Tags | Published (UTC) |
 | --- | --- | --- | --- |
-| [CISA Flags Actively Exploited GeoServer XXE Flaw in Updated KEV Catalog](https://thehackernews.com/2025/12/cisa-flags-actively-exploited-geoserver.html) | The Hacker News | policy, vulnerabilities | 2025-12-12 05:01 |
-| [Merge PR #5804 from @swachchhanda000 - enhance rules related with fil…](https://github.com/SigmaHQ/sigma/commit/685194383b4d6e594ec264e7d92270108783197d) | SigmaHQ Core Rules | ai | 2025-12-12 02:19 |
-| [Brave browser starts testing agentic AI mode for automated tasks](https://www.bleepingcomputer.com/news/artificial-intelligence/brave-browser-starts-testing-agentic-ai-mode-for-automated-tasks/) | BleepingComputer News | ai | 2025-12-11 23:03 |
-| [Warnings Mount in Congress Over Expanded US Wiretap Powers](https://www.wired.com/story/warnings-mount-in-congress-over-expanded-us-wiretap-powers/) | Wired Security | ai, incident_response, policy | 2025-12-11 22:15 |
-| [Hackers exploit Gladinet CentreStack cryptographic flaw in RCE attacks](https://www.bleepingcomputer.com/news/security/hackers-exploit-gladinet-centrestack-cryptographic-flaw-in-rce-attacks/) | BleepingComputer News | policy, vulnerabilities | 2025-12-11 21:49 |
-| [Critical Gogs zero-day under attack, 700 servers hacked](https://securityaffairs.com/185593/hacking/critical-gogs-zero-day-under-attack-700-servers-hacked.html) | Security Affairs (Dark Web) | incident_response, vulnerabilities | 2025-12-11 21:29 |
-| [Notepad++ fixes flaw that let attackers push malicious update files](https://www.bleepingcomputer.com/news/security/notepad-plus-plus-fixes-flaw-that-let-attackers-push-malicious-update-files/) | BleepingComputer News | policy | 2025-12-11 21:04 |
-| [Malicious VSCode Marketplace extensions hid trojan in fake PNG file](https://www.bleepingcomputer.com/news/security/malicious-vscode-marketplace-extensions-hid-trojan-in-fake-png-file/) | BleepingComputer News | ai, apt, darkweb, malware, supply_chain | 2025-12-11 20:54 |
-| [CVE-2025-62221 and CVE-2025-54100: Windows Elevation of Privilege and RCE Zero-Day Vulnerabilities Patched](https://socprime.com/blog/cve-2025-62221-and-cve-2025-54100-vulnerabilities/) | SOC Prime | cloud, incident_response, policy, vulnerabilities | 2025-12-11 20:24 |
-| [GeminiJack zero-click flaw in Gemini Enterprise allowed corporate data exfiltration](https://securityaffairs.com/185574/hacking/geminijack-zero-click-flaw-in-gemini-enterprise-allowed-corporate-data-exfiltration.html) | Security Affairs (Dark Web) | ai, data_breach, policy, vulnerabilities | 2025-12-11 20:16 |
-| [What is phishing-resistant MFA?](https://www.comparitech.com/blog/vpn-privacy/what-is-phishing-resistant-mfa/) | Comparitech Blog | identity, phishing | 2025-12-11 20:14 |
-| [One newsletter to rule them all](https://blog.talosintelligence.com/one-newsletter-to-rule-them-all/) | Cisco Talos | incident_response | 2025-12-11 19:00 |
-| [Doxers Posing as Cops Are Tricking Big Tech Firms Into Sharing People’s Private Data](https://www.wired.com/story/doxers-posing-as-cops-are-tricking-big-tech-firms-into-sharing-peoples-private-data/) | Wired Security | ai, incident_response | 2025-12-11 18:54 |
-| [Google fixed a new actively exploited Chrome zero-day](https://securityaffairs.com/185566/hacking/google-fixed-a-new-actively-exploited-chrome-zero-day.html) | Security Affairs (Dark Web) | apt, policy, vulnerabilities | 2025-12-11 18:18 |
-| [Village of Golf Manor considering paying ransom amid cyberattack (1)](https://databreaches.net/2025/12/11/village-of-golf-manor-considering-paying-ransom-amid-cyberattack/?pk_campaign=feed&pk_kwd=village-of-golf-manor-considering-paying-ransom-amid-cyberattack) | DataBreaches.net (Notices) | ai, apt, data_breach, incident_response, iot, malware | 2025-12-11 17:36 |
-| [New 'DroidLock' malware demands a ransom, locks user out of device](https://therecord.media/android-droidlock-malware-demands-ransom-locks-mobile-device) | The Record (Signals) | malware, mobile | 2025-12-11 17:21 |
-| [Malicious Visual Studio Code Extensions Hide Trojan in Fake PNG Files](https://hackread.com/malicious-vs-code-extensions-trojan-fake-png-files/) | HackRead | malware, supply_chain | 2025-12-11 17:12 |
-| [UK fines LastPass over 2022 data breach impacting 1.6 million users](https://www.bleepingcomputer.com/news/security/uk-fines-lastpass-over-2022-data-breach-impacting-16-million-users/) | BleepingComputer News | ai, data_breach, identity, incident_response | 2025-12-11 17:09 |
-| [AIs Exploiting Smart Contracts](https://www.schneier.com/blog/archives/2025/12/ais-exploiting-smart-contracts.html) | Schneier on Security | ai, defense, vulnerabilities | 2025-12-11 17:06 |
-| [Imposter for hire: How fake people can gain very real access](https://www.microsoft.com/en-us/security/blog/2025/12/11/imposter-for-hire-how-fake-people-can-gain-very-real-access/) | Microsoft Security Blog | ai, incident_response | 2025-12-11 17:00 |
-| [Scale AI Securely with Qualys TotalAI’s Streamlined Onboarding, Deeper Risk Detection, and Compliance-Ready Reporting](https://blog.qualys.com/category/product-tech) | Qualys | ai, apt, defense, incident_response, policy | 2025-12-11 17:00 |
-| [DroidLock malware locks you out of your Android device and demands ransom](https://www.malwarebytes.com/blog/news/2025/12/droidlock-malware-locks-you-out-of-your-android-device-and-demands-ransom) | Malwarebytes Labs (News) | malware, mobile | 2025-12-11 16:57 |
-| [OpenAI Enhances Defensive Models to Mitigate Cyber-Threats](https://www.infosecurity-magazine.com/news/openai-enhances-defensive-models/) | InfoSecurity Magazine News | ai | 2025-12-11 16:45 |
-| [Federal agencies now only have one more day to patch React2Shell bug](https://therecord.media/react2shell-vulnerability-cisa-shortens-patch-deadline) | The Record (Signals) | vulnerabilities | 2025-12-11 16:11 |
-| [Microsoft bounty program now includes any flaw impacting its services](https://www.bleepingcomputer.com/news/microsoft/microsoft-bounty-program-now-includes-any-flaw-impacting-its-services/) | BleepingComputer News | incident_response, policy | 2025-12-11 16:00 |
-| [Malware Discovered in 19 Visual Studio Code Extensions](https://www.infosecurity-magazine.com/news/malware-discovered-in-19-vs-code/) | InfoSecurity Magazine News | ai, apt, malware, supply_chain | 2025-12-11 16:00 |
-| [Hackers reportedly breach developer involved with Russia’s military draft database](https://therecord.media/hackers-reportedly-breach-developer-involved-in-russian-military-database) | The Record (Signals) | ai, data_breach, incident_response | 2025-12-11 15:44 |
-| [Announced pick for No. 2 at NSA won’t get the job as another candidate surfaces](https://therecord.media/announced-nsa-deputy-director-pick-joe-francescon-not-taking-job) | The Record (Signals) | incident_response | 2025-12-11 15:22 |
-| [New ConsentFix attack hijacks Microsoft accounts via Azure CLI](https://www.bleepingcomputer.com/news/security/new-consentfix-attack-hijacks-microsoft-accounts-via-azure-cli/) | BleepingComputer News | cloud, identity | 2025-12-11 15:10 |
-| [AI is accelerating cyberattacks. Is your network prepared?](https://www.bleepingcomputer.com/news/security/ai-is-accelerating-cyberattacks-is-your-network-prepared/) | BleepingComputer News | ai, defense, malware | 2025-12-11 15:05 |
-| [UK fines LastPass £1.2 million for data breach affecting 1.6 million people](https://therecord.media/uk-fines-lastpass-over-1-million-data-breach) | The Record (Signals) | ai, data_breach | 2025-12-11 14:58 |
-| [New ‘DroidLock’ Android Malware Locks Users Out, Spies via Front Camera](https://hackread.com/droidlock-android-malware-users-spy-camera/) | HackRead | identity, malware, mobile, phishing | 2025-12-11 14:37 |
-| [1inch Named Exclusive Swap Provider at Launch for Ledger Multisig](https://hackread.com/1inch-named-exclusive-swap-provider-at-launch-for-ledger-multisig/) | HackRead | incident_response | 2025-12-11 14:00 |
-| [CyberVolk Returns \| Flawed VolkLocker Brings New Features With Growing Pains](https://www.sentinelone.com/blog/cybervolk-returns-flawed-volklocker-brings-new-features-with-growing-pains/) | SentinelOne Labs | ai, defense, malware, policy | 2025-12-11 14:00 |
-| [Malwarebytes for Mac now has smarter, deeper scans](https://www.malwarebytes.com/blog/news/2025/12/malwarebytes-for-mac-now-has-smarter-deeper-scans) | Malwarebytes Labs (News) | malware | 2025-12-11 13:40 |
-| [ThreatsDay Bulletin: Spyware Alerts, Mirai Strikes, Docker Leaks, ValleyRAT Rootkit — and 20 More Stories](https://thehackernews.com/2025/12/threatsday-bulletin-spyware-alerts.html) | The Hacker News | ai, data_breach, incident_response, malware | 2025-12-11 13:40 |
-| [Hackers exploit unpatched Gogs zero-day to breach 700 servers](https://www.bleepingcomputer.com/news/security/unpatched-gogs-zero-day-rce-flaw-actively-exploited-in-attacks/) | BleepingComputer News | ai, data_breach, vulnerabilities | 2025-12-11 13:19 |
-| [NANOREMOTE Malware Uses Google Drive API for Hidden Control on Windows Systems](https://thehackernews.com/2025/12/nanoremote-malware-uses-google-drive.html) | The Hacker News | ai, malware | 2025-12-11 13:16 |
-| [Scammers Sent 40,000 E-Signature Phishing Emails to 6,000 Firms in Just 2 Weeks](https://hackread.com/scammers-e-signature-phishing-emails/) | HackRead | ai, apt, incident_response, phishing | 2025-12-11 12:46 |
-| [INE Highlights Enterprise Shift Toward Hands-On Training Amid Widening Skills Gaps](https://hackread.com/ine-highlights-enterprise-shift-toward-hands-on-training-amid-widening-skills-gaps/) | HackRead | ai, incident_response | 2025-12-11 12:43 |
+| [Apple Issues Security Updates After Two WebKit Flaws Found Exploited in the Wild](https://thehackernews.com/2025/12/apple-issues-security-updates-after-two.html) | The Hacker News | ai, cloud, mobile, policy, vulnerabilities | 2025-12-13 05:32 |
+| [Bump urllib3 from 2.5.0 to 2.6.0 (#3251)](https://github.com/redcanaryco/atomic-red-team/commit/c173f44a0c306219eb9b45f8e2cf5568040df2e3) | Atomic Red Team | unclassified | 2025-12-13 05:26 |
+| [Generated docs from job=generate-docs branch=master [ci skip]](https://github.com/redcanaryco/atomic-red-team/commit/70e8efd512d2de19e1956616f7a0be825661932d) | Atomic Red Team | unclassified | 2025-12-13 04:55 |
+| [Update T1652 to add device driver discovery commands for Linux and ma…](https://github.com/redcanaryco/atomic-red-team/commit/4f16386fc791c1589bb8319921861c02063c65fc) | Atomic Red Team | unclassified | 2025-12-13 04:54 |
+| [Bump pytest from 9.0.1 to 9.0.2 (#3255)](https://github.com/redcanaryco/atomic-red-team/commit/c62a9819ad3ab7a34df851898e321e0fe3b5e638) | Atomic Red Team | unclassified | 2025-12-13 04:50 |
+| [Bump pydantic from 2.12.4 to 2.12.5 (#3249)](https://github.com/redcanaryco/atomic-red-team/commit/3f2beabd012c7123b93673a58e721b4174c3bf06) | Atomic Red Team | unclassified | 2025-12-13 04:12 |
+| [Bump hypothesis from 6.148.2 to 6.148.7 (#3254)](https://github.com/redcanaryco/atomic-red-team/commit/88f5b507d165dbc402959a65dd5d01f357234de0) | Atomic Red Team | unclassified | 2025-12-13 04:09 |
+| [Google and Apple roll out emergency security updates after zero-day attacks](https://databreaches.net/2025/12/12/google-and-apple-roll-out-emergency-security-updates-after-zero-day-attacks/?pk_campaign=feed&pk_kwd=google-and-apple-roll-out-emergency-security-updates-after-zero-day-attacks) | DataBreaches.net (Notices) | ai, apt, data_breach, incident_response, iot, vulnerabilities | 2025-12-13 00:52 |
+| [Fake Microsoft Teams and Google Meet Downloads Spread Oyster Backdoor](https://hackread.com/fake-microsoft-teams-google-meet-download-oyster-backdoor/) | HackRead | unclassified | 2025-12-13 00:17 |
+| [Emergency fixes deployed by Google and Apple after targeted attacks](https://securityaffairs.com/185628/hacking/emergency-fixes-deployed-by-google-and-apple-after-targeted-attacks.html) | Security Affairs (Dark Web) | ai, apt, cloud, incident_response, policy, vulnerabilities | 2025-12-13 00:08 |
+| [Doxers Posing as Cops Are Tricking Big Tech Firms Into Sharing People’s Private Data](https://databreaches.net/2025/12/12/doxers-posing-as-cops-are-tricking-big-tech-firms-into-sharing-peoples-private-data/?pk_campaign=feed&pk_kwd=doxers-posing-as-cops-are-tricking-big-tech-firms-into-sharing-peoples-private-data) | DataBreaches.net (Notices) | ai, apt, data_breach, incident_response, iot | 2025-12-12 23:40 |
+| [Apple fixes two zero-day flaws exploited in 'sophisticated' attacks](https://www.bleepingcomputer.com/news/security/apple-fixes-two-zero-day-flaws-exploited-in-sophisticated-attacks/) | BleepingComputer News | cloud, policy, vulnerabilities | 2025-12-12 23:23 |
+| [Development Team Augmentation: A Strategic Approach for High-Performance Teams](https://hackread.com/development-team-augmentation-approach/) | HackRead | ai | 2025-12-12 22:49 |
+| [Notepad++ fixed updater bugs that allowed malicious update hijacking](https://securityaffairs.com/185622/hacking/notepad-fixed-updater-bugs-that-allowed-malicious-update-hijacking.html) | Security Affairs (Dark Web) | identity, incident_response, policy, vulnerabilities | 2025-12-12 22:16 |
+| [Friday Squid Blogging: Giant Squid Eating a Diamondback Squid](https://www.schneier.com/blog/archives/2025/12/friday-squid-blogging-giant-squid-eating-a-diamondback-squid.html) | Schneier on Security | identity | 2025-12-12 22:00 |
+| [Exploitation of Critical Vulnerability in React Server Components (Updated December 12)](https://unit42.paloaltonetworks.com/cve-2025-55182-react-and-cve-2025-66478-next/) | Palo Alto Networks Unit 42 | incident_response, vulnerabilities | 2025-12-12 21:40 |
+| [Processing 630 Million More Pwned Passwords, Courtesy of the FBI](https://www.troyhunt.com/processing-630-million-more-pwned-passwords-courtesy-of-the-fbi/) | Troy Hunt Blog | ai, identity, incident_response | 2025-12-12 21:29 |
+| [Virginia Urology Silent on Possible Data Breach as Purported Patient Data Begins to Leak](https://databreaches.net/2025/12/12/virginia-urology-silent-on-possible-data-breach-as-purported-patient-data-begins-to-leak/?pk_campaign=feed&pk_kwd=virginia-urology-silent-on-possible-data-breach-as-purported-patient-data-begins-to-leak) | DataBreaches.net (Notices) | ai, apt, data_breach, incident_response, iot | 2025-12-12 21:27 |
+| [Hamas-affiliated APT targeting government agencies in the Middle East, Morocco](https://therecord.media/hamas-apt-targeting-government-agencies) | The Record (Signals) | ai, apt, malware | 2025-12-12 21:16 |
+| [Canada’s privacy regulator to probe billboards equipped with facial scanning tech](https://therecord.media/canada-privacy-regulator-to-probe-face-scanning-billboards) | The Record (Signals) | incident_response | 2025-12-12 19:49 |
+| [More than 340,000 impacted by cyberattack on library in large Washington county](https://therecord.media/over-340000-impacted-washington-state-library-hack) | The Record (Signals) | ai, data_breach, incident_response | 2025-12-12 19:05 |
+| [Fake OSINT and GPT Utility GitHub Repos Spread PyStoreRAT Malware Payloads](https://thehackernews.com/2025/12/fake-osint-and-gpt-utility-github-repos.html) | The Hacker News | ai, apt, malware | 2025-12-12 18:50 |
+| [Coupang data breach traced to ex-employee who retained system access](https://www.bleepingcomputer.com/news/security/coupang-data-breach-traced-to-ex-employee-who-retained-system-access/) | BleepingComputer News | ai, data_breach | 2025-12-12 18:28 |
+| [The US digital doxxing of H-1B applicants is a massive privacy misstep](https://www.malwarebytes.com/blog/news/2025/12/the-us-digital-doxxing-of-h-1b-applicants-is-a-massive-privacy-misstep) | Malwarebytes Labs (News) | policy | 2025-12-12 18:19 |
+| [New PyStoreRAT Malware Targets OSINT Researchers Through GitHub](https://hackread.com/pystorerat-rat-malware-github-osint-researchers/) | HackRead | ai, malware | 2025-12-12 17:54 |
+| [Fake ‘One Battle After Another’ torrent hides malware in subtitles](https://www.bleepingcomputer.com/news/security/fake-one-battle-after-another-torrent-hides-malware-in-subtitles/) | BleepingComputer News | malware | 2025-12-12 17:12 |
+| [Trump signs executive order on 'national framework' for AI regulation](https://therecord.media/trump-executive-order-ai-national-framework) | The Record (Signals) | ai, policy, vulnerabilities | 2025-12-12 17:08 |
+| [Germany summons Russian ambassador over cyberattack, election disinformation](https://therecord.media/germany-summons-russian-ambassador-cyberattack-disinformation) | The Record (Signals) | ai, apt, incident_response | 2025-12-12 15:42 |
+| [Kali Linux 2025.4 released with 3 new tools, desktop updates](https://www.bleepingcomputer.com/news/security/kali-linux-20254-released-with-3-new-tools-desktop-updates/) | BleepingComputer News | incident_response | 2025-12-12 15:27 |
+| [Shadow spreadsheets: The security gap your tools can’t see](https://www.bleepingcomputer.com/news/security/shadow-spreadsheets-the-security-gap-your-tools-cant-see/) | BleepingComputer News | ai, incident_response | 2025-12-12 15:01 |
+| [What Happens Inside PDFAid in Seconds: From Upload to Download](https://hackread.com/what-happens-inside-pdfaid-upload-download/) | HackRead | ai | 2025-12-12 14:50 |
+| [Google ads funnel Mac users to poisoned AI chats that spread the AMOS infostealer](https://www.malwarebytes.com/blog/news/2025/12/google-ads-funnel-mac-users-to-poisoned-ai-chats-that-spread-the-amos-infostealer) | Malwarebytes Labs (News) | ai, malware | 2025-12-12 14:26 |
+| [New Advanced Phishing Kits Use AI and MFA Bypass Tactics to Steal Credentials at Scale](https://thehackernews.com/2025/12/new-advanced-phishing-kits-use-ai-and.html) | The Hacker News | ai, apt, identity, incident_response, iot, phishing | 2025-12-12 14:04 |
+| [The Good, the Bad and the Ugly in Cybersecurity – Week 50](https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-50-7/) | SentinelOne Labs | policy | 2025-12-12 14:00 |
+| [Building Trustworthy AI Agents](https://www.schneier.com/blog/archives/2025/12/building-trustworthy-ai-agents.html) | Schneier on Security | ai | 2025-12-12 12:00 |
+| [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2025/12/12/cisa-adds-one-known-exploited-vulnerability-catalog) | CISA Joint Advisories | ai, incident_response, vulnerabilities | 2025-12-12 12:00 |
+| [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2025/12/12/cisa-adds-one-known-exploited-vulnerability-catalog-0) | CISA Joint Advisories | ai, incident_response, vulnerabilities | 2025-12-12 12:00 |
+| [New Windows RasMan zero-day flaw gets free, unofficial patches](https://www.bleepingcomputer.com/news/microsoft/new-windows-rasman-zero-day-flaw-gets-free-unofficial-patches/) | BleepingComputer News | ai, policy, vulnerabilities | 2025-12-12 11:28 |
+| [Elastic detects stealthy NANOREMOTE malware using Google Drive as C2](https://securityaffairs.com/185613/malware/elastic-detects-stealthy-nanoremote-malware-using-google-drive-as-c2.html) | Security Affairs (Dark Web) | malware | 2025-12-12 11:11 |
+| [NCSC Plugs Gap in Cyber-Deception Guidance](https://www.infosecurity-magazine.com/news/ncsc-plugs-gap-cyber-deception/) | InfoSecurity Magazine News | policy | 2025-12-12 10:30 |
 
 ---
 
@@ -89,7 +89,6 @@
 - Maltrail Botnet Feed — 404, message='Not Found', url=URL('https://maltrail.github.io/feed.xml')
 - BadIPs — Cannot connect to host www.badips.com:443 ssl:default [Name or service not known]
 - ThreatMiner C2 Feed — 404, message='Not Found', url=URL('https://www.threatminer.org/rss.php?type=C2')
-- Hunt.io IOC Hunter — 404, message='Not Found', url=URL('https://hunt.io/ioc-feed/rss')
 - OpenPhish — 404, message='Not Found', url=URL('https://openphish.com/feed.xml')
 - PhishLabs Blog (Phishing) — 403, message='Forbidden', url=URL('https://www.phishlabs.com/blog/feed/')
 - Spamhaus Phishing — 404, message='Not Found', url=URL('https://www.spamhaus.org/phishing_lasso')
@@ -117,6 +116,7 @@
 - OS Commissioner — 404, message='Not Found', url=URL('https://www.priv.gc.ca/en/rss/')
 - Europol Press Releases — 404, message='Not Found', url=URL('https://www.europol.europa.eu/rss/police-press-releases')
 - FBI Press Releases — 404, message='Not Found', url=URL('https://www.fbi.gov/feeds/press-releases-news.xml')
+- U.S. DOJ Press Releases — 404, message='Not Found', url=URL('https://www.justice.gov/rss/pressreleases/all')
 - U.S. DHS News — 404, message='Not Found', url=URL('https://www.dhs.gov/feeds/press-releases.xml')
 - UK NCA News — 403, message='Forbidden', url=URL('https://www.nationalcrimeagency.gov.uk/news/rss')
 - Interpol News — 403, message='Forbidden', url=URL('https://www.interpol.int/en/News-and-Events/News?format=RSS')
