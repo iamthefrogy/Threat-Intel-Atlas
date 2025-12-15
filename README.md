@@ -1,6 +1,6 @@
 <p align="center">
   <strong style="font-size:1.9rem;">Threat Intel Atlas · Daily Signal Briefing</strong><br />
-  <span style="font-size:1rem;color:#6ecff6;">Compiled from 166 intelligence sources · refreshed 2025-12-14 06:43 UTC</span>
+  <span style="font-size:1rem;color:#6ecff6;">Compiled from 166 intelligence sources · refreshed 2025-12-15 06:45 UTC</span>
 </p>
 
 ---
@@ -10,8 +10,8 @@
 | Metric | Value |
 | --- | --- |
 | Total signals retained | 1000 |
-| Signals detected in the last 24h | 5 |
-| Signals surfaced in this report | 5 |
+| Signals detected in the last 24h | 8 |
+| Signals surfaced in this report | 8 |
 
 ---
 
@@ -19,11 +19,14 @@
 
 | Title | Source | Tags | Published (UTC) |
 | --- | --- | --- | --- |
-| [Germany calls in Russian Ambassador over air traffic control hack claims](https://securityaffairs.com/185650/apt/germany-calls-in-russian-ambassador-over-air-traffic-control-hack-claims.html) | Security Affairs (Dark Web) | ai, apt, incident_response | 2025-12-13 18:14 |
-| [UK’s ICO Fine LastPass £1.2 Million Over 2022 Security Breach](https://hackread.com/uk-ico-fine-lastpass-2022-security-breach/) | HackRead | ai, data_breach, policy | 2025-12-13 15:35 |
-| [CISA Adds Actively Exploited Sierra Wireless Router Flaw Enabling RCE Attacks](https://thehackernews.com/2025/12/cisa-adds-actively-exploited-sierra.html) | The Hacker News | ai, incident_response, policy, vulnerabilities | 2025-12-13 12:33 |
-| [AI Toys for Kids Talk About Sex, Drugs, and Chinese Propaganda](https://www.wired.com/story/security-news-this-week-ai-toys-for-kids-talk-about-sex-drugs-and-chinese-propaganda/) | Wired Security | ai | 2025-12-13 11:30 |
-| [U.S. CISA adds Google Chromium and Sierra Wireless AirLink ALEOS flaws to its Known Exploited Vulnerabilities catalog](https://securityaffairs.com/185639/security/u-s-cisa-adds-google-chromium-and-sierra-wireless-airlink-aleos-flaws-to-its-known-exploited-vulnerabilities-catalog.html) | Security Affairs (Dark Web) | ai, cloud, incident_response, policy, vulnerabilities | 2025-12-13 10:48 |
+| [VolkLocker Ransomware Exposed by Hard-Coded Master Key Allowing Free Decryption](https://thehackernews.com/2025/12/volklocker-ransomware-exposed-by-hard.html) | The Hacker News | identity, malware, supply_chain | 2025-12-15 05:33 |
+| [Identity Theft Resource Center 2026 Predictions](https://www.idtheftcenter.org/identity-theft-resource-center-2026-predictions/) | ID Theft Resource Center | ai, identity, incident_response | 2025-12-15 04:30 |
+| [Upcoming Speaking Engagements](https://www.schneier.com/blog/archives/2025/12/upcoming-speaking-engagements-51.html) | Schneier on Security | ai | 2025-12-14 17:10 |
+| [Beware: PayPal subscriptions abused to send fake purchase emails](https://www.bleepingcomputer.com/news/security/beware-paypal-subscriptions-abused-to-send-fake-purchase-emails/) | BleepingComputer News | ai | 2025-12-14 16:06 |
+| [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 75](https://securityaffairs.com/185683/malware/security-affairs-malware-newsletter-round-75.html) | Security Affairs (Dark Web) | ai, apt, incident_response, malware, mobile | 2025-12-14 14:22 |
+| [Security Affairs newsletter Round 554 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/185673/breaking-news/security-affairs-newsletter-round-554-by-pierluigi-paganini-international-edition.html) | Security Affairs (Dark Web) | ai, incident_response | 2025-12-14 14:03 |
+| [Askul says 740,000 sets of data breached in cyberattack](https://databreaches.net/2025/12/14/askul-says-740000-sets-of-data-breached-in-cyberattack/?pk_campaign=feed&pk_kwd=askul-says-740000-sets-of-data-breached-in-cyberattack) | DataBreaches.net (Notices) | ai, apt, data_breach, iot, malware | 2025-12-14 13:56 |
+| [Experts found an unsecured 16TB database containing 4.3B professional records](https://securityaffairs.com/185661/data-breach/experts-found-an-unsecured-16tb-database-containing-4-3b-professional-records.html) | Security Affairs (Dark Web) | ai | 2025-12-14 08:56 |
 
 ---
 
@@ -54,12 +57,12 @@
 - Maltrail Botnet Feed — 404, message='Not Found', url=URL('https://maltrail.github.io/feed.xml')
 - BadIPs — Cannot connect to host www.badips.com:443 ssl:default [Name or service not known]
 - ThreatMiner C2 Feed — 404, message='Not Found', url=URL('https://www.threatminer.org/rss.php?type=C2')
-- Hunt.io IOC Hunter — 404, message='Not Found', url=URL('https://hunt.io/ioc-feed/rss')
 - OpenPhish — 404, message='Not Found', url=URL('https://openphish.com/feed.xml')
 - PhishLabs Blog (Phishing) — 403, message='Forbidden', url=URL('https://www.phishlabs.com/blog/feed/')
 - Spamhaus Phishing — 404, message='Not Found', url=URL('https://www.spamhaus.org/phishing_lasso')
 - ThreatNix Phishing — 404, message='Not Found', url=URL('https://threatnix.io/feed/')
 - URLScan.io Malicious — 404, message='Not Found', url=URL('https://urlscan.io/feed/malicious/')
+- BrandShield — 403, message='Forbidden', url=URL('https://brandshield.com/feed/')
 - Netcraft Phishing — 404, message='Not Found', url=URL('https://www.netcraft.com/rss/phishing.xml')
 - VX-Underground Blog — Cannot connect to host blog.vx-underground.org:443 ssl:default [Name or service not known]
 - Dark Reading Breaches — 403, message='Forbidden', url=URL('https://www.darkreading.com/vulnerabilities-threats/rss')
