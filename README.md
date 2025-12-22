@@ -1,6 +1,6 @@
 <p align="center">
   <strong style="font-size:1.9rem;">Threat Intel Atlas · Daily Signal Briefing</strong><br />
-  <span style="font-size:1rem;color:#6ecff6;">Compiled from 166 intelligence sources · refreshed 2025-12-21 06:43 UTC</span>
+  <span style="font-size:1rem;color:#6ecff6;">Compiled from 166 intelligence sources · refreshed 2025-12-22 06:45 UTC</span>
 </p>
 
 ---
@@ -10,8 +10,8 @@
 | Metric | Value |
 | --- | --- |
 | Total signals retained | 1000 |
-| Signals detected in the last 24h | 12 |
-| Signals surfaced in this report | 12 |
+| Signals detected in the last 24h | 7 |
+| Signals surfaced in this report | 7 |
 
 ---
 
@@ -19,18 +19,13 @@
 
 | Title | Source | Tags | Published (UTC) |
 | --- | --- | --- | --- |
-| [Iranian Infy APT Resurfaces with New Malware Activity After Years of Silence](https://thehackernews.com/2025/12/iranian-infy-apt-resurfaces-with-new.html) | The Hacker News | ai, apt, data_breach, identity, incident_response, malware | 2025-12-21 04:22 |
-| [ATM Jackpotting ring busted: 54 indicted by DoJ](https://securityaffairs.com/185908/cyber-crime/atm-jackpotting-ring-busted-54-indicted-by-doj.html) | Security Affairs (Dark Web) | malware | 2025-12-20 21:07 |
-| [DevOps and Cybersecurity: Building a New Line of Defense Against Digital Threats](https://hackread.com/devops-cybersecurity-digital-threats-defense/) | HackRead | ai, supply_chain | 2025-12-20 19:03 |
-| [FBI Seizes Fake ID Template Domains Operating from Bangladesh](https://hackread.com/fbi-seizes-domains-us-id-templates-bangladesh/) | HackRead | ai, darkweb | 2025-12-20 18:23 |
-| [RansomHouse upgrades encryption with multi-layered data processing](https://www.bleepingcomputer.com/news/security/ransomhouse-upgrades-encryption-with-multi-layered-data-processing/) | BleepingComputer News | malware | 2025-12-20 15:23 |
-| [ANNOUNCE: Survey on threats experienced by journalists and security researchers](https://databreaches.net/2025/12/20/announce-survey-on-threats-experienced-by-journalists-and-security-researchers/?pk_campaign=feed&pk_kwd=announce-survey-on-threats-experienced-by-journalists-and-security-researchers) | DataBreaches.net (Notices) | ai, apt, data_breach, iot | 2025-12-20 14:56 |
-| [Ukrainian National Pleads Guilty to Conspiracy to Use Nefilim Ransomware to Attack Companies in the United States and Other Countries](https://databreaches.net/2025/12/20/ukrainian-national-pleads-guilty-to-conspiracy-to-use-nefilim-ransomware-to-attack-companies-in-the-united-states-and-other-countries/?pk_campaign=feed&pk_kwd=ukrainian-national-pleads-guilty-to-conspiracy-to-use-nefilim-ransomware-to-attack-companies-in-the-united-states-and-other-countries) | DataBreaches.net (Notices) | ai, apt, data_breach, incident_response, iot, malware | 2025-12-20 14:05 |
-| [Nigerian National Convicted by Federal Jury of Wire Fraud, Aggravated Identity Theft, and Unauthorized Access to Protected Computer](https://databreaches.net/2025/12/20/nigerian-national-convicted-by-federal-jury-of-wire-fraud-aggravated-identity-theft-and-unauthorized-access-to-protected-computer/?pk_campaign=feed&pk_kwd=nigerian-national-convicted-by-federal-jury-of-wire-fraud-aggravated-identity-theft-and-unauthorized-access-to-protected-computer) | DataBreaches.net (Notices) | ai, apt, data_breach, identity, incident_response, iot | 2025-12-20 14:05 |
-| [Man Charged with Operating Online Marketplaces Selling Fraudulent Montana Driver’s Licenses and Other Identity Documents Used by Cybercriminals](https://databreaches.net/2025/12/20/man-charged-with-operating-online-marketplaces-selling-fraudulent-montana-drivers-licenses-and-other-identity-documents-used-by-cybercriminals/?pk_campaign=feed&pk_kwd=man-charged-with-operating-online-marketplaces-selling-fraudulent-montana-drivers-licenses-and-other-identity-documents-used-by-cybercriminals) | DataBreaches.net (Notices) | ai, apt, darkweb, data_breach, identity, iot | 2025-12-20 14:04 |
-| [U.S. DOJ Charges 54 in ATM Jackpotting Scheme Using Ploutus Malware](https://thehackernews.com/2025/12/us-doj-charges-54-in-atm-jackpotting.html) | The Hacker News | incident_response, malware | 2025-12-20 13:48 |
-| [Hackers Stole Millions of PornHub Users’ Data for Extortion](https://www.wired.com/story/security-news-this-week-hackers-stole-millions-of-pornhub-users-data-for-extortion/) | Wired Security | ai, vulnerabilities | 2025-12-20 11:30 |
-| [U.S. CISA adds a flaw in WatchGuard Fireware OS to its Known Exploited Vulnerabilities catalog](https://securityaffairs.com/185896/hacking/u-s-cisa-adds-a-flaw-in-watchguard-fireware-os-to-its-known-exploited-vulnerabilities-catalog.html) | Security Affairs (Dark Web) | incident_response, policy, vulnerabilities | 2025-12-20 10:26 |
+| [Android Malware Operations Merge Droppers, SMS Theft, and RAT Capabilities at Scale](https://thehackernews.com/2025/12/android-malware-operations-merge.html) | The Hacker News | ai, apt, defense, malware, mobile | 2025-12-22 06:11 |
+| [Waymo suspends service after power outage hit San Francisco](https://securityaffairs.com/185956/security/waymo-suspends-service-after-power-outage-hit-san-francisco.html) | Security Affairs (Dark Web) | ai | 2025-12-22 00:53 |
+| [Merge PR #5774 from @mbabinski - Added rules related to ArcGIS Server…](https://github.com/SigmaHQ/sigma/commit/2952d630a413a820fcd8b6033dbc14ac3566e554) | SigmaHQ Core Rules | ai, incident_response | 2025-12-21 17:07 |
+| [Merge PR #5809 from @phantinuss - bump evtx-baseline version to 0.8.3](https://github.com/SigmaHQ/sigma/commit/da971a6f28f9706d3194ef1400ed2be9f96b30fa) | SigmaHQ Core Rules | unclassified | 2025-12-21 17:02 |
+| [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 76](https://securityaffairs.com/185939/malware/security-affairs-malware-newsletter-round-76.html) | Security Affairs (Dark Web) | ai, incident_response, malware | 2025-12-21 13:13 |
+| [Security Affairs newsletter Round 555 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/185930/breaking-news/security-affairs-newsletter-round-555-by-pierluigi-paganini-international-edition.html) | Security Affairs (Dark Web) | ai, incident_response, policy | 2025-12-21 13:06 |
+| [Massive Android botnet Kimwolf infects millions, strikes with DDoS](https://securityaffairs.com/185921/malware/massive-android-botnet-kimwolf-infects-millions-strikes-with-ddos.html) | Security Affairs (Dark Web) | ai, ddos, malware, mobile | 2025-12-21 08:08 |
 
 ---
 
