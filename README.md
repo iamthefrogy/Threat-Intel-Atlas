@@ -1,6 +1,6 @@
 <p align="center">
   <strong style="font-size:1.9rem;">Threat Intel Atlas · Daily Signal Briefing</strong><br />
-  <span style="font-size:1rem;color:#6ecff6;">Compiled from 166 intelligence sources · refreshed 2025-12-25 06:45 UTC</span>
+  <span style="font-size:1rem;color:#6ecff6;">Compiled from 166 intelligence sources · refreshed 2025-12-26 06:45 UTC</span>
 </p>
 
 ---
@@ -10,8 +10,8 @@
 | Metric | Value |
 | --- | --- |
 | Total signals retained | 1000 |
-| Signals detected in the last 24h | 28 |
-| Signals surfaced in this report | 28 |
+| Signals detected in the last 24h | 13 |
+| Signals surfaced in this report | 13 |
 
 ---
 
@@ -19,34 +19,19 @@
 
 | Title | Source | Tags | Published (UTC) |
 | --- | --- | --- | --- |
-| [OpenAI is reportedly testing Claude-like Skills for ChatGPT](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-reportedly-testing-claude-like-skills-for-chatgpt/) | BleepingComputer News | ai | 2025-12-24 22:31 |
-| [FBI seized ‘web3adspanels.org’ hosting stolen logins](https://securityaffairs.com/186094/cyber-crime/fbi-seized-web3adspanels-org-hosting-stolen-logins.html) | Security Affairs (Dark Web) | ai, identity | 2025-12-24 18:21 |
-| [Fake MAS Windows activation domain used to spread PowerShell malware](https://www.bleepingcomputer.com/news/security/fake-mas-windows-activation-domain-used-to-spread-powershell-malware/) | BleepingComputer News | ai, malware | 2025-12-24 17:44 |
-| [ServiceNow to acquire cyber firm Armis in $7.75 billion deal](https://therecord.media/servicenow-cyber-armis-acquisition) | The Record (Signals) | incident_response | 2025-12-24 17:11 |
-| [Merge PR #5790 from @nasbench - Metadata Updates](https://github.com/SigmaHQ/sigma/commit/b61d83beefbaa838d7c8e1147008812eec1d8021) | SigmaHQ Core Rules | incident_response | 2025-12-24 16:50 |
-| [Singing River Health System temporarily shut down access to patient medical records](https://databreaches.net/2025/12/24/singing-river-health-system-temporarily-shut-down-access-to-patient-medical-records/?pk_campaign=feed&pk_kwd=singing-river-health-system-temporarily-shut-down-access-to-patient-medical-records) | DataBreaches.net (Notices) | ai, apt, data_breach, iot | 2025-12-24 16:38 |
-| [New MacSync macOS Stealer Uses Signed App to Bypass Apple Gatekeeper](https://thehackernews.com/2025/12/new-macsync-macos-stealer-uses-signed.html) | The Hacker News | malware | 2025-12-24 16:23 |
-| [Microsoft Teams to let admins block external users via Defender portal](https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-let-admins-block-external-users-via-defender-portal/) | BleepingComputer News | defense, incident_response | 2025-12-24 16:22 |
-| [SEC Charges Crypto Firms in $14m Investment Scam](https://www.infosecurity-magazine.com/news/sec-charges-crypto-firms/) | InfoSecurity Magazine News | incident_response | 2025-12-24 16:15 |
-| [U.S. Federal Communications Commission (FCC) bans foreign-made drones over national security concerns](https://securityaffairs.com/186084/laws-and-regulations/u-s-federal-communications-commission-fcc-bans-foreign-made-drones-over-national-security-concerns.html) | Security Affairs (Dark Web) | ai | 2025-12-24 15:51 |
-| [Coordinated Scams Target MENA Region With Fake Online Job Ads](https://www.infosecurity-magazine.com/news/scams-mena-fake-online-job/) | InfoSecurity Magazine News | vulnerabilities | 2025-12-24 15:30 |
-| [MongoDB warns admins to patch severe RCE flaw immediately](https://www.bleepingcomputer.com/news/security/mongodb-warns-admins-to-patch-severe-rce-flaw-immediately/) | BleepingComputer News | policy, vulnerabilities | 2025-12-24 14:18 |
-| [CISA loses key employee behind early ransomware warnings](https://databreaches.net/2025/12/24/cisa-loses-key-employee-behind-early-ransomware-warnings/?pk_campaign=feed&pk_kwd=cisa-loses-key-employee-behind-early-ransomware-warnings) | DataBreaches.net (Notices) | ai, apt, data_breach, iot, malware | 2025-12-24 13:44 |
-| [Industry Continues to Push Back on HIPAA Security Rule Overhaul](https://databreaches.net/2025/12/24/industry-continues-to-push-back-on-hipaa-security-rule-overhaul/?pk_campaign=feed&pk_kwd=industry-continues-to-push-back-on-hipaa-security-rule-overhaul) | DataBreaches.net (Notices) | ai, apt, data_breach, iot | 2025-12-24 13:34 |
-| [FBI seizes domain storing bank credentials stolen from U.S. victims](https://www.bleepingcomputer.com/news/security/fbi-seizes-domain-storing-bank-credentials-stolen-from-us-victims/) | BleepingComputer News | ai, identity | 2025-12-24 13:17 |
-| [Italian regulator rules Apple’s ATT feature limits competition](https://securityaffairs.com/186070/laws-and-regulations/italian-regulator-rules-apples-att-feature-limits-competition.html) | Security Affairs (Dark Web) | mobile, policy | 2025-12-24 13:12 |
-| [Nomani Investment Scam Surges 62% Using AI Deepfake Ads on Social Media](https://thehackernews.com/2025/12/nomani-investment-scam-surges-62-using.html) | The Hacker News | ai, apt, defense, identity | 2025-12-24 13:08 |
-| [Urban VPN Proxy Surreptitiously Intercepts AI Chats](https://www.schneier.com/blog/archives/2025/12/urban-vpn-proxy-surreptitiously-intercepts-ai-chats.html) | Schneier on Security | ai, apt, incident_response | 2025-12-24 12:03 |
-| [Attacks are Evolving: 3 Ways to Protect Your Business in 2026](https://thehackernews.com/2025/12/attacks-are-evolving-3-ways-to-protect.html) | The Hacker News | darkweb, data_breach, phishing | 2025-12-24 11:30 |
-| [Eurostar Accused Researchers of Blackmail for Reporting AI Chatbot Flaws](https://hackread.com/eurostar-blackmail-research-report-ai-chatbot-flaw/) | HackRead | ai, cloud, policy | 2025-12-24 11:23 |
-| [NIST, MITRE Partner on $20m AI Centers For Manufacturing and Cybersecurity](https://www.infosecurity-magazine.com/news/nist-mitre-ai-centers/) | InfoSecurity Magazine News | ai, iot | 2025-12-24 11:00 |
-| [The Age of the All-Access AI Agent Is Here](https://www.wired.com/story/expired-tired-wired-all-access-ai-agents/) | Wired Security | ai | 2025-12-24 11:00 |
-| [La Poste outage after a cyber attack disrupts digital banking and online services](https://securityaffairs.com/186064/security/la-poste-outage-after-a-cyber-attack.html) | Security Affairs (Dark Web) | ai, incident_response | 2025-12-24 10:33 |
-| [ServiceNow to Pay $7.8bn For OT Security Specialist Armis](https://www.infosecurity-magazine.com/news/servicenow-78bn-ot-security/) | InfoSecurity Magazine News | incident_response, iot | 2025-12-24 10:15 |
-| [Cyber volunteer effort for small water utilities announces new MSSP effort](https://therecord.media/cyber-volunteer-water-utility-mssp) | The Record (Signals) | ai, incident_response | 2025-12-24 10:00 |
-| [La Poste Still Offline After Major DDoS Attack](https://www.infosecurity-magazine.com/news/la-poste-still-offline-after-major/) | InfoSecurity Magazine News | ddos | 2025-12-24 09:30 |
-| [SEC Files Charges Over $14 Million Crypto Scam Using Fake AI-Themed Investment Tips](https://thehackernews.com/2025/12/sec-files-charges-over-14-million.html) | The Hacker News | ai, incident_response | 2025-12-24 09:19 |
-| [Evasive Panda APT poisons DNS requests to deliver MgBot](https://securelist.com/evasive-panda-apt/118576/) | SecureList (Kaspersky) | ai, apt | 2025-12-24 07:00 |
+| [ChatGPT’s new formatting blocks make its UI look more like a task tool](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpts-new-formatting-blocks-make-its-ui-look-more-like-a-task-tool/) | BleepingComputer News | ai | 2025-12-25 22:39 |
+| [Five-year-old Fortinet FortiOS SSL VPN vulnerability actively exploited](https://securityaffairs.com/186117/security/five-year-old-fortinet-fortios-ssl-vpn-flaw-actively-exploited.html) | Security Affairs (Dark Web) | ai, identity, mobile, policy, vulnerabilities | 2025-12-25 19:40 |
+| [Hackers Unredact Epstein Files — What You Need To Know](https://databreaches.net/2025/12/25/hackers-unredact-epstein-files-what-you-need-to-know/?pk_campaign=feed&pk_kwd=hackers-unredact-epstein-files-what-you-need-to-know) | DataBreaches.net (Notices) | ai, apt, data_breach, identity, iot, malware | 2025-12-25 15:47 |
+| [Pen testers accused of ‘blackmail’ after reporting Eurostar chatbot flaws](https://databreaches.net/2025/12/25/pen-testers-accused-of-blackmail-after-reporting-eurostar-chatbot-flaws/?pk_campaign=feed&pk_kwd=pen-testers-accused-of-blackmail-after-reporting-eurostar-chatbot-flaws) | DataBreaches.net (Notices) | ai, apt, cloud, data_breach, incident_response, iot, policy | 2025-12-25 15:30 |
+| [Condé Nast gets hacked, and DataBreaches gets “played” — Christmas lump of coal edition](https://databreaches.net/2025/12/25/conde-nast-gets-hacked-and-databreaches-gets-played-christmas-lump-of-coal-edition/?pk_campaign=feed&pk_kwd=conde-nast-gets-hacked-and-databreaches-gets-played-christmas-lump-of-coal-edition) | DataBreaches.net (Notices) | ai, apt, data_breach, incident_response, iot | 2025-12-25 15:29 |
+| [Merge PR #5805 from @swachchhanda000 - Add regression tests for curl-…](https://github.com/SigmaHQ/sigma/commit/c8b1a0ff67b77718d7030278d8e955f621df9b6b) | SigmaHQ Core Rules | unclassified | 2025-12-25 15:05 |
+| [Google will finally allow you to change your @gmail.com address](https://www.bleepingcomputer.com/news/google/google-will-finally-allow-you-to-change-your-gmailcom-address/) | BleepingComputer News | ai | 2025-12-25 14:30 |
+| [ThreatsDay Bulletin: Stealth Loaders, AI Chatbot Flaws AI Exploits, Docker Hack, and 15 More Stories](https://thehackernews.com/2025/12/threatsday-bulletin-stealth-loaders-ai.html) | The Hacker News | ai, cloud, incident_response, malware, policy, vulnerabilities | 2025-12-25 14:01 |
+| [LastPass 2022 Breach Led to Years-Long Cryptocurrency Thefts, TRM Labs Finds](https://thehackernews.com/2025/12/lastpass-2022-breach-led-to-years-long.html) | The Hacker News | ai, data_breach, identity, incident_response | 2025-12-25 12:46 |
+| [High-severity MongoDB flaw CVE-2025-14847 could lead to server takeover](https://securityaffairs.com/186107/security/high-severity-mongodb-flaw-cve-2025-14847-could-lead-to-server-takeover.html) | Security Affairs (Dark Web) | policy, vulnerabilities | 2025-12-25 10:12 |
+| [Threat landscape for industrial automation systems in Q3 2025](https://securelist.com/industrial-threat-report-q3-2025/118602/) | SecureList (Kaspersky) | ai, iot, malware | 2025-12-25 10:00 |
+| [Fortinet Warns of Active Exploitation of FortiOS SSL VPN 2FA Bypass Vulnerability](https://thehackernews.com/2025/12/fortinet-warns-of-active-exploitation.html) | The Hacker News | ai, identity, mobile, policy, vulnerabilities | 2025-12-25 08:22 |
+| [CISA Flags Actively Exploited Digiever NVR Vulnerability Allowing Remote Code Execution](https://thehackernews.com/2025/12/cisa-flags-actively-exploited-digiever.html) | The Hacker News | identity, policy, vulnerabilities | 2025-12-25 08:07 |
 
 ---
 
