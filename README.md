@@ -1,6 +1,6 @@
 <p align="center">
   <strong style="font-size:1.9rem;">Threat Intel Atlas · Daily Signal Briefing</strong><br />
-  <span style="font-size:1rem;color:#6ecff6;">Compiled from 166 intelligence sources · refreshed 2025-12-26 06:45 UTC</span>
+  <span style="font-size:1rem;color:#6ecff6;">Compiled from 166 intelligence sources · refreshed 2025-12-27 06:44 UTC</span>
 </p>
 
 ---
@@ -10,8 +10,8 @@
 | Metric | Value |
 | --- | --- |
 | Total signals retained | 1000 |
-| Signals detected in the last 24h | 13 |
-| Signals surfaced in this report | 13 |
+| Signals detected in the last 24h | 16 |
+| Signals surfaced in this report | 16 |
 
 ---
 
@@ -19,19 +19,22 @@
 
 | Title | Source | Tags | Published (UTC) |
 | --- | --- | --- | --- |
-| [ChatGPT’s new formatting blocks make its UI look more like a task tool](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpts-new-formatting-blocks-make-its-ui-look-more-like-a-task-tool/) | BleepingComputer News | ai | 2025-12-25 22:39 |
-| [Five-year-old Fortinet FortiOS SSL VPN vulnerability actively exploited](https://securityaffairs.com/186117/security/five-year-old-fortinet-fortios-ssl-vpn-flaw-actively-exploited.html) | Security Affairs (Dark Web) | ai, identity, mobile, policy, vulnerabilities | 2025-12-25 19:40 |
-| [Hackers Unredact Epstein Files — What You Need To Know](https://databreaches.net/2025/12/25/hackers-unredact-epstein-files-what-you-need-to-know/?pk_campaign=feed&pk_kwd=hackers-unredact-epstein-files-what-you-need-to-know) | DataBreaches.net (Notices) | ai, apt, data_breach, identity, iot, malware | 2025-12-25 15:47 |
-| [Pen testers accused of ‘blackmail’ after reporting Eurostar chatbot flaws](https://databreaches.net/2025/12/25/pen-testers-accused-of-blackmail-after-reporting-eurostar-chatbot-flaws/?pk_campaign=feed&pk_kwd=pen-testers-accused-of-blackmail-after-reporting-eurostar-chatbot-flaws) | DataBreaches.net (Notices) | ai, apt, cloud, data_breach, incident_response, iot, policy | 2025-12-25 15:30 |
-| [Condé Nast gets hacked, and DataBreaches gets “played” — Christmas lump of coal edition](https://databreaches.net/2025/12/25/conde-nast-gets-hacked-and-databreaches-gets-played-christmas-lump-of-coal-edition/?pk_campaign=feed&pk_kwd=conde-nast-gets-hacked-and-databreaches-gets-played-christmas-lump-of-coal-edition) | DataBreaches.net (Notices) | ai, apt, data_breach, incident_response, iot | 2025-12-25 15:29 |
-| [Merge PR #5805 from @swachchhanda000 - Add regression tests for curl-…](https://github.com/SigmaHQ/sigma/commit/c8b1a0ff67b77718d7030278d8e955f621df9b6b) | SigmaHQ Core Rules | unclassified | 2025-12-25 15:05 |
-| [Google will finally allow you to change your @gmail.com address](https://www.bleepingcomputer.com/news/google/google-will-finally-allow-you-to-change-your-gmailcom-address/) | BleepingComputer News | ai | 2025-12-25 14:30 |
-| [ThreatsDay Bulletin: Stealth Loaders, AI Chatbot Flaws AI Exploits, Docker Hack, and 15 More Stories](https://thehackernews.com/2025/12/threatsday-bulletin-stealth-loaders-ai.html) | The Hacker News | ai, cloud, incident_response, malware, policy, vulnerabilities | 2025-12-25 14:01 |
-| [LastPass 2022 Breach Led to Years-Long Cryptocurrency Thefts, TRM Labs Finds](https://thehackernews.com/2025/12/lastpass-2022-breach-led-to-years-long.html) | The Hacker News | ai, data_breach, identity, incident_response | 2025-12-25 12:46 |
-| [High-severity MongoDB flaw CVE-2025-14847 could lead to server takeover](https://securityaffairs.com/186107/security/high-severity-mongodb-flaw-cve-2025-14847-could-lead-to-server-takeover.html) | Security Affairs (Dark Web) | policy, vulnerabilities | 2025-12-25 10:12 |
-| [Threat landscape for industrial automation systems in Q3 2025](https://securelist.com/industrial-threat-report-q3-2025/118602/) | SecureList (Kaspersky) | ai, iot, malware | 2025-12-25 10:00 |
-| [Fortinet Warns of Active Exploitation of FortiOS SSL VPN 2FA Bypass Vulnerability](https://thehackernews.com/2025/12/fortinet-warns-of-active-exploitation.html) | The Hacker News | ai, identity, mobile, policy, vulnerabilities | 2025-12-25 08:22 |
-| [CISA Flags Actively Exploited Digiever NVR Vulnerability Allowing Remote Code Execution](https://thehackernews.com/2025/12/cisa-flags-actively-exploited-digiever.html) | The Hacker News | identity, policy, vulnerabilities | 2025-12-25 08:07 |
+| [Everest Ransomware Group Claims Theft of Over 1TB of Chrysler Data](https://hackread.com/everest-ransomware-group-chrysler-data-breach/) | HackRead | ai, malware | 2025-12-26 22:24 |
+| [Friday Squid Blogging: Squid Camouflage](https://www.schneier.com/blog/archives/2025/12/friday-squid-blogging-squid-camouflage.html) | Schneier on Security | ai, apt, identity, incident_response, iot | 2025-12-26 22:08 |
+| [Fake GrubHub emails promise tenfold return on sent cryptocurrency](https://www.bleepingcomputer.com/news/security/fake-grubhub-emails-promise-tenfold-return-on-sent-cryptocurrency/) | BleepingComputer News | ai | 2025-12-26 20:22 |
+| [Trust Wallet warns users to update Chrome extension after $7M security loss](https://securityaffairs.com/186163/cyber-crime/trust-wallet-warns-users-to-update-chrome-extension-after-7m-security-loss.html) | Security Affairs (Dark Web) | ai, policy | 2025-12-26 19:32 |
+| [Pro-Russian hackers claim attack on French postal service operator](https://therecord.media/pro-russia-hackers-claim-attack-la-poste) | The Record (Signals) | ai, ddos | 2025-12-26 18:05 |
+| [Pro-Russian group Noname057 claims cyberattack on La Poste services](https://securityaffairs.com/186157/hacktivism/pro-russian-group-noname057-claims-cyberattack-on-la-poste-services.html) | Security Affairs (Dark Web) | ai, incident_response | 2025-12-26 17:18 |
+| [Georgia arrests ex-spy chief over alleged protection of scam call centers](https://therecord.media/republic-of-georgia-former-spy-chief-arrested-scam-centers) | The Record (Signals) | unclassified | 2025-12-26 16:17 |
+| [Trust Wallet Chrome Extension Breach Caused $7 Million Crypto Loss via Malicious Code](https://thehackernews.com/2025/12/trust-wallet-chrome-extension-bug.html) | The Hacker News | ai, data_breach | 2025-12-26 15:31 |
+| [Popular NPM Package lotusbail Exposed as Trojan Stealing WhatsApp Chats](https://hackread.com/npm-package-lotusbail-trojan-steal-whatsapp-chats/) | HackRead | ai, malware | 2025-12-26 14:58 |
+| [China-Linked Evasive Panda Ran DNS Poisoning Campaign to Deliver MgBot Malware](https://thehackernews.com/2025/12/china-linked-evasive-panda-ran-dns.html) | The Hacker News | ai, apt, malware | 2025-12-26 14:44 |
+| [Aflac confirms June data breach affecting over 22 million customers](https://securityaffairs.com/186144/data-breach/aflac-confirms-june-data-breach-affecting-over-22-million-customers.html) | Security Affairs (Dark Web) | data_breach, incident_response | 2025-12-26 14:22 |
+| [The Best, the Worst and the Ugliest in Cybersecurity \| 2025 Edition](https://www.sentinelone.com/blog/the-best-the-worst-and-the-ugliest-in-cybersecurity-2025-edition/) | SentinelOne Labs | unclassified | 2025-12-26 14:00 |
+| [IoT Hack](https://www.schneier.com/blog/archives/2025/12/iot-hack.html) | Schneier on Security | iot, malware | 2025-12-26 12:02 |
+| [Spotify cracks down on unlawful scraping of 86 million songs](https://securityaffairs.com/186136/data-breach/spotify-cracks-down-on-unlawful-scraping-of-86-million-songs.html) | Security Affairs (Dark Web) | ai, incident_response, policy | 2025-12-26 10:51 |
+| [Trust Wallet confirms extension hack led to $7 million crypto theft](https://www.bleepingcomputer.com/news/security/trust-wallet-confirms-extension-hack-led-to-7-million-crypto-theft/) | BleepingComputer News | ai, incident_response, phishing | 2025-12-26 09:47 |
+| [Critical LangChain Core Vulnerability Exposes Secrets via Serialization Injection](https://thehackernews.com/2025/12/critical-langchain-core-vulnerability.html) | The Hacker News | ai, policy, vulnerabilities | 2025-12-26 09:27 |
 
 ---
 
@@ -67,6 +70,7 @@
 - Spamhaus Phishing — 404, message='Not Found', url=URL('https://www.spamhaus.org/phishing_lasso')
 - ThreatNix Phishing — 404, message='Not Found', url=URL('https://threatnix.io/feed/')
 - URLScan.io Malicious — 404, message='Not Found', url=URL('https://urlscan.io/feed/malicious/')
+- BrandShield — 403, message='Forbidden', url=URL('https://brandshield.com/feed/')
 - Netcraft Phishing — 404, message='Not Found', url=URL('https://www.netcraft.com/rss/phishing.xml')
 - VX-Underground Blog — Cannot connect to host blog.vx-underground.org:443 ssl:default [Name or service not known]
 - Dark Reading Breaches — 403, message='Forbidden', url=URL('https://www.darkreading.com/vulnerabilities-threats/rss')
@@ -87,7 +91,6 @@
 - Office of Australian Information Commissioner — 404, message='Not Found', url=URL('https://www.oaic.gov.au/rss/news')
 - OS Commissioner — 404, message='Not Found', url=URL('https://www.priv.gc.ca/en/rss/')
 - Europol Press Releases — 404, message='Not Found', url=URL('https://www.europol.europa.eu/rss/police-press-releases')
-- FBI Press Releases — 404, message='Not Found', url=URL('https://www.fbi.gov/feeds/press-releases-news.xml')
 - U.S. DOJ Press Releases — 404, message='Not Found', url=URL('https://www.justice.gov/rss/pressreleases/all')
 - U.S. DHS News — 404, message='Not Found', url=URL('https://www.dhs.gov/feeds/press-releases.xml')
 - UK NCA News — 403, message='Forbidden', url=URL('https://www.nationalcrimeagency.gov.uk/news/rss')
