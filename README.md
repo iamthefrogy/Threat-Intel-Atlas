@@ -1,6 +1,6 @@
 <p align="center">
   <strong style="font-size:1.9rem;">Threat Intel Atlas · Daily Signal Briefing</strong><br />
-  <span style="font-size:1rem;color:#6ecff6;">Compiled from 166 intelligence sources · refreshed 2025-12-28 06:44 UTC</span>
+  <span style="font-size:1rem;color:#6ecff6;">Compiled from 166 intelligence sources · refreshed 2025-12-29 06:45 UTC</span>
 </p>
 
 ---
@@ -10,8 +10,8 @@
 | Metric | Value |
 | --- | --- |
 | Total signals retained | 1000 |
-| Signals detected in the last 24h | 9 |
-| Signals surfaced in this report | 9 |
+| Signals detected in the last 24h | 15 |
+| Signals surfaced in this report | 15 |
 
 ---
 
@@ -19,15 +19,21 @@
 
 | Title | Source | Tags | Published (UTC) |
 | --- | --- | --- | --- |
-| [Massive Rainbow Six Siege breach gives players billions of credits](https://www.bleepingcomputer.com/news/security/massive-rainbow-six-siege-breach-gives-players-billions-of-credits/) | BleepingComputer News | ai, data_breach | 2025-12-28 05:44 |
-| [OrthopedicsNY fined $500K by NYS for patient data breach](https://databreaches.net/2025/12/27/orthopedicsny-fined-500k-by-nys-for-patient-data-breach/?pk_campaign=feed&pk_kwd=orthopedicsny-fined-500k-by-nys-for-patient-data-breach) | DataBreaches.net (Notices) | ai, apt, data_breach, iot | 2025-12-27 22:56 |
-| [Hinge scams: How to protect yourself](https://www.comparitech.com/blog/vpn-privacy/hinge-scams/) | Comparitech Blog | unclassified | 2025-12-27 20:27 |
-| [LangChain core vulnerability allows prompt injection and data exposure](https://securityaffairs.com/186185/hacking/langchain-core-vulnerability-allows-prompt-injection-and-data-exposure.html) | Security Affairs (Dark Web) | ai, policy, vulnerabilities | 2025-12-27 18:20 |
-| [Hacker Leaks 2.3M Wired.com Records, Claims 40M-User Condé Nast Breach](https://hackread.com/hacker-leak-wired-com-records-conde-nast-breach/) | HackRead | ai, data_breach, incident_response | 2025-12-27 18:09 |
-| [The US Must Stop Underestimating Drone Warfare](https://www.wired.com/story/the-us-must-stop-underestimating-drone-warfare/) | Wired Security | ai | 2025-12-27 10:00 |
-| [OpenAI's ChatGPT ads will allegedly prioritize sponsored content in answers](https://www.bleepingcomputer.com/news/artificial-intelligence/openais-chatgpt-ads-will-allegedly-prioritize-sponsored-content-in-answers/) | BleepingComputer News | ai | 2025-12-27 09:46 |
-| [NPM package with 56,000 downloads compromises WhatsApp accounts](https://securityaffairs.com/186174/malware/npm-package-with-56000-downloads-compromises-whatsapp-accounts.html) | Security Affairs (Dark Web) | ai, identity | 2025-12-27 09:40 |
-| [New MongoDB Flaw Lets Unauthenticated Attackers Read Uninitialized Memory](https://thehackernews.com/2025/12/new-mongodb-flaw-lets-unauthenticated.html) | The Hacker News | ai, mobile, policy, vulnerabilities | 2025-12-27 07:52 |
+| [Exploited MongoBleed flaw leaks MongoDB secrets, 87K servers exposed](https://www.bleepingcomputer.com/news/security/exploited-mongobleed-flaw-leaks-mongodb-secrets-87k-servers-exposed/) | BleepingComputer News | data_breach, policy, vulnerabilities | 2025-12-28 20:38 |
+| [Hacker Who Stole Millions in Seconds Finally Caught](https://databreaches.net/2025/12/28/hacker-who-stole-millions-in-seconds-finally-caught/?pk_campaign=feed&pk_kwd=hacker-who-stole-millions-in-seconds-finally-caught) | DataBreaches.net (Notices) | ai, apt, data_breach, incident_response, iot, malware | 2025-12-28 20:04 |
+| [Condé Nast faces major data breach: 2.3M WIRED records leaked, 40M more at risk](https://securityaffairs.com/186224/data-breach/conde-nast-faces-major-data-breach-2-3m-wired-records-leaked-40m-more-at-risk.html) | Security Affairs (Dark Web) | ai, data_breach, incident_response | 2025-12-28 19:43 |
+| [Hacker claims to leak WIRED database with 2.3 million records](https://www.bleepingcomputer.com/news/security/hacker-claims-to-leak-wired-database-with-23-million-records/) | BleepingComputer News | ai, data_breach, incident_response | 2025-12-28 17:57 |
+| [Steward Health Care insurance mess leaves doctors liable for settlements](https://databreaches.net/2025/12/28/steward-health-care-insurance-mess-leaves-doctors-liable-for-settlements/?pk_campaign=feed&pk_kwd=steward-health-care-insurance-mess-leaves-doctors-liable-for-settlements) | DataBreaches.net (Notices) | ai, apt, data_breach, incident_response, iot | 2025-12-28 13:28 |
+| [Thousands of medical records found in auctioned storage unit](https://databreaches.net/2025/12/28/thousands-of-medical-records-found-in-auctioned-storage-unit/?pk_campaign=feed&pk_kwd=thousands-of-medical-records-found-in-auctioned-storage-unit) | DataBreaches.net (Notices) | ai, apt, data_breach, identity, iot | 2025-12-28 13:27 |
+| [Coinbase Discloses Arrest Of Former Customer Agent Over Data Breach — Report](https://databreaches.net/2025/12/28/coinbase-discloses-arrest-of-former-customer-agent-over-data-breach-report/?pk_campaign=feed&pk_kwd=coinbase-discloses-arrest-of-former-customer-agent-over-data-breach-report) | DataBreaches.net (Notices) | ai, apt, data_breach, incident_response, iot | 2025-12-28 13:26 |
+| [Ukrainian Teen Sentenced for Sharing Military Data with Russian Spy](https://databreaches.net/2025/12/28/ukrainian-teen-sentenced-for-sharing-military-data-with-russian-spy/?pk_campaign=feed&pk_kwd=ukrainian-teen-sentenced-for-sharing-military-data-with-russian-spy) | DataBreaches.net (Notices) | ai, apt, data_breach, incident_response, iot | 2025-12-28 12:59 |
+| [Health Share of Oregon and CareOregon notify members of data breach](https://databreaches.net/2025/12/28/health-share-of-oregon-and-careoregon-notify-members-of-data-breach/?pk_campaign=feed&pk_kwd=health-share-of-oregon-and-careoregon-notify-members-of-data-breach) | DataBreaches.net (Notices) | ai, apt, data_breach, incident_response, iot | 2025-12-28 12:56 |
+| [Stolen LastPass backups enable crypto theft through 2025](https://securityaffairs.com/186191/digital-id/stolen-lastpass-backups-enable-crypto-theft-through-2025.html) | Security Affairs (Dark Web) | ai, data_breach, identity, incident_response | 2025-12-28 12:49 |
+| [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 77](https://securityaffairs.com/186206/malware/security-affairs-malware-newsletter-round-76-2.html) | Security Affairs (Dark Web) | ai, apt, incident_response, malware, mobile | 2025-12-28 10:55 |
+| [When Risk Is Fragmented, Strategy Suffers](https://hackread.com/when-risk-is-fragmented-strategy-suffers/) | HackRead | ai | 2025-12-28 10:42 |
+| [Birth Chart Compatibility WordPress Plugin 2.0 Full Path Disclosure](https://cxsecurity.com/issue/WLB-2025120031) | CXSecurity Exploit Feed | incident_response, vulnerabilities | 2025-12-28 10:40 |
+| [Weekly Update 484](https://www.troyhunt.com/weekly-update-484/) | Troy Hunt Blog | ai | 2025-12-28 09:33 |
+| [Security Affairs newsletter Round 556 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/186200/breaking-news/security-affairs-newsletter-round-556-by-pierluigi-paganini-international-edition.html) | Security Affairs (Dark Web) | ai, incident_response, vulnerabilities | 2025-12-28 09:20 |
 
 ---
 
@@ -63,6 +69,7 @@
 - Spamhaus Phishing — 404, message='Not Found', url=URL('https://www.spamhaus.org/phishing_lasso')
 - ThreatNix Phishing — 404, message='Not Found', url=URL('https://threatnix.io/feed/')
 - URLScan.io Malicious — 404, message='Not Found', url=URL('https://urlscan.io/feed/malicious/')
+- BrandShield — 403, message='Forbidden', url=URL('https://brandshield.com/feed/')
 - Netcraft Phishing — 404, message='Not Found', url=URL('https://www.netcraft.com/rss/phishing.xml')
 - VX-Underground Blog — Cannot connect to host blog.vx-underground.org:443 ssl:default [Name or service not known]
 - Dark Reading Breaches — 403, message='Forbidden', url=URL('https://www.darkreading.com/vulnerabilities-threats/rss')
