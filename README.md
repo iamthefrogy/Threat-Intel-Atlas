@@ -1,6 +1,6 @@
 <p align="center">
   <strong style="font-size:1.9rem;">Threat Intel Atlas · Daily Signal Briefing</strong><br />
-  <span style="font-size:1rem;color:#6ecff6;">Compiled from 166 intelligence sources · refreshed 2025-12-30 06:45 UTC</span>
+  <span style="font-size:1rem;color:#6ecff6;">Compiled from 166 intelligence sources · refreshed 2025-12-31 06:45 UTC</span>
 </p>
 
 ---
@@ -10,8 +10,8 @@
 | Metric | Value |
 | --- | --- |
 | Total signals retained | 1000 |
-| Signals detected in the last 24h | 35 |
-| Signals surfaced in this report | 35 |
+| Signals detected in the last 24h | 24 |
+| Signals surfaced in this report | 24 |
 
 ---
 
@@ -19,41 +19,30 @@
 
 | Title | Source | Tags | Published (UTC) |
 | --- | --- | --- | --- |
-| [Chinese state hackers use rootkit to hide ToneShell malware activity](https://www.bleepingcomputer.com/news/security/chinese-state-hackers-use-rootkit-to-hide-toneshell-malware-activity/) | BleepingComputer News | ai, apt, malware | 2025-12-30 00:08 |
-| [Coupang to split $1.17 billion among 33.7 million data breach victims](https://www.bleepingcomputer.com/news/security/coupang-to-split-117-billion-among-337-million-data-breach-victims/) | BleepingComputer News | ai, data_breach | 2025-12-29 22:27 |
-| [US, Australia say ‘MongoBleed’ bug being exploited](https://therecord.media/us-australia-bug-exploitation) | The Record (Signals) | incident_response, vulnerabilities | 2025-12-29 22:04 |
-| [Romania’s Oltenia Energy Complex suffers major ransomware attack](https://securityaffairs.com/186290/cyber-crime/romanias-oltenia-energy-complex-suffers-major-ransomware-attack.html) | Security Affairs (Dark Web) | malware | 2025-12-29 21:30 |
-| [New Google-Themed Phishing Wave Hits Over 3,000 Global Organisations](https://hackread.com/google-phishing-3000-global-organisations/) | HackRead | ai, cloud, phishing | 2025-12-29 20:29 |
-| [Happy 16th Birthday, KrebsOnSecurity.com!](https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/) | Krebs on Security (Signals) | incident_response, iot | 2025-12-29 20:23 |
-| [Two more banks notifying thousands of victims about Marquis Software ransomware attack](https://therecord.media/banks-marquis-software-ransomware) | The Record (Signals) | ai, data_breach, malware | 2025-12-29 19:58 |
-| [How to Spot the Most Common Crypto Phishing Scams](https://hackread.com/how-to-spot-crypto-phishing-scams/) | HackRead | ai, phishing | 2025-12-29 19:55 |
-| [Hacker arrested for KMSAuto malware campaign with 2.8 million downloads](https://www.bleepingcomputer.com/news/security/hacker-arrested-for-kmsauto-malware-campaign-with-28-million-downloads/) | BleepingComputer News | ai, apt, malware | 2025-12-29 19:25 |
-| [Ubisoft Shuts Down Rainbow Six Siege After MongoDB Exploit Hits Players](https://hackread.com/mongodb-exploit-ubisoft-rainbow-six-siege-players/) | HackRead | ai, data_breach, identity, policy, vulnerabilities | 2025-12-29 19:10 |
-| [French software company fined $2 million for cyber failings leading to data breach](https://therecord.media/french-software-fined-cnil) | The Record (Signals) | ai, data_breach | 2025-12-29 17:10 |
-| [Trust Wallet says 2,596 wallets drained in $7 million crypto theft attack](https://www.bleepingcomputer.com/news/security/trust-wallet-says-7-million-crypto-theft-attack-drained-2-596-wallets/) | BleepingComputer News | ai | 2025-12-29 16:43 |
-| [The Real-World Attacks Behind OWASP Agentic AI Top 10](https://www.bleepingcomputer.com/news/security/the-real-world-attacks-behind-owasp-agentic-ai-top-10/) | BleepingComputer News | ai | 2025-12-29 15:00 |
-| [ChatGPT finally rolls out Thinking time toggle on mobile](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-finally-rolls-out-thinking-time-toggle-on-mobile/) | BleepingComputer News | ai, mobile | 2025-12-29 15:00 |
-| [Korean Air discloses data breach after the hack of its catering and duty-free supplier](https://securityaffairs.com/186275/data-breach/korean-air-discloses-data-breach-after-the-hack-of-its-catering-and-duty-free-supplier.html) | Security Affairs (Dark Web) | ai, data_breach, incident_response | 2025-12-29 14:35 |
-| [Romanian energy provider hit by Gentlemen ransomware attack](https://www.bleepingcomputer.com/news/security/romanian-energy-provider-hit-by-gentlemen-ransomware-attack/) | BleepingComputer News | malware | 2025-12-29 14:26 |
-| [Former Coinbase support agent arrested for helping hackers](https://www.bleepingcomputer.com/news/security/former-coinbase-support-agent-arrested-for-helping-hackers/) | BleepingComputer News | unclassified | 2025-12-29 14:16 |
-| [⚡ Weekly Recap: MongoDB Attacks, Wallet Breaches, Android Spyware, Insider Crime & More](https://thehackernews.com/2025/12/weekly-recap-mongodb-attacks-wallet.html) | The Hacker News | cloud, data_breach, mobile, policy | 2025-12-29 13:38 |
-| [Korean Air data breach exposes data of thousands of employees](https://www.bleepingcomputer.com/news/security/korean-air-data-breach-exposes-data-of-thousands-of-employees/) | BleepingComputer News | ai, data_breach, incident_response | 2025-12-29 13:08 |
-| [Coupang recovers smashed laptop that alleged data leaker threw into river](https://therecord.media/coupang-recovers-smashed-laptop-data-breach) | The Record (Signals) | ai, apt, data_breach | 2025-12-29 12:56 |
-| [MongoBleed flaw actively exploited in attacks in the wild](https://securityaffairs.com/186241/hacking/mongobleed-flaw-actively-exploited-in-attacks-in-the-wild.html) | Security Affairs (Dark Web) | policy, vulnerabilities | 2025-12-29 12:56 |
-| [Critical 0day flaw Exposes 70k XSpeeder Devices as Vendor Ignores Alert](https://hackread.com/xspeeder-0day-flaw-devices-vendor-ignores-alert/) | HackRead | ai, policy, vulnerabilities | 2025-12-29 12:29 |
-| [Microsoft Copilot is rolling out GPT 5.2 as "Smart Plus" mode](https://www.bleepingcomputer.com/news/microsoft/microsoft-copilot-is-rolling-out-gpt-52-as-smart-plus-mode/) | BleepingComputer News | ai, mobile | 2025-12-29 12:23 |
-| [Are We Ready to Be Governed by Artificial Intelligence?](https://www.schneier.com/blog/archives/2025/12/are-we-ready-to-be-governed-by-artificial-intelligence.html) | Schneier on Security | ai, incident_response, policy | 2025-12-29 12:07 |
-| [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2025/12/29/cisa-adds-one-known-exploited-vulnerability-catalog) | CISA Joint Advisories | ai, incident_response, vulnerabilities | 2025-12-29 12:00 |
-| [The Worst Hacks of 2025](https://www.wired.com/story/worst-hacks-of-2025/) | Wired Security | ai, data_breach, supply_chain | 2025-12-29 12:00 |
-| [Malware in 2025 spread far beyond Windows PCs](https://www.malwarebytes.com/blog/news/2025/12/malware-in-2025-spread-beyond-windows-pcs) | Malwarebytes Labs (News) | malware, mobile | 2025-12-29 11:48 |
-| [Fortinet warns of 5-year-old FortiOS 2FA bypass still exploited in attacks](https://www.bleepingcomputer.com/news/security/fortinet-warns-of-5-year-old-fortios-2fa-bypass-still-exploited-in-attacks/) | BleepingComputer News | apt, identity, incident_response, mobile, vulnerabilities | 2025-12-29 11:16 |
-| [The New Surveillance State Is You](https://www.wired.com/story/expired-tired-wired-surveillance-state/) | Wired Security | unclassified | 2025-12-29 11:00 |
-| [The Most Dangerous People on the Internet in 2025](https://www.wired.com/story/most-dangerous-people-on-the-internet-2025/) | Wired Security | unclassified | 2025-12-29 10:30 |
-| [The HoneyMyte APT evolves with a kernel-mode rootkit and a ToneShell backdoor](https://securelist.com/honeymyte-kernel-mode-rootkit/118590/) | SecureList (Kaspersky) | ai, apt, malware | 2025-12-29 10:00 |
-| [MongoDB Vulnerability CVE-2025-14847 Under Active Exploitation Worldwide](https://thehackernews.com/2025/12/mongodb-vulnerability-cve-2025-14847.html) | The Hacker News | data_breach, policy, vulnerabilities | 2025-12-29 09:46 |
-| [27 Malicious npm Packages Used as Phishing Infrastructure to Steal Login Credentials](https://thehackernews.com/2025/12/27-malicious-npm-packages-used-as.html) | The Hacker News | ai, apt, identity, phishing | 2025-12-29 09:44 |
-| [Evasive Panda cyberespionage campaign uses DNS poisoning to install MgBot backdoor](https://securityaffairs.com/186213/apt/evasive-panda-cyberespionage-campaign-uses-dns-poisoning-to-install-mgbot-backdoor.html) | Security Affairs (Dark Web) | ai, apt | 2025-12-29 08:51 |
-| [A week in security (December 22 &#8211; December 28)](https://www.malwarebytes.com/blog/news/2025/12/a-week-in-security-december-22-december-28) | Malwarebytes Labs (News) | iot | 2025-12-29 08:02 |
+| [U.S. Treasury Lifts Sanctions on Three Individuals Linked to Intellexa and Predator Spyware](https://thehackernews.com/2025/12/us-treasury-lifts-sanctions-on-three.html) | The Hacker News | unclassified | 2025-12-31 05:17 |
+| [New ErrTraffic service enables ClickFix attacks via fake browser glitches](https://www.bleepingcomputer.com/news/security/new-errtraffic-service-enables-clickfix-attacks-via-fake-browser-glitches/) | BleepingComputer News | apt, malware | 2025-12-30 21:08 |
+| [Coupang announces $1.17B compensation plan for 33.7M data breach victims](https://securityaffairs.com/186331/security/coupang-announces-1-17b-compensation-plan-for-33-7m-data-breach-victims.html) | Security Affairs (Dark Web) | data_breach | 2025-12-30 20:46 |
+| [Treasury removes sanctions for three executives tied to spyware maker Intellexa](https://therecord.media/treasury-sanctions-intellexa-removed) | The Record (Signals) | incident_response | 2025-12-30 20:30 |
+| [Ransomware responders plead guilty to using ALPHV in attacks on US organizations](https://therecord.media/ransomware-responders-guilty-plea-using-alphv-blackcat-us-attacks) | The Record (Signals) | incident_response, malware | 2025-12-30 16:47 |
+| [CSA Issues Alert on Critical SmarterMail Bug Allowing Remote Code Execution](https://thehackernews.com/2025/12/csa-issues-alert-on-critical.html) | The Hacker News | ai, incident_response, policy, vulnerabilities | 2025-12-30 16:28 |
+| [European Space Agency confirms breach of "external servers"](https://www.bleepingcomputer.com/news/security/european-space-agency-confirms-breach-of-external-servers/) | BleepingComputer News | ai, data_breach, incident_response | 2025-12-30 16:26 |
+| [Zoom Stealer browser extensions harvest corporate meeting intelligence](https://www.bleepingcomputer.com/news/security/zoom-stealer-browser-extensions-harvest-corporate-meeting-intelligence/) | BleepingComputer News | ai, apt, identity, incident_response, iot, malware | 2025-12-30 15:41 |
+| [US cybersecurity experts plead guilty to BlackCat ransomware attacks](https://www.bleepingcomputer.com/news/security/us-cybersecurity-experts-plead-guilty-to-blackcat-alphv-ransomware-attacks/) | BleepingComputer News | incident_response, malware | 2025-12-30 15:25 |
+| [Mustang Panda deploys ToneShell via signed kernel-mode rootkit driver](https://securityaffairs.com/186318/security/mustang-panda-deploys-toneshell-via-signed-kernel-mode-rootkit-driver.html) | Security Affairs (Dark Web) | apt, malware | 2025-12-30 15:22 |
+| [HoneyMyte (aka Mustang Panda) Deploys ToneShell Backdoor in New Attacks](https://hackread.com/honeymyte-mustang-panda-toneshell-backdoor/) | HackRead | defense | 2025-12-30 15:22 |
+| [2025 Was the Year Product Security Became Unavoidable](https://c2a-sec.com/2025-was-the-year-product-security-became-unavoidable/) | C2A Security Blog | incident_response, phishing, policy | 2025-12-30 15:21 |
+| [CISA orders feds to patch MongoBleed flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-orders-federal-agencies-to-patch-mongobleed-flaw-actively-exploited-in-attacks/) | BleepingComputer News | identity, policy, vulnerabilities | 2025-12-30 14:40 |
+| [Using AI-Generated Images to Get Refunds](https://www.schneier.com/blog/archives/2025/12/using-ai-generated-images-to-get-refunds.html) | Schneier on Security | ai, incident_response | 2025-12-30 12:02 |
+| [CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2025/12/30/cisa-releases-two-industrial-control-systems-advisories) | CISA Joint Advisories | ai, defense, incident_response, iot, vulnerabilities | 2025-12-30 12:00 |
+| [WHILL Model C2 Electric Wheelchairs and Model F Power Chairs](https://www.cisa.gov/news-events/ics-medical-advisories/icsma-25-364-01) | CISA Joint Advisories | ai, defense, identity, incident_response, iot, mobile, phishing, policy, vulnerabilities | 2025-12-30 12:00 |
+| [EmEditor Homepage Download Button Served Malware for 4 Days](https://hackread.com/emeditor-homepage-download-button-malware/) | HackRead | data_breach, incident_response, malware, supply_chain | 2025-12-30 11:58 |
+| [Lithuanian suspect arrested over KMSAuto malware that infected 2.8M systems](https://securityaffairs.com/186308/malware/lithuanian-suspect-arrested-over-kmsauto-malware-that-infected-2-8m-systems.html) | Security Affairs (Dark Web) | malware | 2025-12-30 11:26 |
+| [What is cookieless tracking? How are you being tracked?](https://www.comparitech.com/blog/information-security/what-is-cookieless-tracking/) | Comparitech Blog | unclassified | 2025-12-30 11:14 |
+| [Silver Fox Targets Indian Users With Tax-Themed Emails Delivering ValleyRAT Malware](https://thehackernews.com/2025/12/silver-fox-targets-indian-users-with.html) | The Hacker News | ai, apt, cloud, malware, phishing | 2025-12-30 10:46 |
+| [2025 exposed the risks we ignored while rushing AI](https://www.malwarebytes.com/blog/news/2025/12/2025-exposed-risks-we-ignored-while-rushing-ai) | Malwarebytes Labs (News) | ai | 2025-12-30 10:02 |
+| [How to Integrate AI into Modern SOC Workflows](https://thehackernews.com/2025/12/how-to-integrate-ai-into-modern-soc.html) | The Hacker News | ai, phishing | 2025-12-30 09:30 |
+| [Mustang Panda Uses Signed Kernel-Mode Rootkit to Load TONESHELL Backdoor](https://thehackernews.com/2025/12/mustang-panda-uses-signed-kernel-driver.html) | The Hacker News | ai, apt, malware | 2025-12-30 08:35 |
+| [U.S. CISA adds a flaw in MongoDB Server to its Known Exploited Vulnerabilities catalog](https://securityaffairs.com/186297/hacking/u-s-cisa-adds-a-flaw-in-mongodb-server-to-its-known-exploited-vulnerabilities-catalog.html) | Security Affairs (Dark Web) | policy, vulnerabilities | 2025-12-30 08:33 |
 
 ---
 
@@ -89,6 +78,7 @@
 - Spamhaus Phishing — 404, message='Not Found', url=URL('https://www.spamhaus.org/phishing_lasso')
 - ThreatNix Phishing — 404, message='Not Found', url=URL('https://threatnix.io/feed/')
 - URLScan.io Malicious — 404, message='Not Found', url=URL('https://urlscan.io/feed/malicious/')
+- BrandShield — 403, message='Forbidden', url=URL('https://brandshield.com/feed/')
 - Netcraft Phishing — 404, message='Not Found', url=URL('https://www.netcraft.com/rss/phishing.xml')
 - VX-Underground Blog — Cannot connect to host blog.vx-underground.org:443 ssl:default [Name or service not known]
 - Dark Reading Breaches — 403, message='Forbidden', url=URL('https://www.darkreading.com/vulnerabilities-threats/rss')
