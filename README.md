@@ -1,6 +1,6 @@
 <p align="center">
   <strong style="font-size:1.9rem;">Threat Intel Atlas · Daily Signal Briefing</strong><br />
-  <span style="font-size:1rem;color:#6ecff6;">Compiled from 166 intelligence sources · refreshed 2026-01-01 06:45 UTC</span>
+  <span style="font-size:1rem;color:#6ecff6;">Compiled from 166 intelligence sources · refreshed 2026-01-02 06:45 UTC</span>
 </p>
 
 ---
@@ -10,8 +10,8 @@
 | Metric | Value |
 | --- | --- |
 | Total signals retained | 1000 |
-| Signals detected in the last 24h | 23 |
-| Signals surfaced in this report | 23 |
+| Signals detected in the last 24h | 15 |
+| Signals surfaced in this report | 15 |
 
 ---
 
@@ -19,29 +19,21 @@
 
 | Title | Source | Tags | Published (UTC) |
 | --- | --- | --- | --- |
-| [NYC mayoral inauguration bans Flipper Zero, Raspberry Pi devices](https://www.bleepingcomputer.com/news/security/nyc-mayoral-inauguration-bans-flipper-zero-raspberry-pi-devices/) | BleepingComputer News | unclassified | 2025-12-31 22:52 |
-| [Hacker Claims European Space Agency Breach, Selling 200GB of Data](https://hackread.com/hacker-european-space-agency-data-breach/) | HackRead | ai, data_breach | 2025-12-31 22:46 |
-| [Everest Ransomware Leaks 1TB of Stolen ASUS Data](https://hackread.com/everest-ransomware-asus-data-leak/) | HackRead | ai, data_breach, malware | 2025-12-31 16:38 |
-| [Trust Wallet Chrome Extension Hack Drains $8.5M via Shai-Hulud Supply Chain Attack](https://thehackernews.com/2025/12/trust-wallet-chrome-extension-hack.html) | The Hacker News | ai, supply_chain | 2025-12-31 16:29 |
-| [Attorney General James Secures $500,000 from Capital Region Health Care Provider for Failing to Protect Patients’ Information](https://databreaches.net/2025/12/31/attorney-general-james-secures-500000-from-capital-region-health-care-provider-for-failing-to-protect-patients-information/?pk_campaign=feed&pk_kwd=attorney-general-james-secures-500000-from-capital-region-health-care-provider-for-failing-to-protect-patients-information) | DataBreaches.net (Notices) | ai, apt, data_breach, iot | 2025-12-31 16:16 |
-| [DarkSpectre Browser Extension Campaigns Exposed After Impacting 8.8 Million Users Worldwide](https://thehackernews.com/2025/12/darkspectre-browser-extension-campaigns.html) | The Hacker News | ai, apt, incident_response | 2025-12-31 16:14 |
-| [ESA disclosed a data breach, hackers breached external servers](https://securityaffairs.com/186370/security/esa-disclosed-a-data-breach-hackers-breached-external-servers.html) | Security Affairs (Dark Web) | apt, data_breach, incident_response | 2025-12-31 15:55 |
-| [Hackers drain $3.9M from Unleash Protocol after multisig hijack](https://www.bleepingcomputer.com/news/security/hackers-drain-39m-from-unleash-protocol-after-multisig-hijack/) | BleepingComputer News | ai | 2025-12-31 15:54 |
-| [RondoDox botnet exploits React2Shell flaw to breach Next.js servers](https://www.bleepingcomputer.com/news/security/rondodox-botnet-exploits-react2shell-flaw-to-breach-nextjs-servers/) | BleepingComputer News | data_breach, malware, policy, vulnerabilities | 2025-12-31 14:58 |
-| [Singapore CSA warns of maximun severity SmarterMail RCE flaw](https://securityaffairs.com/186353/security/singapore-csa-warns-of-maximun-severity-smartermail-rce-flaw.html) | Security Affairs (Dark Web) | ai, policy, vulnerabilities | 2025-12-31 14:23 |
-| [Two Cybersecurity Professionals Plead Guilty to Targeting Multiple U.S. Victims Using ALPHV BlackCat Ransomware](https://databreaches.net/2025/12/31/two-cybersecurity-professionals-plead-guilty-to-targeting-multiple-u-s-victims-using-alphv-blackcat-ransomware/?pk_campaign=feed&pk_kwd=two-cybersecurity-professionals-plead-guilty-to-targeting-multiple-u-s-victims-using-alphv-blackcat-ransomware) | DataBreaches.net (Notices) | ai, apt, data_breach, incident_response, iot, malware | 2025-12-31 13:57 |
-| [Finland seizes ship suspected of damaging subsea cable in Baltic Sea](https://therecord.media/finland-seizes-ship-suspected-damaging-undersea-cable) | The Record (Signals) | unclassified | 2025-12-31 13:37 |
-| [Critical CVSS 9.8 Flaw Found in IBM API Connect Authentication System](https://thehackernews.com/2025/12/ibm-warns-of-critical-api-connect-bug.html) | The Hacker News | ai, identity, policy, vulnerabilities | 2025-12-31 13:37 |
-| [Researchers Spot Modified Shai-Hulud Worm Testing Payload on npm Registry](https://thehackernews.com/2025/12/researchers-spot-modified-shai-hulud.html) | The Hacker News | ai, incident_response, malware | 2025-12-31 13:29 |
-| [2 US Cybersecurity Experts Guilty of Extortion Scheme for ALPHV Ransomware](https://hackread.com/us-cybersecurity-experts-extortion-alphv-ransomware/) | HackRead | incident_response, malware | 2025-12-31 13:07 |
-| [LinkedIn Job Scams](https://www.schneier.com/blog/archives/2025/12/linkedin-job-scams.html) | Schneier on Security | ai, identity, incident_response, phishing | 2025-12-31 12:03 |
-| [30,000 Korean Air Employee Records Stolen as Cl0p Leaks Data Online](https://hackread.com/30000-korean-air-employee-cl0p-leaks-data/) | HackRead | ai, data_breach, incident_response | 2025-12-31 11:35 |
-| [Fears Mount That US Federal Cybersecurity Is Stagnating—or Worse](https://www.wired.com/story/expired-tired-wired-federal-cybersecurity/) | Wired Security | unclassified | 2025-12-31 11:00 |
-| [In 2025, age checks started locking people out of the internet](https://www.malwarebytes.com/blog/news/2025/12/in-2025-age-checks-started-locking-people-out-of-the-internet) | Malwarebytes Labs (News) | incident_response, policy | 2025-12-31 10:49 |
-| [IBM warns of critical API Connect auth bypass vulnerability](https://www.bleepingcomputer.com/news/security/ibm-warns-of-critical-api-connect-auth-bypass-vulnerability/) | BleepingComputer News | identity, vulnerabilities | 2025-12-31 10:34 |
-| [Discovering the Dimensions of a New Cold War](https://www.wired.com/story/discovering-the-dimensions-of-a-new-cold-war/) | Wired Security | ai | 2025-12-31 10:00 |
-| [Disney will pay $10 million to settle children's data privacy lawsuit](https://www.bleepingcomputer.com/news/security/disney-will-pay-10m-to-settle-claims-of-childrens-privacy-violations-on-youtube/) | BleepingComputer News | ai, cloud, policy | 2025-12-31 09:43 |
-| [MongoBleed (CVE-2025-14847): the US, China, and the EU are among the top exploited GEOs](https://securityaffairs.com/186338/hacking/mongobleed-cve-2025-14847-the-us-china-and-the-eu-are-among-the-top-exploited-geos.html) | Security Affairs (Dark Web) | data_breach, identity, vulnerabilities | 2025-12-31 08:22 |
+| [How Webflow Helps Companies Move Faster Without Sacrificing Brand Control](https://hackread.com/webflow-companies-sacrificing-brand-control/) | HackRead | unclassified | 2026-01-01 21:04 |
+| [Can my boss see the websites I visit? Stop workplace tracking](https://www.comparitech.com/blog/vpn-privacy/can-my-boss-see-websites-i-visit/) | Comparitech Blog | unclassified | 2026-01-01 20:23 |
+| [OpenAI is offering $20 ChatGPT Plus for free to some users](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-offering-20-chatgpt-plus-for-free-to-some-users/) | BleepingComputer News | ai | 2026-01-01 19:18 |
+| [Trust Wallet confirms second Shai-Hulud supply-chain attack, $8.5M in crypto stolen](https://securityaffairs.com/186398/hacking/trust-wallet-confirms-second-shai-hulud-supply-chain-attack-8-5m-in-crypto-stolen.html) | Security Affairs (Dark Web) | ai, incident_response | 2026-01-01 16:16 |
+| [The biggest cybersecurity and cyberattack stories of 2025](https://www.bleepingcomputer.com/news/security/the-biggest-cybersecurity-and-cyberattack-stories-of-2025/) | BleepingComputer News | cloud, data_breach, policy, vulnerabilities | 2026-01-01 16:15 |
+| [ThreatsDay Bulletin: GhostAd Drain, macOS Attacks, Proxy Botnets, Cloud Exploits, and 12+ Stories](https://thehackernews.com/2026/01/threatsday-bulletin-ghostad-drain-macos.html) | The Hacker News | ai, apt, cloud, data_breach, defense, incident_response, malware, vulnerabilities | 2026-01-01 15:52 |
+| [New GlassWorm malware wave targets Macs with trojanized crypto wallets](https://www.bleepingcomputer.com/news/security/new-glassworm-malware-wave-targets-macs-with-trojanized-crypto-wallets/) | BleepingComputer News | ai, apt, malware | 2026-01-01 15:18 |
+| [BrandShield vs. MarqVision: Which Brand Protection Platform Is Better in 2026?](https://www.brandshield.com/blog/brandshield-vs-marqvision-brand-protection/) | BrandShield | ai, darkweb, incident_response, phishing | 2026-01-01 14:49 |
+| [React2Shell under attack: RondoDox Botnet spreads miners and malware](https://securityaffairs.com/186386/uncategorized/react2shell-under-attack-rondodox-botnet-spreads-miners-and-malware.html) | Security Affairs (Dark Web) | ai, apt, cloud, iot, malware, policy, vulnerabilities | 2026-01-01 14:31 |
+| [Total VPN vs NordVPN: Which VPN is best in 2026?](https://www.comparitech.com/blog/vpn-privacy/total-vpn-vs-nordvpn/) | Comparitech Blog | incident_response | 2026-01-01 13:19 |
+| [Merge PR #5820 from @nasbench - Update deprecated csv](https://github.com/SigmaHQ/sigma/commit/c5e6d0ecd5a08bee5d5b7042a0de8368d8ef838f) | SigmaHQ Core Rules | unclassified | 2026-01-01 11:23 |
+| [Merge PR #5821 from @nasbench - Archive new rule references and updat…](https://github.com/SigmaHQ/sigma/commit/8afdcc43218ce6dc622f544ba60162e5df9a062e) | SigmaHQ Core Rules | unclassified | 2026-01-01 11:22 |
+| [Merge PR #5819 from @phantinuss - Update ATT&CK Heatmap Coverage](https://github.com/SigmaHQ/sigma/commit/1cfdf4f82e2aea8c56bc1075af327b623e802f9b) | SigmaHQ Core Rules | unclassified | 2026-01-01 11:00 |
+| [RondoDox Botnet Exploits Critical React2Shell Flaw to Hijack IoT Devices and Web Servers](https://thehackernews.com/2026/01/rondodox-botnet-exploits-critical.html) | The Hacker News | ai, apt, cloud, iot, malware, policy, vulnerabilities | 2026-01-01 09:19 |
+| [Infosecurity's Top 10 Cybersecurity Stories of 2025](https://www.infosecurity-magazine.com/news/infosecurity-top-10-stories-2025/) | InfoSecurity Magazine News | ai, supply_chain, vulnerabilities | 2026-01-01 08:30 |
 
 ---
 
@@ -77,7 +69,6 @@
 - Spamhaus Phishing — 404, message='Not Found', url=URL('https://www.spamhaus.org/phishing_lasso')
 - ThreatNix Phishing — 404, message='Not Found', url=URL('https://threatnix.io/feed/')
 - URLScan.io Malicious — 404, message='Not Found', url=URL('https://urlscan.io/feed/malicious/')
-- BrandShield — 403, message='Forbidden', url=URL('https://brandshield.com/feed/')
 - Netcraft Phishing — 404, message='Not Found', url=URL('https://www.netcraft.com/rss/phishing.xml')
 - VX-Underground Blog — Cannot connect to host blog.vx-underground.org:443 ssl:default [Name or service not known]
 - Dark Reading Breaches — 403, message='Forbidden', url=URL('https://www.darkreading.com/vulnerabilities-threats/rss')
