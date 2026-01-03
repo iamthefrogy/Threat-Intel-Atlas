@@ -1,6 +1,6 @@
 <p align="center">
   <strong style="font-size:1.9rem;">Threat Intel Atlas · Daily Signal Briefing</strong><br />
-  <span style="font-size:1rem;color:#6ecff6;">Compiled from 166 intelligence sources · refreshed 2026-01-02 06:45 UTC</span>
+  <span style="font-size:1rem;color:#6ecff6;">Compiled from 166 intelligence sources · refreshed 2026-01-03 06:44 UTC</span>
 </p>
 
 ---
@@ -10,8 +10,8 @@
 | Metric | Value |
 | --- | --- |
 | Total signals retained | 1000 |
-| Signals detected in the last 24h | 15 |
-| Signals surfaced in this report | 15 |
+| Signals detected in the last 24h | 31 |
+| Signals surfaced in this report | 31 |
 
 ---
 
@@ -19,21 +19,37 @@
 
 | Title | Source | Tags | Published (UTC) |
 | --- | --- | --- | --- |
-| [How Webflow Helps Companies Move Faster Without Sacrificing Brand Control](https://hackread.com/webflow-companies-sacrificing-brand-control/) | HackRead | unclassified | 2026-01-01 21:04 |
-| [Can my boss see the websites I visit? Stop workplace tracking](https://www.comparitech.com/blog/vpn-privacy/can-my-boss-see-websites-i-visit/) | Comparitech Blog | unclassified | 2026-01-01 20:23 |
-| [OpenAI is offering $20 ChatGPT Plus for free to some users](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-offering-20-chatgpt-plus-for-free-to-some-users/) | BleepingComputer News | ai | 2026-01-01 19:18 |
-| [Trust Wallet confirms second Shai-Hulud supply-chain attack, $8.5M in crypto stolen](https://securityaffairs.com/186398/hacking/trust-wallet-confirms-second-shai-hulud-supply-chain-attack-8-5m-in-crypto-stolen.html) | Security Affairs (Dark Web) | ai, incident_response | 2026-01-01 16:16 |
-| [The biggest cybersecurity and cyberattack stories of 2025](https://www.bleepingcomputer.com/news/security/the-biggest-cybersecurity-and-cyberattack-stories-of-2025/) | BleepingComputer News | cloud, data_breach, policy, vulnerabilities | 2026-01-01 16:15 |
-| [ThreatsDay Bulletin: GhostAd Drain, macOS Attacks, Proxy Botnets, Cloud Exploits, and 12+ Stories](https://thehackernews.com/2026/01/threatsday-bulletin-ghostad-drain-macos.html) | The Hacker News | ai, apt, cloud, data_breach, defense, incident_response, malware, vulnerabilities | 2026-01-01 15:52 |
-| [New GlassWorm malware wave targets Macs with trojanized crypto wallets](https://www.bleepingcomputer.com/news/security/new-glassworm-malware-wave-targets-macs-with-trojanized-crypto-wallets/) | BleepingComputer News | ai, apt, malware | 2026-01-01 15:18 |
-| [BrandShield vs. MarqVision: Which Brand Protection Platform Is Better in 2026?](https://www.brandshield.com/blog/brandshield-vs-marqvision-brand-protection/) | BrandShield | ai, darkweb, incident_response, phishing | 2026-01-01 14:49 |
-| [React2Shell under attack: RondoDox Botnet spreads miners and malware](https://securityaffairs.com/186386/uncategorized/react2shell-under-attack-rondodox-botnet-spreads-miners-and-malware.html) | Security Affairs (Dark Web) | ai, apt, cloud, iot, malware, policy, vulnerabilities | 2026-01-01 14:31 |
-| [Total VPN vs NordVPN: Which VPN is best in 2026?](https://www.comparitech.com/blog/vpn-privacy/total-vpn-vs-nordvpn/) | Comparitech Blog | incident_response | 2026-01-01 13:19 |
-| [Merge PR #5820 from @nasbench - Update deprecated csv](https://github.com/SigmaHQ/sigma/commit/c5e6d0ecd5a08bee5d5b7042a0de8368d8ef838f) | SigmaHQ Core Rules | unclassified | 2026-01-01 11:23 |
-| [Merge PR #5821 from @nasbench - Archive new rule references and updat…](https://github.com/SigmaHQ/sigma/commit/8afdcc43218ce6dc622f544ba60162e5df9a062e) | SigmaHQ Core Rules | unclassified | 2026-01-01 11:22 |
-| [Merge PR #5819 from @phantinuss - Update ATT&CK Heatmap Coverage](https://github.com/SigmaHQ/sigma/commit/1cfdf4f82e2aea8c56bc1075af327b623e802f9b) | SigmaHQ Core Rules | unclassified | 2026-01-01 11:00 |
-| [RondoDox Botnet Exploits Critical React2Shell Flaw to Hijack IoT Devices and Web Servers](https://thehackernews.com/2026/01/rondodox-botnet-exploits-critical.html) | The Hacker News | ai, apt, cloud, iot, malware, policy, vulnerabilities | 2026-01-01 09:19 |
-| [Infosecurity's Top 10 Cybersecurity Stories of 2025](https://www.infosecurity-magazine.com/news/infosecurity-top-10-stories-2025/) | InfoSecurity Magazine News | ai, supply_chain, vulnerabilities | 2026-01-01 08:30 |
+| [Protecting Your Digital Wallet: What You Need to Know About Fintech Security](https://hackread.com/protecting-digital-wallet-fintech-security/) | HackRead | unclassified | 2026-01-02 23:32 |
+| [Two U.S. cybersecurity professionals plead guilty in BlackCat/Alphv ransomware case](https://securityaffairs.com/186446/cyber-crime/two-u-s-cybersecurity-professionals-plead-guilty-in-blackcat-alphv-ransomware-case.html) | Security Affairs (Dark Web) | incident_response, malware | 2026-01-02 22:33 |
+| [Friday Squid Blogging: Squid Found in Light Fixture](https://www.schneier.com/blog/archives/2026/01/friday-squid-blogging-squid-found-in-light-fixture.html) | Schneier on Security | policy | 2026-01-02 22:04 |
+| [What is a digital footprint? Examples and how it affects you](https://www.comparitech.com/blog/vpn-privacy/what-is-a-digital-footprint/) | Comparitech Blog | unclassified | 2026-01-02 22:01 |
+| [Nearly 480,000 impacted by Covenant Health data breach](https://therecord.media/covenant-health-breach-qilin) | The Record (Signals) | ai, data_breach | 2026-01-02 20:08 |
+| [Pakistan-linked hackers target Indian government, universities in new spying campaign](https://therecord.media/pakistan-linked-hacking-group-targets-indian-orgs) | The Record (Signals) | ai, apt | 2026-01-02 19:14 |
+| [Covenant Health says May data breach impacted nearly 478,000 patients](https://www.bleepingcomputer.com/news/security/covenant-health-says-may-data-breach-impacted-nearly-478-000-patients/) | BleepingComputer News | data_breach | 2026-01-02 19:00 |
+| [NZ: ManageMyHealth data breach: More than 108k users potentially affected](https://databreaches.net/2026/01/02/nz-managemyhealth-data-breach-more-than-108k-users-potentially-affected/?pk_campaign=feed&pk_kwd=nz-managemyhealth-data-breach-more-than-108k-users-potentially-affected) | DataBreaches.net (Notices) | ai, apt, data_breach, iot | 2026-01-02 18:47 |
+| [Healthcare Firm Handing $2,000,000+ To Customers After Data Breach Exposes ‘Highly Confidential’ Information of 512,000 People](https://databreaches.net/2026/01/02/healthcare-firm-handing-2000000-to-customers-after-data-breach-exposes-highly-confidential-information-of-512000-people/?pk_campaign=feed&pk_kwd=healthcare-firm-handing-2000000-to-customers-after-data-breach-exposes-highly-confidential-information-of-512000-people) | DataBreaches.net (Notices) | ai, apt, cloud, darkweb, data_breach, incident_response, iot, policy | 2026-01-02 18:47 |
+| [NIST Publishes Preliminary Draft of Cybersecurity Framework Profile for Artificial Intelligence for Public Comment](https://databreaches.net/2026/01/02/nist-publishes-preliminary-draft-of-cybersecurity-framework-profile-for-artificial-intelligence-for-public-comment/?pk_campaign=feed&pk_kwd=nist-publishes-preliminary-draft-of-cybersecurity-framework-profile-for-artificial-intelligence-for-public-comment) | DataBreaches.net (Notices) | ai, apt, data_breach, incident_response, iot, policy | 2026-01-02 18:46 |
+| [European Space Agency confirms breach of “external servers”](https://databreaches.net/2026/01/02/european-space-agency-confirms-breach-of-external-servers/?pk_campaign=feed&pk_kwd=european-space-agency-confirms-breach-of-external-servers) | DataBreaches.net (Notices) | ai, apt, data_breach, incident_response, iot | 2026-01-02 18:46 |
+| [European regulators take aim at X after Grok creates deepfake of minor](https://therecord.media/europe-regulators-grok-france) | The Record (Signals) | ai | 2026-01-02 18:43 |
+| [Tokyo FM Data Breach: Hacker Claims Over 3 Million Records Stolen](https://hackread.com/tokyo-fm-data-breach-hacker-3-million-records-stolen/) | HackRead | ai, data_breach | 2026-01-02 18:37 |
+| [Sedgwick confirms cyber incident affecting its major federal contractor subsidiary](https://therecord.media/sedgwick-cyber-incident-ransomware) | The Record (Signals) | ai, incident_response | 2026-01-02 17:35 |
+| [Cryptocurrency theft attacks traced to 2022 LastPass breach](https://www.bleepingcomputer.com/news/security/cryptocurrency-theft-attacks-traced-to-2022-lastpass-breach/) | BleepingComputer News | ai, data_breach, incident_response | 2026-01-02 17:28 |
+| [Over 10K Fortinet firewalls exposed to actively exploited 2FA bypass](https://www.bleepingcomputer.com/news/security/over-10-000-fortinet-firewalls-exposed-to-ongoing-2fa-bypass-attacks/) | BleepingComputer News | identity, incident_response, vulnerabilities | 2026-01-02 16:01 |
+| [Covenant Health data breach after ransomware attack impacted over 478,000 people](https://securityaffairs.com/186439/data-breach/covenant-health-data-breach-after-ransomware-attack-impacted-over-478000-people.html) | Security Affairs (Dark Web) | ai, data_breach, incident_response, iot, malware | 2026-01-02 15:30 |
+| [Google is testing a new image AI and it's going to be its fastest model](https://www.bleepingcomputer.com/news/google/google-is-testing-a-new-image-ai-and-its-going-to-be-its-fastest-model/) | BleepingComputer News | ai | 2026-01-02 15:19 |
+| [Finland arrests two crew members of ship suspected of cable break](https://therecord.media/finland-arrests-crew-ship-suspected-cable-break) | The Record (Signals) | unclassified | 2026-01-02 14:28 |
+| [The Kimwolf Botnet is Stalking Your Local Network](https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/) | Krebs on Security (Signals) | malware, vulnerabilities | 2026-01-02 14:20 |
+| [Trust Wallet links $8.5 million crypto theft to Shai-Hulud NPM attack](https://www.bleepingcomputer.com/news/security/trust-wallet-links-85-million-crypto-theft-to-shai-hulud-npm-attack/) | BleepingComputer News | ai | 2026-01-02 14:19 |
+| [The Good, the Bad and the Ugly in Cybersecurity – Week 1](https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-1-7/) | SentinelOne Labs | unclassified | 2026-01-02 14:00 |
+| [Transparent Tribe Launches New RAT Attacks Against Indian Government and Academia](https://thehackernews.com/2026/01/transparent-tribe-launches-new-rat.html) | The Hacker News | ai, apt, malware | 2026-01-02 13:52 |
+| [Phishing campaign abuses Google Cloud Application to impersonate legitimate Google emails](https://securityaffairs.com/186425/cyber-crime/phishing-campaign-abuses-google-cloud-application-to-impersonate-legitimate-google-emails.html) | Security Affairs (Dark Web) | ai, apt, cloud, incident_response, phishing | 2026-01-02 12:48 |
+| [Flock Exposes Its AI-Enabled Surveillance Cameras](https://www.schneier.com/blog/archives/2026/01/flock-exposes-its-ai-enabled-surveillance-cameras.html) | Schneier on Security | ai, apt | 2026-01-02 12:05 |
+| [The ROI Problem in Attack Surface Management](https://thehackernews.com/2026/01/the-roi-problem-in-attack-surface.html) | The Hacker News | unclassified | 2026-01-02 11:30 |
+| [VVS Discord Stealer Using Pyarmor for Obfuscation and Detection Evasion](https://unit42.paloaltonetworks.com/vvs-stealer/) | Palo Alto Networks Unit 42 | defense, incident_response, malware | 2026-01-02 11:00 |
+| [How Protesters Became Content for the Cops](https://www.wired.com/story/expired-tired-wired-protest-surveillance/) | Wired Security | iot, phishing | 2026-01-02 11:00 |
+| [IBM warns of critical API Connect bug enabling remote access](https://securityaffairs.com/186417/security/ibm-warns-of-critical-api-connect-bug-enabling-remote-access.html) | Security Affairs (Dark Web) | identity, policy, vulnerabilities | 2026-01-02 10:18 |
+| [How AI made scams more convincing in 2025](https://www.malwarebytes.com/blog/news/2026/01/how-ai-made-scams-more-convincing-in-2025) | Malwarebytes Labs (News) | ai | 2026-01-02 10:16 |
+| [Cybercriminals Abuse Google Cloud Email Feature in Multi-Stage Phishing Campaign](https://thehackernews.com/2026/01/cybercriminals-abuse-google-cloud-email.html) | The Hacker News | ai, apt, cloud, identity, phishing | 2026-01-02 09:14 |
 
 ---
 
@@ -69,6 +85,7 @@
 - Spamhaus Phishing — 404, message='Not Found', url=URL('https://www.spamhaus.org/phishing_lasso')
 - ThreatNix Phishing — 404, message='Not Found', url=URL('https://threatnix.io/feed/')
 - URLScan.io Malicious — 404, message='Not Found', url=URL('https://urlscan.io/feed/malicious/')
+- BrandShield — 403, message='Forbidden', url=URL('https://brandshield.com/feed/')
 - Netcraft Phishing — 404, message='Not Found', url=URL('https://www.netcraft.com/rss/phishing.xml')
 - VX-Underground Blog — Cannot connect to host blog.vx-underground.org:443 ssl:default [Name or service not known]
 - Dark Reading Breaches — 403, message='Forbidden', url=URL('https://www.darkreading.com/vulnerabilities-threats/rss')
@@ -80,7 +97,6 @@
 - CyberNews — 403, message='Forbidden', url=URL('https://cybernews.com/feed/')
 - DarkFeed.io — 404, message='Not Found', url=URL('https://darkfeed.io/feed.xml')
 - Emsisoft Security Blog — Cannot connect to host news.emsisoft.com:443 ssl:default [No address associated with hostname]
-- HHS OCR Breach Portal — 404, message='404', url=URL('https://ocrportal.hhs.gov/ocr/breach/rss')
 - California AG Breach Notice — 404, message='Not Found', url=URL('https://oag.ca.gov/sites/all/modules/custom/oag_noticelist/rss.xml')
 - Maine AG Breach Notice — 404, message='404', url=URL('https://apps.web.maine.gov/online/aeviewer/maine/rss')
 - Vermont AG Data Breach — 403, message='Forbidden', url=URL('https://ago.vermont.gov/rss/data-breach-notifications')
