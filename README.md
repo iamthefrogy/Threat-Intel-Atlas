@@ -1,6 +1,6 @@
 <p align="center">
   <strong style="font-size:1.9rem;">Threat Intel Atlas · Daily Signal Briefing</strong><br />
-  <span style="font-size:1rem;color:#6ecff6;">Compiled from 166 intelligence sources · refreshed 2026-01-04 06:44 UTC</span>
+  <span style="font-size:1rem;color:#6ecff6;">Compiled from 166 intelligence sources · refreshed 2026-01-05 06:46 UTC</span>
 </p>
 
 ---
@@ -19,15 +19,15 @@
 
 | Title | Source | Tags | Published (UTC) |
 | --- | --- | --- | --- |
-| [Hackers claim to hack Resecurity, firm says it was a honeypot](https://www.bleepingcomputer.com/news/security/hackers-claim-resecurity-hack-firm-says-it-was-a-honeypot/) | BleepingComputer News | ai, data_breach, incident_response | 2026-01-03 20:34 |
-| [Finnish Authorities Detain Crew After Undersea Internet Cable Severed](https://hackread.com/finnish-detain-crew-undersea-internet-cable/) | HackRead | ai | 2026-01-03 20:11 |
-| [French authorities investigate AI ‘undressing’ deepfakes on X](https://securityaffairs.com/186460/ai/french-authorities-investigate-ai-undressing-deepfakes-on-x.html) | Security Affairs (Dark Web) | ai | 2026-01-03 19:27 |
-| [Resecurity Says ShinyHunters Fell for Honeypot After Breach Claim](https://hackread.com/resecurity-shinyhunters-honeypot-breach/) | HackRead | ai, data_breach | 2026-01-03 19:21 |
-| [ShinyHunters claims to have compromised Resecurity, but it looks like they fell for a honeypot](https://databreaches.net/2026/01/03/shinyhunters-claims-to-have-compromised-resecurity-but-it-looks-like-they-fell-for-a-honeypot/?pk_campaign=feed&pk_kwd=shinyhunters-claims-to-have-compromised-resecurity-but-it-looks-like-they-fell-for-a-honeypot) | DataBreaches.net (Notices) | ai, apt, data_breach, iot | 2026-01-03 18:56 |
-| [ShinyHunters Claim Breach of US Cybersecurity Firm Resecurity (Updated)](https://hackread.com/shinyhunters-breach-us-cybersecurity-resecurity-firm/) | HackRead | ai, data_breach, incident_response | 2026-01-03 16:48 |
-| [RondoDox Botnet is Using React2Shell to Hijack Thousands of Unpatched Devices](https://hackread.com/rondodox-botnet-react2shell-hijack-unpatched-devices/) | HackRead | malware, policy, vulnerabilities | 2026-01-03 14:59 |
-| [Thousands of ColdFusion exploit attempts spotted during Christmas holiday](https://securityaffairs.com/186450/uncategorized/thousands-of-coldfusion-exploit-attempts-spotted-during-christmas-holiday.html) | Security Affairs (Dark Web) | ai, apt, vulnerabilities | 2026-01-03 10:59 |
-| [How to Protect Your iPhone or Android Device From Spyware](https://www.wired.com/story/how-to-protect-your-iphone-or-android-device-from-spyware/) | Wired Security | malware, mobile | 2026-01-03 10:00 |
+| [Researcher Wipes White Supremacist Dating Sites, Leaks Data on okstupid.lol](https://hackread.com/white-supremacist-dating-sites-wiped-okstupid-lol/) | HackRead | data_breach | 2026-01-05 01:36 |
+| [Resecurity Caught ShinyHunters in Honeypot](https://securityaffairs.com/186528/security/resecurity-caught-shinyhunters-in-honeypot.html) | Security Affairs (Dark Web) | ai, incident_response, policy | 2026-01-04 18:06 |
+| [Reminder: Survey on threats experienced by journalists and security researchers](https://databreaches.net/2026/01/04/reminder-survey-on-threats-experienced-by-journalists-and-security-researchers/?pk_campaign=feed&pk_kwd=reminder-survey-on-threats-experienced-by-journalists-and-security-researchers) | DataBreaches.net (Notices) | ai, apt, data_breach, iot | 2026-01-04 16:25 |
+| [Illinois Department of Human Services tightens map security after data incident](https://databreaches.net/2026/01/04/illinois-department-of-human-services-tightens-map-security-after-data-incident/?pk_campaign=feed&pk_kwd=illinois-department-of-human-services-tightens-map-security-after-data-incident) | DataBreaches.net (Notices) | ai, apt, data_breach, iot | 2026-01-04 16:24 |
+| [What is happening to the Internet in Venezuela? Did the U.S. use cyber capabilities?](https://securityaffairs.com/186509/intelligence/what-is-happening-to-the-internet-in-venezuela.html) | Security Affairs (Dark Web) | apt | 2026-01-04 15:43 |
+| [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 78](https://securityaffairs.com/186497/malware/security-affairs-malware-newsletter-round-78.html) | Security Affairs (Dark Web) | ai, apt, incident_response, malware, phishing, supply_chain | 2026-01-04 13:29 |
+| [Security Affairs newsletter Round 557 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/186485/breaking-news/security-affairs-newsletter-round-557-by-pierluigi-paganini-international-edition.html) | Security Affairs (Dark Web) | ai, incident_response, vulnerabilities | 2026-01-04 13:06 |
+| [8 WhatsApp Features to Boost Your Security and Privacy](https://www.wired.com/story/5-features-that-boost-security-and-privacy-on-whatsapp/) | Wired Security | unclassified | 2026-01-04 11:00 |
+| [President Trump blocks $2.9M Emcore chip sale over security concerns](https://securityaffairs.com/186473/security/president-trump-blocks-2-9m-emcore-chip-sale-over-security-concerns.html) | Security Affairs (Dark Web) | ai, iot | 2026-01-04 09:59 |
 
 ---
 
@@ -57,6 +57,7 @@
 - Maltrail Botnet Feed — 404, message='Not Found', url=URL('https://maltrail.github.io/feed.xml')
 - BadIPs — Cannot connect to host www.badips.com:443 ssl:default [Name or service not known]
 - ThreatMiner C2 Feed — 404, message='Not Found', url=URL('https://www.threatminer.org/rss.php?type=C2')
+- Hunt.io IOC Hunter — 404, message='Not Found', url=URL('https://hunt.io/ioc-feed/rss')
 - OpenPhish — 404, message='Not Found', url=URL('https://openphish.com/feed.xml')
 - PhishLabs Blog (Phishing) — 403, message='Forbidden', url=URL('https://www.phishlabs.com/blog/feed/')
 - Spamhaus Phishing — 404, message='Not Found', url=URL('https://www.spamhaus.org/phishing_lasso')
