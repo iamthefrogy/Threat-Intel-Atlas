@@ -1,6 +1,6 @@
 <p align="center">
   <strong style="font-size:1.9rem;">Threat Intel Atlas · Daily Signal Briefing</strong><br />
-  <span style="font-size:1rem;color:#6ecff6;">Compiled from 166 intelligence sources · refreshed 2026-01-06 06:46 UTC</span>
+  <span style="font-size:1rem;color:#6ecff6;">Compiled from 166 intelligence sources · refreshed 2026-01-07 06:45 UTC</span>
 </p>
 
 ---
@@ -10,8 +10,8 @@
 | Metric | Value |
 | --- | --- |
 | Total signals retained | 1000 |
-| Signals detected in the last 24h | 41 |
-| Signals surfaced in this report | 41 |
+| Signals detected in the last 24h | 51 |
+| Signals surfaced in this report | 51 |
 
 ---
 
@@ -19,46 +19,46 @@
 
 | Title | Source | Tags | Published (UTC) |
 | --- | --- | --- | --- |
-| [New n8n Vulnerability (9.9 CVSS) Lets Authenticated Users Execute System Commands](https://thehackernews.com/2026/01/new-n8n-vulnerability-99-cvss-lets.html) | The Hacker News | ai, vulnerabilities | 2026-01-06 05:08 |
-| [Cloud file-sharing sites targeted for corporate data theft attacks](https://www.bleepingcomputer.com/news/security/cloud-file-sharing-sites-targeted-for-corporate-data-theft-attacks/) | BleepingComputer News | apt, cloud, data_breach, incident_response | 2026-01-05 22:52 |
-| [Russia-linked APT UAC-0184 uses Viber to spy on Ukrainian military in 2025](https://securityaffairs.com/186571/apt/russia-linked-apt-uac-0184-uses-viber-to-spy-on-ukrainian-military-in-2025.html) | Security Affairs (Dark Web) | ai, apt | 2026-01-05 22:41 |
-| [ClickFix attack uses fake Windows BSOD screens to push malware](https://www.bleepingcomputer.com/news/security/clickfix-attack-uses-fake-windows-bsod-screens-to-push-malware/) | BleepingComputer News | ai, apt, incident_response, malware, phishing | 2026-01-05 21:16 |
-| [Russian hackers target European hospitality industry with ‘blue screen of death’ malware](https://therecord.media/russian-hackers-europe-hospitality-blue-screen) | The Record (Signals) | malware | 2026-01-05 20:24 |
-| [US broadband provider Brightspeed investigates breach claims](https://www.bleepingcomputer.com/news/security/us-broadband-provider-brightspeed-investigates-breach-claims/) | BleepingComputer News | ai, data_breach | 2026-01-05 20:01 |
-| [Researchers Warn of Data Exposure Risks in Claude Chrome Extension](https://hackread.com/data-exposure-risk-claude-chrome-extension/) | HackRead | unclassified | 2026-01-05 18:05 |
-| [Russia-Aligned Hackers Abuse Viber to Target Ukrainian Military and Government](https://thehackernews.com/2026/01/russia-aligned-hackers-abuse-viber-to.html) | The Hacker News | ai, apt | 2026-01-05 17:56 |
-| [Ilya Lichtenstein Released Early After Bitfinex Hack Conviction](https://www.infosecurity-magazine.com/news/lichtenstein-released-bitfinex/) | InfoSecurity Magazine News | unclassified | 2026-01-05 16:45 |
-| [VSCode IDE forks expose users to "recommended extension" attacks](https://www.bleepingcomputer.com/news/security/vscode-ide-forks-expose-users-to-recommended-extension-attacks/) | BleepingComputer News | ai, apt, incident_response | 2026-01-05 16:41 |
-| [Kimwolf Android Botnet Infects Over 2 Million Devices via Exposed ADB and Proxy Networks](https://thehackernews.com/2026/01/kimwolf-android-botnet-infects-over-2.html) | The Hacker News | ai, ddos, defense, malware, mobile | 2026-01-05 16:41 |
-| [Ca: Leduc County target of Christmas Day cybersecurity attack](https://databreaches.net/2026/01/05/ca-leduc-county-target-of-christmas-day-cybersecurity-attack/?pk_campaign=feed&pk_kwd=ca-leduc-county-target-of-christmas-day-cybersecurity-attack) | DataBreaches.net (Notices) | ai, apt, data_breach, iot, malware, phishing | 2026-01-05 16:20 |
-| [Cyber Brief 26-01 - December 2025](https://cert.europa.eu/publications/threat-intelligence/cb26-01/) | CERT-EU Threat Intelligence | ai | 2026-01-05 16:00 |
-| [VVS Stealer Uses Advanced Obfuscation to Target Discord Users](https://www.infosecurity-magazine.com/news/vvs-stealer-advanced-obfuscation/) | InfoSecurity Magazine News | malware | 2026-01-05 16:00 |
-| [What Are the Main AI-Assisted Cyber-Attacks and Scams?](https://socprime.com/blog/siem-edr/what-are-the-main-ai-assisted-cyber-attacks/) | SOC Prime | ai, defense, incident_response, iot, malware, phishing | 2026-01-05 15:54 |
-| [NordVPN Denies Breach After Hacker Claims Access to Salesforce Dev Data](https://hackread.com/nordvpn-denies-breach-hacker-salesforce-dev-data/) | HackRead | ai, data_breach | 2026-01-05 15:54 |
-| [ALPRs are recording your daily drive (Lock and Code S06E26)](https://www.malwarebytes.com/blog/podcast/2026/01/alprs-are-recording-your-daily-drive-lock-and-code-s06e26) | Malwarebytes Labs (News) | ai | 2026-01-05 15:52 |
-| [Cyberattack forces British high school to close](https://therecord.media/cyberattack-british-high-school-closes) | The Record (Signals) | ai | 2026-01-05 15:45 |
-| [NZ: High Court grants injunction over ManageMyHealth cyber breach](https://databreaches.net/2026/01/05/nz-high-court-grants-injunction-over-managemyhealth-cyber-breach/?pk_campaign=feed&pk_kwd=nz-high-court-grants-injunction-over-managemyhealth-cyber-breach) | DataBreaches.net (Notices) | ai, apt, data_breach, incident_response, iot | 2026-01-05 15:30 |
-| [New Zealand Orders Review of Manage My Health Breach Affecting 100,000+ Patients](https://www.infosecurity-magazine.com/news/new-zealand-orders-review-manage/) | InfoSecurity Magazine News | data_breach | 2026-01-05 15:15 |
-| [Ledger customers impacted by third-party Global-e data breach](https://www.bleepingcomputer.com/news/security/ledger-customers-impacted-by-third-party-global-e-data-breach/) | BleepingComputer News | data_breach, identity, incident_response, supply_chain | 2026-01-05 15:14 |
-| [Kimwolf botnet leverages residential proxies to hijack 2M+ Android devices](https://securityaffairs.com/186559/malware/kimwolf-botnet-leverages-residential-proxies-to-hijack-2m-android-devices.html) | Security Affairs (Dark Web) | ai, incident_response, malware, mobile | 2026-01-05 15:11 |
-| [Agentic AI Is an Identity Problem and CISOs Will Be Accountable for the Outcome](https://www.bleepingcomputer.com/news/security/agentic-ai-is-an-identity-problem-and-cisos-will-be-accountable-for-the-outcome/) | BleepingComputer News | ai, identity, incident_response | 2026-01-05 15:05 |
-| [EU looking ‘very seriously’ at taking action against X over Grok](https://therecord.media/eu-grok-regulation-deepfake) | The Record (Signals) | ai | 2026-01-05 14:53 |
-| [NordVPN denies breach claims, says attackers have "dummy data"](https://www.bleepingcomputer.com/news/security/nordvpn-denies-breach-claims-says-attackers-have-dummy-data/) | BleepingComputer News | ai, data_breach, incident_response, supply_chain | 2026-01-05 14:48 |
-| [Threat actors insisted that Resecurity’s honeypot was real data. We found no evidence that it was.](https://databreaches.net/2026/01/05/threat-actors-insisted-that-resecuritys-honeypot-was-real-data-we-found-no-evidence-that-it-was/?pk_campaign=feed&pk_kwd=threat-actors-insisted-that-resecuritys-honeypot-was-real-data-we-found-no-evidence-that-it-was) | DataBreaches.net (Notices) | ai, apt, data_breach, incident_response, iot | 2026-01-05 13:26 |
-| [⚡ Weekly Recap: IoT Exploits, Wallet Breaches, Rogue Extensions, AI Abuse & More](https://thehackernews.com/2026/01/weekly-recap-iot-exploits-wallet.html) | The Hacker News | ai, data_breach, iot, vulnerabilities | 2026-01-05 12:53 |
-| [How To Build Ransomware-Resilient AI Data Pipelines: A Practical Guide for Modern Enterprises](https://hackread.com/building-ransomware-resilient-ai-data-pipelines/) | HackRead | ai, iot, malware, phishing | 2026-01-05 12:25 |
-| [Grok apologizes for creating image of young girls in “sexualized attire”](https://www.malwarebytes.com/blog/news/2026/01/grok-apologizes-for-creating-image-of-young-girls-in-sexualized-attire) | Malwarebytes Labs (News) | ai, cloud, incident_response, policy | 2026-01-05 12:11 |
-| [Telegram Hosting World’s Largest Darknet Market](https://www.schneier.com/blog/archives/2026/01/telegram-hosting-worlds-largest-darknet-market.html) | Schneier on Security | ai, darkweb, defense, incident_response | 2026-01-05 12:01 |
-| [The State of Cybersecurity in 2025: Key Segments, Insights, and Innovations](https://thehackernews.com/2026/01/the-state-of-cybersecurity-in-2025key.html) | The Hacker News | ai, cloud, supply_chain | 2026-01-05 11:55 |
-| [The cybercriminal behind the 2016 Bitfinex hack has been released from prison early thanks to Trump’s 2018 First Step Act](https://securityaffairs.com/186551/cyber-crime/the-cybercriminal-behind-2016-bitfinex-hack-released.html) | Security Affairs (Dark Web) | incident_response | 2026-01-05 10:47 |
-| [Disney Fined $10M for Violating Children’s Privacy Laws on YouTube](https://hackread.com/disney-fine-violating-children-privacy-laws-youtube/) | HackRead | cloud, policy | 2026-01-05 10:43 |
-| [European Space Agency Confirms Server Breach](https://www.infosecurity-magazine.com/news/european-space-agency-confirms/) | InfoSecurity Magazine News | ai, data_breach, incident_response | 2026-01-05 10:15 |
-| [Bitfinex Hack Convict Ilya Lichtenstein Released Early Under U.S. First Step Act](https://thehackernews.com/2026/01/bitfinex-hack-convict-ilya-lichtenstein.html) | The Hacker News | ai, incident_response | 2026-01-05 09:42 |
-| [Experts Trace $35m in Stolen Crypto to LastPass Breach](https://www.infosecurity-magazine.com/news/experts-trace-35m-stolen-crypto/) | InfoSecurity Magazine News | ai, data_breach | 2026-01-05 09:30 |
-| [VVS Stealer, a new python malware steals Discord credentials](https://securityaffairs.com/186542/malware/vvs-stealer-a-new-python-malware-steals-discord-credentials.html) | Security Affairs (Dark Web) | identity, malware | 2026-01-05 08:45 |
-| [A week in security (December 29 &#8211; January 4)](https://www.malwarebytes.com/blog/news/2026/01/a-week-in-security-december-29-january-4) | Malwarebytes Labs (News) | iot | 2026-01-05 08:02 |
-| [New VVS Stealer Malware Targets Discord Accounts via Obfuscated Python Code](https://thehackernews.com/2026/01/new-vvs-stealer-malware-targets-discord.html) | The Hacker News | ai, identity, malware | 2026-01-05 07:48 |
-| [Merge PR #5822 from @EzLucky -  fix: spelling errors in description a…](https://github.com/SigmaHQ/sigma/commit/6fe7343bf79306884b05837d5e03bcbcb141ce50) | SigmaHQ Core Rules | unclassified | 2026-01-05 07:16 |
+| [Weekly Update 485](https://www.troyhunt.com/weekly-update-485/) | Troy Hunt Blog | incident_response | 2026-01-07 06:26 |
+| [Ongoing Attacks Exploiting Critical RCE Vulnerability in Legacy D-Link DSL Routers](https://thehackernews.com/2026/01/active-exploitation-hits-legacy-d-link.html) | The Hacker News | policy, vulnerabilities | 2026-01-07 04:31 |
+| [NordVPN Hack Claim Firmly Refuted by NordVPN](https://databreaches.net/2026/01/06/nordvpn-hack-claim-firmly-refuted-by-nordvpn/?pk_campaign=feed&pk_kwd=nordvpn-hack-claim-firmly-refuted-by-nordvpn) | DataBreaches.net (Notices) | ai, apt, data_breach, incident_response, iot | 2026-01-07 00:56 |
+| [OpenAI is rolling out GPT-5.2 “Codex-Max” for some users](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-rolling-out-gpt-52-codex-max-for-some-users/) | BleepingComputer News | ai | 2026-01-07 00:30 |
+| [HIPAA Compliance and Breach Communications: Helpful Tips for SMBs](https://databreaches.net/2026/01/06/hipaa-compliance-and-breach-communications-helpful-tips-for-smbs/?pk_campaign=feed&pk_kwd=hipaa-compliance-and-breach-communications-helpful-tips-for-smbs) | DataBreaches.net (Notices) | ai, apt, data_breach, incident_response, iot, policy | 2026-01-06 22:44 |
+| [Taiwan says China's attacks on its energy sector increased tenfold](https://www.bleepingcomputer.com/news/security/taiwan-says-chinas-attacks-on-its-energy-sector-increased-tenfold/) | BleepingComputer News | ai | 2026-01-06 22:27 |
+| [Grok Is Pushing AI ‘Undressing’ Mainstream](https://www.wired.com/story/grok-is-pushing-ai-undressing-mainstream/) | Wired Security | ai | 2026-01-06 22:20 |
+| [Millions of Android Powered TVs and Streaming Devices Infected by Kimwolf Botnet](https://hackread.com/android-tv-streaming-devices-infected-kimwolf-botnet/) | HackRead | ddos, malware, mobile | 2026-01-06 22:00 |
+| [Microsoft cancels plans to rate limit Exchange Online bulk emails](https://www.bleepingcomputer.com/news/microsoft/microsoft-cancels-plans-to-rate-limit-exchange-online-bulk-emails/) | BleepingComputer News | ai | 2026-01-06 20:49 |
+| [CERT/CC warns of critical, unfixed vulnerability in TOTOLINK EX200](https://securityaffairs.com/186597/security/cert-cc-warns-of-critical-unfixed-vulnerability-in-totolink-ex200.html) | Security Affairs (Dark Web) | policy, vulnerabilities | 2026-01-06 20:28 |
+| [New D-Link flaw in legacy DSL routers actively exploited in attacks](https://www.bleepingcomputer.com/news/security/new-d-link-flaw-in-legacy-dsl-routers-actively-exploited-in-attacks/) | BleepingComputer News | apt, policy, vulnerabilities | 2026-01-06 19:52 |
+| [Kimwolf Android botnet abuses residential proxies to infect internal devices](https://www.bleepingcomputer.com/news/security/kimwolf-android-botnet-abuses-residential-proxies-to-infect-internal-devices/) | BleepingComputer News | ai, malware, mobile, vulnerabilities | 2026-01-06 19:15 |
+| [Desjardins data breach: Quebec suspect arrested in Spain](https://databreaches.net/2026/01/06/desjardins-data-breach-quebec-suspect-arrested-in-spain/?pk_campaign=feed&pk_kwd=desjardins-data-breach-quebec-suspect-arrested-in-spain) | DataBreaches.net (Notices) | ai, apt, data_breach, iot, phishing | 2026-01-06 19:08 |
+| [Google fixes critical Dolby Decoder bug in Android January update](https://securityaffairs.com/186591/security/google-fixes-critical-dolby-decoder-bug-in-android-january-update.html) | Security Affairs (Dark Web) | mobile, policy, vulnerabilities | 2026-01-06 18:54 |
+| [Bitfinex Hack Mastermind Behind $10 Billion Theft Gets Early Release](https://hackread.com/bitfinex-hack-mastermind-gets-early-release/) | HackRead | ai, incident_response | 2026-01-06 18:51 |
+| [Jaguar Land Rover wholesale volumes down 43% after cyberattack](https://www.bleepingcomputer.com/news/security/jaguar-land-rover-wholesale-volumes-down-43-percent-after-cyberattack/) | BleepingComputer News | incident_response | 2026-01-06 18:27 |
+| [Phishing actors exploit complex routing and misconfigurations to spoof domains](https://www.microsoft.com/en-us/security/blog/2026/01/06/phishing-actors-exploit-complex-routing-and-misconfigurations-to-spoof-domains/) | Microsoft Security Blog | ai, apt, incident_response, mobile, phishing, vulnerabilities | 2026-01-06 18:00 |
+| [A hacker, known as Martha Root, takes down a white supremacist dating site live](https://databreaches.net/2026/01/06/a-hacker-known-as-martha-root-takes-down-a-white-supremacist-dating-site-live/?pk_campaign=feed&pk_kwd=a-hacker-known-as-martha-root-takes-down-a-white-supremacist-dating-site-live) | DataBreaches.net (Notices) | ai, apt, data_breach, iot | 2026-01-06 17:24 |
+| [Two Chrome Extensions Caught Stealing ChatGPT and DeepSeek Chats from 900,000 Users](https://thehackernews.com/2026/01/two-chrome-extensions-caught-stealing.html) | The Hacker News | ai | 2026-01-06 17:21 |
+| [Introducing the Microsoft Defender Experts Suite: Elevate your security with expert-led services](https://www.microsoft.com/en-us/security/blog/2026/01/06/introducing-the-microsoft-defender-experts-suite-elevate-your-security-with-expert-led-services/) | Microsoft Security Blog | defense, incident_response | 2026-01-06 17:00 |
+| [Cloud Agent in 2025: A Year of Scale, Security, and Smarter Visibility](https://blog.qualys.com/category/product-tech) | Qualys | cloud | 2026-01-06 16:59 |
+| [Ledger Confirms Global-e Breach, Warns Users of Phishing Attempts](https://hackread.com/ledger-global-e-breach-phishing-attempts/) | HackRead | data_breach, identity, incident_response, phishing | 2026-01-06 16:56 |
+| [Hospitality Sector Hit By PHALT#BLYX ClickFix Malware Campaign](https://www.infosecurity-magazine.com/news/phaltblyx-clickfix-malware/) | InfoSecurity Magazine News | ai, apt, malware, phishing | 2026-01-06 16:15 |
+| [A Cyberattack Was Part of the US Assault on Venezuela](https://www.schneier.com/blog/archives/2026/01/a-cyberattack-was-part-of-the-us-assault-on-venezuela.html) | Schneier on Security | ai, apt | 2026-01-06 16:08 |
+| [12 Months of Fighting Cybercrime & Defending Enterprises \| The SentinelLABS 2025 Review](https://www.sentinelone.com/blog/12-months-of-fighting-cybercrime-defending-enterprises-the-sentinellabs-2025-review/) | SentinelOne Labs | apt, cloud, malware, vulnerabilities | 2026-01-06 16:00 |
+| [Unpatched Firmware Flaw Exposes TOTOLINK EX200 to Full Remote Device Takeover](https://thehackernews.com/2026/01/unpatched-firmware-flaw-exposes.html) | The Hacker News | ai, incident_response, policy, vulnerabilities | 2026-01-06 15:47 |
+| [UK government admits years of cyber policy have failed, announces reset](https://therecord.media/uk-government-cyber-action-plan) | The Record (Signals) | ai, policy | 2026-01-06 15:43 |
+| [High-Severity Flaw in Open WebUI Affects AI Connections](https://www.infosecurity-magazine.com/news/flaw-open-webui-affects-ai/) | InfoSecurity Magazine News | ai, incident_response, policy | 2026-01-06 15:30 |
+| [Sedgwick confirms breach at government contractor subsidiary](https://www.bleepingcomputer.com/news/security/sedgwick-confirms-breach-at-government-contractor-subsidiary/) | BleepingComputer News | ai, data_breach, incident_response | 2026-01-06 15:27 |
+| [Phishing campaign abuses Google Cloud services to steal Microsoft 365 logins](https://www.malwarebytes.com/blog/news/2026/01/phishing-campaign-abuses-google-cloud-services-to-steal-microsoft-365-logins) | Malwarebytes Labs (News) | ai, apt, cloud, phishing | 2026-01-06 15:01 |
+| [Cyber Counterintelligence (CCI): Resecurity releases data on John Erin Binns (IRDev)](https://databreaches.net/2026/01/06/cyber-counterintelligence-cci-resecurity-releases-data-on-john-erin-binns-irdev/?pk_campaign=feed&pk_kwd=cyber-counterintelligence-cci-resecurity-releases-data-on-john-erin-binns-irdev) | DataBreaches.net (Notices) | ai, apt, data_breach, incident_response, iot, policy | 2026-01-06 14:58 |
+| [How generative AI accelerates identity attacks against Active Directory](https://www.bleepingcomputer.com/news/security/how-generative-ai-accelerates-identity-attacks-against-active-directory/) | BleepingComputer News | ai, identity, incident_response, vulnerabilities | 2026-01-06 14:46 |
+| [When Your AI Coding Plugin Starts Picking Your Dependencies: Marketplace Skills and Dependency Hijack in Claude Code](https://www.sentinelone.com/blog/marketplace-skills-and-dependency-hijack-in-claude-code/) | SentinelOne Labs | ai, darkweb, supply_chain | 2026-01-06 14:00 |
+| [Resecurity Went on the Cyber Offensive – When ‘Shiny Objects’ trick ‘Shiny Hunters’](https://securityaffairs.com/186586/cyber-crime/resecurity-went-on-the-cyber-offensive-when-shiny-objects-trick-shiny-hunters.html) | Security Affairs (Dark Web) | ai, identity | 2026-01-06 13:55 |
+| [Am I being throttled? How to detect ISP throttling](https://www.comparitech.com/blog/vpn-privacy/am-i-being-throttled/) | Comparitech Blog | unclassified | 2026-01-06 12:55 |
+| [UK Launches New Cyber Unit to Bolster Defences Against Cyber Threats](https://www.infosecurity-magazine.com/news/uk-launches-new-cyber-unit/) | InfoSecurity Magazine News | ai | 2026-01-06 12:55 |
+| [When Cybersecurity Failures Become Class I Recalls: Insights from the Abiomed FDA Alert](https://c2a-sec.com/when-cybersecurity-failures-become-class-i-recalls-insights-from-the-abiomed-fda-alert/) | C2A Security Blog | ai, incident_response, phishing | 2026-01-06 12:30 |
+| [How to Avoid Phishing Incidents in 2026: A CISO Guide](https://hackread.com/how-to-avoid-phishing-incidents-2026-ciso-guide/) | HackRead | phishing | 2026-01-06 12:23 |
+| [Disney fined $10m for mislabeling kids’ YouTube videos and violating privacy law](https://www.malwarebytes.com/blog/privacy/2026/01/disney-fined-10m-for-mislabeling-kids-youtube-videos-and-violating-privacy-law) | Malwarebytes Labs (News) | cloud, policy | 2026-01-06 12:22 |
+| [Fake Booking Emails Redirect Hotel Staff to Fake BSoD Pages Delivering DCRat](https://thehackernews.com/2026/01/fake-booking-emails-redirect-hotel.html) | The Hacker News | ai, apt, incident_response, malware | 2026-01-06 12:13 |
 
 ---
 
@@ -76,7 +76,7 @@
 - Trend Micro Research — 404, message='Not Found', url=URL('https://www.trendmicro.com/en_us/research/rss.html')
 - Tripwire State of Security — 403, message='Forbidden', url=URL('https://www.tripwire.com/state-of-security/feed/')
 - PhishLabs Blog — 403, message='Forbidden', url=URL('https://www.phishlabs.com/blog/feed/')
-- Dark Reading — 403, message='Forbidden', url=URL('https://www.darkreading.com/rss/all.xml')
+- Dark Reading — 403, message='Forbidden', url=URL('http://www.darkreading.com/rss/all.xml')
 - Ars Technica Security — 404, message='Not Found', url=URL('http://feeds.arstechnica.com/arstechnica/security')
 - Abuse.ch Feodo Tracker — 404, message='Not Found', url=URL('https://feodotracker.abuse.ch/feeds/rss.xml')
 - Abuse.ch URLhaus — 404, message='Not Found', url=URL('https://urlhaus.abuse.ch/feeds/rss/')
@@ -88,7 +88,6 @@
 - Maltrail Botnet Feed — 404, message='Not Found', url=URL('https://maltrail.github.io/feed.xml')
 - BadIPs — Cannot connect to host www.badips.com:443 ssl:default [Name or service not known]
 - ThreatMiner C2 Feed — 404, message='Not Found', url=URL('https://www.threatminer.org/rss.php?type=C2')
-- Hunt.io IOC Hunter — 404, message='Not Found', url=URL('https://hunt.io/ioc-feed/rss')
 - OpenPhish — 404, message='Not Found', url=URL('https://openphish.com/feed.xml')
 - PhishLabs Blog (Phishing) — 403, message='Forbidden', url=URL('https://www.phishlabs.com/blog/feed/')
 - Spamhaus Phishing — 404, message='Not Found', url=URL('https://www.spamhaus.org/phishing_lasso')
