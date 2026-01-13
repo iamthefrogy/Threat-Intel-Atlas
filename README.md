@@ -1,6 +1,6 @@
 <p align="center">
   <strong style="font-size:1.9rem;">Threat Intel Atlas · Daily Signal Briefing</strong><br />
-  <span style="font-size:1rem;color:#6ecff6;">Compiled from 166 intelligence sources · refreshed 2026-01-12 06:45 UTC</span>
+  <span style="font-size:1rem;color:#6ecff6;">Compiled from 166 intelligence sources · refreshed 2026-01-13 06:45 UTC</span>
 </p>
 
 ---
@@ -10,8 +10,8 @@
 | Metric | Value |
 | --- | --- |
 | Total signals retained | 1000 |
-| Signals detected in the last 24h | 9 |
-| Signals surfaced in this report | 9 |
+| Signals detected in the last 24h | 55 |
+| Signals surfaced in this report | 55 |
 
 ---
 
@@ -19,15 +19,46 @@
 
 | Title | Source | Tags | Published (UTC) |
 | --- | --- | --- | --- |
-| [Enshittification is ruining everything online (Lock and Code S07E01)](https://www.malwarebytes.com/blog/podcast/2026/01/enshittification-is-ruining-everything-online-lock-and-code-s07e01) | Malwarebytes Labs (News) | unclassified | 2026-01-12 05:03 |
-| [Instagram’s “17 Million User Data Leak” Was Just Scraped Records from 2022](https://hackread.com/instagram-user-data-leak-scraped-records-2022/) | HackRead | data_breach, defense | 2026-01-11 22:24 |
-| [Instagram denies breach amid claims of 17 million account data leak](https://www.bleepingcomputer.com/news/security/instagram-denies-breach-amid-claims-of-17-million-account-data-leak/) | BleepingComputer News | ai, apt, data_breach, identity | 2026-01-11 19:13 |
-| [California bans data broker reselling health data of millions](https://www.bleepingcomputer.com/news/legal/california-bans-data-broker-reselling-health-data-of-millions/) | BleepingComputer News | ai, incident_response | 2026-01-11 15:23 |
-| [The ideals of Aaron Swartz in an age of control](https://securityaffairs.com/186792/security/the-ideals-of-aaron-swartz-in-an-age-of-control.html) | Security Affairs (Dark Web) | unclassified | 2026-01-11 15:06 |
-| [What is piggybacking in cybersecurity?](https://www.comparitech.com/blog/vpn-privacy/piggybacking-in-cybersecurity/) | Comparitech Blog | unclassified | 2026-01-11 12:02 |
-| [Europol Raids Disrupt Black Axe Cybercrime Ring in Spain](https://hackread.com/europol-black-axe-cybercrime-ring-spain/) | HackRead | ai | 2026-01-11 10:41 |
-| [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 79](https://securityaffairs.com/186786/breaking-news/security-affairs-malware-newsletter-round-79.html) | Security Affairs (Dark Web) | ai, apt, defense, incident_response, malware | 2026-01-11 10:14 |
-| [Security Affairs newsletter Round 558 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/186776/breaking-news/security-affairs-newsletter-round-558-by-pierluigi-paganini-international-edition.html) | Security Affairs (Dark Web) | ai, apt, data_breach, incident_response | 2026-01-11 10:03 |
+| [Hacker gets seven years for breaching Rotterdam and Antwerp ports](https://www.bleepingcomputer.com/news/security/hacker-gets-seven-years-for-breaching-rotterdam-and-antwerp-ports/) | BleepingComputer News | data_breach | 2026-01-12 23:06 |
+| [Minnesota Sues to Stop ICE ‘Invasion’](https://www.wired.com/story/minnesota-sues-to-stop-ice-invasion/) | Wired Security | unclassified | 2026-01-12 22:42 |
+| [Russian BlueDelta (Fancy Bear) Uses PDFs to Steal Logins in Just 2 Seconds](https://hackread.com/russian-bluedelta-fancy-bear-pdfs-steal-login/) | HackRead | ai, apt, identity | 2026-01-12 22:14 |
+| [FBI Agent’s Sworn Testimony Contradicts Claims ICE’s Jonathan Ross Made Under Oath](https://www.wired.com/story/fbi-agents-sworn-testimony-contradicts-claims-ices-jonathan-ross-made-under-oath/) | Wired Security | ai | 2026-01-12 22:11 |
+| [U.S. CISA adds a flaw in Gogs to its Known Exploited Vulnerabilities catalog](https://securityaffairs.com/186837/hacking/u-s-cisa-adds-a-flaw-in-gogs-to-its-known-exploited-vulnerabilities-catalog.html) | Security Affairs (Dark Web) | policy, vulnerabilities | 2026-01-12 21:55 |
+| [Facebook login thieves now using browser-in-browser trick](https://www.bleepingcomputer.com/news/security/facebook-login-thieves-now-using-browser-in-browser-trick/) | BleepingComputer News | identity | 2026-01-12 21:05 |
+| [Received an Instagram password reset email? Here’s what you need to know](https://www.malwarebytes.com/blog/news/2026/01/received-an-instagram-password-reset-email-heres-what-you-need-to-know) | Malwarebytes Labs (News) | ai, darkweb, identity | 2026-01-12 21:04 |
+| [Internet monitoring experts say Iran blackout likely to continue](https://therecord.media/internet-monitoring-experts-say-iran-blackouts-continue) | The Record (Signals) | ai, incident_response | 2026-01-12 20:57 |
+| [Armenia probes alleged sale of 8 million government records on hacker forum](https://therecord.media/armenia-probes-alleged-sale-government-records) | The Record (Signals) | ai | 2026-01-12 20:26 |
+| [How to remove the Apple security alert scam](https://www.comparitech.com/blog/information-security/apple-security-alert-scam/) | Comparitech Blog | ai | 2026-01-12 20:23 |
+| [CISA orders feds to patch Gogs RCE flaw exploited in zero-day attacks](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-gogs-rce-flaw-exploited-in-zero-day-attacks/) | BleepingComputer News | ai, incident_response, policy, vulnerabilities | 2026-01-12 20:09 |
+| [Hungary grants asylum to former Polish minister implicated in spyware probe](https://therecord.media/hungary-asylum-spyware-probe-poland) | The Record (Signals) | unclassified | 2026-01-12 19:58 |
+| ['Bad actor' hijacks Apex Legends characters in live matches](https://www.bleepingcomputer.com/news/security/bad-actor-hijacks-apex-legends-characters-in-live-matches/) | BleepingComputer News | apt, incident_response | 2026-01-12 19:51 |
+| [How to delete your Skype account (and alternatives to use)](https://www.comparitech.com/blog/information-security/how-to-delete-skype-account/) | Comparitech Blog | incident_response | 2026-01-12 19:48 |
+| [Sweden detains ex-military IT consultant suspected of spying for Russia](https://therecord.media/sweden-detains-it-consultant-russia) | The Record (Signals) | ai | 2026-01-12 18:55 |
+| [Meta fixes Instagram password reset flaw, denies data breach](https://securityaffairs.com/186829/security/meta-fixes-instagram-password-reset-flaw-denies-data-breach.html) | Security Affairs (Dark Web) | ai, data_breach, identity, incident_response, policy, vulnerabilities | 2026-01-12 18:53 |
+| [GoFundMe Ignores Own Rules by Hosting a Legal-Defense Fund for the ICE Agent Who Killed Renee Good](https://www.wired.com/story/gofundme-ice-jonathan-ross-renee-good-fundraiser/) | Wired Security | ai, data_breach | 2026-01-12 18:48 |
+| [University of Hawaii Cancer Center hit by ransomware attack](https://www.bleepingcomputer.com/news/security/university-of-hawaii-cancer-center-hit-by-ransomware-attack/) | BleepingComputer News | ai, data_breach, malware | 2026-01-12 18:48 |
+| [5 Best Secure Container Images for Modern Applications (2026)](https://hackread.com/best-secure-container-images-applications-2026/) | HackRead | ai, vulnerabilities | 2026-01-12 18:16 |
+| [Target's dev server offline after hackers claim to steal source code](https://www.bleepingcomputer.com/news/security/targets-dev-server-offline-after-hackers-claim-to-steal-source-code/) | BleepingComputer News | ai | 2026-01-12 17:52 |
+| [Fake Employee Reports Spread Guloader and Remcos RAT Malware](https://hackread.com/fake-employee-reports-guloader-remcos-rat-malware/) | HackRead | malware | 2026-01-12 17:25 |
+| [Palo Alto Networks Introduces New Vibe Coding Security Governance Framework](https://www.infosecurity-magazine.com/news/palo-alto-networks-vibe-coding/) | InfoSecurity Magazine News | policy | 2026-01-12 17:15 |
+| [Cybersecurity in the Public Sector: Challenges, Strategies and Best Practices](https://hackread.com/cybersecurity-public-sector-challenges-strategies-practices/) | HackRead | unclassified | 2026-01-12 16:51 |
+| [CISA Closes Ten Emergency Directives After Federal Cyber Reviews](https://www.infosecurity-magazine.com/news/cisa-closes-ten-emergency/) | InfoSecurity Magazine News | incident_response | 2026-01-12 16:45 |
+| [Apple confirms Google Gemini will power Siri, says privacy remains a priority](https://www.bleepingcomputer.com/news/apple/apple-confirms-google-gemini-will-power-siri-says-privacy-remains-a-priority/) | BleepingComputer News | ai, cloud, incident_response | 2026-01-12 16:43 |
+| [n8n Supply Chain Attack Abuses Community Nodes to Steal OAuth Tokens](https://thehackernews.com/2026/01/n8n-supply-chain-attack-abuses.html) | The Hacker News | ai, apt, identity, incident_response, iot, supply_chain | 2026-01-12 16:39 |
+| [Dutch court sentences hacker who used port systems to smuggle cocaine to 7 years](https://databreaches.net/2026/01/12/dutch-court-sentences-hacker-who-used-port-systems-to-smuggle-cocaine-to-7-years/?pk_campaign=feed&pk_kwd=dutch-court-sentences-hacker-who-used-port-systems-to-smuggle-cocaine-to-7-years) | DataBreaches.net (Notices) | ai, apt, data_breach, iot, vulnerabilities | 2026-01-12 16:27 |
+| [Hidden Telegram proxy links can reveal your IP address in one click](https://www.bleepingcomputer.com/news/security/hidden-telegram-proxy-links-can-reveal-your-ip-address-in-one-click/) | BleepingComputer News | unclassified | 2026-01-12 16:20 |
+| [Everest Ransomware Claims Breach at Nissan, Says 900GB of Data Stolen](https://hackread.com/everest-ransomware-nissan-data-breach/) | HackRead | ai, data_breach, malware | 2026-01-12 16:02 |
+| [California Shuts Down Health Data Resales By Unregistered Brokers](https://www.infosecurity-magazine.com/news/california-shuts-health-data/) | InfoSecurity Magazine News | unclassified | 2026-01-12 16:00 |
+| [Spanish energy giant Endesa discloses data breach affecting customers](https://www.bleepingcomputer.com/news/security/spanish-energy-giant-endesa-discloses-data-breach-affecting-customers/) | BleepingComputer News | ai, data_breach | 2026-01-12 15:57 |
+| [Microsoft is retiring the Lens scanner app for iOS, Android](https://www.bleepingcomputer.com/news/microsoft/microsoft-is-retiring-the-lens-scanner-app-for-ios-android/) | BleepingComputer News | incident_response, mobile | 2026-01-12 15:48 |
+| [Dutch court sentences hacker who used port systems to smuggle cocaine to 7 years](https://therecord.media/dutch-court-sentences-hacker-who-smuggled-cocaine-ports) | The Record (Signals) | ai, defense, iot, vulnerabilities | 2026-01-12 15:02 |
+| [Prevent cloud data leaks with Microsoft 365 access reviews](https://www.bleepingcomputer.com/news/security/prevent-cloud-data-leaks-with-microsoft-365-access-reviews/) | BleepingComputer News | ai, cloud, data_breach | 2026-01-12 14:45 |
+| [World Economic Forum: Cyber-fraud overtakes ransomware as business leaders' top cyber-security concern](https://www.infosecurity-magazine.com/news/fraud-overtakes-ransomware-as-top/) | InfoSecurity Magazine News | malware, phishing | 2026-01-12 14:10 |
+| [Max severity Ni8mare flaw impacts nearly 60,000 n8n instances](https://www.bleepingcomputer.com/news/security/max-severity-ni8mare-flaw-impacts-nearly-60-000-n8n-instances/) | BleepingComputer News | ai, policy, vulnerabilities | 2026-01-12 14:05 |
+| [Regulators around the world are scrutinizing Grok over sexual deepfakes](https://www.malwarebytes.com/blog/news/2026/01/regulators-around-the-world-are-scrutinizing-grok-over-sexual-deepfakes) | Malwarebytes Labs (News) | ai | 2026-01-12 14:04 |
+| [Total VPN vs ExpressVPN: Which VPN is best in 2026?](https://www.comparitech.com/blog/vpn-privacy/total-vpn-vs-expressvpn/) | Comparitech Blog | unclassified | 2026-01-12 13:49 |
+| [⚡ Weekly Recap: AI Automation Exploits, Telecom Espionage, Prompt Poaching & More](https://thehackernews.com/2026/01/weekly-recap-ai-automation-exploits.html) | The Hacker News | ai, apt, incident_response, policy, vulnerabilities | 2026-01-12 13:41 |
+| [Another plastic surgery practice fell prey to a cyberattack with extortion attempt](https://databreaches.net/2026/01/12/another-plastic-surgery-practice-fell-prey-to-a-cyberattack-with-extortion-attempt/?pk_campaign=feed&pk_kwd=another-plastic-surgery-practice-fell-prey-to-a-cyberattack-with-extortion-attempt) | DataBreaches.net (Notices) | ai, apt, data_breach, incident_response, iot | 2026-01-12 13:18 |
 
 ---
 
