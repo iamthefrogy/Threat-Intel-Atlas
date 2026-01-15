@@ -1,6 +1,6 @@
 <p align="center">
   <strong style="font-size:1.9rem;">Threat Intel Atlas · Daily Signal Briefing</strong><br />
-  <span style="font-size:1rem;color:#6ecff6;">Compiled from 166 intelligence sources · refreshed 2026-01-14 06:45 UTC</span>
+  <span style="font-size:1rem;color:#6ecff6;">Compiled from 166 intelligence sources · refreshed 2026-01-15 06:45 UTC</span>
 </p>
 
 ---
@@ -10,8 +10,8 @@
 | Metric | Value |
 | --- | --- |
 | Total signals retained | 1000 |
-| Signals detected in the last 24h | 62 |
-| Signals surfaced in this report | 62 |
+| Signals detected in the last 24h | 61 |
+| Signals surfaced in this report | 61 |
 
 ---
 
@@ -19,46 +19,46 @@
 
 | Title | Source | Tags | Published (UTC) |
 | --- | --- | --- | --- |
-| [California privacy agency appoints surveillance expert to board](https://therecord.media/ccpa-appoints-new-board-member) | The Record (Signals) | unclassified | 2026-01-14 02:21 |
-| [Personal Details of Thousands of Border Patrol and ICE Agents Allegedly Leaked in Huge Data Breach](https://databreaches.net/2026/01/13/personal-details-of-thousands-of-border-patrol-and-ice-agents-allegedly-leaked-in-huge-data-breach/?pk_campaign=feed&pk_kwd=personal-details-of-thousands-of-border-patrol-and-ice-agents-allegedly-leaked-in-huge-data-breach) | DataBreaches.net (Notices) | ai, apt, data_breach, iot | 2026-01-14 00:32 |
-| [AZ Monica hospital in Belgium shuts down servers after cyberattack](https://securityaffairs.com/186882/cyber-crime/az-monica-hospital-in-belgium-shuts-down-servers-after-cyberattack.html) | Security Affairs (Dark Web) | unclassified | 2026-01-13 23:47 |
-| [Ukraine's army targeted in new charity-themed malware campaign](https://www.bleepingcomputer.com/news/security/ukraines-army-targeted-in-new-charity-themed-malware-campaign/) | BleepingComputer News | ai, apt, malware | 2026-01-13 23:03 |
-| [New VoidLink malware framework targets Linux cloud servers](https://www.bleepingcomputer.com/news/security/new-voidlink-malware-framework-targets-linux-cloud-servers/) | BleepingComputer News | cloud, incident_response, malware, policy | 2026-01-13 22:12 |
-| [NY: Southold Laserfiche access remains suspended after cyberattack](https://databreaches.net/2026/01/13/ny-southold-laserfiche-access-remains-suspended-after-cyberattack/?pk_campaign=feed&pk_kwd=ny-southold-laserfiche-access-remains-suspended-after-cyberattack) | DataBreaches.net (Notices) | ai, apt, data_breach, iot | 2026-01-13 22:05 |
-| [Tennessee man to plead guilty to hacking US Supreme Court filing system](https://databreaches.net/2026/01/13/tennessee-man-to-plead-guilty-to-hacking-us-supreme-court-filing-system/?pk_campaign=feed&pk_kwd=tennessee-man-to-plead-guilty-to-hacking-us-supreme-court-filing-system) | DataBreaches.net (Notices) | ai, apt, data_breach, iot | 2026-01-13 21:39 |
-| [Microsoft Patch Tuesday, January 2026 Security Update Review](https://blog.qualys.com/category/vulnerabilities-threat-research) | Qualys | incident_response, vulnerabilities | 2026-01-13 21:34 |
-| [More than 40 countries impacted by North Korea IT worker scams, crypto thefts](https://therecord.media/40-countries-impacted-nk-it-thefts-united-nations) | The Record (Signals) | unclassified | 2026-01-13 21:34 |
-| [University of Hawaii Cancer Center: Hackers Stole Research Files, Encrypted Data](https://databreaches.net/2026/01/13/university-of-hawaii-cancer-center-hackers-stole-research-files-encrypted-data/?pk_campaign=feed&pk_kwd=university-of-hawaii-cancer-center-hackers-stole-research-files-encrypted-data) | DataBreaches.net (Notices) | ai, apt, data_breach, incident_response, iot, malware | 2026-01-13 21:31 |
-| [Tennessee man to plead guilty to hacking Supreme Court’s electronic case filing system](https://therecord.media/guilty-plea-hacking-supreme-court-case-filing-system) | The Record (Signals) | unclassified | 2026-01-13 20:57 |
-| [Central Maine Healthcare breach exposed data of over 145,000 people](https://www.bleepingcomputer.com/news/security/central-maine-healthcare-breach-exposed-data-of-over-145-000-people/) | BleepingComputer News | ai, data_breach | 2026-01-13 20:32 |
-| [Threat Brief: MongoDB Vulnerability (CVE-2025-14847)](https://unit42.paloaltonetworks.com/mongobleed-cve-2025-14847/) | Palo Alto Networks Unit 42 | incident_response, vulnerabilities | 2026-01-13 20:30 |
-| [Belgian hospital AZ Monica shuts down servers after cyberattack](https://www.bleepingcomputer.com/news/security/belgian-hospital-az-monica-shuts-down-servers-after-cyberattack/) | BleepingComputer News | unclassified | 2026-01-13 20:27 |
-| [New Windows updates replace expiring Secure Boot certificates](https://www.bleepingcomputer.com/news/security/microsoft-rolls-out-new-secure-boot-certificates-for-windows-devices/) | BleepingComputer News | incident_response | 2026-01-13 19:57 |
-| [Ukraine parliament approves resignation of security service chief in major reshuffle](https://therecord.media/ukraine-parliament-approves-resignation-sbu-chief) | The Record (Signals) | ai, identity | 2026-01-13 19:45 |
-| [Threat actor claims the theft of full customer data from Spanish energy firm Endesa](https://securityaffairs.com/186861/cyber-crime/threat-actor-claims-the-theft-of-full-customer-data-from-spanish-energy-firm-endesa.html) | Security Affairs (Dark Web) | ai, apt, data_breach, incident_response | 2026-01-13 19:34 |
-| [Microsoft releases Windows 10 KB5073724 extended security update](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5073724-extended-security-update/) | BleepingComputer News | incident_response, vulnerabilities | 2026-01-13 18:56 |
-| [Windows 11 KB5074109 & KB5073455 cumulative updates released](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5074109-and-kb5073455-cumulative-updates-released/) | BleepingComputer News | unclassified | 2026-01-13 18:53 |
-| [Telegram to Add Warning for Proxy Links After IP Leak Concerns](https://hackread.com/telegram-add-warning-proxy-links-ip-leak/) | HackRead | data_breach | 2026-01-13 18:40 |
-| [Microsoft January 2026 Patch Tuesday fixes 3 zero-days, 114 flaws](https://www.bleepingcomputer.com/news/microsoft/microsoft-january-2026-patch-tuesday-fixes-3-zero-days-114-flaws/) | BleepingComputer News | cloud, policy, vulnerabilities | 2026-01-13 18:34 |
-| [Microsoft Patch Tuesday for January 2026 — Snort rules and prominent vulnerabilities](https://blog.talosintelligence.com/microsoft-patch-tuesday-january-2026/) | Cisco Talos | vulnerabilities | 2026-01-13 18:29 |
-| [Google confirms Android bug causing volume key issues](https://www.bleepingcomputer.com/news/google/google-confirms-android-bug-causing-volume-key-issues/) | BleepingComputer News | incident_response, mobile | 2026-01-13 18:25 |
-| [Long-Running Web Skimming Campaign Steals Credit Cards From Online Checkout Pages](https://thehackernews.com/2026/01/long-running-web-skimming-campaign.html) | The Hacker News | ai, apt | 2026-01-13 17:30 |
-| [Malicious Chrome Extension Steals MEXC API Keys by Masquerading as Trading Tool](https://thehackernews.com/2026/01/malicious-chrome-extension-steals-mexc.html) | The Hacker News | ai, identity | 2026-01-13 17:22 |
-| [How Microsoft builds privacy and security to work hand-in-hand](https://www.microsoft.com/en-us/security/blog/2026/01/13/how-microsoft-builds-privacy-and-security-to-work-hand-in-hand/) | Microsoft Security Blog | incident_response, policy | 2026-01-13 17:00 |
-| [Flowable 2025.2 Brings Governed Multi-Agent AI Orchestration to Enterprises](https://hackread.com/flowable-2025-2-multi-agent-ai-orchestration-enterprises/) | HackRead | ai | 2026-01-13 16:54 |
-| [Senior military cyber operator removed from Russia task force](https://therecord.media/senior-military-cyber-op-removed-russia-task-force) | The Record (Signals) | unclassified | 2026-01-13 16:53 |
-| [Betterment confirms data breach after wave of crypto scam emails](https://www.bleepingcomputer.com/news/security/betterment-confirms-data-breach-after-wave-of-crypto-scam-emails/) | BleepingComputer News | ai, data_breach, incident_response | 2026-01-13 16:46 |
-| [Dozens of ICE Vehicles in Minnesota Lack ‘Necessary’ Lights and Sirens](https://www.wired.com/story/dozens-of-ice-vehicles-in-minnesota-lack-necessary-lights-and-sirens/) | Wired Security | incident_response | 2026-01-13 16:45 |
-| [CISA Flags Actively Exploited Gogs Vulnerability With No Patch](https://www.infosecurity-magazine.com/news/cisa-flags-exploited-gogs-flaw-no/) | InfoSecurity Magazine News | policy, vulnerabilities | 2026-01-13 16:45 |
-| [Data broker fined after selling Alzheimer’s patient info and millions of sensitive profiles](https://www.malwarebytes.com/blog/news/2026/01/data-broker-fined-after-selling-alzheimers-patient-info-and-millions-of-sensitive-profiles) | Malwarebytes Labs (News) | unclassified | 2026-01-13 16:05 |
-| [SHADOW#REACTOR Campaign Uses Text-Only Staging to Deploy Remcos RAT](https://www.infosecurity-magazine.com/news/shadowreactor-text-staging-remcos/) | InfoSecurity Magazine News | ai, apt, malware | 2026-01-13 16:00 |
-| [Convincing LinkedIn comment-reply tactic used in new phishing](https://www.bleepingcomputer.com/news/security/convincing-linkedin-comment-reply-tactic-used-in-new-phishing/) | BleepingComputer News | phishing, policy | 2026-01-13 15:45 |
-| [Antwerp’s AZ Monica hospital hit by cyber attack](https://databreaches.net/2026/01/13/antwerps-az-monica-hospital-hit-by-cyber-attack/?pk_campaign=feed&pk_kwd=antwerps-az-monica-hospital-hit-by-cyber-attack) | DataBreaches.net (Notices) | ai, apt, data_breach, incident_response, iot | 2026-01-13 15:41 |
-| [Dutch court convicts hacker who exploited port networks for drug trafficking](https://securityaffairs.com/186851/cyber-crime/dutch-court-convicts-hacker-who-exploited-port-networks-for-drug-trafficking.html) | Security Affairs (Dark Web) | ai, iot, vulnerabilities | 2026-01-13 15:39 |
-| [From SBOMs to Defensible Decisions: Risk Based Prioritization in Medical Devices](https://c2a-sec.com/from-sboms-to-defensible-decisions-risk-based-prioritization-in-medical-devices/) | C2A Security Blog | incident_response | 2026-01-13 15:27 |
-| [Phishing Scams Exploit Browser-in-the-Browser Attacks to Steal Facebook Passwords](https://www.infosecurity-magazine.com/news/phishing-scams-exploit-browser/) | InfoSecurity Magazine News | identity, phishing, vulnerabilities | 2026-01-13 14:40 |
-| [New Chinese-Made Malware Framework Targets Linux-Based Cloud Environments](https://www.infosecurity-magazine.com/news/chinese-malware-framework-linux/) | InfoSecurity Magazine News | cloud, incident_response, malware, policy | 2026-01-13 14:31 |
-| [Widespread Magecart Campaign Targets Users of All Major Credit Cards](https://hackread.com/magecart-targets-all-credit-cards-users/) | HackRead | ai, apt | 2026-01-13 14:28 |
+| [ChatGPT's upcoming cross-platform feature is codenamed "Agora"](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpts-upcoming-cross-platform-feature-is-codenamed-agora/) | BleepingComputer News | ai | 2026-01-15 03:00 |
+| [Google plans to make Chrome for Android an agentic browser with Gemini](https://www.bleepingcomputer.com/news/artificial-intelligence/google-plans-to-make-chrome-for-android-an-agentic-browser-with-gemini/) | BleepingComputer News | mobile | 2026-01-15 01:30 |
+| [Google's Personal Intelligence links Gmail, Photos and Search to Gemini](https://www.bleepingcomputer.com/news/artificial-intelligence/googles-personal-intelligence-links-gmail-photos-and-search-to-gemini/) | BleepingComputer News | ai | 2026-01-15 00:00 |
+| [OpenAI's hidden ChatGPT Translate tool takes on Google Translate](https://www.bleepingcomputer.com/news/artificial-intelligence/openais-hidden-chatgpt-translate-tool-takes-on-google-translate/) | BleepingComputer News | ai | 2026-01-14 22:52 |
+| [South Korean giant Kyowon confirms data theft in ransomware attack](https://www.bleepingcomputer.com/news/security/south-korean-giant-kyowon-confirms-data-theft-in-ransomware-attack/) | BleepingComputer News | incident_response, malware | 2026-01-14 21:49 |
+| [Microsoft disrupts RedVDS cybercrime platform behind $40 million in scam losses](https://therecord.media/microsoft-redvds-cybercrime-scam) | The Record (Signals) | policy | 2026-01-14 20:40 |
+| [France fines Free Mobile €42 million over 2024 data breach incident](https://www.bleepingcomputer.com/news/security/france-fines-free-mobile-42-million-over-2024-data-breach-incident/) | BleepingComputer News | ai, data_breach, mobile | 2026-01-14 19:50 |
+| [CERT-UA reports PLUGGYAPE cyberattacks on defense forces](https://securityaffairs.com/186910/intelligence/cert-ua-reports-pluggyape-cyberattacks-on-defense-forces.html) | Security Affairs (Dark Web) | ai, malware | 2026-01-14 19:24 |
+| [Hacking Wheelchairs over Bluetooth](https://www.schneier.com/blog/archives/2026/01/hacking-wheelchairs-over-bluetooth.html) | Schneier on Security | ai, identity, incident_response, iot | 2026-01-14 19:22 |
+| [Researchers Null-Route Over 550 Kimwolf and Aisuru Botnet Command Servers](https://thehackernews.com/2026/01/kimwolf-botnet-infected-over-2-million.html) | The Hacker News | ai, ddos, identity, incident_response, malware, mobile | 2026-01-14 19:03 |
+| [Verizon Outage Knocks Out US Mobile Service, Including Some 911 Calls](https://www.wired.com/story/verizon-outage-knocks-out-us-mobile-service-including-some-911-calls/) | Wired Security | mobile | 2026-01-14 18:54 |
+| [Exploit code public for critical FortiSIEM command injection flaw](https://www.bleepingcomputer.com/news/security/exploit-code-public-for-critical-fortisiem-command-injection-flaw/) | BleepingComputer News | ai, policy, vulnerabilities | 2026-01-14 18:51 |
+| [New China Linked VoidLink Linux Malware Targets Major Cloud Providers](https://hackread.com/china-voidlink-linux-malware-cloud-providers/) | HackRead | apt, cloud, malware, policy | 2026-01-14 18:37 |
+| [Verizon Wireless outage puts phones in SOS mode without cell service](https://www.bleepingcomputer.com/news/mobile/verizon-wireless-outage-puts-phones-in-sos-mode-without-cell-service/) | BleepingComputer News | incident_response | 2026-01-14 18:27 |
+| [California AG to probe Musk’s Grok for nonconsensual deepfakes](https://therecord.media/california-grok-deepfakes-investigation) | The Record (Signals) | ai | 2026-01-14 18:19 |
+| [Structure and reliability in e-commerce platforms](https://hackread.com/structure-and-reliability-in-e-commerce-platforms/) | HackRead | incident_response | 2026-01-14 18:02 |
+| [Ugandan officials turn off internet on eve of national elections](https://therecord.media/uganda-internet-shutdown-elections) | The Record (Signals) | mobile | 2026-01-14 17:52 |
+| [French data regulator fines telco subsidiaries $48 million over data breach](https://therecord.media/france-data-regulator-fine) | The Record (Signals) | data_breach | 2026-01-14 17:47 |
+| [Types of password attacks (and how to prevent them)](https://www.comparitech.com/blog/information-security/types-of-password-attacks/) | Comparitech Blog | identity | 2026-01-14 17:08 |
+| [Microsoft named a Leader in IDC MarketScape for Unified AI Governance Platforms](https://www.microsoft.com/en-us/security/blog/2026/01/14/microsoft-named-a-leader-in-idc-marketscape-for-unified-ai-governance-platforms/) | Microsoft Security Blog | ai, incident_response | 2026-01-14 17:00 |
+| [Upcoming Speaking Engagements](https://www.schneier.com/blog/archives/2026/01/upcoming-speaking-engagements-52.html) | Schneier on Security | ai, phishing | 2026-01-14 17:00 |
+| [Microsoft updates Windows DLL that triggered security alerts](https://www.bleepingcomputer.com/news/microsoft/microsoft-updates-windows-dll-that-triggered-security-alerts/) | BleepingComputer News | ai | 2026-01-14 16:44 |
+| [Poland says it repelled major cyberattack on power grid, blames Russia](https://therecord.media/poland-cyberattack-grid-russia) | The Record (Signals) | unclassified | 2026-01-14 16:38 |
+| [Criminal Subscription Service Behind AI-Powered Cyber-Attacks Taken Out By Microsoft](https://www.infosecurity-magazine.com/news/criminal-subscription-service/) | InfoSecurity Magazine News | ai, phishing | 2026-01-14 16:32 |
+| [Hackers Use Fake PayPal Notices to Steal Credentials, Deploy RMMs](https://www.infosecurity-magazine.com/news/hackers-fake-paypal-notices-deploy/) | InfoSecurity Magazine News | identity, phishing, vulnerabilities | 2026-01-14 16:00 |
+| [Trump Warned of a Tren de Aragua ‘Invasion.’ US Intel Told a Different Story](https://www.wired.com/story/trump-warned-of-a-tren-de-aragua-invasion-us-intel-told-a-different-story/) | Wired Security | ai, incident_response | 2026-01-14 15:59 |
+| [Phishing scammers are posting fake “account restricted” comments on LinkedIn](https://www.malwarebytes.com/blog/news/2026/01/phishing-scammers-are-posting-fake-account-restricted-comments-on-linkedin) | Malwarebytes Labs (News) | ai, incident_response, phishing | 2026-01-14 15:55 |
+| [Fortinet fixed two critical flaws in FortiFone and FortiSIEM](https://securityaffairs.com/186902/security/fortinet-fixed-two-critical-flaws-in-fortifone-and-fortisiem.html) | Security Affairs (Dark Web) | cloud, data_breach, identity, incident_response, policy, vulnerabilities | 2026-01-14 15:07 |
+| [AI Agents Are Becoming Privilege Escalation Paths](https://thehackernews.com/2026/01/ai-agents-are-becoming-privilege.html) | The Hacker News | ai, phishing, vulnerabilities | 2026-01-14 15:07 |
+| [Inside RedVDS: How a single virtual desktop provider fueled worldwide cybercriminal operations](https://www.microsoft.com/en-us/security/blog/2026/01/14/inside-redvds-how-a-single-virtual-desktop-provider-fueled-worldwide-cybercriminal-operations/) | Microsoft Security Blog | incident_response, policy | 2026-01-14 15:03 |
+| [ConsentFix debrief: Insights from the new OAuth phishing attack](https://www.bleepingcomputer.com/news/security/consentfix-debrief-insights-from-the-new-oauth-phishing-attack/) | BleepingComputer News | phishing | 2026-01-14 15:01 |
+| [Hacker Claims Full Breach of Russia’s Max Messenger, Threatens Public Leak](https://hackread.com/hacker-russia-max-messenger-breach-data-leak/) | HackRead | ai, data_breach | 2026-01-14 14:49 |
+| [UAC-0190 Attack Detection: Fake Charity Lures Used to Deploy the PLUGGYAPE Backdoor Against the Ukrainian Armed Forces](https://socprime.com/blog/uac-0190-attacks-detection/) | SOC Prime | ai, apt, defense, incident_response, malware, phishing | 2026-01-14 14:27 |
+| [DeadLock Ransomware Uses Polygon Smart Contracts For Proxy Rotation](https://www.infosecurity-magazine.com/news/deadlock-polygon-smart-contracts/) | InfoSecurity Magazine News | ai, malware | 2026-01-14 14:20 |
+| [Hackers Exploit c-ares DLL Side-Loading to Bypass Security and Deploy Malware](https://thehackernews.com/2026/01/hackers-exploit-c-ares-dll-side-loading.html) | The Hacker News | ai, apt, identity, incident_response, malware, vulnerabilities | 2026-01-14 14:18 |
+| [Survey: Rapid AI Adoption Causes Major Cyber Risk Visibility Gaps](https://hackread.com/survey-rapid-ai-adoption-cyber-risk-visibility-gaps/) | HackRead | ai, phishing, supply_chain | 2026-01-14 14:00 |
+| [Reprompt attack hijacked Microsoft Copilot sessions for data theft](https://www.bleepingcomputer.com/news/security/reprompt-attack-let-hackers-hijack-microsoft-copilot-sessions/) | BleepingComputer News | unclassified | 2026-01-14 14:00 |
+| [Microsoft January 2026 Patch Tuesday: 115 Vulnerabilities Fixed](https://hackread.com/microsoft-january-2026-patch-tuesday-vulnerabilities/) | HackRead | vulnerabilities | 2026-01-14 13:31 |
+| [Data protection agency tells Coupang to stop publishing unconfirmed information about data breach](https://databreaches.net/2026/01/14/data-protection-agency-tells-coupang-to-stop-publishing-unconfirmed-information-about-data-breach/?pk_campaign=feed&pk_kwd=data-protection-agency-tells-coupang-to-stop-publishing-unconfirmed-information-about-data-breach) | DataBreaches.net (Notices) | ai, apt, data_breach, incident_response, iot | 2026-01-14 13:19 |
+| [Eurail passengers taken for a ride as data breach spills passports, bank details](https://databreaches.net/2026/01/14/eurail-passengers-taken-for-a-ride-as-data-breach-spills-passports-bank-details/?pk_campaign=feed&pk_kwd=eurail-passengers-taken-for-a-ride-as-data-breach-spills-passports-bank-details) | DataBreaches.net (Notices) | ai, apt, data_breach, incident_response, iot | 2026-01-14 13:18 |
 
 ---
 
@@ -70,7 +70,7 @@
 - Digital Shadows — Cannot connect to host www.digitalshadows.com:443 ssl:default [Name or service not known]
 - ESET WeLiveSecurity — 404, message='Not Found', url=URL('https://www.welivesecurity.com/rss-feed/')
 - Mandiant/FireEye — 404, message='Not Found', url=URL('https://www.mandiant.com/resources/blog/feed')
-- Fortinet Threat Research — 404, message='Not Found', url=URL('https://www.fortinet.com/blog/threat-research/feed')
+- Fortinet Threat Research — 504, message='Gateway Time-out', url=URL('https://www.fortinet.com/blog/threat-research/feed')
 - Quarkslab — 404, message='Not Found', url=URL('https://blog.quarkslab.com/rss.xml')
 - SensePost — 404, message='Not Found', url=URL('https://sensepost.com/blog/feed')
 - Trend Micro Research — 404, message='Not Found', url=URL('https://www.trendmicro.com/en_us/research/rss.html')
@@ -87,14 +87,14 @@
 - Hunt.io C2 Feed — 404, message='Not Found', url=URL('https://hunt.io/c2-feed/rss')
 - Maltrail Botnet Feed — 404, message='Not Found', url=URL('https://maltrail.github.io/feed.xml')
 - BadIPs — Cannot connect to host www.badips.com:443 ssl:default [Name or service not known]
-- Domaineyes Sinkhole Feed — Cannot connect to host domaineyes.com:443 ssl:default [[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1016)]
+- Domaineyes Sinkhole Feed — Server disconnected
 - ThreatMiner C2 Feed — 404, message='Not Found', url=URL('https://www.threatminer.org/rss.php?type=C2')
-- Hunt.io IOC Hunter — 404, message='Not Found', url=URL('https://hunt.io/ioc-feed/rss')
 - OpenPhish — 404, message='Not Found', url=URL('https://openphish.com/feed.xml')
 - PhishLabs Blog (Phishing) — 403, message='Forbidden', url=URL('https://www.phishlabs.com/blog/feed/')
 - Spamhaus Phishing — 404, message='Not Found', url=URL('https://www.spamhaus.org/phishing_lasso')
 - ThreatNix Phishing — 404, message='Not Found', url=URL('https://threatnix.io/feed/')
 - URLScan.io Malicious — 404, message='Not Found', url=URL('https://urlscan.io/feed/malicious/')
+- BrandShield — 403, message='Forbidden', url=URL('https://brandshield.com/feed/')
 - Netcraft Phishing — 404, message='Not Found', url=URL('https://www.netcraft.com/rss/phishing.xml')
 - DomainTools Security Blog — 404, message='Not Found', url=URL('https://www.domaintools.com/blog/feed')
 - VX-Underground Blog — Cannot connect to host blog.vx-underground.org:443 ssl:default [Name or service not known]
