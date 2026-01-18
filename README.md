@@ -1,6 +1,6 @@
 <p align="center">
   <strong style="font-size:1.9rem;">Threat Intel Atlas · Daily Signal Briefing</strong><br />
-  <span style="font-size:1rem;color:#6ecff6;">Compiled from 166 intelligence sources · refreshed 2026-01-17 06:44 UTC</span>
+  <span style="font-size:1rem;color:#6ecff6;">Compiled from 166 intelligence sources · refreshed 2026-01-18 06:44 UTC</span>
 </p>
 
 ---
@@ -10,8 +10,8 @@
 | Metric | Value |
 | --- | --- |
 | Total signals retained | 1000 |
-| Signals detected in the last 24h | 40 |
-| Signals surfaced in this report | 40 |
+| Signals detected in the last 24h | 13 |
+| Signals surfaced in this report | 13 |
 
 ---
 
@@ -19,46 +19,19 @@
 
 | Title | Source | Tags | Published (UTC) |
 | --- | --- | --- | --- |
-| [Anatomy of an Attack: The Payroll Pirates and the Power of Social Engineering](https://unit42.paloaltonetworks.com/social-engineering-payroll-pirates/) | Palo Alto Networks Unit 42 | data_breach, incident_response, phishing | 2026-01-17 00:00 |
-| [ChatGPT Go subscription rolls out worldwide at $8, but it'll show you ads](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-go-subscription-rolls-out-worldwide-at-8-but-itll-show-you-ads/) | BleepingComputer News | ai | 2026-01-16 23:43 |
-| [OpenAI says its new ChatGPT ads won't influence answers](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-new-chatgpt-ads-wont-influence-answers/) | BleepingComputer News | ai, incident_response | 2026-01-16 23:06 |
-| [StealC hackers hacked as researchers hijack malware control panels](https://www.bleepingcomputer.com/news/security/stealc-hackers-hacked-as-researchers-hijack-malware-control-panels/) | BleepingComputer News | malware, policy | 2026-01-16 21:00 |
-| [Jordanian Man Admits Selling Unauthorized Access to Computer Networks of 50 Companies](https://databreaches.net/2026/01/16/jordanian-man-admits-selling-unauthorized-access-to-computer-networks-of-50-companies/?pk_campaign=feed&pk_kwd=jordanian-man-admits-selling-unauthorized-access-to-computer-networks-of-50-companies) | DataBreaches.net (Notices) | ai, apt, data_breach, incident_response, iot | 2026-01-16 19:34 |
-| [Black Basta boss makes it onto Interpol's 'Red Notice' list](https://www.bleepingcomputer.com/news/security/black-basta-boss-makes-it-onto-interpols-red-notice-list/) | BleepingComputer News | ai, identity, incident_response, malware, policy | 2026-01-16 19:00 |
-| [Jordanian initial access broker pleads guilty to helping target 50 companies](https://therecord.media/guilty-plea-initial-access-broker-r1z) | The Record (Signals) | malware | 2026-01-16 18:53 |
-| [ICE Agent Doxxing Platform was Crippled After Coordinated DDoS Attack](https://hackread.com/ice-agent-doxxing-platform-ddos-attack/) | HackRead | data_breach, ddos | 2026-01-16 18:17 |
-| [GootLoader Malware Uses 500–1,000 Concatenated ZIP Archives to Evade Detection](https://thehackernews.com/2026/01/gootloader-malware-uses-5001000.html) | The Hacker News | ai, defense, malware | 2026-01-16 17:59 |
-| [The Good, the Bad and the Ugly in Cybersecurity – Week 3](https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-3-7/) | SentinelOne Labs | ai, data_breach, malware | 2026-01-16 17:29 |
-| [China-linked hackers exploited Sitecore zero-day for initial access](https://www.bleepingcomputer.com/news/security/china-linked-hackers-exploited-sitecore-zero-day-for-initial-access/) | BleepingComputer News | ai, apt, iot, vulnerabilities | 2026-01-16 17:10 |
-| [Police raid homes of alleged Black Basta hackers, hunt suspected Russian ringleader](https://therecord.media/police-raid-homes-of-alleged-black-basta-hackers) | The Record (Signals) | ai | 2026-01-16 16:24 |
-| [Verizon starts issuing $20 credits after nationwide outage](https://www.bleepingcomputer.com/news/mobile/verizon-starts-issuing-20-credits-after-nationwide-outage/) | BleepingComputer News | incident_response | 2026-01-16 16:19 |
-| [How 2 Missing Characters Nearly Compromised AWS](https://hackread.com/how-2-missing-chars-compromised-aws/) | HackRead | ai, cloud, incident_response, policy, supply_chain, vulnerabilities | 2026-01-16 16:02 |
-| [How to get bot lobbies in Black Ops 6 (3 methods)](https://www.comparitech.com/blog/vpn-privacy/bot-lobbies-in-black-ops-6/) | Comparitech Blog | unclassified | 2026-01-16 15:18 |
-| [Data breach at Canada’s Investment Watchdog Canadian Investment Regulatory Organization impacts 750,000 people](https://securityaffairs.com/186993/data-breach/data-breach-at-canadas-investment-watchdog-canadian-investment-regulatory-organization-impacts-750000-people.html) | Security Affairs (Dark Web) | ai, apt, darkweb, data_breach, incident_response, policy | 2026-01-16 15:01 |
-| [AI and the Corporate Capture of Knowledge](https://www.schneier.com/blog/archives/2026/01/ai-and-the-corporate-capture-of-knowledge.html) | Schneier on Security | ai, apt | 2026-01-16 14:44 |
-| [Act Now: Survey on Threats Researchers and Journalists Experience Ends January 18](https://databreaches.net/2026/01/16/act-now-survey-on-threats-researchers-and-journalists-experience-ends-january-18/?pk_campaign=feed&pk_kwd=act-now-survey-on-threats-researchers-and-journalists-experience-ends-january-18) | DataBreaches.net (Notices) | ai, apt, data_breach, iot | 2026-01-16 14:26 |
-| [Canadian investment regulator confirms hackers hit 750,000 investors](https://therecord.media/canada-ciro-investing-regulator-confirms-data-breach) | The Record (Signals) | ai, darkweb, data_breach, incident_response | 2026-01-16 14:18 |
-| [CVE-2026-0227: Palo Alto Networks Fixes GlobalProtect DoS Flaw Allowing Remote Firewall Disruption](https://socprime.com/blog/cve-2026-0227-vulnerability/) | SOC Prime | ai, incident_response, policy, vulnerabilities | 2026-01-16 14:09 |
-| [Five Malicious Chrome Extensions Impersonate Workday and NetSuite to Hijack Accounts](https://thehackernews.com/2026/01/five-malicious-chrome-extensions.html) | The Hacker News | identity, incident_response | 2026-01-16 14:09 |
-| [Astro is joining Cloudflare](https://blog.cloudflare.com/astro-joins-cloudflare/) | Cloudflare Security Blog | cloud, policy | 2026-01-16 14:00 |
-| [Former Conti member, now known as “Devman,” added to Interpol’s wanted list (updated)](https://databreaches.net/2026/01/16/former-conti-member-now-known-as-devman-added-to-interpols-wanted-list-updatedformer-conti-member-tramp-now-known-as-devman-added-to-interpols-wanted-list/?pk_campaign=feed&pk_kwd=former-conti-member-now-known-as-devman-added-to-interpols-wanted-list-updatedformer-conti-member-tramp-now-known-as-devman-added-to-interpols-wanted-list) | DataBreaches.net (Notices) | ai, apt, data_breach, iot | 2026-01-16 13:37 |
-| [WhisperPair exposes Bluetooth earbuds and headphones to tracking and eavesdropping](https://www.malwarebytes.com/blog/news/2026/01/whisperpair-exposes-bluetooth-earbuds-and-headphones-to-tracking-and-eavesdropping) | Malwarebytes Labs (News) | ai, incident_response | 2026-01-16 13:08 |
-| [ExpressVPN not working with DAZN? Try this](https://www.comparitech.com/blog/vpn-privacy/expressvpn-not-working-with-dazn/) | Comparitech Blog | unclassified | 2026-01-16 12:36 |
-| [Microsoft: Windows 11 update causes Outlook freezes for POP users](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-update-causes-outlook-freezes-for-pop-users/) | BleepingComputer News | ai, incident_response | 2026-01-16 12:12 |
-| [TamperedChef Malvertising Campaign Drops Malware via Fake PDF Manuals](https://www.infosecurity-magazine.com/news/tamperedchef-malvertising-fake-pdf/) | InfoSecurity Magazine News | ai, apt, identity, malware | 2026-01-16 12:05 |
-| [Account Compromise Surged 389% in 2025, Says eSentire](https://www.infosecurity-magazine.com/news/account-compromise-surged-2025/) | InfoSecurity Magazine News | identity, incident_response | 2026-01-16 11:40 |
-| [New Infostealer Campaign Targets Users via Spoofed Software Installers](https://blog.virustotal.com/2026/01/malicious-infostealer-january-26.html) | VirusTotal Blog (IOC) | ai, apt, defense, identity, incident_response, iot, malware, phishing | 2026-01-16 11:35 |
-| [Operation Endgame: Dutch Police Arrest Alleged AVCheck Operator](https://hackread.com/operation-endgame-dutch-police-arrest-avcheck-operator/) | HackRead | malware | 2026-01-16 11:20 |
-| [Your Digital Footprint Can Lead Right to Your Front Door](https://thehackernews.com/2026/01/your-digital-footprint-can-lead-right.html) | The Hacker News | unclassified | 2026-01-16 10:42 |
-| [Hackers now exploiting critical Fortinet FortiSIEM flaw in attacks](https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-critical-fortinet-fortisiem-vulnerability-in-attacks/) | BleepingComputer News | ai, policy, vulnerabilities | 2026-01-16 10:29 |
-| [LOTUSLITE Backdoor Targets U.S. Policy Entities Using Venezuela-Themed Spear Phishing](https://thehackernews.com/2026/01/lotuslite-backdoor-targets-us-policy.html) | The Hacker News | ai, apt, malware, phishing, policy | 2026-01-16 10:27 |
-| [China-linked APT UAT-9686 abused now patched maximum severity AsyncOS bug](https://securityaffairs.com/186985/apt/china-linked-apt-uat-9686-abused-now-patched-maximum-severity-asyncos-bug.html) | Security Affairs (Dark Web) | ai, apt, policy, vulnerabilities | 2026-01-16 10:17 |
-| [Dutch police sell fake tickets to show how easily scams work](https://www.malwarebytes.com/blog/scams/2026/01/dutch-police-sell-fake-tickets-to-show-how-easily-scams-work) | Malwarebytes Labs (News) | unclassified | 2026-01-16 10:05 |
-| [Cisco finally fixes AsyncOS zero-day exploited since November](https://www.bleepingcomputer.com/news/security/cisco-finally-fixes-asyncos-zero-day-exploited-since-november/) | BleepingComputer News | ai, vulnerabilities | 2026-01-16 09:20 |
-| [RondoDox Botnet Targets HPE OneView Vulnerability in Exploitation Wave](https://www.infosecurity-magazine.com/news/rondodox-botnet-targets-hpe/) | InfoSecurity Magazine News | malware, vulnerabilities | 2026-01-16 09:15 |
-| [Microsoft: Some Windows PCs fail to shut down after January update](https://www.bleepingcomputer.com/news/security/microsoft-some-windows-pcs-fail-to-shut-down-after-january-update/) | BleepingComputer News | ai, incident_response | 2026-01-16 08:35 |
-| [Actively exploited critical flaw in Modular DS WordPress plugin enables admin takeover](https://securityaffairs.com/186976/security/actively-exploited-critical-flaw-in-modular-ds-wordpress-plugin-enables-admin-takeover.html) | Security Affairs (Dark Web) | apt, policy, vulnerabilities | 2026-01-16 08:26 |
-| [China-Linked APT Exploited Sitecore Zero-Day in Critical Infrastructure Intrusions](https://thehackernews.com/2026/01/china-linked-apt-exploits-sitecore-zero.html) | The Hacker News | ai, apt, iot, vulnerabilities | 2026-01-16 07:18 |
+| [Google Chrome now lets you turn off on-device AI model powering scam detection](https://www.bleepingcomputer.com/news/artificial-intelligence/google-chrome-now-lets-you-turn-off-on-device-ai-model-powering-scam-detection/) | BleepingComputer News | ai, defense | 2026-01-18 02:05 |
+| [US Cyberattack Blacks Out Venezuela, Leads to Maduro’s Capture in 2026](https://databreaches.net/2026/01/17/us-cyberattack-blacks-out-venezuela-leads-to-maduros-capture-in-2026/?pk_campaign=feed&pk_kwd=us-cyberattack-blacks-out-venezuela-leads-to-maduros-capture-in-2026) | DataBreaches.net (Notices) | ai, apt, data_breach, iot | 2026-01-17 20:28 |
+| [Ukraine–Germany operation targets Black Basta, Russian leader wanted](https://securityaffairs.com/187008/cyber-crime/ukraine-germany-operation-targets-black-basta-russian-leader-wanted.html) | Security Affairs (Dark Web) | ai, malware, policy | 2026-01-17 18:11 |
+| [Black Basta Ransomware Leader Added to EU Most Wanted and INTERPOL Red Notice](https://thehackernews.com/2026/01/black-basta-ransomware-hacker-leader.html) | The Hacker News | ai, malware, policy | 2026-01-17 16:26 |
+| [Credential-stealing Chrome extensions target enterprise HR platforms](https://www.bleepingcomputer.com/news/security/credential-stealing-chrome-extensions-target-enterprise-hr-platforms/) | BleepingComputer News | identity | 2026-01-17 16:19 |
+| [A faceless hacker stole my therapy notes – now my deepest secrets are online forever](https://databreaches.net/2026/01/17/a-faceless-hacker-stole-my-therapy-notes-now-my-deepest-secrets-are-online-forever/?pk_campaign=feed&pk_kwd=a-faceless-hacker-stole-my-therapy-notes-now-my-deepest-secrets-are-online-forever) | DataBreaches.net (Notices) | ai, apt, data_breach, iot, phishing | 2026-01-17 15:55 |
+| [OCR’s Latest HIPAA Guidance and Common HIPAA Pitfalls](https://databreaches.net/2026/01/17/ocrs-latest-hipaa-guidance-and-common-hipaa-pitfalls/?pk_campaign=feed&pk_kwd=ocrs-latest-hipaa-guidance-and-common-hipaa-pitfalls) | DataBreaches.net (Notices) | ai, apt, data_breach, iot, policy, vulnerabilities | 2026-01-17 15:55 |
+| [China-linked APT UAT-8837 targets North American critical infrastructure](https://securityaffairs.com/186999/breaking-news/china-linked-apt-uat-8837-targets-north-american-critical-infrastructure.html) | Security Affairs (Dark Web) | apt, iot | 2026-01-17 15:50 |
+| [Malicious GhostPoster browser extensions found with 840,000 installs](https://www.bleepingcomputer.com/news/security/malicious-ghostposter-browser-extensions-found-with-840-000-installs/) | BleepingComputer News | ai, apt, incident_response | 2026-01-17 15:23 |
+| [Judge orders Anna’s Archive to delete scraped data; no one thinks it will comply](https://databreaches.net/2026/01/17/judge-orders-annas-archive-to-delete-scraped-data-no-one-thinks-it-will-comply/?pk_campaign=feed&pk_kwd=judge-orders-annas-archive-to-delete-scraped-data-no-one-thinks-it-will-comply) | DataBreaches.net (Notices) | ai, apt, data_breach, iot | 2026-01-17 14:03 |
+| [Merge PR #5839 from @nasbench - Archive new rule references and updat…](https://github.com/SigmaHQ/sigma/commit/e443d5cbf83f4a2d36777ca377aaf4ca78e049f5) | SigmaHQ Core Rules | unclassified | 2026-01-17 12:03 |
+| [US Hackers Reportedly Caused a Blackout in Venezuela](https://www.wired.com/story/security-news-this-week-us-hackers-reportedly-caused-a-blackout-in-venezuela/) | Wired Security | ai, incident_response | 2026-01-17 11:30 |
+| [OpenAI to Show Ads in ChatGPT for Logged-In U.S. Adults on Free and Go Plans](https://thehackernews.com/2026/01/openai-to-show-ads-in-chatgpt-for.html) | The Hacker News | ai | 2026-01-17 08:34 |
 
 ---
 
@@ -89,12 +62,12 @@
 - BadIPs — Cannot connect to host www.badips.com:443 ssl:default [Name or service not known]
 - Domaineyes Sinkhole Feed — Server disconnected
 - ThreatMiner C2 Feed — 404, message='Not Found', url=URL('https://www.threatminer.org/rss.php?type=C2')
-- Hunt.io IOC Hunter — 404, message='Not Found', url=URL('https://hunt.io/ioc-feed/rss')
 - OpenPhish — 404, message='Not Found', url=URL('https://openphish.com/feed.xml')
 - PhishLabs Blog (Phishing) — 403, message='Forbidden', url=URL('https://www.phishlabs.com/blog/feed/')
 - Spamhaus Phishing — 404, message='Not Found', url=URL('https://www.spamhaus.org/phishing_lasso')
 - ThreatNix Phishing — 404, message='Not Found', url=URL('https://threatnix.io/feed/')
 - URLScan.io Malicious — 404, message='Not Found', url=URL('https://urlscan.io/feed/malicious/')
+- BrandShield — 403, message='Forbidden', url=URL('https://brandshield.com/feed/')
 - Netcraft Phishing — 404, message='Not Found', url=URL('https://www.netcraft.com/rss/phishing.xml')
 - DomainTools Security Blog — 404, message='Not Found', url=URL('https://www.domaintools.com/blog/feed')
 - VX-Underground Blog — Cannot connect to host blog.vx-underground.org:443 ssl:default [Name or service not known]
