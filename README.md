@@ -1,6 +1,6 @@
 <p align="center">
   <strong style="font-size:1.9rem;">Threat Intel Atlas · Daily Signal Briefing</strong><br />
-  <span style="font-size:1rem;color:#6ecff6;">Compiled from 166 intelligence sources · refreshed 2026-01-18 06:44 UTC</span>
+  <span style="font-size:1rem;color:#6ecff6;">Compiled from 166 intelligence sources · refreshed 2026-01-19 06:46 UTC</span>
 </p>
 
 ---
@@ -10,8 +10,8 @@
 | Metric | Value |
 | --- | --- |
 | Total signals retained | 1000 |
-| Signals detected in the last 24h | 13 |
-| Signals surfaced in this report | 13 |
+| Signals detected in the last 24h | 16 |
+| Signals surfaced in this report | 16 |
 
 ---
 
@@ -19,19 +19,22 @@
 
 | Title | Source | Tags | Published (UTC) |
 | --- | --- | --- | --- |
-| [Google Chrome now lets you turn off on-device AI model powering scam detection](https://www.bleepingcomputer.com/news/artificial-intelligence/google-chrome-now-lets-you-turn-off-on-device-ai-model-powering-scam-detection/) | BleepingComputer News | ai, defense | 2026-01-18 02:05 |
-| [US Cyberattack Blacks Out Venezuela, Leads to Maduro’s Capture in 2026](https://databreaches.net/2026/01/17/us-cyberattack-blacks-out-venezuela-leads-to-maduros-capture-in-2026/?pk_campaign=feed&pk_kwd=us-cyberattack-blacks-out-venezuela-leads-to-maduros-capture-in-2026) | DataBreaches.net (Notices) | ai, apt, data_breach, iot | 2026-01-17 20:28 |
-| [Ukraine–Germany operation targets Black Basta, Russian leader wanted](https://securityaffairs.com/187008/cyber-crime/ukraine-germany-operation-targets-black-basta-russian-leader-wanted.html) | Security Affairs (Dark Web) | ai, malware, policy | 2026-01-17 18:11 |
-| [Black Basta Ransomware Leader Added to EU Most Wanted and INTERPOL Red Notice](https://thehackernews.com/2026/01/black-basta-ransomware-hacker-leader.html) | The Hacker News | ai, malware, policy | 2026-01-17 16:26 |
-| [Credential-stealing Chrome extensions target enterprise HR platforms](https://www.bleepingcomputer.com/news/security/credential-stealing-chrome-extensions-target-enterprise-hr-platforms/) | BleepingComputer News | identity | 2026-01-17 16:19 |
-| [A faceless hacker stole my therapy notes – now my deepest secrets are online forever](https://databreaches.net/2026/01/17/a-faceless-hacker-stole-my-therapy-notes-now-my-deepest-secrets-are-online-forever/?pk_campaign=feed&pk_kwd=a-faceless-hacker-stole-my-therapy-notes-now-my-deepest-secrets-are-online-forever) | DataBreaches.net (Notices) | ai, apt, data_breach, iot, phishing | 2026-01-17 15:55 |
-| [OCR’s Latest HIPAA Guidance and Common HIPAA Pitfalls](https://databreaches.net/2026/01/17/ocrs-latest-hipaa-guidance-and-common-hipaa-pitfalls/?pk_campaign=feed&pk_kwd=ocrs-latest-hipaa-guidance-and-common-hipaa-pitfalls) | DataBreaches.net (Notices) | ai, apt, data_breach, iot, policy, vulnerabilities | 2026-01-17 15:55 |
-| [China-linked APT UAT-8837 targets North American critical infrastructure](https://securityaffairs.com/186999/breaking-news/china-linked-apt-uat-8837-targets-north-american-critical-infrastructure.html) | Security Affairs (Dark Web) | apt, iot | 2026-01-17 15:50 |
-| [Malicious GhostPoster browser extensions found with 840,000 installs](https://www.bleepingcomputer.com/news/security/malicious-ghostposter-browser-extensions-found-with-840-000-installs/) | BleepingComputer News | ai, apt, incident_response | 2026-01-17 15:23 |
-| [Judge orders Anna’s Archive to delete scraped data; no one thinks it will comply](https://databreaches.net/2026/01/17/judge-orders-annas-archive-to-delete-scraped-data-no-one-thinks-it-will-comply/?pk_campaign=feed&pk_kwd=judge-orders-annas-archive-to-delete-scraped-data-no-one-thinks-it-will-comply) | DataBreaches.net (Notices) | ai, apt, data_breach, iot | 2026-01-17 14:03 |
-| [Merge PR #5839 from @nasbench - Archive new rule references and updat…](https://github.com/SigmaHQ/sigma/commit/e443d5cbf83f4a2d36777ca377aaf4ca78e049f5) | SigmaHQ Core Rules | unclassified | 2026-01-17 12:03 |
-| [US Hackers Reportedly Caused a Blackout in Venezuela](https://www.wired.com/story/security-news-this-week-us-hackers-reportedly-caused-a-blackout-in-venezuela/) | Wired Security | ai, incident_response | 2026-01-17 11:30 |
-| [OpenAI to Show Ads in ChatGPT for Logged-In U.S. Adults on Free and Go Plans](https://thehackernews.com/2026/01/openai-to-show-ads-in-chatgpt-for.html) | The Hacker News | ai | 2026-01-17 08:34 |
+| [Bump jsonschema from 4.25.1 to 4.26.0 (#3272)](https://github.com/redcanaryco/atomic-red-team/commit/2c5a063d348306c07b99893480205203fa15fa01) | Atomic Red Team | ai | 2026-01-19 05:35 |
+| [Generated docs from job=generate-docs branch=master [ci skip]](https://github.com/redcanaryco/atomic-red-team/commit/4d228c6c24e872df9b733c95f8807d3cb8af151f) | Atomic Red Team | unclassified | 2026-01-19 05:29 |
+| [Enhance T1496(Resource Hijacking): Add Windows CPU Load Simulation (#…](https://github.com/redcanaryco/atomic-red-team/commit/fbb29b6cac22ae34a7e1012f79b84f3f6fd70eac) | Atomic Red Team | unclassified | 2026-01-19 05:28 |
+| [New OpenAI leak hints at upcoming ChatGPT features](https://www.bleepingcomputer.com/news/artificial-intelligence/new-openai-leak-hints-at-upcoming-chatgpt-features/) | BleepingComputer News | ai, data_breach | 2026-01-19 00:29 |
+| [Hacktivists hijacked Iran ’s state TV to air anti-regime messages and an appeal to protest from Reza Pahlavi](https://securityaffairs.com/187055/hacktivism/hacktivists-hijacked-iran-state-tv-to-broadcast-anti-regime-messages-and-reza-pahlavis-protest-appeal.html) | Security Affairs (Dark Web) | ai, incident_response | 2026-01-18 22:49 |
+| [AVideo Notify.ffmpeg.json.php Unauthenticated Remote Code Execution](https://cxsecurity.com/issue/WLB-2026010010) | CXSecurity Exploit Feed | incident_response, vulnerabilities | 2026-01-18 21:49 |
+| [GootLoader uses malformed ZIP files to bypass security controls](https://securityaffairs.com/187037/cyber-crime/gootloader-uses-malformed-zip-files-to-bypass-security-controls.html) | Security Affairs (Dark Web) | ai, defense, malware | 2026-01-18 18:22 |
+| [Microsoft releases OOB Windows updates to fix shutdown, Cloud PC bugs](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-oob-windows-updates-to-fix-shutdown-cloud-pc-bugs/) | BleepingComputer News | cloud, vulnerabilities | 2026-01-18 18:16 |
+| [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 80](https://securityaffairs.com/187028/uncategorized/security-affairs-malware-newsletter-round-80.html) | Security Affairs (Dark Web) | ai, incident_response, malware, vulnerabilities | 2026-01-18 16:58 |
+| [CIRO confirms data breach exposed info on 750,000 Canadian investors](https://www.bleepingcomputer.com/news/security/ciro-data-breach-last-year-exposed-info-on-750-000-canadian-investors/) | BleepingComputer News | data_breach, incident_response | 2026-01-18 15:17 |
+| [Anchorage police department takes servers offline after cyberattack on service provider](https://databreaches.net/2026/01/18/anchorage-police-department-takes-servers-offline-after-cyberattack-on-service-provider/?pk_campaign=feed&pk_kwd=anchorage-police-department-takes-servers-offline-after-cyberattack-on-service-provider) | DataBreaches.net (Notices) | ai, apt, data_breach, incident_response, iot | 2026-01-18 14:03 |
+| [4 in 5 small businesses had cyberscams last year, almost half were AI powered](https://databreaches.net/2026/01/18/4-in-5-small-businesses-had-cyberscams-last-year-almost-half-were-ai-powered/?pk_campaign=feed&pk_kwd=4-in-5-small-businesses-had-cyberscams-last-year-almost-half-were-ai-powered) | DataBreaches.net (Notices) | ai, apt, data_breach, identity, incident_response, iot | 2026-01-18 14:03 |
+| [How a hacking campaign targeted high-profile Gmail and WhatsApp users across the Middle East](https://databreaches.net/2026/01/18/how-a-hacking-campaign-targeted-high-profile-gmail-and-whatsapp-users-across-the-middle-east/?pk_campaign=feed&pk_kwd=how-a-hacking-campaign-targeted-high-profile-gmail-and-whatsapp-users-across-the-middle-east) | DataBreaches.net (Notices) | ai, apt, data_breach, incident_response, iot, phishing | 2026-01-18 14:03 |
+| [Japanese nuclear regulator employee loses phone containing sensitive info in China](https://databreaches.net/2026/01/18/japanese-nuclear-regulator-employee-loses-phone-containing-sensitive-info-in-china/?pk_campaign=feed&pk_kwd=japanese-nuclear-regulator-employee-loses-phone-containing-sensitive-info-in-china) | DataBreaches.net (Notices) | ai, apt, data_breach, iot, mobile, policy | 2026-01-18 14:03 |
+| [Security Affairs newsletter Round 559 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/187019/breaking-news/security-affairs-newsletter-round-559-by-pierluigi-paganini-international-edition.html) | Security Affairs (Dark Web) | ai, apt, incident_response, iot | 2026-01-18 13:46 |
+| [Weekly Update 487](https://www.troyhunt.com/weekly-update-487/) | Troy Hunt Blog | ai, incident_response | 2026-01-18 08:43 |
 
 ---
 
