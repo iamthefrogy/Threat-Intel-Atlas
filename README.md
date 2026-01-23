@@ -1,6 +1,6 @@
 <p align="center">
   <strong style="font-size:1.9rem;">Threat Intel Atlas · Daily Signal Briefing</strong><br />
-  <span style="font-size:1rem;color:#6ecff6;">Compiled from 166 intelligence sources · refreshed 2026-01-22 06:46 UTC</span>
+  <span style="font-size:1rem;color:#6ecff6;">Compiled from 166 intelligence sources · refreshed 2026-01-23 06:46 UTC</span>
 </p>
 
 ---
@@ -10,8 +10,8 @@
 | Metric | Value |
 | --- | --- |
 | Total signals retained | 1000 |
-| Signals detected in the last 24h | 55 |
-| Signals surfaced in this report | 55 |
+| Signals detected in the last 24h | 56 |
+| Signals surfaced in this report | 56 |
 
 ---
 
@@ -19,46 +19,46 @@
 
 | Title | Source | Tags | Published (UTC) |
 | --- | --- | --- | --- |
-| [Resurgence of a multi‑stage AiTM phishing and BEC campaign abusing SharePoint](https://www.microsoft.com/en-us/security/blog/2026/01/21/multistage-aitm-phishing-bec-campaign-abusing-sharepoint/) | Microsoft Security Blog | ai, apt, defense, incident_response, phishing | 2026-01-22 05:14 |
-| [Cisco Fixes Actively Exploited Zero-Day CVE-2026-20045 in Unified CM and Webex](https://thehackernews.com/2026/01/cisco-fixes-actively-exploited-zero-day.html) | The Hacker News | vulnerabilities | 2026-01-22 04:06 |
-| [Can an Indirect Vulnerability Still Be High Risk?](https://c2a-sec.com/can-an-indirect-vulnerability-still-be-high-riskcve-context-and-summary/) | C2A Security Blog | incident_response, vulnerabilities | 2026-01-22 03:33 |
-| [Cisco fixed actively exploited Unified Communications zero day](https://securityaffairs.com/187177/security/cisco-fixed-actively-exploited-unified-communications-zero-day.html) | Security Affairs (Dark Web) | policy, vulnerabilities | 2026-01-21 23:47 |
-| [Zendesk ticket systems hijacked in massive global spam wave](https://www.bleepingcomputer.com/news/security/zendesk-ticket-systems-hijacked-in-massive-global-spam-wave/) | BleepingComputer News | ai | 2026-01-21 23:46 |
-| [Chainlit AI framework bugs let hackers breach cloud environments](https://www.bleepingcomputer.com/news/security/chainlit-ai-framework-bugs-let-hackers-breach-cloud-environments/) | BleepingComputer News | ai, cloud, data_breach, incident_response, policy | 2026-01-21 22:37 |
-| [Cisco fixes Unified Communications RCE zero day exploited in attacks](https://www.bleepingcomputer.com/news/security/cisco-fixes-unified-communications-rce-zero-day-exploited-in-attacks/) | BleepingComputer News | vulnerabilities | 2026-01-21 22:16 |
-| [New Android malware uses AI to click on hidden browser ads](https://www.bleepingcomputer.com/news/security/new-android-malware-uses-ai-to-click-on-hidden-browser-ads/) | BleepingComputer News | ai, malware, mobile | 2026-01-21 22:07 |
-| [Proton VPN not working with Amazon Prime Video? Here’s what to do](https://www.comparitech.com/blog/vpn-privacy/proton-vpn-not-working-amazon-prime-video/) | Comparitech Blog | unclassified | 2026-01-21 21:26 |
-| [Online retailer PcComponentes says data breach claims are fake](https://www.bleepingcomputer.com/news/security/online-retailer-pccomponentes-says-data-breach-claims-are-fake/) | BleepingComputer News | ai, data_breach, identity, incident_response | 2026-01-21 20:55 |
-| [Iranian TV Transmission Hacked With Message from Exiled Prince](https://hackread.com/iranian-tv-transmission-hacked-exiled-prince-message/) | HackRead | incident_response | 2026-01-21 20:36 |
-| [ExpressVPN not working with HBO Max? Troubleshooting tips](https://www.comparitech.com/blog/vpn-privacy/expressvpn-not-working-hbo-max/) | Comparitech Blog | ai | 2026-01-21 19:56 |
-| [Qualys Named a Leader and Outperformer in the 2025 GigaOm Radar for CNAPP](https://blog.qualys.com/category/product-tech) | Qualys | ai, cloud, incident_response | 2026-01-21 19:22 |
-| [EPIC Releases New Report on Protecting Health Privacy in the Digital Age](https://databreaches.net/2026/01/21/epic-releases-new-report-on-protecting-health-privacy-in-the-digital-age/?pk_campaign=feed&pk_kwd=epic-releases-new-report-on-protecting-health-privacy-in-the-digital-age) | DataBreaches.net (Notices) | ai, apt, cloud, data_breach, iot, policy | 2026-01-21 18:48 |
-| [Hong Kong issues Code of Practice under the Protection of Critical Infrastructures (Computer Systems) Ordinance](https://databreaches.net/2026/01/21/hong-kong-issues-code-of-practice-under-the-protection-of-critical-infrastructures-computer-systems-ordinance/?pk_campaign=feed&pk_kwd=hong-kong-issues-code-of-practice-under-the-protection-of-critical-infrastructures-computer-systems-ordinance) | DataBreaches.net (Notices) | ai, apt, data_breach, iot | 2026-01-21 18:43 |
-| [Zoom fixed critical Node Multimedia Routers flaw](https://securityaffairs.com/187165/security/zoom-fixed-critical-node-multimedia-routers-flaw.html) | Security Affairs (Dark Web) | cloud, policy, vulnerabilities | 2026-01-21 18:33 |
-| [Surveillance and ICE Are Driving Patients Away From Medical Care, Report Warns](https://www.wired.com/story/surveillance-and-ice-are-driving-patients-away-from-medical-care-report-warns/) | Wired Security | unclassified | 2026-01-21 18:04 |
-| [Fortinet admins report patched FortiGate firewalls getting hacked](https://www.bleepingcomputer.com/news/security/fortinet-admins-report-patched-fortigate-firewalls-getting-hacked/) | BleepingComputer News | identity, incident_response, vulnerabilities | 2026-01-21 17:49 |
-| [North Korean PurpleBravo Campaign Targeted 3,136 IP Addresses via Fake Job Interviews](https://thehackernews.com/2026/01/north-korean-purplebravo-campaign.html) | The Hacker News | ai, apt | 2026-01-21 17:17 |
-| [Can you use too many LOLBins to drop some RATs?](https://www.malwarebytes.com/blog/news/2026/01/can-you-use-too-many-lolbins-to-drop-some-rats) | Malwarebytes Labs (News) | identity | 2026-01-21 17:04 |
-| [Fake Lastpass emails pose as password vault backup alerts](https://www.bleepingcomputer.com/news/security/fake-lastpass-emails-pose-as-password-vault-backup-alerts/) | BleepingComputer News | ai, apt, identity, incident_response, phishing | 2026-01-21 16:58 |
-| [DOGE Employees Shared Social Security Data, Court Filing Shows](https://databreaches.net/2026/01/21/doge-employees-shared-social-security-data-court-filing-shows/?pk_campaign=feed&pk_kwd=doge-employees-shared-social-security-data-court-filing-shows) | DataBreaches.net (Notices) | ai, apt, data_breach, incident_response, iot | 2026-01-21 16:17 |
-| [Cloudflare whacks WAF bypass bug that opened side door for attackers](https://databreaches.net/2026/01/21/cloudflare-whacks-waf-bypass-bug-that-opened-side-door-for-attackers/?pk_campaign=feed&pk_kwd=cloudflare-whacks-waf-bypass-bug-that-opened-side-door-for-attackers) | DataBreaches.net (Notices) | ai, apt, cloud, data_breach, incident_response, iot, policy, vulnerabilities | 2026-01-21 16:10 |
-| [Phishing and Spoofed Sites Remain Primary Entry Points For Olympics](https://www.infosecurity-magazine.com/news/phishing-spoofed-sites-olympic/) | InfoSecurity Magazine News | ai, iot, phishing | 2026-01-21 16:00 |
-| [Greek police arrest scammers using fake cell tower hidden in car trunk](https://therecord.media/greek-police-arrest-scammers-using-hidden-cell-towers) | The Record (Signals) | mobile | 2026-01-21 15:44 |
-| [Zoom and GitLab Release Security Updates Fixing RCE, DoS, and 2FA Bypass Flaws](https://thehackernews.com/2026/01/zoom-and-gitlab-release-security.html) | The Hacker News | cloud, policy, vulnerabilities | 2026-01-21 15:42 |
-| [Microsoft shares workaround for Outlook freezes after Windows update](https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-workaround-for-outlook-freezes-after-windows-update/) | BleepingComputer News | unclassified | 2026-01-21 15:12 |
-| [ACME flaw in Cloudflare allowed attackers to reach origin servers](https://securityaffairs.com/187156/security/acme-flaw-in-cloudflare-allowed-attackers-to-reach-origin-servers.html) | Security Affairs (Dark Web) | cloud, policy | 2026-01-21 15:10 |
-| [Peruvian Loan Scam Harvests Cards and PINs via Fake Applications](https://www.infosecurity-magazine.com/news/loan-scam-harvests-cards-pins/) | InfoSecurity Magazine News | phishing | 2026-01-21 15:00 |
-| [A new era of agents, a new era of posture](https://www.microsoft.com/en-us/security/blog/2026/01/21/new-era-of-agents-new-era-of-posture/) | Microsoft Security Blog | ai, incident_response | 2026-01-21 14:33 |
-| [You Got Phished? Of Course! You're Human...](https://www.bleepingcomputer.com/news/security/you-got-phished-of-course-youre-human/) | BleepingComputer News | phishing, vulnerabilities | 2026-01-21 14:30 |
-| [EU unveils new plans to tackle Huawei, ZTE as China alleges protectionism](https://therecord.media/eu-unveils-new-plans-to-tackle-huawei-zte) | The Record (Signals) | incident_response | 2026-01-21 14:08 |
-| [Hackers exploit security testing apps to breach Fortune 500 firms](https://www.bleepingcomputer.com/news/security/hackers-exploit-security-testing-apps-to-breach-fortune-500-firms/) | BleepingComputer News | ai, apt, cloud, data_breach, incident_response, vulnerabilities | 2026-01-21 14:00 |
-| [GitLab warns of high-severity 2FA bypass, denial-of-service flaws](https://www.bleepingcomputer.com/news/security/gitlab-warns-of-high-severity-2fa-bypass-denial-of-service-flaws/) | BleepingComputer News | cloud, identity, policy, vulnerabilities | 2026-01-21 13:57 |
-| [New Research Exposes Critical Gap: 64% of Third-Party Applications Access Sensitive Data Without Authorization](https://hackread.com/new-research-exposes-critical-gap-64-of-third-party-applications-access-sensitive-data-without-authorization/) | HackRead | incident_response, supply_chain | 2026-01-21 13:40 |
-| [NordVPN not working? A troubleshooting guide](https://www.comparitech.com/blog/vpn-privacy/nordvpn-not-working/) | Comparitech Blog | mobile | 2026-01-21 13:22 |
-| [VoidLink Linux Malware Was Built Using an AI Agent, Researchers Reveal](https://www.infosecurity-magazine.com/news/voidlink-linux-malware-built-using/) | InfoSecurity Magazine News | ai, malware | 2026-01-21 12:51 |
-| [Alerted to a breach in November, Advanced Family Surgery Center remains publicly silent](https://databreaches.net/2026/01/21/alerted-to-a-breach-in-november-advanced-family-surgery-center-remains-publicly-silent/?pk_campaign=feed&pk_kwd=alerted-to-a-breach-in-november-advanced-family-surgery-center-remains-publicly-silent) | DataBreaches.net (Notices) | ai, apt, data_breach, iot | 2026-01-21 12:40 |
-| [Malicious Google Calendar invites could expose private data](https://www.malwarebytes.com/blog/news/2026/01/malicious-google-calendar-invites-could-expose-private-data) | Malwarebytes Labs (News) | ai, data_breach | 2026-01-21 12:32 |
-| [Tesla hacked, 37 zero-days demoed at Pwn2Own Automotive 2026](https://www.bleepingcomputer.com/news/security/tesla-hacked-37-zero-days-demoed-at-pwn2own-automotive-2026/) | BleepingComputer News | ai, incident_response, vulnerabilities | 2026-01-21 12:16 |
+| [Ireland plans law allowing law enforcement to use spyware](https://therecord.media/ireland-plans-law-enforcement-spyware) | The Record (Signals) | ai, incident_response, policy | 2026-01-22 22:09 |
+| [Okta SSO accounts targeted in vishing-based data theft attacks](https://www.bleepingcomputer.com/news/security/okta-sso-accounts-targeted-in-vishing-based-data-theft-attacks/) | BleepingComputer News | cloud, identity, phishing | 2026-01-22 21:43 |
+| [Best Rainbet VPNs: Unblock crypto betting from anywhere](https://www.comparitech.com/blog/vpn-privacy/best-rainbet-vpns/) | Comparitech Blog | ai | 2026-01-22 21:23 |
+| [Machine learning–powered Android Trojans bypass script-based Ad Click detection](https://securityaffairs.com/187215/malware/machine-learning-powered-android-trojans-bypass-script-based-ad-click-detection.html) | Security Affairs (Dark Web) | ai, defense, incident_response, malware, mobile | 2026-01-22 19:19 |
+| [Google to Pay $8.25M Settlement Over Child Data Tracking in Play Store](https://hackread.com/google-settlement-child-data-tracking-play-store/) | HackRead | ai | 2026-01-22 19:06 |
+| [Curl ending bug bounty program after flood of AI slop reports](https://www.bleepingcomputer.com/news/security/curl-ending-bug-bounty-program-after-flood-of-ai-slop-reports/) | BleepingComputer News | ai, vulnerabilities | 2026-01-22 19:01 |
+| [I scan, you scan, we all scan for...  knowledge?](https://blog.talosintelligence.com/i-scan-you-scan-we-all-scan-for-knowledge/) | Cisco Talos | incident_response | 2026-01-22 19:00 |
+| [Spanish judge closes NSO Group spyware probe due to lack of cooperation from Israel](https://therecord.media/spanish-judge-closes-nso-group-spyware-probe-israel) | The Record (Signals) | unclassified | 2026-01-22 18:48 |
+| [SmarterMail auth bypass flaw now exploited to hijack admin accounts](https://www.bleepingcomputer.com/news/security/smartermail-auth-bypass-flaw-now-exploited-to-hijack-admin-accounts/) | BleepingComputer News | ai, identity, policy, vulnerabilities | 2026-01-22 18:44 |
+| [New Osiris Ransomware Emerges as New Strain Using POORTRY Driver in BYOVD Attack](https://thehackernews.com/2026/01/new-osiris-ransomware-emerges-as-new.html) | The Hacker News | ai, incident_response, malware | 2026-01-22 18:00 |
+| [ICE Agents Are ‘Doxing’ Themselves](https://www.wired.com/story/ice-agents-are-doxing-themselves/) | Wired Security | unclassified | 2026-01-22 17:42 |
+| [House of Lords backs legislation to ban social media for children under 16](https://therecord.media/house-lords-bans-social-media) | The Record (Signals) | ai, policy | 2026-01-22 17:17 |
+| [Hackers Are Using LinkedIn DMs and PDF Tools to Deploy Trojans](https://hackread.com/hackers-linkedin-dms-pdf-tools-trojan/) | HackRead | malware | 2026-01-22 17:12 |
+| [Microsoft Security success stories: Why integrated security is the foundation of AI transformation](https://www.microsoft.com/en-us/security/blog/2026/01/22/microsoft-security-success-stories-why-integrated-security-is-the-foundation-of-ai-transformation/) | Microsoft Security Blog | ai, incident_response | 2026-01-22 17:00 |
+| [Critical GNU InetUtils telnetd Flaw Lets Attackers Bypass Login and Gain Root Access](https://thehackernews.com/2026/01/critical-gnu-inetutils-telnetd-flaw.html) | The Hacker News | ai, identity, policy, vulnerabilities | 2026-01-22 16:30 |
+| [Microsoft Teams to add brand impersonation warnings to calls](https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-add-brand-impersonation-warnings-to-calls/) | BleepingComputer News | phishing | 2026-01-22 16:28 |
+| [INC ransomware opsec fail allowed data recovery for 12 US orgs](https://www.bleepingcomputer.com/news/security/inc-ransomware-opsec-fail-allowed-data-recovery-for-12-us-orgs/) | BleepingComputer News | ai, malware | 2026-01-22 16:21 |
+| [How Public Container Registries Have Become a Silent Risk Multiplier in a Modern Supply Chain](https://blog.qualys.com/category/product-tech) | Qualys | ai, incident_response, phishing, supply_chain | 2026-01-22 16:00 |
+| [Critical Appsmith Flaw Enables Account Takeovers](https://www.infosecurity-magazine.com/news/appsmith-flaw-account-takeovers/) | InfoSecurity Magazine News | identity, policy, vulnerabilities | 2026-01-22 16:00 |
+| [Critical SmarterMail vulnerability under attack, no CVE yet](https://securityaffairs.com/187201/hacking/critical-smartermail-vulnerability-under-attack-no-cve-yet.html) | Security Affairs (Dark Web) | ai, policy, vulnerabilities | 2026-01-22 15:12 |
+| [RealHomes CRM Plugin Flaw Affected 30,000 WordPress Sites](https://www.infosecurity-magazine.com/news/realhomes-crm-plugin-flaw/) | InfoSecurity Magazine News | policy, vulnerabilities | 2026-01-22 15:10 |
+| [Why Active Directory password resets are surging in hybrid work](https://www.bleepingcomputer.com/news/security/why-active-directory-password-resets-are-surging-in-hybrid-work/) | BleepingComputer News | ai, identity, incident_response | 2026-01-22 15:01 |
+| [CVE-2026-20045: Critical Zero-Day in Cisco Products Is Actively Exploited in the Wild](https://socprime.com/blog/cve-2026-20045-vulnerability/) | SOC Prime | incident_response, policy, vulnerabilities | 2026-01-22 14:35 |
+| [Kazakhstan Considers Criminal Liability for Mass Leaks of Personal Data](https://databreaches.net/2026/01/22/kazakhstan-considers-criminal-liability-for-mass-leaks-of-personal-data/?pk_campaign=feed&pk_kwd=kazakhstan-considers-criminal-liability-for-mass-leaks-of-personal-data) | DataBreaches.net (Notices) | ai, apt, data_breach, incident_response, iot | 2026-01-22 14:23 |
+| [ThreatsDay Bulletin: Pixel Zero-Click, Redis RCE, China C2s, RAT Ads, Crypto Scams & 15+ Stories](https://thehackernews.com/2026/01/threatsday-bulletin-pixel-zero-click.html) | The Hacker News | unclassified | 2026-01-22 14:23 |
+| [Microsoft updates Notepad and Paint with more AI features](https://www.bleepingcomputer.com/news/microsoft/microsoft-updates-notepad-and-paint-with-more-ai-features/) | BleepingComputer News | ai | 2026-01-22 14:22 |
+| [Europe’s GDPR cops dished out €1.2B in fines last year as data breaches piled up](https://databreaches.net/2026/01/22/europes-gdpr-cops-dished-out-e1-2b-in-fines-last-year-as-data-breaches-piled-up/?pk_campaign=feed&pk_kwd=europes-gdpr-cops-dished-out-e1-2b-in-fines-last-year-as-data-breaches-piled-up) | DataBreaches.net (Notices) | ai, apt, data_breach, iot | 2026-01-22 14:15 |
+| [Foxit, Epic Games Store, MedDreams vulnerabilities](https://blog.talosintelligence.com/foxi-and-epic-games/) | Cisco Talos | cloud, incident_response, policy, supply_chain, vulnerabilities | 2026-01-22 13:54 |
+| [Fake LastPass maintenance emails target users](https://www.malwarebytes.com/blog/news/2026/01/fake-lastpass-maintenance-emails-target-users) | Malwarebytes Labs (News) | ai, incident_response, phishing | 2026-01-22 13:53 |
+| [Zendesk ticket systems hijacked in massive global spam wave](https://databreaches.net/2026/01/22/zendesk-ticket-systems-hijacked-in-massive-global-spam-wave/?pk_campaign=feed&pk_kwd=zendesk-ticket-systems-hijacked-in-massive-global-spam-wave) | DataBreaches.net (Notices) | ai, apt, data_breach, iot, policy | 2026-01-22 13:44 |
+| [Jordan used Cellebrite phone-hacking tools against activists critical of Gaza war, report finds](https://therecord.media/jordan-used-cellebrite-against-activists-critical-gaza-war) | The Record (Signals) | ai, defense | 2026-01-22 13:00 |
+| [Zero-Day Exploits Surge, Nearly 30% of Flaws Attacked Before Disclosure](https://www.infosecurity-magazine.com/news/zeroday-exploits-surge-vulncheck/) | InfoSecurity Magazine News | cloud, policy, vulnerabilities | 2026-01-22 12:45 |
+| [VoidLink Malware Puts Cloud Systems on High Alert With Custom Built Attacks](https://hackread.com/voidlink-malware-cloud-system-custom-built-attack/) | HackRead | apt, cloud, defense, malware | 2026-01-22 12:37 |
+| [Why AI Keeps Falling for Prompt Injection Attacks](https://www.schneier.com/blog/archives/2026/01/why-ai-keeps-falling-for-prompt-injection-attacks.html) | Schneier on Security | ai, identity, iot | 2026-01-22 12:35 |
+| [Hackers exploit 29 zero-days on second day of Pwn2Own Automotive](https://www.bleepingcomputer.com/news/security/hackers-exploit-29-zero-day-vulnerabilities-on-second-day-of-pwn2own-automotive/) | BleepingComputer News | vulnerabilities | 2026-01-22 12:30 |
+| [LastPass Warns of Phishing Campaign Attempting to Steal Master Passwords](https://www.infosecurity-magazine.com/news/lastpass-phishing-master-passwords/) | InfoSecurity Magazine News | ai, apt, identity, incident_response, phishing | 2026-01-22 12:07 |
+| [Under Armour ransomware breach: data of 72 million customers appears on the dark web](https://www.malwarebytes.com/blog/news/2026/01/under-armour-ransomware-breach-data-of-72-million-customers-appears-on-the-dark-web) | Malwarebytes Labs (News) | darkweb, data_breach, incident_response, malware | 2026-01-22 12:02 |
+| [How to set up remote game streaming using Moonlight](https://www.comparitech.com/blog/vpn-privacy/remote-game-streaming-using-moonlight/) | Comparitech Blog | ai | 2026-01-22 12:01 |
+| [Rockwell Automation CompactLogix 5370](https://www.cisa.gov/news-events/ics-advisories/icsa-26-022-03) | CISA Joint Advisories | ai, defense, incident_response, iot, phishing, policy, vulnerabilities | 2026-01-22 12:00 |
+| [Schneider Electric EcoStruxure Process Expert](https://www.cisa.gov/news-events/ics-advisories/icsa-26-022-01) | CISA Joint Advisories | ai, defense, incident_response, iot, mobile, policy, vulnerabilities | 2026-01-22 12:00 |
 
 ---
 
