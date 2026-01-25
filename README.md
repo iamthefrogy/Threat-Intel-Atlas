@@ -1,6 +1,6 @@
 <p align="center">
   <strong style="font-size:1.9rem;">Threat Intel Atlas · Daily Signal Briefing</strong><br />
-  <span style="font-size:1rem;color:#6ecff6;">Compiled from 166 intelligence sources · refreshed 2026-01-24 06:44 UTC</span>
+  <span style="font-size:1rem;color:#6ecff6;">Compiled from 166 intelligence sources · refreshed 2026-01-25 06:45 UTC</span>
 </p>
 
 ---
@@ -10,8 +10,8 @@
 | Metric | Value |
 | --- | --- |
 | Total signals retained | 1000 |
-| Signals detected in the last 24h | 42 |
-| Signals surfaced in this report | 42 |
+| Signals detected in the last 24h | 27 |
+| Signals surfaced in this report | 27 |
 
 ---
 
@@ -19,46 +19,33 @@
 
 | Title | Source | Tags | Published (UTC) |
 | --- | --- | --- | --- |
-| [11-Year-Old critical telnetd flaw found in GNU InetUtils (CVE-2026-24061)](https://securityaffairs.com/187255/security/11-year-old-critical-telnetd-flaw-found-in-gnu-inetutils-cve-2026-24061.html) | Security Affairs (Dark Web) | ai, policy, vulnerabilities | 2026-01-24 00:27 |
-| [Happy 9th Anniversary, CTA: A Celebration of Collaboration in Cyber Defense](https://unit42.paloaltonetworks.com/cta-9th-anniversary/) | Palo Alto Networks Unit 42 | incident_response | 2026-01-24 00:00 |
-| [ShinyHunters claim to be behind SSO-account data theft attacks](https://www.bleepingcomputer.com/news/security/shinyhunters-claim-to-be-behind-sso-account-data-theft-attacks/) | BleepingComputer News | ai, apt, cloud, data_breach, identity, phishing | 2026-01-23 23:35 |
-| [US Judge Rules ICE Raids Require Judicial Warrants, Contradicting Secret ICE Memo](https://www.wired.com/story/us-judge-rules-ice-raids-require-judicial-warrants-contradicting-secret-ice-memo/) | Wired Security | ai, incident_response | 2026-01-23 22:24 |
-| [Friday Squid Blogging: Giant Squid in the Star Trek Universe](https://www.schneier.com/blog/archives/2026/01/friday-squid-blogging-giant-squid-in-the-star-trek-universe.html) | Schneier on Security | policy | 2026-01-23 22:03 |
-| [149M Logins from Roblox, TikTok, Netflix, Crypto Wallets Found Online](https://hackread.com/logins-roblox-tiktok-netflix-crypto-wallets-found/) | HackRead | ai, identity | 2026-01-23 21:58 |
-| [From runtime risk to real‑time defense: Securing AI agents](https://www.microsoft.com/en-us/security/blog/2026/01/23/runtime-risk-realtime-defense-securing-ai-agents/) | Microsoft Security Blog | ai, incident_response, vulnerabilities | 2026-01-23 20:57 |
-| [Malicious AI extensions on VSCode Marketplace steal developer data](https://www.bleepingcomputer.com/news/security/malicious-ai-extensions-on-vscode-marketplace-steal-developer-data/) | BleepingComputer News | ai, darkweb | 2026-01-23 20:11 |
-| [CISA confirms active exploitation of four enterprise software bugs](https://www.bleepingcomputer.com/news/security/cisa-confirms-active-exploitation-of-four-enterprise-software-bugs/) | BleepingComputer News | incident_response, policy, vulnerabilities | 2026-01-23 18:47 |
-| [Fortinet warns of active FortiCloud SSO bypass affecting updated devices](https://securityaffairs.com/187250/security/fortinet-warns-of-active-forticloud-sso-bypass-affecting-updated-devices.html) | Security Affairs (Dark Web) | ai, apt, cloud, identity, incident_response, policy, vulnerabilities | 2026-01-23 18:28 |
-| [The Good, the Bad and the Ugly in Cybersecurity – Week 4](https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-4-7/) | SentinelOne Labs | cloud, vulnerabilities | 2026-01-23 17:21 |
-| [CBP Wants AI-Powered ‘Quantum Sensors’ for Finding Fentanyl in Cars](https://www.wired.com/story/cbp-wants-ai-powered-quantum-sensors-for-finding-fentanyl-in-cars/) | Wired Security | ai, iot | 2026-01-23 17:08 |
-| [US to deport Venezuelans who emptied bank ATMs using malware](https://www.bleepingcomputer.com/news/security/us-to-deport-venezuelans-who-emptied-bank-atms-using-malware/) | BleepingComputer News | incident_response, malware | 2026-01-23 16:38 |
-| [Venezuelan Nationals Face Deportation After Multi State ATM Jackpotting Scheme](https://hackread.com/venezuelan-nationals-face-deportation-atm-jackpotting/) | HackRead | policy | 2026-01-23 16:37 |
-| [Hackers exploit critical telnetd auth bypass flaw to get root](https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-telnetd-auth-bypass-flaw-to-get-root/) | BleepingComputer News | ai, apt, policy, vulnerabilities | 2026-01-23 16:21 |
-| [Spammers abuse Zendesk to flood inboxes with legitimate-looking emails, but why?](https://www.malwarebytes.com/blog/news/2026/01/spammers-abuse-zendesk-to-flood-inboxes-with-legitimate-looking-emails-but-why) | Malwarebytes Labs (News) | ai, malware, phishing | 2026-01-23 16:04 |
-| [Halo Security Achieves SOC 2 Type II Compliance, Demonstrating Sustained Security Excellence Over Time](https://hackread.com/halo-security-achieves-soc-2-type-ii-compliance/) | HackRead | ai, policy | 2026-01-23 15:53 |
-| [CISA Updates KEV Catalog with Four Actively Exploited Software Vulnerabilities](https://thehackernews.com/2026/01/cisa-updates-kev-catalog-with-four.html) | The Hacker News | cloud, policy, vulnerabilities | 2026-01-23 15:24 |
-| [What an AI-Written Honeypot Taught Us About Trusting Machines](https://www.bleepingcomputer.com/news/security/what-an-ai-written-honeypot-taught-us-about-trusting-machines/) | BleepingComputer News | ai, cloud, policy, vulnerabilities | 2026-01-23 14:59 |
-| [NHS Issues Open Letter Demanding Improved Cybersecurity Standards from Suppliers](https://www.infosecurity-magazine.com/news/nhs-open-letter-demands-improved/) | InfoSecurity Magazine News | ai, supply_chain | 2026-01-23 14:38 |
-| [Cyberattack disrupts digital systems at renowned Dresden museum network](https://therecord.media/dresden-state-art-collections-cyberattack) | The Record (Signals) | ai | 2026-01-23 14:31 |
-| [CVE-2026-24061: Decade-Old Vulnerability in GNU InetUtils telnetd Enables Remote Root Access](https://socprime.com/blog/cve-2026-24061-vulnerability/) | SOC Prime | defense, identity, incident_response, vulnerabilities | 2026-01-23 14:15 |
-| [Microsoft: Outlook for iOS crashes, freezes due to coding error](https://www.bleepingcomputer.com/news/microsoft/microsoft-outlook-for-ios-crashes-freezes-due-to-coding-error/) | BleepingComputer News | incident_response, mobile | 2026-01-23 13:34 |
-| [Microsoft Gave FBI Keys To Unlock Encrypted Data, Exposing Major Privacy Concern](https://databreaches.net/2026/01/23/microsoft-gave-fbi-keys-to-unlock-encrypted-data-exposing-major-privacy-concern/?pk_campaign=feed&pk_kwd=microsoft-gave-fbi-keys-to-unlock-encrypted-data-exposing-major-privacy-concern) | DataBreaches.net (Notices) | ai, apt, data_breach, iot | 2026-01-23 13:28 |
-| [ShinyHunters group opens new dark web leak site, claims responsibility for OKTA vishing campaign](https://databreaches.net/2026/01/23/shinyhunters-group-opens-new-dark-web-leak-site-claims-responsibility-for-okta-vishing-campaign/?pk_campaign=feed&pk_kwd=shinyhunters-group-opens-new-dark-web-leak-site-claims-responsibility-for-okta-vishing-campaign) | DataBreaches.net (Notices) | ai, apt, cloud, darkweb, data_breach, identity, incident_response, iot, phishing | 2026-01-23 13:28 |
-| [Germany expels Russian diplomat accused of spying on Ukraine war effort](https://therecord.media/germany-expels-russian-diplomat-accused-spying-ukraine-war) | The Record (Signals) | ai, apt | 2026-01-23 13:09 |
-| [INC ransomware opsec fail allowed data recovery for 12 US orgs](https://databreaches.net/2026/01/23/inc-ransomware-opsec-fail-allowed-data-recovery-for-12-us-orgs/?pk_campaign=feed&pk_kwd=inc-ransomware-opsec-fail-allowed-data-recovery-for-12-us-orgs) | DataBreaches.net (Notices) | ai, apt, data_breach, iot, malware, supply_chain | 2026-01-23 13:08 |
-| [NL: Police warned about security hole used by Russian hackers in major theft of police data](https://databreaches.net/2026/01/23/nl-police-warned-about-security-hole-used-by-russian-hackers-in-major-theft-of-police-data/?pk_campaign=feed&pk_kwd=nl-police-warned-about-security-hole-used-by-russian-hackers-in-major-theft-of-police-data) | DataBreaches.net (Notices) | ai, apt, data_breach, incident_response, iot | 2026-01-23 13:08 |
-| [Hackers get $1,047,000 for 76 zero-days at Pwn2Own Automotive 2026](https://www.bleepingcomputer.com/news/security/hackers-get-1-047-000-for-76-zero-days-at-pwn2own-automotive-2026/) | BleepingComputer News | vulnerabilities | 2026-01-23 12:50 |
-| [Fortinet Confirms Active FortiCloud SSO Bypass on Fully Patched FortiGate Firewalls](https://thehackernews.com/2026/01/fortinet-confirms-active-forticloud-sso.html) | The Hacker News | cloud, identity, incident_response, vulnerabilities | 2026-01-23 12:30 |
-| [ShinyHunters Leak Alleged Data of Millions From SoundCloud, Crunchbase and Betterment](https://hackread.com/shinyhunters-leak-soundcloud-crunchbase-betterment-data/) | HackRead | ai, cloud, data_breach | 2026-01-23 12:29 |
-| [Under Armour Investigates Data Breach After 72 Million Records Allegedly Exposed](https://www.infosecurity-magazine.com/news/under-armour-investigates-data/) | InfoSecurity Magazine News | ai, data_breach, identity | 2026-01-23 12:10 |
-| [AIs are Getting Better at Finding and Exploiting Internet Vulnerabilities](https://www.schneier.com/blog/archives/2026/01/ais-are-getting-better-at-finding-and-exploiting-internet-vulnerabilities.html) | Schneier on Security | ai, data_breach, vulnerabilities | 2026-01-23 12:01 |
-| [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/01/23/cisa-adds-one-known-exploited-vulnerability-catalog) | CISA Joint Advisories | ai, incident_response, vulnerabilities | 2026-01-23 12:00 |
-| [Product Categories for Technologies That Use Post-Quantum Cryptography Standards](https://www.cisa.gov/resources-tools/resources/product-categories-technologies-use-post-quantum-cryptography-standards) | CISA Joint Advisories | ai, apt, cloud, darkweb, defense, identity, incident_response, iot, malware, phishing, policy | 2026-01-23 12:00 |
-| [U.S. CISA adds Prettier eslint-config-prettier, Vite Vitejs, Versa Concerto SD-WAN orchestration platform, and Synacor Zimbra Collaboration Suite flaws to its Known Exploited Vulnerabilities catalog](https://securityaffairs.com/187241/security/u-s-cisa-adds-prettier-eslint-config-prettier-vite-vitejs-versa-concerto-sd-wan-orchestration-platform-and-synacor-zimbra-collaboration-suite-flaws-to-its-known-exploited-vulnerabilities-catal.html) | Security Affairs (Dark Web) | cloud, policy, vulnerabilities | 2026-01-23 11:49 |
-| [TikTok Forms U.S. Joint Venture to Continue Operations Under 2025 Executive Order](https://thehackernews.com/2026/01/tiktok-forms-us-joint-venture-to.html) | The Hacker News | ai, policy | 2026-01-23 11:30 |
-| [Phishing Attack Uses Stolen Credentials to Install LogMeIn RMM for Persistent Access](https://thehackernews.com/2026/01/phishing-attack-uses-stolen-credentials.html) | The Hacker News | ai, apt, identity, incident_response, phishing | 2026-01-23 11:18 |
-| [149 Million Usernames and Passwords Exposed by Unsecured Database](https://www.wired.com/story/149-million-stolen-usernames-passwords/) | Wired Security | ai, identity, malware | 2026-01-23 11:00 |
-| [Fortinet confirms critical FortiCloud auth bypass not fully patched](https://www.bleepingcomputer.com/news/security/fortinet-confirms-critical-forticloud-auth-bypass-not-fully-patched/) | BleepingComputer News | cloud, identity, incident_response, vulnerabilities | 2026-01-23 10:39 |
+| [Microsoft releases emergency OOB update to fix Outlook freezes](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-oob-update-to-fix-outlook-freezes/) | BleepingComputer News | cloud | 2026-01-25 01:59 |
+| [The Instant Smear Campaign Against Border Patrol Shooting Victim Alex Pretti](https://www.wired.com/story/the-instant-smear-campaign-against-border-patrol-shooting-victim-alex-pretti/) | Wired Security | ai, apt | 2026-01-25 00:37 |
+| [Security Affairs newsletter Round 560 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/187290/breaking-news/security-affairs-newsletter-round-560-by-pierluigi-paganini-international-edition.html) | Security Affairs (Dark Web) | ai, incident_response, malware, policy | 2026-01-25 00:29 |
+| [ICE Asks Companies About ‘Ad Tech and Big Data’ Tools It Could Use in Investigations](https://www.wired.com/story/ice-asks-companies-about-ad-tech-and-big-data-tools/) | Wired Security | policy | 2026-01-24 22:14 |
+| [Sandworm hackers linked to failed wiper attack on Poland’s energy systems](https://www.bleepingcomputer.com/news/security/sandworm-hackers-linked-to-failed-wiper-attack-on-polands-energy-systems/) | BleepingComputer News | ai, apt, malware | 2026-01-24 21:58 |
+| [Osiris ransomware emerges, leveraging BYOVD technique to kill security tools](https://securityaffairs.com/187279/security/osiris-ransomware-emerges-leveraging-byovd-technique-to-kill-security-tools.html) | Security Affairs (Dark Web) | ai, incident_response, malware | 2026-01-24 18:17 |
+| [Merge PR #5487 from @swachchhanda000 - Update Registry Shell Open Rel…](https://github.com/SigmaHQ/sigma/commit/d5188c36a1c19eb101194a9c263a8e3ce285aa1e) | SigmaHQ Core Rules | ai, incident_response | 2026-01-24 17:54 |
+| [FBI Accessed Windows Laptops After Microsoft Shared BitLocker Recovery Keys](https://hackread.com/fbi-windows-laptops-microsoft-bitlocker-recovery-keys/) | HackRead | apt | 2026-01-24 17:36 |
+| [Merge PR #5741 from @swachchhanda000 - Add Splunk Rules for MSIX/AppX](https://github.com/SigmaHQ/sigma/commit/77f4b0b2ec4222e2b1510cf254e68a2b411b1976) | SigmaHQ Core Rules | ai, incident_response, policy | 2026-01-24 16:04 |
+| [Konni hackers target blockchain engineers with AI-built malware](https://www.bleepingcomputer.com/news/security/konni-hackers-target-blockchain-engineers-with-ai-built-malware/) | BleepingComputer News | ai, malware | 2026-01-24 15:23 |
+| [China investigates top general Zhang Youxia in rare purge of senior military leaders](https://therecord.media/china-investigates-top-general-purge-senior-military-leaders) | The Record (Signals) | ai | 2026-01-24 13:39 |
+| [VPN split tunneling security risks and how to avoid them](https://www.comparitech.com/blog/vpn-privacy/vpn-split-tunneling-security-risks/) | Comparitech Blog | unclassified | 2026-01-24 12:36 |
+| [Call-On-Doc allegedly had a breach affecting more than 1 million patients. They’ve yet to comment.](https://databreaches.net/2026/01/24/call-on-doc-allegedly-had-a-breach-affecting-more-than-1-million-patients-theyve-yet-to-comment/?pk_campaign=feed&pk_kwd=call-on-doc-allegedly-had-a-breach-affecting-more-than-1-million-patients-theyve-yet-to-comment) | DataBreaches.net (Notices) | ai, apt, data_breach, incident_response, iot | 2026-01-24 12:05 |
+| [ShinyHunters claim to be behind SSO-account data theft attacks](https://databreaches.net/2026/01/24/shinyhunters-claim-to-be-behind-sso-account-data-theft-attacks/?pk_campaign=feed&pk_kwd=shinyhunters-claim-to-be-behind-sso-account-data-theft-attacks) | DataBreaches.net (Notices) | ai, apt, cloud, data_breach, identity, iot, phishing, policy | 2026-01-24 12:00 |
+| [France’s Waltio faces ransom threat from notorious hacker collective](https://databreaches.net/2026/01/24/frances-waltio-faces-ransom-threat-from-notorious-hacker-collective/?pk_campaign=feed&pk_kwd=frances-waltio-faces-ransom-threat-from-notorious-hacker-collective) | DataBreaches.net (Notices) | ai, apt, data_breach, iot, malware | 2026-01-24 11:58 |
+| [Merge PR #5823 from @darses - Update `DNS Query to External Service I…](https://github.com/SigmaHQ/sigma/commit/c0af81c9d2c8f5c2cd0fa4d97a24c1e0e8129d7d) | SigmaHQ Core Rules | ai, incident_response | 2026-01-24 11:37 |
+| [Merge PR #5834 from @MATTANDERS0N - Add Devcon and KDU Execution Rules](https://github.com/SigmaHQ/sigma/commit/30aebbb65c4a5ec2d6c0dc5fee5f3d7623d16689) | SigmaHQ Core Rules | ai, incident_response | 2026-01-24 11:36 |
+| [Merge PR #5826 from @marcopedrinazzi - Add New OpenCanary Rules](https://github.com/SigmaHQ/sigma/commit/01b23770b885c40f844ab4a9771e5e8add4f8eff) | SigmaHQ Core Rules | ai, incident_response | 2026-01-24 11:32 |
+| [DOGE May Have Misused Social Security Data, DOJ Admits](https://www.wired.com/story/security-news-this-week-doge-may-have-misused-social-security-data-doj-admits/) | Wired Security | unclassified | 2026-01-24 11:30 |
+| [Merge PR #5476 from @swachchhanda000 - Update SquiblyTwo Related Rules](https://github.com/SigmaHQ/sigma/commit/ad3a6506410bb3258598078ead1352f01bc35822) | SigmaHQ Core Rules | ai, incident_response | 2026-01-24 11:25 |
+| [Multi-Stage Phishing Campaign Targets Russia with Amnesia RAT and Ransomware](https://thehackernews.com/2026/01/multi-stage-phishing-campaign-targets.html) | The Hacker News | ai, apt, malware, phishing | 2026-01-24 11:09 |
+| [Merge PR #5749 from @swachchhanda000 - Update Phantom DLL hijacking R…](https://github.com/SigmaHQ/sigma/commit/222a2e2992d170e954820e8e7b2544bf72ba946c) | SigmaHQ Core Rules | ai, incident_response | 2026-01-24 11:04 |
+| [Merge PR #5771 from @EzLucky - Add and Update Setcap Related Rules](https://github.com/SigmaHQ/sigma/commit/076da17939038b38667db10882825ff370cbf429) | SigmaHQ Core Rules | ai, incident_response | 2026-01-24 10:51 |
+| [U.S. CISA adds a flaw in Broadcom VMware vCenter Server to its Known Exploited Vulnerabilities catalog](https://securityaffairs.com/187267/security/u-s-cisa-adds-a-flaw-in-broadcom-vmware-vcenter-server-to-its-known-exploited-vulnerabilities-catalog.html) | Security Affairs (Dark Web) | policy, vulnerabilities | 2026-01-24 10:23 |
+| [New DynoWiper Malware Used in Attempted Sandworm Attack on Polish Power Sector](https://thehackernews.com/2026/01/new-dynowiper-malware-used-in-attempted.html) | The Hacker News | ai, apt, malware | 2026-01-24 08:21 |
+| [Who Approved This Agent? Rethinking Access, Accountability, and Risk in the Age of AI Agents](https://thehackernews.com/2026/01/who-approved-this-agent-rethinking.html) | The Hacker News | ai | 2026-01-24 08:20 |
+| [CISA Adds Actively Exploited VMware vCenter Flaw CVE-2024-37079 to KEV Catalog](https://thehackernews.com/2026/01/cisa-adds-actively-exploited-vmware.html) | The Hacker News | policy, vulnerabilities | 2026-01-24 08:09 |
 
 ---
 
@@ -89,7 +76,6 @@
 - BadIPs — Cannot connect to host www.badips.com:443 ssl:default [Name or service not known]
 - Domaineyes Sinkhole Feed — Server disconnected
 - ThreatMiner C2 Feed — 404, message='Not Found', url=URL('https://www.threatminer.org/rss.php?type=C2')
-- Hunt.io IOC Hunter — 404, message='Not Found', url=URL('https://hunt.io/ioc-feed/rss')
 - OpenPhish — 404, message='Not Found', url=URL('https://openphish.com/feed.xml')
 - PhishLabs Blog (Phishing) — 403, message='Forbidden', url=URL('https://www.phishlabs.com/blog/feed/')
 - Spamhaus Phishing — 404, message='Not Found', url=URL('https://www.spamhaus.org/phishing_lasso')
@@ -107,12 +93,14 @@
 - CyberNews — 403, message='Forbidden', url=URL('https://cybernews.com/feed/')
 - DarkFeed.io — 404, message='Not Found', url=URL('https://darkfeed.io/feed.xml')
 - Emsisoft Security Blog — Cannot connect to host news.emsisoft.com:443 ssl:default [No address associated with hostname]
+- HHS OCR Breach Portal — 404, message='404', url=URL('https://ocrportal.hhs.gov/ocr/breach/rss')
 - California AG Breach Notice — 404, message='Not Found', url=URL('https://oag.ca.gov/sites/all/modules/custom/oag_noticelist/rss.xml')
 - Maine AG Breach Notice — 404, message='404', url=URL('https://apps.web.maine.gov/online/aeviewer/maine/rss')
 - Vermont AG Data Breach — 403, message='Forbidden', url=URL('https://ago.vermont.gov/rss/data-breach-notifications')
 - Washington AG Breach — 404, message='Not Found', url=URL('https://www.atg.wa.gov/rss/breach.xml')
 - U.K. ICO Monetary Penalties — 404, message='Not Found', url=URL('https://ico.org.uk/rss/news/')
 - Office of Australian Information Commissioner — 404, message='Not Found', url=URL('https://www.oaic.gov.au/rss/news')
+- OS Commissioner — 404, message='Not Found', url=URL('https://www.priv.gc.ca/en/rss/')
 - Europol Press Releases — 404, message='Not Found', url=URL('https://www.europol.europa.eu/rss/police-press-releases')
 - FBI Press Releases — 404, message='Not Found', url=URL('https://www.fbi.gov/feeds/press-releases-news.xml')
 - U.S. DOJ Press Releases — 404, message='Not Found', url=URL('https://www.justice.gov/rss/pressreleases/all')
