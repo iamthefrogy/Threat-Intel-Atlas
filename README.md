@@ -1,6 +1,6 @@
 <p align="center">
   <strong style="font-size:1.9rem;">Threat Intel Atlas · Daily Signal Briefing</strong><br />
-  <span style="font-size:1rem;color:#6ecff6;">Compiled from 166 intelligence sources · refreshed 2026-01-25 06:45 UTC</span>
+  <span style="font-size:1rem;color:#6ecff6;">Compiled from 166 intelligence sources · refreshed 2026-01-26 06:46 UTC</span>
 </p>
 
 ---
@@ -10,8 +10,8 @@
 | Metric | Value |
 | --- | --- |
 | Total signals retained | 1000 |
-| Signals detected in the last 24h | 27 |
-| Signals surfaced in this report | 27 |
+| Signals detected in the last 24h | 6 |
+| Signals surfaced in this report | 6 |
 
 ---
 
@@ -19,33 +19,12 @@
 
 | Title | Source | Tags | Published (UTC) |
 | --- | --- | --- | --- |
-| [Microsoft releases emergency OOB update to fix Outlook freezes](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-oob-update-to-fix-outlook-freezes/) | BleepingComputer News | cloud | 2026-01-25 01:59 |
-| [The Instant Smear Campaign Against Border Patrol Shooting Victim Alex Pretti](https://www.wired.com/story/the-instant-smear-campaign-against-border-patrol-shooting-victim-alex-pretti/) | Wired Security | ai, apt | 2026-01-25 00:37 |
-| [Security Affairs newsletter Round 560 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/187290/breaking-news/security-affairs-newsletter-round-560-by-pierluigi-paganini-international-edition.html) | Security Affairs (Dark Web) | ai, incident_response, malware, policy | 2026-01-25 00:29 |
-| [ICE Asks Companies About ‘Ad Tech and Big Data’ Tools It Could Use in Investigations](https://www.wired.com/story/ice-asks-companies-about-ad-tech-and-big-data-tools/) | Wired Security | policy | 2026-01-24 22:14 |
-| [Sandworm hackers linked to failed wiper attack on Poland’s energy systems](https://www.bleepingcomputer.com/news/security/sandworm-hackers-linked-to-failed-wiper-attack-on-polands-energy-systems/) | BleepingComputer News | ai, apt, malware | 2026-01-24 21:58 |
-| [Osiris ransomware emerges, leveraging BYOVD technique to kill security tools](https://securityaffairs.com/187279/security/osiris-ransomware-emerges-leveraging-byovd-technique-to-kill-security-tools.html) | Security Affairs (Dark Web) | ai, incident_response, malware | 2026-01-24 18:17 |
-| [Merge PR #5487 from @swachchhanda000 - Update Registry Shell Open Rel…](https://github.com/SigmaHQ/sigma/commit/d5188c36a1c19eb101194a9c263a8e3ce285aa1e) | SigmaHQ Core Rules | ai, incident_response | 2026-01-24 17:54 |
-| [FBI Accessed Windows Laptops After Microsoft Shared BitLocker Recovery Keys](https://hackread.com/fbi-windows-laptops-microsoft-bitlocker-recovery-keys/) | HackRead | apt | 2026-01-24 17:36 |
-| [Merge PR #5741 from @swachchhanda000 - Add Splunk Rules for MSIX/AppX](https://github.com/SigmaHQ/sigma/commit/77f4b0b2ec4222e2b1510cf254e68a2b411b1976) | SigmaHQ Core Rules | ai, incident_response, policy | 2026-01-24 16:04 |
-| [Konni hackers target blockchain engineers with AI-built malware](https://www.bleepingcomputer.com/news/security/konni-hackers-target-blockchain-engineers-with-ai-built-malware/) | BleepingComputer News | ai, malware | 2026-01-24 15:23 |
-| [China investigates top general Zhang Youxia in rare purge of senior military leaders](https://therecord.media/china-investigates-top-general-purge-senior-military-leaders) | The Record (Signals) | ai | 2026-01-24 13:39 |
-| [VPN split tunneling security risks and how to avoid them](https://www.comparitech.com/blog/vpn-privacy/vpn-split-tunneling-security-risks/) | Comparitech Blog | unclassified | 2026-01-24 12:36 |
-| [Call-On-Doc allegedly had a breach affecting more than 1 million patients. They’ve yet to comment.](https://databreaches.net/2026/01/24/call-on-doc-allegedly-had-a-breach-affecting-more-than-1-million-patients-theyve-yet-to-comment/?pk_campaign=feed&pk_kwd=call-on-doc-allegedly-had-a-breach-affecting-more-than-1-million-patients-theyve-yet-to-comment) | DataBreaches.net (Notices) | ai, apt, data_breach, incident_response, iot | 2026-01-24 12:05 |
-| [ShinyHunters claim to be behind SSO-account data theft attacks](https://databreaches.net/2026/01/24/shinyhunters-claim-to-be-behind-sso-account-data-theft-attacks/?pk_campaign=feed&pk_kwd=shinyhunters-claim-to-be-behind-sso-account-data-theft-attacks) | DataBreaches.net (Notices) | ai, apt, cloud, data_breach, identity, iot, phishing, policy | 2026-01-24 12:00 |
-| [France’s Waltio faces ransom threat from notorious hacker collective](https://databreaches.net/2026/01/24/frances-waltio-faces-ransom-threat-from-notorious-hacker-collective/?pk_campaign=feed&pk_kwd=frances-waltio-faces-ransom-threat-from-notorious-hacker-collective) | DataBreaches.net (Notices) | ai, apt, data_breach, iot, malware | 2026-01-24 11:58 |
-| [Merge PR #5823 from @darses - Update `DNS Query to External Service I…](https://github.com/SigmaHQ/sigma/commit/c0af81c9d2c8f5c2cd0fa4d97a24c1e0e8129d7d) | SigmaHQ Core Rules | ai, incident_response | 2026-01-24 11:37 |
-| [Merge PR #5834 from @MATTANDERS0N - Add Devcon and KDU Execution Rules](https://github.com/SigmaHQ/sigma/commit/30aebbb65c4a5ec2d6c0dc5fee5f3d7623d16689) | SigmaHQ Core Rules | ai, incident_response | 2026-01-24 11:36 |
-| [Merge PR #5826 from @marcopedrinazzi - Add New OpenCanary Rules](https://github.com/SigmaHQ/sigma/commit/01b23770b885c40f844ab4a9771e5e8add4f8eff) | SigmaHQ Core Rules | ai, incident_response | 2026-01-24 11:32 |
-| [DOGE May Have Misused Social Security Data, DOJ Admits](https://www.wired.com/story/security-news-this-week-doge-may-have-misused-social-security-data-doj-admits/) | Wired Security | unclassified | 2026-01-24 11:30 |
-| [Merge PR #5476 from @swachchhanda000 - Update SquiblyTwo Related Rules](https://github.com/SigmaHQ/sigma/commit/ad3a6506410bb3258598078ead1352f01bc35822) | SigmaHQ Core Rules | ai, incident_response | 2026-01-24 11:25 |
-| [Multi-Stage Phishing Campaign Targets Russia with Amnesia RAT and Ransomware](https://thehackernews.com/2026/01/multi-stage-phishing-campaign-targets.html) | The Hacker News | ai, apt, malware, phishing | 2026-01-24 11:09 |
-| [Merge PR #5749 from @swachchhanda000 - Update Phantom DLL hijacking R…](https://github.com/SigmaHQ/sigma/commit/222a2e2992d170e954820e8e7b2544bf72ba946c) | SigmaHQ Core Rules | ai, incident_response | 2026-01-24 11:04 |
-| [Merge PR #5771 from @EzLucky - Add and Update Setcap Related Rules](https://github.com/SigmaHQ/sigma/commit/076da17939038b38667db10882825ff370cbf429) | SigmaHQ Core Rules | ai, incident_response | 2026-01-24 10:51 |
-| [U.S. CISA adds a flaw in Broadcom VMware vCenter Server to its Known Exploited Vulnerabilities catalog](https://securityaffairs.com/187267/security/u-s-cisa-adds-a-flaw-in-broadcom-vmware-vcenter-server-to-its-known-exploited-vulnerabilities-catalog.html) | Security Affairs (Dark Web) | policy, vulnerabilities | 2026-01-24 10:23 |
-| [New DynoWiper Malware Used in Attempted Sandworm Attack on Polish Power Sector](https://thehackernews.com/2026/01/new-dynowiper-malware-used-in-attempted.html) | The Hacker News | ai, apt, malware | 2026-01-24 08:21 |
-| [Who Approved This Agent? Rethinking Access, Accountability, and Risk in the Age of AI Agents](https://thehackernews.com/2026/01/who-approved-this-agent-rethinking.html) | The Hacker News | ai | 2026-01-24 08:20 |
-| [CISA Adds Actively Exploited VMware vCenter Flaw CVE-2024-37079 to KEV Catalog](https://thehackernews.com/2026/01/cisa-adds-actively-exploited-vmware.html) | The Hacker News | policy, vulnerabilities | 2026-01-24 08:09 |
+| [ChatGPT Temporary chat feature is getting a much-needed upgrade](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-temporary-chat-feature-is-getting-a-much-needed-upgrade/) | BleepingComputer News | ai | 2026-01-26 01:01 |
+| [7 Top Endpoint Security Platforms for 2026](https://hackread.com/7-top-endpoint-security-platforms-2026/) | HackRead | ai | 2026-01-25 18:22 |
+| [1Password adds pop-up warnings for suspected phishing sites](https://www.bleepingcomputer.com/news/security/1password-adds-pop-up-warnings-for-suspected-phishing-sites/) | BleepingComputer News | ai, apt, identity, phishing | 2026-01-25 15:17 |
+| [Nike is investigating a possible data breach, after WorldLeaks claims](https://securityaffairs.com/187303/data-breach/nike-is-investigating-a-possible-data-breach-after-worldleaks-claims.html) | Security Affairs (Dark Web) | ai, data_breach | 2026-01-25 13:21 |
+| [Microsoft investigates Windows 11 boot failures after January updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-windows-11-boot-failures-after-january-updates/) | BleepingComputer News | ai, vulnerabilities | 2026-01-25 13:20 |
+| [SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 81](https://securityaffairs.com/187299/malware/security-affairs-malware-newsletter-round-81.html) | Security Affairs (Dark Web) | ai, incident_response, malware, vulnerabilities | 2026-01-25 10:33 |
 
 ---
 
@@ -76,11 +55,13 @@
 - BadIPs — Cannot connect to host www.badips.com:443 ssl:default [Name or service not known]
 - Domaineyes Sinkhole Feed — Server disconnected
 - ThreatMiner C2 Feed — 404, message='Not Found', url=URL('https://www.threatminer.org/rss.php?type=C2')
+- Hunt.io IOC Hunter — 404, message='Not Found', url=URL('https://hunt.io/ioc-feed/rss')
 - OpenPhish — 404, message='Not Found', url=URL('https://openphish.com/feed.xml')
 - PhishLabs Blog (Phishing) — 403, message='Forbidden', url=URL('https://www.phishlabs.com/blog/feed/')
 - Spamhaus Phishing — 404, message='Not Found', url=URL('https://www.spamhaus.org/phishing_lasso')
 - ThreatNix Phishing — 404, message='Not Found', url=URL('https://threatnix.io/feed/')
 - URLScan.io Malicious — 404, message='Not Found', url=URL('https://urlscan.io/feed/malicious/')
+- BrandShield — 403, message='Forbidden', url=URL('https://brandshield.com/feed/')
 - Netcraft Phishing — 404, message='Not Found', url=URL('https://www.netcraft.com/rss/phishing.xml')
 - DomainTools Security Blog — 404, message='Not Found', url=URL('https://www.domaintools.com/blog/feed')
 - VX-Underground Blog — Cannot connect to host blog.vx-underground.org:443 ssl:default [Name or service not known]
