@@ -1,360 +1,182 @@
 feeds:
-  # Government & national CERTs
-  - name: NCSC UK Reports
-    url: 'https://www.ncsc.gov.uk/feeds/reports.xml'
-  - name: US-CERT Advisories
-    url: 'https://us-cert.cisa.gov/ics/advisories/advisories.xml'
-  - name: US-CERT Alerts
-    url: 'https://us-cert.cisa.gov/ncas/alerts.xml'
-  - name: US-CERT Analysis Reports
-    url: 'https://us-cert.cisa.gov/ncas/analysis-reports.xml'
-  - name: US-CERT Current Activity
-    url: 'https://us-cert.cisa.gov/ncas/current-activity.xml'
-  - name: CERT-EU Security Advisories
-    url: 'https://cert.europa.eu/publications/security-advisories-rss'
-  - name: CERT-EU Security Guidance
-    url: 'https://cert.europa.eu/publications/security-guidance-rss'
-  - name: CERT-EU Threat Intelligence
-    url: 'https://cert.europa.eu/publications/threat-intelligence-rss'
+  # Commercial threat intel labs / vendors (additional)
 
-  # Automotive industry bodies
-  - name: Upstream Auto Blog
-    url: 'https://upstream.auto/feed'
-  - name: CertX Blog
-    url: 'https://certx.com/feed'
-  - name: C2A Security Blog
-    url: 'https://c2a-sec.com/feed'
-  - name: Karamba Security Blog
-    url: 'https://karambasecurity.com/feed'
-  - name: GuardKnox Blog
-    url: 'https://guardknox.com/feed'
+  - name: Huntress Blog
+    url: 'https://www.huntress.com/blog/rss.xml'
 
-  # Commercial threat intel labs/blogs
-  - name: Cisco Talos
-    url: 'http://feeds.feedburner.com/feedburner/Talos'
-  - name: Cloudflare Security Blog
-    url: 'https://blog.cloudflare.com/tag/security/rss/'
-  - name: Cofense
-    url: 'https://cofense.com/feed/'
-  - name: CrowdStrike
-    url: 'https://www.crowdstrike.com/blog/category/threat-intel-research/'
-  - name: Digital Shadows
-    url: 'https://www.digitalshadows.com/blog-and-research/rss/'
-  - name: EclecticIQ Blog
-    url: 'https://blog.eclecticiq.com/rss.xml'
-  - name: ESET WeLiveSecurity
-    url: 'https://www.welivesecurity.com/rss-feed/'
-  - name: Mandiant/FireEye
-    url: 'https://www.mandiant.com/resources/blog/feed'
-  - name: Fox-IT
-    url: 'https://blog.fox-it.com/feed/'
+  - name: Trend Micro Newsroom
+    url: 'https://newsroom.trendmicro.com/cyberthreat?pagetemplate=rss'
+
   - name: Fortinet Threat Research
-    url: 'https://www.fortinet.com/blog/threat-research/feed'
-  - name: Google Security Blog
-    url: 'https://security.googleblog.com/atom.xml'
-  - name: IBM Security Intelligence
-    url: 'https://securityintelligence.com/feed/'
-  - name: Malwarebytes Labs
-    url: 'https://www.malwarebytes.com/blog/feed'
-  - name: McAfee (Trellix)
-    url: 'https://www.mcafee.com/blogs/feed/'
-  - name: Microsoft Security Blog
-    url: 'https://www.microsoft.com/security/blog/feed/'
-  - name: Naked Security (Sophos)
-    url: 'https://nakedsecurity.sophos.com/feed/'
-  - name: Proofpoint
-    url: 'https://www.proofpoint.com/us/rss.xml'
-  - name: Qualys
-    url: 'https://blog.qualys.com/feed'
-  - name: Quarkslab
-    url: 'https://blog.quarkslab.com/rss.xml'
-  - name: Quick Heal
-    url: 'https://blogs.quickheal.com/feed/'
-  - name: The Record
-    url: 'https://therecord.media/feed'
-  - name: Recorded Future Blog
-    url: 'https://www.recordedfuture.com/feed/'
-  - name: RiskIQ
-    url: 'https://www.riskiq.com/blog/feed/'
+    url: 'https://feeds.fortinet.com/fortinet/blog/threat-research'
+
+  - name: Google Mandiant Threat Intelligence
+    url: 'https://feeds.feedburner.com/threatintelligence/pvexyqv7v0v'
+
+  - name: Microsoft Threat Intelligence
+    url: 'https://www.microsoft.com/en-us/security/blog/topic/threat-intelligence/feed/'
+
+  - name: Palo Alto Networks Unit 42
+    url: 'https://feeds.feedburner.com/unit42'
+
+  - name: Cisco Talos
+    url: 'https://blog.talosintelligence.com/rss/'
+
   - name: SecureList (Kaspersky)
     url: 'https://securelist.com/feed/'
-  - name: Dell SecureWorks
-    url: 'https://www.secureworks.com/rss-feeds'
-  - name: SensePost
-    url: 'https://sensepost.com/blog/feed'
+
+  - name: Seqrite Blog
+    url: 'https://www.seqrite.com/blog/feed/'
+
+  - name: Check Point Research
+    url: 'https://research.checkpoint.com/feed/'
+
+  - name: AhnLab ASEC
+    url: 'https://asec.ahnlab.com/en/feed/'
+
+  - name: Cyble Research & Intelligence
+    url: 'https://cyble.com/blog/feed/'
+
+  - name: Arctic Wolf Threat Research
+    url: 'https://arcticwolf.com/resources/tag/threat-research-uk/feed/'
+
+  - name: ESET Research
+    url: 'https://feeds.feedburner.com/eset/blog?format=xml'
+
+  - name: Securonix Blog
+    url: 'https://www.securonix.com/feed/'
+
+  - name: KELA Cyber Intelligence
+    url: 'https://www.kelacyber.com/blog/feed'
+
+  - name: Flashpoint Blog
+    url: 'https://flashpoint.io/blog/feed/'
+
   - name: SentinelOne Labs
-    url: 'https://www.sentinelone.com/feed/'
-  - name: SOC Prime
-    url: 'https://socprime.com/blog/feed/'
-  - name: SpecterOps
-    url: 'https://posts.specterops.io/feed'
-  - name: Trend Micro Research
-    url: 'https://www.trendmicro.com/en_us/research/rss'
-  - name: Tripwire State of Security
-    url: 'https://www.tripwire.com/state-of-security/feed/'
-  - name: TrustArc
-    url: 'https://trustarc.com/blog/feed'
-  - name: Palo Alto Networks Unit 42
-    url: 'https://unit42.paloaltonetworks.com/feed/'
-  - name: PhishLabs Blog
-    url: 'https://www.phishlabs.com/blog/feed/'
-  - name: UpGuard Blog
-    url: 'https://www.upguard.com/blog?format=RSS'
-  - name: Veracode
-    url: 'https://www.veracode.com/blog/feed'
-  - name: Virus Bulletin
-    url: 'https://www.virusbulletin.com/rss?category=labblog'
-  - name: VirusTotal Blog
-    url: 'https://blog.virustotal.com/feeds/posts/default'
-  - name: Webroot
-    url: 'https://www.webroot.com/blog/feed'
+    url: 'https://www.sentinelone.com/blog/feed/'
 
-  # Exploit & PoC databases
-  - name: Exploit-DB
-    url: 'https://www.exploit-db.com/rss.xml'
-  - name: ZDI Published Advisories
-    url: 'https://www.zerodayinitiative.com/rss/published/'
-  - name: CXSecurity Exploit Feed
-    url: 'https://cxsecurity.com/wlb/rss/exploit/'
+  - name: WatchTowr Labs
+    url: 'https://labs.watchtowr.com/rss/'
 
-  # Malware news
-  - name: Malwarebytes Labs (News)
-    url: 'https://www.malwarebytes.com/blog/feed'
-  - name: BleepingComputer News
-    url: 'https://www.bleepingcomputer.com/feed/'
-  - name: The Hacker News
-    url: 'https://feeds.feedburner.com/TheHackersNews'
-  - name: Security Affairs
-    url: 'https://securityaffairs.co/wordpress/feed'
-  - name: Krebs on Security
-    url: 'https://krebsonsecurity.com/feed/'
-  - name: Threatpost
-    url: 'https://threatpost.com/feed/'
-  - name: Dark Reading
-    url: 'http://www.darkreading.com/rss/all.xml'
-  - name: Ars Technica Security
-    url: 'http://feeds.arstechnica.com/arstechnica/security'
-  - name: InfoSecurity Magazine News
-    url: 'https://www.infosecurity-magazine.com/rss/news/'
+  - name: GBHackers
+    url: 'https://gbhackers.com/feed/'
 
-  # Botnet/C2 trackers & sinkhole intel
-  - name: Abuse.ch Feodo Tracker
-    url: 'https://feodotracker.abuse.ch/feeds/rss.xml'
-  - name: Abuse.ch URLhaus
-    url: 'https://urlhaus.abuse.ch/feeds/rss/'
-  - name: Abuse.ch ThreatFox
-    url: 'https://threatfox.abuse.ch/rss/'
-  - name: Abuse.ch MalwareBazaar
-    url: 'https://bazaar.abuse.ch/rss/'
-  - name: Shadowserver Botnet Reports
-    url: 'https://www.shadowserver.org/news/feed/'
-  - name: Spamhaus DROP Feed
-    url: 'https://www.spamhaus.org/drop/drop.lasso'
-  - name: SANS DShield Daily
-    url: 'https://isc.sans.edu/feeds.html'
-  - name: AlienVault OTX Pulses
-    url: 'https://otx.alienvault.com/feed/'
-  - name: Hunt.io C2 Feed
-    url: 'https://hunt.io/c2-feed/rss'
-  - name: Pulsedive Threat Feed
-    url: 'https://pulsedive.com/feed/'
-  - name: Maltrail Botnet Feed
-    url: 'https://maltrail.github.io/feed.xml'
-  - name: BadIPs
-    url: 'https://www.badips.com/get/list/badips'
-  - name: Domaineyes Sinkhole Feed
-    url: 'https://domaineyes.com/sinkhole/feed/'
-  - name: ThreatMiner C2 Feed
-    url: 'https://www.threatminer.org/rss.php?type=C2'
-  - name: Hunt.io IOC Hunter
-    url: 'https://hunt.io/ioc-feed/rss'
+  - name: ThreatDown Blog
+    url: 'https://www.threatdown.com/blog/feed/'
 
-  # Phishing/spam/brand abuse feeds
-  - name: OpenPhish
-    url: 'https://openphish.com/feed.xml'
-  - name: PhishLabs Blog (Phishing)
-    url: 'https://www.phishlabs.com/blog/feed/'
-  - name: Spamhaus Phishing
-    url: 'https://www.spamhaus.org/phishing_lasso'
-  - name: Cofense Phishing Defense
-    url: 'https://cofense.com/feed/'
-  - name: ThreatNix Phishing
-    url: 'https://threatnix.io/feed/'
-  - name: PhishTank
-    url: 'https://phishtank.org/rss/'
-  - name: URLScan.io Malicious
-    url: 'https://urlscan.io/feed/malicious/'
-  - name: BrandShield
-    url: 'https://brandshield.com/feed/'
-  - name: Netcraft Phishing
-    url: 'https://news.netcraft.com/rss/phishing.xml'
-  - name: DomainTools Security Blog
-    url: 'https://www.domaintools.com/resources/blog/feed'
+  - name: Cybersecurity News
+    url: 'https://cybersecuritynews.com/feed/'
 
-  # Dark web breach forums & leak sites
-  - name: DataBreaches.net
-    url: 'https://www.databreaches.net/feed/'
-  - name: HackRead
-    url: 'https://www.hackread.com/feed/'
-  - name: Troy Hunt Blog
-    url: 'https://www.troyhunt.com/feed/'
-  - name: Security Affairs (Dark Web)
-    url: 'https://securityaffairs.co/wordpress/feed'
-  - name: VX-Underground Blog
-    url: 'https://blog.vx-underground.org/feed'
-  - name: Cybersecurity Insiders Breach
-    url: 'https://www.cybersecurity-insiders.com/category/breaches/feed/'
-  - name: Privacy Affairs
-    url: 'https://www.privacyaffairs.com/feed/'
-  - name: Comparitech Blog
-    url: 'https://www.comparitech.com/blog/feed/'
-  - name: BankInfoSecurity Breach
-    url: 'https://www.bankinfosecurity.com/rss/breach.xml'
-  - name: ID Theft Resource Center
-    url: 'https://www.idtheftcenter.org/feed/'
-  - name: Dark Reading Breaches
-    url: 'https://www.darkreading.com/vulnerabilities-threats/rss'
-  - name: CISA Victim Notifications
-    url: 'https://www.cisa.gov/sites/default/files/rss/vulnfeeds.xml'
-  - name: COVERT Breach Forum
-    url: 'https://covert.io/feed'
-  - name: LeakIX
-    url: 'https://leakix.net/rss'
-  - name: SecAlert
-    url: 'https://secalert.net/rss'
-  - name: PrivacyWeek
-    url: 'https://privacyweeknews.com/rss'
-  - name: DailyDarkWeb
-    url: 'https://dailydarkweb.com/rss'
-  - name: CyberNews
-    url: 'https://cybernews.com/feed/'
-  - name: DarkFeed.io
-    url: 'https://darkfeed.io/feed.xml'
-  - name: Emsisoft Security Blog
-    url: 'https://news.emsisoft.com/en/feed/'
+  - name: Koi Security Blog
+    url: 'https://www.koi.ai/blog/rss.xml'
 
-  # Data breach notifications
-  - name: HHS OCR Breach Portal
-    url: 'https://ocrportal.hhs.gov/ocr/breach/rss'
-  - name: California AG Breach Notice
-    url: 'https://oag.ca.gov/sites/all/modules/custom/oag_noticelist/rss.xml'
-  - name: Maine AG Breach Notice
-    url: 'https://apps.web.maine.gov/online/aeviewer/maine/rss'
-  - name: Vermont AG Data Breach
-    url: 'https://ago.vermont.gov/rss/data-breach-notifications'
-  - name: Washington AG Breach
-    url: 'https://www.atg.wa.gov/rss/breach.xml'
-  - name: U.K. ICO Monetary Penalties
-    url: 'https://ico.org.uk/rss/news/'
-  - name: DataBreaches.net (Notices)
-    url: 'https://www.databreaches.net/feed/'
-  - name: Office of Australian Information Commissioner
-    url: 'https://www.oaic.gov.au/rss/news'
-  - name: OS Commissioner
-    url: 'https://www.priv.gc.ca/en/rss/'
+  - name: Synthient Blog
+    url: 'https://synthient.com/blog/feed.xml'
 
-  # Law enforcement & legal actions
-  - name: Europol Press Releases
-    url: 'https://www.europol.europa.eu/rss/police-press-releases'
-  - name: FBI Press Releases
-    url: 'https://www.fbi.gov/feeds/press-releases-news.xml'
-  - name: U.S. DOJ Press Releases
-    url: 'https://www.justice.gov/rss/pressreleases/all'
-  - name: U.S. DHS News
-    url: 'https://www.dhs.gov/feeds/press-releases.xml'
-  - name: UK NCA News
-    url: 'https://www.nationalcrimeagency.gov.uk/news/rss'
-  - name: Interpol News
-    url: 'https://www.interpol.int/en/News-and-Events/News?format=RSS'
-  - name: FTC Press Releases
-    url: 'https://www.ftc.gov/news-events/press-releases/rss'
-  - name: OFAC Sanctions
-    url: 'https://home.treasury.gov/services/citizen-services/rss'
-  - name: UK ICO News
-    url: 'https://ico.org.uk/rss/news/'
-  - name: SEC Enforcement Actions
-    url: 'https://www.sec.gov/rss/news/press.xml'
-  - name: Australian Federal Police News
-    url: 'https://www.afp.gov.au/rss.xml'
-  - name: Europol Cybercrime Centre
-    url: 'https://www.europol.europa.eu/rss/cybercrime'
-  - name: CISA Joint Advisories
-    url: 'https://www.cisa.gov/uscert/ncas/all.xml'
-  - name: RCMP Cybercrime
-    url: 'https://www.rcmp-grc.gc.ca/en/news?format=feed'
+  - name: ReSecurity Research
+    url: 'https://resecurity.com/ar/feed'
 
-  # Social media & journalist signals
-  - name: Krebs on Security (Signals)
-    url: 'https://krebsonsecurity.com/feed/'
-  - name: Schneier on Security
-    url: 'http://feeds.feedburner.com/schneier/fulltext'
-  - name: Risky Business News
-    url: 'https://riskybiznews.substack.com/feed'
-  - name: The Record (Signals)
-    url: 'https://therecord.media/feed'
-  - name: Wired Security
-    url: 'https://www.wired.com/feed/category/security/latest/rss'
-  - name: The Guardian Tech Security
-    url: 'https://www.theguardian.com/technology/series/security/rss'
-  - name: Washington Post Cybersecurity
-    url: 'https://feeds.washingtonpost.com/rss/national-security'
-  - name: Ars Technica Security (Signals)
-    url: 'http://feeds.arstechnica.com/arstechnica/security'
-  - name: Motherboard Vice
-    url: 'https://www.vice.com/en/rss/topic/cybersecurity'
-  - name: The Intercept
-    url: 'https://theintercept.com/feeds/category/security/'
+  - name: GreyNoise Blog
+    url: 'https://www.greynoise.io/blog/rss.xml'
 
-  # Curated newsletters & roundups
-  - name: TLDR Sec
-    url: 'https://tldrsec.com/rss/'
-  - name: CyberWire Daily Brief
-    url: 'https://thecyberwire.com/podcasts/daily-podcast/rss'
-  - name: SANS NewsBites
-    url: 'https://www.sans.org/newsletters/newsbites/rss/'
+  - name: Lab52 Research
+    url: 'https://lab52.io/blog/feed/'
+
+  - name: Red Canary Blog
+    url: 'https://redcanary.com/feed/'
+
   - name: The DFIR Report
     url: 'https://thedfirreport.com/feed/'
-  - name: Risky Business
-    url: 'https://risky.biz/newsfeed.php'
-  - name: Cyber Weekly
-    url: 'https://cyberweekly.substack.com/feed'
-  - name: Morning Cybersecurity by Politico
-    url: 'https://www.politico.com/morning-cybersecurity/feed'
-  - name: Offensive Security Friday 5
-    url: 'https://www.offensive-security.com/friday5/feed/'
-  - name: Huntress HackIt Newsletter
-    url: 'https://www.huntress.com/feed'
-  - name: TLDR Security DevOps
-    url: 'https://tldrsecurity.com/rss'
 
-  # IOC & context enrichment
-  - name: AlienVault OTX
-    url: 'https://otx.alienvault.com/feed/'
-  - name: Abuse.ch ThreatFox (IOC)
-    url: 'https://threatfox.abuse.ch/rss/'
-  - name: Abuse.ch URLhaus (IOC)
-    url: 'https://urlhaus.abuse.ch/feeds/rss/'
-  - name: MalwareBazaar (IOC)
-    url: 'https://bazaar.abuse.ch/rss/'
-  - name: VirusTotal Blog (IOC)
-    url: 'https://blog.virustotal.com/feeds/posts/default'
-  - name: OSINT Combine
-    url: 'https://www.osintcombine.com/feed/'
-  - name: GreyNoise
-    url: 'https://www.greynoise.io/feed'
-  - name: Circl.lu IOC
-    url: 'https://www.circl.lu/opendata/feed/'
-  - name: InQuest Labs
-    url: 'https://labs.inquest.net/rss'
+  - name: Bitdefender Labs
+    url: 'https://www.bitdefender.com/nuxt/api/en-us/rss/labs/'
 
-  # Sigma & Yara detection rule updates
-  - name: SigmaHQ Core Rules
-    url: 'https://github.com/SigmaHQ/sigma/commits/master.atom'
-  - name: SigmaHQ Rule Repository
-    url: 'https://github.com/SigmaHQ/sigma_rule_repo/commits/master.atom'
-  - name: YARA-Rules
-    url: 'https://github.com/Yara-Rules/rules/commits/master.atom'
-  - name: Atomic Red Team
-    url: 'https://github.com/redcanaryco/atomic-red-team/commits/master.atom'
-  - name: DetectionLab Sigma
-    url: 'https://github.com/clong/DetectionLab/commits/master.atom'
+  - name: CrowdStrike Blog
+    url: 'https://www.crowdstrike.com/en-us/blog/feed'
+
+  - name: Proofpoint Blog
+    url: 'https://www.proofpoint.com/us/rss-feeds/blog-feed.xml'
+
+  - name: The Record (Recorded Future)
+    url: 'https://therecord.media/feed'
+
+  - name: Sophos Blog
+    url: 'https://www.sophos.com/en-gb/blog/feed'
+
+  - name: Cybereason Blog
+    url: 'https://www.cybereason.com/blog/rss.xml'
+
+  - name: ANY.RUN Blog
+    url: 'https://any.run/cybersecurity-blog/feed/'
+
+  - name: Wiz Research
+    url: 'https://www.wiz.io/feed/tag/research/rss.xml'
+
+  - name: Silent Push Blog
+    url: 'https://www.silentpush.com/feed/'
+
+  - name: Cymulate Blog
+    url: 'https://cymulate.com/?feed=rss2'
+
+  - name: Genians Security Blog
+    url: 'https://www.genians.co.kr/blog/rss.xml'
+
+  - name: ESET WeLiveSecurity
+    url: 'https://www.welivesecurity.com/en/rss/feed/'
+
+  - name: Elastic Security Labs
+    url: 'https://www.elastic.co/security-labs/rss/feed.xml'
+
+  - name: Group-IB Blog
+    url: 'https://www.group-ib.com/feed/blogfeed/'
+
+  - name: SOC Radar Blog
+    url: 'https://socradar.io/?feed=rss2'
+
+  - name: Infoblox Blog
+    url: 'https://www.infoblox.com/blog/feed/'
+
+  - name: Darktrace Blog
+    url: 'https://www.darktrace.com/blog/rss.xml'
+
+  - name: Searchlight Cyber Research
+    url: 'https://slcyber.io/research-center/feed/'
+
+  - name: Brandefense Blog
+    url: 'https://brandefense.io/?feed=rss2'
+
+  - name: Flare.io Blog
+    url: 'https://flare.io/feed/'
+
+  - name: CybelAngel Blog
+    url: 'https://cybelangel.com/feed/atom/'
+
+  - name: ThreatConnect Blog
+    url: 'https://threatconnect.com/feed/atom/'
+
+  - name: DataBreaches.net
+    url: 'https://databreaches.net/feed/'
+
+  - name: DailyDarkWeb
+    url: 'https://dailydarkweb.net/feed/'
+
+  - name: DarkOwl Blog
+    url: 'https://www.darkowl.com/feed/'
+
+  - name: InfoStealers
+    url: 'https://www.infostealers.com/learn-info-stealers/feed/'
+
+  - name: TechCrunch Dark Web
+    url: 'https://techcrunch.com/tag/dark-web/feed/'
+
+  - name: PYMNTS Dark Web
+    url: 'https://www.pymnts.com/tag/dark-web/feed/'
+
+  - name: HackRead
+    url: 'https://hackread.com/feed/'
+
+  - name: Security Affairs
+    url: 'https://securityaffairs.com/feed'
+
+  - name: DarkWeb Informer
+    url: 'https://darkwebinformer.com/rss/'
