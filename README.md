@@ -1,6 +1,6 @@
 <p align="center">
   <strong style="font-size:1.9rem;">Threat Intel Atlas · Daily Signal Briefing</strong><br />
-  <span style="font-size:1rem;color:#6ecff6;">Compiled from 60 intelligence sources · refreshed 2026-02-04 06:47 UTC</span>
+  <span style="font-size:1rem;color:#6ecff6;">Compiled from 60 intelligence sources · refreshed 2026-02-05 06:48 UTC</span>
 </p>
 
 ---
@@ -10,8 +10,8 @@
 | Metric | Value |
 | --- | --- |
 | Total signals retained | 1000 |
-| Signals detected in the last 24h | 42 |
-| Signals surfaced in this report | 42 |
+| Signals detected in the last 24h | 45 |
+| Signals surfaced in this report | 45 |
 
 ---
 
@@ -19,46 +19,46 @@
 
 | Title | Source | Tags | Published (UTC) |
 | --- | --- | --- | --- |
-| [Chrome Vulnerabilities Let Attackers Execute Arbitrary Code and Crash System](https://cybersecuritynews.com/chrome-vulnerabilities-arbitrary-code-2/) | Cybersecurity News | incident_response | 2026-02-04 06:05 |
-| [One Identity Appoints Gihan Munasinghe as Chief Technology Officer](https://hackread.com/one-identity-appoints-gihan-munasinghe-as-chief-technology-officer/) | HackRead | identity, incident_response | 2026-02-04 05:32 |
-| [Hackers Exploiting React Server Components Vulnerability in the Wild to Deploy Malicious Payloads](https://cybersecuritynews.com/react-server-vulnerability-exploited/) | Cybersecurity News | ai, apt, defense, incident_response, malware, vulnerabilities | 2026-02-04 02:00 |
-| [Why Smart People Fall For Phishing Attacks](https://unit42.paloaltonetworks.com/psychology-of-phishing/) | Palo Alto Networks Unit 42 | incident_response, phishing | 2026-02-04 00:00 |
-| [Darktrace Malware Analysis: Unpacking SnappyBee](https://www.darktrace.com/blog/darktrace-malware-analysis-unpacking-snappybee) | Darktrace Blog | ai, defense, malware | 2026-02-03 23:12 |
-| [Daily Dose of Dark Web Informer - February 3rd, 2026](https://darkwebinformer.com/daily-dose-of-dark-web-informer-february-3rd-2026/) | DarkWeb Informer | ai, darkweb | 2026-02-03 22:58 |
-| [Alleged Data Breach of 48,000 Customer Records From an Australian Furniture Company](https://darkwebinformer.com/alleged-data-breach-of-48-000-customer-records-from-an-australian-furniture-company/) | DarkWeb Informer | data_breach | 2026-02-03 21:57 |
-| [CISA official says CIRCIA cyber reporting update is 'weeks' away](https://therecord.media/cisa-pfficial-says-circia-update-weeks-away) | The Record (Recorded Future) | incident_response | 2026-02-03 21:15 |
-| [U.S. CISA adds SolarWinds Web Help Desk, Sangoma FreePBX, and GitLab flaws to its Known Exploited Vulnerabilities catalog](https://securityaffairs.com/187592/security/u-s-cisa-adds-solarwinds-web-help-desk-sangoma-freepbx-and-gitlab-flaws-to-its-known-exploited-vulnerabilities-catalog.html) | Security Affairs | cloud, incident_response, policy, vulnerabilities | 2026-02-03 21:06 |
-| [CISA orders federal agencies to patch exploited SolarWinds bug by Friday](https://therecord.media/cisa-orders-agencies-patch-solarwinds-vuln) | The Record (Recorded Future) | vulnerabilities | 2026-02-03 20:57 |
-| [GlassWorm Infiltrated VSX Extensions with More than 22,000 Downloads to Attack Developers](https://cybersecuritynews.com/glassworm-infiltrated-vsx-extensions/) | Cybersecurity News | apt, incident_response, malware | 2026-02-03 20:01 |
-| [Spain will ban social media for kids under 16](https://therecord.media/spain-to-ban-social-media-children) | The Record (Recorded Future) | ai | 2026-02-03 19:51 |
-| [Infostealer Campaigns Expand to macOS as Attackers Abuse Python and Trusted Platforms](https://cybersecuritynews.com/infostealer-campaigns-expand/) | Cybersecurity News | ai, apt, identity, incident_response, malware | 2026-02-03 19:42 |
-| [Beware of Fake Dropbox Phishing Attack that Harvest Login Credentials](https://cybersecuritynews.com/beware-of-fake-dropbox-phishing-attack/) | Cybersecurity News | ai, apt, cloud, identity, incident_response, phishing, vulnerabilities | 2026-02-03 19:01 |
-| [DNS Armor Now Generally Available](https://www.infoblox.com/blog/security/dns-armor-now-generally-available/) | Infoblox Blog | ai, cloud, defense, incident_response | 2026-02-03 18:51 |
-| [France Raids X Over Algorithm Manipulation and Illegal Content Allegations](https://darkwebinformer.com/france-raids-x-over-algorithm-manipulation-and-illegal-content-allegations/) | DarkWeb Informer | ai | 2026-02-03 18:09 |
-| [Poland detains defense ministry employee on suspicion of spying for Russia](https://therecord.media/poland-detains-defense-ministry-employee-spying) | The Record (Recorded Future) | ai | 2026-02-03 18:02 |
-| [Op Neusploit: Russian APT28 Uses Microsoft Office Flaw in Malware Attacks](https://hackread.com/op-neusploit-russia-apt28-microsoft-office-malware/) | HackRead | ai, apt, malware, policy, vulnerabilities | 2026-02-03 18:01 |
-| [Gozo Channel Ferry Operator Confirms Cyberattack on Internal IT Systems](https://darkwebinformer.com/gozo-channel-ferry-operator-confirms-cyberattack-on-internal-it-systems/) | DarkWeb Informer | incident_response | 2026-02-03 17:56 |
-| [California city turns off Flock cameras after company shared data without authorization](https://therecord.media/california-city-turns-off-flock-cameras-unauthorized-sharing) | The Record (Recorded Future) | ai | 2026-02-03 17:54 |
-| [Hackers Exploiting React Native’s Metro Server in the Wild to Attack Developers](https://cybersecuritynews.com/react-native-metro-server-exploit/) | Cybersecurity News | ai, apt, incident_response, malware, vulnerabilities | 2026-02-03 16:29 |
-| [Introducing Darktrace / SECURE AI – Complete AI security across your enterprise](https://www.darktrace.com/blog/introducing-darktrace-secure-ai-complete-ai-security-across-your-enterprise) | Darktrace Blog | ai, apt, incident_response | 2026-02-03 16:09 |
-| [Foxit PDF Editor Vulnerabilities Let Attackers Execute Arbitrary JavaScript](https://cybersecuritynews.com/foxit-pdf-editor-vulnerabilities/) | Cybersecurity News | cloud, incident_response | 2026-02-03 16:00 |
-| [Compromised Routers, DNS, and a TDS Hidden in Aeza Networks](https://www.infoblox.com/blog/threat-intelligence/compromised-routers-dns-and-a-tds-hidden-in-aeza-networks/) | Infoblox Blog | ai, incident_response | 2026-02-03 15:55 |
-| [Hackers abused React Native CLI flaw to deploy Rust malware before public disclosure](https://securityaffairs.com/187587/hacking/hackers-abused-react-native-cli-flaw-to-deploy-rust-malware-before-public-disclosure.html) | Security Affairs | malware, policy, vulnerabilities | 2026-02-03 15:41 |
-| [Stronger Incident Prevention Takes Just One CISO Decision](https://cybersecuritynews.com/stronger-incident-prevention-takes-just-one-ciso-decision/) | Cybersecurity News | incident_response | 2026-02-03 15:05 |
-| [Beware of New Compliance Emails Weaponizing Word/PDF Files to Steal Sensitive Data](https://cybersecuritynews.com/beware-of-new-compliance-emails/) | Cybersecurity News | ai, apt, identity, incident_response, malware, phishing, policy | 2026-02-03 14:42 |
-| [PDFly Variant Uses Custom PyInstaller Modification, Forcing Analysts to Reverse-Engineer Decryption](https://cybersecuritynews.com/pdfly-variant-uses-custom-pyinstaller-modification/) | Cybersecurity News | defense, incident_response, malware | 2026-02-03 14:21 |
-| [Meet Moltbook, the Social Platform Where AI Agents Talk and Humans Watch](https://hackread.com/moltbook-social-platform-ai-agents-talk-humans-watch/) | HackRead | ai | 2026-02-03 14:03 |
-| [Machine-scale cybercrime: The 2026 State of Malware report](https://www.threatdown.com/blog/machine-scale-cybercrime-the-2026-state-of-malware-report/) | ThreatDown Blog | apt, malware | 2026-02-03 14:00 |
-| [Untitled](https://www.koi.ai/blog/brew-hijack-serving-malware) | Koi Security Blog | unclassified | 2026-02-03 13:19 |
-| [The Week in Vulnerabilities: Open-Sources Fixes Urged by Cyble](https://cyble.com/blog/top-it-vulnerabilities-weekly-cyble/) | Cyble Research & Intelligence | ai, apt, cloud, darkweb, data_breach, defense, identity, incident_response, iot, malware, mobile, phishing, policy, supply_chain, vulnerabilities | 2026-02-03 13:05 |
-| [Everest Ransomware Claims 90GB Data Theft Involving Legacy Polycom Systems](https://hackread.com/everest-ransomware-data-theft-legacy-polycom-system/) | HackRead | ai, data_breach, incident_response, malware | 2026-02-03 12:22 |
-| [APT28 exploits Microsoft Office flaw in Operation Neusploit](https://securityaffairs.com/187581/apt/apt28-exploits-microsoft-office-flaw-in-operation-neusploit.html) | Security Affairs | ai, apt, policy, vulnerabilities | 2026-02-03 12:13 |
-| [The State of AI Cybersecurity 2026 \| Insights from 1,500+ Leaders](https://www.darktrace.com/blog/the-state-of-ai-cybersecurity-2026) | Darktrace Blog | ai | 2026-02-03 12:07 |
-| [Fake Installer: Ultimately, ValleyRAT infection](https://www.cybereason.com/blog/fake-installer-valleyrat) | Cybereason Blog | ai, defense, malware | 2026-02-03 11:35 |
-| [Untitled](https://www.koi.ai/blog/trust-wallet-binance-compromised-inside-the-code-that-stole-7m-on-christmas-eve) | Koi Security Blog | unclassified | 2026-02-03 10:41 |
-| [Enterprise Phishing: How Attackers Abuse Trusted Microsoft & Google Platforms](/cybersecurity-blog/enterprise-phishing-analysis/) | ANY.RUN Blog | ai, apt, cloud, defense, incident_response, phishing | 2026-02-03 09:41 |
-| [Notepad++ infrastructure hack likely tied to China-nexus APT Lotus Blossom](https://securityaffairs.com/187570/apt/notepad-infrastructure-hack-likely-tied-to-china-nexus-apt-lotus-blossom.html) | Security Affairs | ai, apt, cloud, data_breach, identity, incident_response, policy, vulnerabilities | 2026-02-03 09:35 |
-| [The Notepad++ supply chain attack — unnoticed execution chains and new IoCs](https://securelist.com/notepad-supply-chain-attack/118708/) | SecureList (Kaspersky) | ai, supply_chain | 2026-02-03 08:10 |
+| [New DesckVB RAT with Multi-stage Infection Chain and Plugin-Based Architecture](https://cybersecuritynews.com/new-desckvb-rat-with-multi-stage-infection-chain/) | Cybersecurity News | ai, apt, incident_response, malware, policy | 2026-02-05 06:39 |
+| [Threat Actors Hacking NGINX Servers to Redirect Web Traffic to Malicious Servers](https://cybersecuritynews.com/threat-actors-hacking-nginx-servers/) | Cybersecurity News | ai, apt, incident_response, malware, vulnerabilities | 2026-02-05 06:19 |
+| [New 3 Step Malvertising Chain Abusing Facebook Paid Ads to Push Tech Support Scam Kit](https://cybersecuritynews.com/new-3-step-malvertising-chain-abusing-facebook-paid-ads/) | Cybersecurity News | ai, apt, incident_response | 2026-02-05 06:00 |
+| [Attackers Using DNS TXT Records in ClickFix Script to Execute Powershell Commands](https://cybersecuritynews.com/attackers-using-dns-txt-records-in-clickfix-script/) | Cybersecurity News | ai, apt, incident_response, phishing | 2026-02-05 04:45 |
+| [Amaranth-Dragon Exploiting WinRAR Vulnerability to Gain Persistent to Victim Systems](https://cybersecuritynews.com/amaranth-dragon-exploiting-winrar-vulnerability/) | Cybersecurity News | ai, apt, incident_response, policy, vulnerabilities | 2026-02-05 04:08 |
+| [Two Ivy League universities had donor information breaches. Will donors be notified?](https://databreaches.net/2026/02/04/two-ivy-league-universities-had-donor-information-breaches-will-donors-be-notified/?pk_campaign=feed&pk_kwd=two-ivy-league-universities-had-donor-information-breaches-will-donors-be-notified) | DataBreaches.net | ai, apt, data_breach, incident_response, iot, phishing | 2026-02-05 02:47 |
+| [CISA Warns of VMware ESXi 0-day Vulnerability Exploited in Ransomware Attacks](https://cybersecuritynews.com/vmware-esxi-0-day-ransomware-attack/) | Cybersecurity News | incident_response, malware, policy, vulnerabilities | 2026-02-05 02:20 |
+| [Multiple TP-Link OS Command Injection Vulnerabilities Let Attackers Gain Admin Control of the Device](https://cybersecuritynews.com/tp-link-os-command-injection-vulnerability/) | Cybersecurity News | ai, cloud, incident_response, policy, vulnerabilities | 2026-02-05 02:07 |
+| [Top AI Tools for Red Teaming in 2026](https://hackread.com/top-ai-tools-for-red-teaming-in-2026/) | HackRead | ai | 2026-02-05 00:36 |
+| [Daily Dose of Dark Web Informer - February 4th, 2026](https://darkwebinformer.com/daily-dose-of-dark-web-informer-february-4th-2026/) | DarkWeb Informer | ai, darkweb | 2026-02-04 22:38 |
+| [Threat Attack Update - February 4th, 2026](https://darkwebinformer.com/threat-attack-update-february-4th-2026/) | DarkWeb Informer | unclassified | 2026-02-04 22:26 |
+| [Ransomware Attack Update - February 4th, 2026](https://darkwebinformer.com/ransomware-attack-update-february-4th-2026/) | DarkWeb Informer | malware | 2026-02-04 22:21 |
+| [CVE-2025-22225 in VMware ESXi now used in active ransomware attacks](https://securityaffairs.com/187637/security/cve-2025-22225-in-vmware-esxi-now-used-in-active-ransomware-attacks.html) | Security Affairs | incident_response, malware, policy, vulnerabilities | 2026-02-04 22:02 |
+| [Taiwanese national sentenced to 30 years for running darknet Incognito Market](https://therecord.media/incognito-market-sentenced-thirty) | The Record (Recorded Future) | ai, darkweb | 2026-02-04 20:41 |
+| [TLDFinder: A streamlined tool for discovering private TLDs for security research](https://darkwebinformer.com/tldfinder-a-streamlined-tool-for-discovering-private-tlds-for-security-research/) | DarkWeb Informer | unclassified | 2026-02-04 20:22 |
+| [Taiwanese operator of Incognito Market sentenced to 30 years over $105M darknet drug ring](https://securityaffairs.com/187623/deep-web/taiwanese-operator-of-incognito-market-sentenced-to-30-years-over-105m-darknet-drug-ring.html) | Security Affairs | ai, darkweb, iot | 2026-02-04 19:23 |
+| [Don’t panic:  0apt’s listings and data leaks are fakes — Researchers](https://databreaches.net/2026/02/04/dont-panic-0apts-listings-and-data-leaks-are-fakes-researchers/?pk_campaign=feed&pk_kwd=dont-panic-0apts-listings-and-data-leaks-are-fakes-researchers) | DataBreaches.net | ai, apt, darkweb, data_breach, iot | 2026-02-04 18:30 |
+| [SystemBC Botnet Hijacked 10,000 Devices Worldwide to Use for DDoS Attacks](https://cybersecuritynews.com/systembc-botnet-hijacked-10000-devices/) | Cybersecurity News | ai, apt, ddos, incident_response, malware | 2026-02-04 17:48 |
+| [Threat Actor Claims Breach of Loxam Delivery Operations, Offers 828K Records Spanning 2020–2026](https://darkwebinformer.com/threat-actor-claims-breach-of-loxam-delivery-operations-offers-828k-records-spanning-2020-2026/) | DarkWeb Informer | ai, apt, data_breach | 2026-02-04 17:34 |
+| [PhantomVAI Custom Loader Uses RunPE Utility to Attack Users](https://cybersecuritynews.com/phantomvai-custom-loader/) | Cybersecurity News | ai, apt, incident_response, malware, phishing | 2026-02-04 17:24 |
+| [Interlock Ransomware Actors New Tool Exploiting Gaming Anti-Cheat Driver 0-Day to Disable EDR and AV](https://cybersecuritynews.com/interlock-ransomware-actors-new-tool-exploiting-gaming-anti-cheat-driver-0-day/) | Cybersecurity News | ai, incident_response, malware, vulnerabilities | 2026-02-04 17:00 |
+| [Protecting the Big Game: A Threat Assessment for Super Bowl LX](https://flashpoint.io/blog/protecting-the-big-game-a-threat-assessment-for-super-bowl-lx/) | Flashpoint Blog | incident_response | 2026-02-04 16:39 |
+| [Exclusive: US used cyber weapons to disrupt Iranian air defenses during 2025 strikes](https://therecord.media/iran-nuclear-cyber-strikes-us) | The Record (Recorded Future) | ai, incident_response | 2026-02-04 16:17 |
+| [The State of AI Cybersecurity 2026 \| Insights from 1,500+ Leaders](https://www.darktrace.com/blog/the-state-of-ai-cybersecurity-2026) | Darktrace Blog | ai | 2026-02-04 16:14 |
+| [Ukraine tightens controls on Starlink terminals to counter Russian drones](https://therecord.media/ukraine-tightens-starlink-controls-counter-russian-drones) | The Record (Recorded Future) | ai, incident_response | 2026-02-04 15:49 |
+| [Paris raid on X focuses on child abuse material allegations](https://securityaffairs.com/187619/cyber-crime/paris-raid-on-x-focuses-on-child-abuse-material-allegations.html) | Security Affairs | ai | 2026-02-04 15:23 |
+| [They Got In Through SonicWall. Then They Tried to Kill Every Security Tool](https://www.huntress.com/blog/encase-byovd-edr-killer) | Huntress Blog | identity | 2026-02-04 15:00 |
+| [Chinese Mustang Panda Used Fake Diplomatic Briefings to Spy on Officials](https://hackread.com/chinese-mustang-panda-briefing-spy-diplomat/) | HackRead | ai, apt | 2026-02-04 14:58 |
+| [A Technical and Ethical Post-Mortem of the Feb 2026 Harvard University ShinyHunters Data Breach](https://www.infostealers.com/article/a-technical-and-ethical-post-mortem-of-the-feb-2026-harvard-university-shinyhunters-data-breach/) | InfoStealers | ai, data_breach, defense, incident_response, malware | 2026-02-04 14:53 |
+| [GreyNoise tracks massive Citrix Gateway recon using 63K+ residential proxies and AWS](https://securityaffairs.com/187615/hacking/greynoise-tracks-massive-citrix-gateway-recon-using-63k-residential-proxies-and-aws.html) | Security Affairs | ai, apt, cloud | 2026-02-04 14:49 |
+| [Amaranth-Dragon: Weaponizing CVE-2025-8088 for Targeted Espionage in the Southeast Asia](https://research.checkpoint.com/2026/amaranth-dragon-weaponizes-cve-2025-8088-for-targeted-espionage/) | Check Point Research | ai, apt, incident_response, vulnerabilities | 2026-02-04 13:57 |
+| [Untitled](https://www.koi.ai/blog/brew-hijack-serving-malware) | Koi Security Blog | unclassified | 2026-02-04 13:57 |
+| [The Hidden Cost of Tool Sprawl [Part II]](https://cybelangel.com/blog/the-hidden-cost-of-tool-sprawl-part-ii/) | CybelAngel Blog | incident_response, iot | 2026-02-04 13:07 |
+| [MomentProof Deploys Patented Digital Asset Protection](https://hackread.com/momentproof-deploys-patented-digital-asset-protection/) | HackRead | incident_response | 2026-02-04 13:00 |
+| [Former Nuance Communications employee facing more charges in 2023 Geisinger data breach case](https://databreaches.net/2026/02/04/former-nuance-communications-employee-facing-more-charges-in-2023-geisinger-data-breach-case/?pk_campaign=feed&pk_kwd=former-nuance-communications-employee-facing-more-charges-in-2023-geisinger-data-breach-case) | DataBreaches.net | ai, apt, data_breach, iot | 2026-02-04 12:51 |
+| [Ransomware Attacks Have Surged 30% Since Q4 2025](https://cyble.com/blog/ransomware-groups-q4-2025-cyble-report/) | Cyble Research & Intelligence | ai, apt, cloud, darkweb, data_breach, defense, identity, incident_response, iot, malware, policy, supply_chain, vulnerabilities | 2026-02-04 12:39 |
+| [Inside a Multi-Stage Android Malware Campaign Leveraging RTO-Themed Social Engineering](https://www.seqrite.com/blog/inside-a-multi-stage-android-malware-campaign-leveraging-rto-themed-social-engineering/) | Seqrite Blog | ai, apt, identity, incident_response, malware, mobile, phishing, vulnerabilities | 2026-02-04 11:50 |
+| [Microsoft: Info-Stealing malware expands from Windows to macOS](https://securityaffairs.com/187608/security/microsoft-info-stealing-malware-expands-from-windows-to-macos.html) | Security Affairs | malware, phishing | 2026-02-04 11:30 |
+| [Q4 2025: Product Updates and Highlights](https://www.darkowl.com/blog-content/q4-2025-product-updates-and-highlights/) | DarkOwl Blog | incident_response | 2026-02-04 11:00 |
+| [Silent Push Identifies More Than 10,000 Infected IPs as Part of SystemBC Botnet Malware Family](https://www.silentpush.com/blog/systembc/?utm_source=rss&utm_medium=rss&utm_campaign=systembc) | Silent Push Blog | incident_response, malware | 2026-02-04 10:59 |
 
 ---
 
