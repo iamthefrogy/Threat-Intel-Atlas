@@ -1,6 +1,6 @@
 <p align="center">
   <strong style="font-size:1.9rem;">Threat Intel Atlas · Daily Signal Briefing</strong><br />
-  <span style="font-size:1rem;color:#6ecff6;">Compiled from 60 intelligence sources · refreshed 2026-02-24 06:48 UTC</span>
+  <span style="font-size:1rem;color:#6ecff6;">Compiled from 60 intelligence sources · refreshed 2026-02-25 06:48 UTC</span>
 </p>
 
 ---
@@ -10,8 +10,8 @@
 | Metric | Value |
 | --- | --- |
 | Total signals retained | 1000 |
-| Signals detected in the last 24h | 31 |
-| Signals surfaced in this report | 31 |
+| Signals detected in the last 24h | 42 |
+| Signals surfaced in this report | 42 |
 
 ---
 
@@ -19,37 +19,46 @@
 
 | Title | Source | Tags | Published (UTC) |
 | --- | --- | --- | --- |
-| [WhatsApp Introduces Optional Account Password Feature to Strengthen Login Security](https://cybersecuritynews.com/whatsapp-password-feature/) | Cybersecurity News | identity, incident_response, mobile | 2026-02-24 04:35 |
-| [$10K+ Bounty Offered to Hacker Who Can Disconnect Ring Video Doorbells from Amazon Cloud](https://cybersecuritynews.com/10k-bounty-amazon-ring/) | Cybersecurity News | ai, cloud, incident_response | 2026-02-24 04:21 |
-| [Google Chrome Emergency Security Update Patches Three High-Severity Vulnerabilities](https://cybersecuritynews.com/google-chrome-emergency-security-update/) | Cybersecurity News | incident_response, vulnerabilities | 2026-02-24 02:15 |
-| [Data Breaches in 2026: What’s old, what’s new?](https://hackread.com/data-breaches-2026-whats-old-whats-new/) | HackRead | ai, data_breach | 2026-02-23 22:50 |
-| [Scrapling: An Adaptive Web Scraping Framework That Handles Everything from Single Requests to Full-Scale Crawls](https://darkwebinformer.com/scrapling-an-adaptive-web-scraping-framework-that-handles-everything-from-single-requests-to-full-scale-crawls/) | DarkWeb Informer | apt, policy | 2026-02-23 21:03 |
-| [UK regulator fines porn company $1.8 million for failing to verify user ages](https://therecord.media/ofcom-porn-fine-verification) | The Record (Recorded Future) | ai | 2026-02-23 20:06 |
-| [GrayCharlie Injects Malicious JavaScript into WordPress Sites to Deliver NetSupport RAT and Stealc](https://cybersecuritynews.com/graycharlie-injects-malicious-javascript/) | Cybersecurity News | ai, apt, incident_response, malware | 2026-02-23 19:38 |
-| [Anthropic Claude Under Large Scale Distillation Attacks By Chinese AI Labs with 13 Million Exchanges](https://cybersecuritynews.com/anthropic-claude-under-large-scale-distillation-attacks/) | Cybersecurity News | ai, apt, incident_response | 2026-02-23 19:35 |
-| [Conduent Data Breach – Largest Data Breach in U.S. History As Ransomware Group Stolen 8 TB of Data](https://cybersecuritynews.com/conduent-data-breach/) | Cybersecurity News | ai, data_breach, incident_response, malware | 2026-02-23 18:48 |
-| [Wormable XMRig campaign leverages BYOVD and timed kill switch for stealth](https://securityaffairs.com/188388/malware/wormable-xmrig-campaign-leverages-byovd-and-timed-kill-switch-for-stealth.html) | Security Affairs | ai, apt, defense, incident_response, malware, vulnerabilities | 2026-02-23 18:36 |
-| [The Weekly Whiskey - 02/23/2026](https://darkwebinformer.com/the-weekly-whiskey-02-23-2026/) | DarkWeb Informer | unclassified | 2026-02-23 18:20 |
-| [New MIMICRAT Custom RAT Uncovered in Sophisticated Multi-Stage ClickFix Campaign](https://cybersecuritynews.com/new-mimicrat-custom-rat-uncovered/) | Cybersecurity News | ai, apt, incident_response, malware, phishing, vulnerabilities | 2026-02-23 17:44 |
-| [Multiple Zero-Day Flaws in PDF Platforms Enable XSS and One-Click Attacks](https://hackread.com/zero-day-flaws-pdf-platforms-xss-one-click-attacks/) | HackRead | ai, cloud, policy, vulnerabilities | 2026-02-23 17:27 |
-| [Russian-speaking hackers used gen AI tools to compromise 600 firewalls, Amazon says](https://therecord.media/gen-ai-fortigate-hackers-russia) | The Record (Recorded Future) | ai, apt, incident_response | 2026-02-23 17:22 |
-| [Root Access and Firewall Control to a Leading South African Telecom Offered for $300](https://darkwebinformer.com/root-access-and-firewall-control-to-a-leading-south-african-telecom-offered-for-300/) | DarkWeb Informer | incident_response | 2026-02-23 17:20 |
-| [Air Côte d'Ivoire confirms cyberattack following ransomware claims](https://therecord.media/air-cote-divoire-confirms-cyberattack) | The Record (Recorded Future) | ai, data_breach, incident_response, malware | 2026-02-23 16:56 |
-| [Global data protection authorities warn generative AI companies against replicating real people](https://therecord.media/data-protection-authorities-warn-ai-companies-of-sharing-images) | The Record (Recorded Future) | ai | 2026-02-23 16:52 |
-| [Infostealers: The Malware That Breaks in Without Breaking Anything](https://cybelangel.com/blog/infostealers-the-malware-that-breaks-in-without-breaking-anything/) | CybelAngel Blog | apt, identity, incident_response, malware | 2026-02-23 16:49 |
-| [Microsoft MFA Down –  504 Gateway Timeout Errors Disrupting MFA Access for U.S. Users](https://cybersecuritynews.com/microsoft-mfa-down/) | Cybersecurity News | identity, incident_response | 2026-02-23 16:31 |
-| [New Phishing Framework Starkiller Proxies Real Login Pages to Bypass MFA](https://cybersecuritynews.com/new-phishing-framework-starkiller-proxies/) | Cybersecurity News | identity, incident_response, phishing, policy | 2026-02-23 16:04 |
-| [North Korean Threat Actors Leverage Fake IT Worker Campaigns and Contagious Interview Tactics](https://cybersecuritynews.com/north-korean-threat-actors-leverage-fake-it-worker-campaigns/) | Cybersecurity News | ai, apt, identity, incident_response, iot, malware | 2026-02-23 15:38 |
-| [2025: The Untold Stories of Check Point Research](https://research.checkpoint.com/2026/2025-the-untold-stories-of-check-point-research/) | Check Point Research | ai, apt, incident_response | 2026-02-23 15:27 |
-| [PayPal Confirms Six-Month Data Exposure Linked to Loan System Error](https://hackread.com/paypal-confirms-loan-system-error-data-exposure/) | HackRead | data_breach, incident_response | 2026-02-23 15:21 |
-| [Romanian hacker pleads guilty to selling access to Oregon state networks](https://securityaffairs.com/188380/cyber-crime/romanian-hacker-pleads-guilty-to-selling-access-to-oregon-state-networks.html) | Security Affairs | ai, incident_response | 2026-02-23 14:43 |
-| [Top Technology Stacks for MVP Development in 2026](https://hackread.com/top-technology-stacks-mvp-development-2026/) | HackRead | policy | 2026-02-23 13:53 |
-| [CVE-2026-1731 fuels ongoing attacks on BeyondTrust remote access products](https://securityaffairs.com/188370/hacking/cve-2026-1731-fuels-ongoing-attacks-on-beyondtrust-remote-access-products.html) | Security Affairs | ai, apt, policy, vulnerabilities | 2026-02-23 12:09 |
-| [Hackers Use Excel Exploit to Hide XWorm 7.2 in JPEG Files, Hijack PCs](https://hackread.com/hackers-excel-exploit-xworm-7-2-jpeg-files-hijack-pcs/) | HackRead | ai, apt, identity, malware, phishing, vulnerabilities | 2026-02-23 11:54 |
-| [Ukraine says cyberattacks on energy grid now used to guide missile strikes](https://therecord.media/ukraine-cyberattacks-guiding-russian-missile-strikes) | The Record (Recorded Future) | ai | 2026-02-23 11:05 |
-| [AI-powered campaign compromises 600 FortiGate systems worldwide](https://securityaffairs.com/188351/hacking/ai-powered-campaign-compromises-600-fortigate-systems-worldwide.html) | Security Affairs | ai, apt | 2026-02-23 10:39 |
-| [Faking it on the phone: How to tell if a voice call is AI or not](https://www.welivesecurity.com/en/business-security/faking-it-phone-how-tell-voice-call-ai/) | ESET WeLiveSecurity | ai | 2026-02-23 10:00 |
-| [23rd February – Threat Intelligence Report](https://research.checkpoint.com/2026/23rd-february-threat-intelligence-report/) | Check Point Research | data_breach, incident_response | 2026-02-23 09:01 |
+| [Microsoft Released Updates for Windows 11, Version 25H2 and 24H2 Systems](https://cybersecuritynews.com/microsoft-released-updates-for-windows-11-25h2-and-24h2/) | Cybersecurity News | ai, incident_response | 2026-02-25 06:36 |
+| [Threat Actors Exploit Apache ActiveMQ Server Vulnerability to Gain RDP Access and Deploy LockBit Ransomware](https://cybersecuritynews.com/threat-actors-exploit-apache-activemq-server-vulnerability/) | Cybersecurity News | ai, apt, incident_response, malware, policy, vulnerabilities | 2026-02-25 05:47 |
+| [GitHub Copilot Exploited to Perform Full Repository Takeover via Passive Prompt Injection](https://cybersecuritynews.com/github-copilot-exploited/) | Cybersecurity News | ai, incident_response, policy, vulnerabilities | 2026-02-25 03:59 |
+| [US Sanctions Network of Exploit Brokers That Stole US Government Cyber Tools](https://cybersecuritynews.com/us-sanctions-exploit-brokers/) | Cybersecurity News | identity, incident_response, vulnerabilities | 2026-02-25 02:34 |
+| [315,000 Records from Venezuela's School of Planning Foundation Leaked with Sensitive Personal Data](https://darkwebinformer.com/315-000-records-from-venezuelas-school-of-planning-foundation-leaked-with-sensitive-personal-data/) | DarkWeb Informer | data_breach | 2026-02-25 00:01 |
+| [North Korean Lazarus Group Adopts Medusa Ransomware in Global Attacks](https://hackread.com/north-korean-lazarus-group-medusa-ransomware/) | HackRead | malware | 2026-02-24 23:40 |
+| [Attackers Can Own Your Network in a Matter of Minutes](https://databreaches.net/2026/02/24/attackers-can-own-your-network-in-a-matter-of-minutes/?pk_campaign=feed&pk_kwd=attackers-can-own-your-network-in-a-matter-of-minutes) | DataBreaches.net | ai, apt, data_breach, defense, iot | 2026-02-24 23:13 |
+| [US sanctions Russian exploit broker for buying cyber tools stolen from defense contractor](https://therecord.media/sanctions-russian-exploit-broker-cyber) | The Record (Recorded Future) | incident_response, vulnerabilities | 2026-02-24 21:42 |
+| [Phishing operation with links to Russia, Armenia compromised Western cargo companies, researchers find](https://therecord.media/phishing-operation-russia-armenia-targeting-us-european-cargo) | The Record (Recorded Future) | identity, iot, phishing | 2026-02-24 20:34 |
+| [SolarWinds patches four critical Serv-U flaws enabling root access](https://securityaffairs.com/188454/hacking/solarwinds-patches-four-critical-serv-u-flaws-enabling-root-access.html) | Security Affairs | ai, cloud, policy, vulnerabilities | 2026-02-24 20:07 |
+| [Threat Actors Weaponized AI Tools to Gain Full Domain Access within 30 Minutes](https://cybersecuritynews.com/threat-actors-weaponized-ai-tools/) | Cybersecurity News | ai, apt, incident_response | 2026-02-24 18:53 |
+| [US ‘committed’ to fighting transnational gangs behind Southeast Asian scam compounds: FBI](https://therecord.media/us-committed-to-fighting-southeast-asia-scam-compounds) | The Record (Recorded Future) | ai, incident_response, policy | 2026-02-24 17:28 |
+| [65% of Financial Organizations Targeted by Ransomware as Cybercriminals Escalate Attacks](https://cybersecuritynews.com/financial-organizations-ransomware-attack-2024/) | Cybersecurity News | ai, incident_response, malware | 2026-02-24 17:15 |
+| [Anthropic Claims Chinese AI Firms ‘Distilled’ Claude to Train Their Models](https://hackread.com/anthropic-china-ai-firms-distilled-claude-train-models/) | HackRead | ai, incident_response | 2026-02-24 17:13 |
+| [Malicious NuGet Packages Attacking ASP.NET Developers to Steal Login Credentials](https://cybersecuritynews.com/malicious-nuget-packages-attacking/) | Cybersecurity News | ai, apt, identity, incident_response, supply_chain | 2026-02-24 17:01 |
+| [Reddit Fined £14.47 Million by UK Regulator for Children’s Privacy Failures](https://cybersecuritynews.com/reddit-fined-14-47-million/) | Cybersecurity News | ai, incident_response, policy | 2026-02-24 16:37 |
+| [New Deserialization Vulnerability in Ruby Workers Could Enable Full System Compromise](https://cybersecuritynews.com/deserialization-vulnerability-in-ruby/) | Cybersecurity News | incident_response, policy, vulnerabilities | 2026-02-24 16:25 |
+| [Greater Pittsburgh Orthopaedic Associates disclosed a 2025 breach, but was there also one in 2024?](https://databreaches.net/2026/02/24/greater-pittsburgh-orthopaedic-associates-disclosed-a-2025-breach-but-was-there-also-one-in-2024/?pk_campaign=feed&pk_kwd=greater-pittsburgh-orthopaedic-associates-disclosed-a-2025-breach-but-was-there-also-one-in-2024) | DataBreaches.net | ai, apt, darkweb, data_breach, identity, incident_response, iot | 2026-02-24 16:08 |
+| [Malicious OpenClaw Skills Used to Trick Users into Manual Password Entry for AMOS Infection](https://cybersecuritynews.com/malicious-openclaw-skills-used/) | Cybersecurity News | ai, apt, identity, incident_response, malware, policy | 2026-02-24 15:58 |
+| [Network Transformation without the Trauma](https://www.infoblox.com/blog/company/network-transformation-without-the-trauma/) | Infoblox Blog | ai, incident_response, phishing | 2026-02-24 15:55 |
+| [Reddit fined $20 million by UK for not effectively checking users’ ages](https://therecord.media/reddit-children-age-checks-uk-ico-fine) | The Record (Recorded Future) | ai, policy | 2026-02-24 15:29 |
+| [Crypto platform Step Finance shutting down after $40 million theft](https://therecord.media/step-finance-cryptocurrency-theft-shutdown) | The Record (Recorded Future) | ai | 2026-02-24 15:28 |
+| [Amazon: Low-Skill Hacker Used AI Tools to Breach FortiGate Devices Globally](https://hackread.com/amazon-hacker-ai-tools-breach-fortigate-devices/) | HackRead | ai, data_breach | 2026-02-24 15:23 |
+| [VMware Aria Operations flaws could enable remote attacks](https://securityaffairs.com/188445/security/vmware-aria-operations-flaws-could-enable-remote-attacks.html) | Security Affairs | cloud, incident_response, policy, vulnerabilities | 2026-02-24 15:02 |
+| [Sendmarc Releases DMARCbis Fireside Chat Featuring Co-Editor Todd Herr](https://hackread.com/sendmarc-releases-dmarcbis-fireside-chat-featuring-co-editor-todd-herr/) | HackRead | incident_response | 2026-02-24 14:46 |
+| [How to Maximize DDoS Readiness with Proactive Protection Strategies](https://hackread.com/maximize-ddos-readiness-proactive-protection-strategies/) | HackRead | ddos | 2026-02-24 14:29 |
+| [Lazarus hackers adopt Medusa ransomware for extortion campaigns, targeting healthcare and nonprofits](https://databreaches.net/2026/02/24/lazarus-hackers-adopt-medusa-ransomware-for-extortion-campaigns-targeting-healthcare-and-nonprofits/?pk_campaign=feed&pk_kwd=lazarus-hackers-adopt-medusa-ransomware-for-extortion-campaigns-targeting-healthcare-and-nonprofits) | DataBreaches.net | ai, apt, data_breach, incident_response, iot, malware | 2026-02-24 14:12 |
+| [How to Strengthen App Performance Without Slowing Innovation](https://hackread.com/strengthen-app-performance-without-slow-innovation/) | HackRead | iot | 2026-02-24 14:06 |
+| [ChatGPT in your inbox? Investigating Entra apps that request unexpected permissions](https://redcanary.com/blog/threat-detection/entra-id-oauth-attacks/) | Red Canary Blog | ai | 2026-02-24 14:05 |
+| [The Underground Tax Fraud Economy: What 127 Successful Filings Reveal](https://flare.io/learn/resources/blog/underground-tax-fraud-economy) | Flare.io Blog | incident_response | 2026-02-24 14:01 |
+| [Bring the Fight to the Edge: Turning Time Into an Advantage in OT Security](https://unit42.paloaltonetworks.com/ot-edge-security/) | Palo Alto Networks Unit 42 | incident_response, iot | 2026-02-24 14:00 |
+| [Korean cops charge teens over bike hire breach that exposed data on 4.62M riders](https://databreaches.net/2026/02/24/korean-cops-charge-teens-over-bike-hire-breach-that-exposed-data-on-4-62m-riders/?pk_campaign=feed&pk_kwd=korean-cops-charge-teens-over-bike-hire-breach-that-exposed-data-on-4-62m-riders) | DataBreaches.net | ai, apt, data_breach, incident_response, iot | 2026-02-24 13:53 |
+| [Hackers threaten to leak 8 million people’s stolen data if Dutch telecom Odido won’t pay ransom](https://databreaches.net/2026/02/24/hackers-threaten-to-leak-8-million-peoples-stolen-data-if-dutch-telecom-odido-wont-pay-ransom/?pk_campaign=feed&pk_kwd=hackers-threaten-to-leak-8-million-peoples-stolen-data-if-dutch-telecom-odido-wont-pay-ransom) | DataBreaches.net | ai, apt, darkweb, data_breach, incident_response, iot | 2026-02-24 13:53 |
+| [Some patients listed as “Charlie Kirk” or dead after major NZ health app MediMap hacked](https://databreaches.net/2026/02/24/some-patients-listed-as-charlie-kirk-or-dead-after-major-nz-health-app-medimap-hacked/?pk_campaign=feed&pk_kwd=some-patients-listed-as-charlie-kirk-or-dead-after-major-nz-health-app-medimap-hacked) | DataBreaches.net | ai, apt, data_breach, incident_response, iot | 2026-02-24 13:09 |
+| [Romanian Hacker Extradited to US Admits Hacking Oregon State Network](https://hackread.com/romanian-hacker-extradited-us-hacking-oregon-state/) | HackRead | incident_response | 2026-02-24 12:26 |
+| [New ZeroDayRAT Malware Claims Full Monitoring of Android and iOS Devices](https://hackread.com/zerodayrat-malware-monitoring-android-ios-devices/) | HackRead | ai, malware, mobile | 2026-02-24 11:27 |
+| [Ethical Dilemmas in Dark Web Research](https://www.darkowl.com/blog-content/ethical-dilemmas-in-dark-web-research/) | DarkOwl Blog | ai, darkweb, incident_response, policy | 2026-02-24 11:00 |
+| [Arkanix Stealer: AI-assisted info-stealer shuts down after brief campaign](https://securityaffairs.com/188431/malware/arkanix-stealer-ai-assisted-info-stealer-shuts-down-after-brief-campaign.html) | Security Affairs | ai, apt, darkweb, malware | 2026-02-24 10:52 |
+| [Moonrise RAT: A New Low-Detection Threat with High-Cost Consequences](/cybersecurity-blog/moonrise-rat-detected/) | ANY.RUN Blog | ai, defense, identity, incident_response, malware | 2026-02-24 10:49 |
+| [Operation MacroMaze: APT28 exploits webhooks for covert data exfiltration](https://securityaffairs.com/188421/apt/operation-macromaze-apt28-exploits-webhooks-for-covert-data-exfiltration.html) | Security Affairs | ai, apt, malware, vulnerabilities | 2026-02-24 09:10 |
 
 ---
 
