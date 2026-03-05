@@ -1,6 +1,6 @@
 <p align="center">
   <strong style="font-size:1.9rem;">Threat Intel Atlas · Daily Signal Briefing</strong><br />
-  <span style="font-size:1rem;color:#6ecff6;">Compiled from 60 intelligence sources · refreshed 2026-03-04 06:46 UTC</span>
+  <span style="font-size:1rem;color:#6ecff6;">Compiled from 60 intelligence sources · refreshed 2026-03-05 06:47 UTC</span>
 </p>
 
 ---
@@ -10,8 +10,8 @@
 | Metric | Value |
 | --- | --- |
 | Total signals retained | 1000 |
-| Signals detected in the last 24h | 43 |
-| Signals surfaced in this report | 43 |
+| Signals detected in the last 24h | 47 |
+| Signals surfaced in this report | 47 |
 
 ---
 
@@ -19,46 +19,46 @@
 
 | Title | Source | Tags | Published (UTC) |
 | --- | --- | --- | --- |
+| [Google Releases Emergency Chrome Update to Fix 10 Security Vulnerabilities](https://cybersecuritynews.com/critical-chrome-emergency-update/) | Cybersecurity News | incident_response | 2026-03-05 06:31 |
+| [Google uncovers Coruna iOS Exploit Kit targeting iOS 13–17.2.1](https://securityaffairs.com/188928/security/google-uncovers-coruna-ios-exploit-kit-targeting-ios-13-17-2-1.html) | Security Affairs | ai, mobile, vulnerabilities | 2026-03-05 06:10 |
 | [Hooked on Linux: Rootkit Taxonomy, Hooking Techniques and Tradecraft](https://www.elastic.co/security-labs/linux-rootkits-1-hooked-on-linux) | Elastic Security Labs | incident_response, malware | 2026-03-05 00:00 |
-| [CISA Warns of VMware Aria Operations Vulnerability Exploited in Attacks](https://cybersecuritynews.com/vmware-aria-operations-vulnerability-2/) | Cybersecurity News | ai, defense, incident_response, policy, vulnerabilities | 2026-03-04 05:32 |
-| [Malicious Packages Disguised as Laravel Utilities Deploy PHP RAT and Enables Remote Access](https://cybersecuritynews.com/malicious-packages-disguised-as-laravel-utilities/) | Cybersecurity News | ai, apt, incident_response, malware, supply_chain | 2026-03-04 05:29 |
-| [Windows 11 23H2 to 25H2 Upgrade Allegedly Breaking Internet Connectivity](https://cybersecuritynews.com/windows-11-23h2-to-25h2-upgrade/) | Cybersecurity News | ai, identity, incident_response | 2026-03-04 03:53 |
-| [Coruna Exploit Kit With 23 Exploits Hacked Thousands of iPhones](https://cybersecuritynews.com/coruna-ios-exploit-kit/) | Cybersecurity News | ai, incident_response, mobile, policy, vulnerabilities | 2026-03-04 03:21 |
-| [Interplay between Iranian Targeting of IP Cameras and Physical Warfare in the Middle East](https://research.checkpoint.com/2026/interplay-between-iranian-targeting-of-ip-cameras-and-physical-warfare-in-the-middle-east/) | Check Point Research | incident_response, phishing | 2026-03-04 03:16 |
-| [Daily Dose of Dark Web Informer - March 3rd, 2026](https://darkwebinformer.com/daily-dose-of-dark-web-informer-march-3rd-2026/) | DarkWeb Informer | ai, darkweb | 2026-03-03 23:50 |
-| [Facebook is experiencing a global outage](https://securityaffairs.com/188858/social-networks/facebook-is-experiencing-a-global-outage.html) | Security Affairs | ai, incident_response | 2026-03-03 23:19 |
-| [1,700 Dutch police officers get reminder not to access files without legitimate purpose](https://databreaches.net/2026/03/03/1700-dutch-police-officers-get-reminder-not-to-access-files-without-legitimate-purpose/?pk_campaign=feed&pk_kwd=1700-dutch-police-officers-get-reminder-not-to-access-files-without-legitimate-purpose) | DataBreaches.net | ai, apt, data_breach, iot, phishing | 2026-03-03 22:49 |
-| [OptimizerAI Database Leaked With 118,000 User Records and 1.1 Million AI Generated Sounds](https://darkwebinformer.com/optimizerai-database-leaked-with-118-000-user-records-and-1-1-million-ai-generated-sounds/) | DarkWeb Informer | ai, data_breach | 2026-03-03 21:46 |
-| [Shiraume Hospital Patient Data Allegedly Leaked With Full Medical Records and PII](https://darkwebinformer.com/shiraume-hospital-patient-data-allegedly-leaked-with-full-medical-records-and-pii/) | DarkWeb Informer | data_breach, incident_response | 2026-03-03 21:22 |
-| [California fines national high school ticketing platform $1.1 million for privacy violations](https://therecord.media/california-fines-national-high-school-ticketing-platform-privacy) | The Record (Recorded Future) | unclassified | 2026-03-03 19:01 |
-| [Ariomex, Iran-based crypto exchange, suffers data leak](https://securityaffairs.com/188848/digital-id/ariomex-iran-based-crypto-exchange-suffers-data-leak.html) | Security Affairs | ai, data_breach, defense, incident_response | 2026-03-03 18:40 |
-| [Fake Zoom and Google Meet Pages Trick Users Into Installing Monitoring Tool](https://hackread.com/zoom-google-meet-phishing-monitoring-tool/) | HackRead | phishing | 2026-03-03 18:39 |
-| [SloppyLemming Espionage Campaign Uses BurrowShell Backdoor and Rust RAT to Hit Pakistan and Bangladesh Targets](https://cybersecuritynews.com/sloppylemming-espionage-campaign-uses-burrowshell-backdoor/) | Cybersecurity News | ai, apt, incident_response, iot | 2026-03-03 18:38 |
-| [LexisNexis says hackers accessed legacy data in contained breach](https://therecord.media/lexisnexis-says-hackers-accessed-legacy-data) | The Record (Recorded Future) | ai, apt, data_breach | 2026-03-03 18:32 |
-| [Malvertising Threat Actor ‘D‑Shortiez’ Abuses WebKit Back‑Button Hijack in Forced‑Redirect Browser Campaign](https://cybersecuritynews.com/malvertising-threat-actor-d-shortiez-abuses-webkit-back-button/) | Cybersecurity News | ai, apt, incident_response, mobile | 2026-03-03 18:21 |
-| [Google urges Supreme Court to strike down geofence warrants as unconstitutional](https://therecord.media/google-urges-supreme-court-strike-down-geolocation-warrants) | The Record (Recorded Future) | ai | 2026-03-03 18:10 |
-| [Ransomware Feed 2.0 - What's New](https://darkwebinformer.com/ransomware-feed-2-0-whats-new/) | DarkWeb Informer | malware | 2026-03-03 18:07 |
-| [LexisNexis Data Breach — Threat Actor Allegedly Claims 2.04 GB Stolen](https://cybersecuritynews.com/lexisnexis-data-breach/) | Cybersecurity News | ai, apt, cloud, data_breach, incident_response | 2026-03-03 17:55 |
-| [Ransomware Groups](https://darkwebinformer.com/ransomware-groups/) | DarkWeb Informer | malware | 2026-03-03 17:53 |
-| [Microsoft Warns of New Phishing Attack Exploiting OAuth in Entra ID to Evade Detection](https://cybersecuritynews.com/phishing-attack-exploiting-oauth/) | Cybersecurity News | ai, apt, cloud, defense, identity, incident_response, phishing, vulnerabilities | 2026-03-03 17:42 |
-| [Zerobot Malware Exploiting Tenda Command Injection Vulnerabilities to Deploy Malware](https://cybersecuritynews.com/zerobot-malware-exploiting-tenda-command/) | Cybersecurity News | ai, apt, cloud, incident_response, malware, policy, vulnerabilities | 2026-03-03 17:07 |
-| [Archipelo and Checkmarx Announce Partnership Connecting AppSec Detection with DevSPM](https://cybersecuritynews.com/archipelo-checkmarx-partnership/) | Cybersecurity News | apt, defense, incident_response, vulnerabilities | 2026-03-03 16:49 |
-| [Silver Dragon Targets Organizations in Southeast Asia and Europe](https://research.checkpoint.com/2026/silver-dragon-targets-organizations-in-southeast-asia-and-europe/) | Check Point Research | ai, apt, identity, incident_response | 2026-03-03 15:49 |
-| [Oracle EBS 2025 campaign impacts Madison Square Garden, sensitive data leaked](https://securityaffairs.com/188814/cyber-crime/oracle-ebs-2025-campaign-impacts-madison-square-garden-sensitive-data-leaked.html) | Security Affairs | ai, apt, data_breach, incident_response | 2026-03-03 15:42 |
-| [Western allies form 6G security coalition amid tech rivalry with China](https://therecord.media/western-allies-form-6g-security-coalition) | The Record (Recorded Future) | mobile | 2026-03-03 15:21 |
-| [Middle East on the Brink: Iran-US-Israel Hostilities Trigger Cyber-Kinetic Conflict](https://cyble.com/blog/middle-east-iran-us-israel-hybrid-conflict/) | Cyble Research & Intelligence | ai, apt, cloud, ddos, defense, identity, incident_response, iot, malware, mobile, phishing, supply_chain, vulnerabilities | 2026-03-03 15:04 |
-| [Florida woman gets 2 year sentence for trafficking Microsoft software labels](https://therecord.media/florida-woman-sentenced-reselling-microsoft-labels) | The Record (Recorded Future) | unclassified | 2026-03-03 14:47 |
-| [Hackers Abuse .arpa Top-Level Domain to Host Phishing Scams](https://hackread.com/hackers-arpa-top-level-domain-phishing-scams/) | HackRead | ai, phishing | 2026-03-03 14:23 |
-| [Sometimes, You Can Just Feel The Security In The Design (Juniper Junos Evolved CVE-2026-21902 Pre-Auth RCE)](https://labs.watchtowr.com/sometimes-you-can-just-feel-the-security-in-the-design-junos-os-evolved-cve-2026-21902-rce/) | WatchTowr Labs | vulnerabilities | 2026-03-03 14:15 |
-| [From Noise to Signal: Crafting TI-Informed Detections for Real Security Value](https://threatconnect.com/blog/from-noise-to-signal-crafting-ti-informed-detections-for-real-security-value/) | ThreatConnect Blog | defense, incident_response, phishing | 2026-03-03 14:00 |
-| [Archipelo and Checkmarx Announce Partnership Connecting AppSec Detection with DevSPM](https://hackread.com/archipelo-and-checkmarx-announce-partnership-connecting-appsec-detection-with-devspm/) | HackRead | defense, incident_response | 2026-03-03 14:00 |
-| [Coruna: The Mysterious Journey of a Powerful iOS Exploit Kit](https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit/) | Google Mandiant Threat Intelligence | ai, apt, cloud, data_breach, defense, identity, incident_response, iot, malware, mobile, policy, vulnerabilities | 2026-03-03 14:00 |
-| [Israeli spies ‘hacked every traffic camera in Tehran to plot killing of Iran’s Ayatollah Ali Khamenei’](https://databreaches.net/2026/03/03/israeli-spies-hacked-every-traffic-camera-in-tehran-to-plot-killing-of-irans-ayatollah-ali-khamenei/?pk_campaign=feed&pk_kwd=israeli-spies-hacked-every-traffic-camera-in-tehran-to-plot-killing-of-irans-ayatollah-ali-khamenei) | DataBreaches.net | ai, apt, data_breach, incident_response, iot | 2026-03-03 13:49 |
-| [Project Compass Targets 764 Network as 30 Arrested and Victims Rescued](https://hackread.com/project-compass-764-network-aarrest-victims-rescued/) | HackRead | vulnerabilities | 2026-03-03 13:02 |
-| [Congress finds data brokers cost consumers tens of billions of dollars](https://databreaches.net/2026/03/03/congress-finds-data-brokers-cost-consumers-tens-of-billions-of-dollars/?pk_campaign=feed&pk_kwd=congress-finds-data-brokers-cost-consumers-tens-of-billions-of-dollars) | DataBreaches.net | ai, apt, data_breach, identity, incident_response, iot | 2026-03-03 12:49 |
-| [Heightened Cyber Threats Following US–Israel–Iran Military Actions [Flash Report]](https://cybelangel.com/blog/cyber-threats-us-israel-iran-strikes/) | CybelAngel Blog | defense, incident_response, policy | 2026-03-03 12:38 |
-| [Phishing campaign exploits OAuth redirection to bypass defenses](https://securityaffairs.com/188829/hacking/phishing-campaign-exploits-oauth-redirection-to-bypass-defenses.html) | Security Affairs | ai, apt, cloud, identity, incident_response, malware, phishing, policy, vulnerabilities | 2026-03-03 11:50 |
-| [Fooling AI Agents: Web-Based Indirect Prompt Injection Observed in the Wild](https://unit42.paloaltonetworks.com/ai-agent-prompt-injection/) | Palo Alto Networks Unit 42 | ai, incident_response, vulnerabilities | 2026-03-03 11:00 |
+| [Russian Ransomware Administrator Pleads Guilty to Wire Fraud Conspiracy](https://databreaches.net/2026/03/04/russian-ransomware-administrator-pleads-guilty-to-wire-fraud-conspiracy/?pk_campaign=feed&pk_kwd=russian-ransomware-administrator-pleads-guilty-to-wire-fraud-conspiracy) | DataBreaches.net | ai, apt, data_breach, incident_response, iot, malware | 2026-03-04 23:27 |
+| [Institutional DeFi: Building Secure Bridges Between Decentralized Protocols and Corporate Treasury](https://hackread.com/institutional-defi-secure-bridges-decentralized-protocols/) | HackRead | ai | 2026-03-04 22:28 |
+| [Cisco fixes maximum-severity Secure FMC bugs threatening firewall security](https://securityaffairs.com/188921/security/cisco-fixes-maximum-severity-secure-fmc-bugs-threatening-firewall-security.html) | Security Affairs | ai, incident_response, vulnerabilities | 2026-03-04 22:10 |
+| [How to Avoid Confidentiality Gaps in Early-Stage Startups](https://hackread.com/avoid-confidentiality-gaps-early-stage-startups/) | HackRead | incident_response | 2026-03-04 21:55 |
+| [Inside Cloud Compromise: Investigating Attacker Activity with Darktrace / Forensic Acquisition & Investigation](https://www.darktrace.com/blog/inside-cloud-compromise-investigating-attacker-activity-with-darktrace-forensic-acquisition-investigation) | Darktrace Blog | cloud, defense | 2026-03-04 21:28 |
+| [Fake Zoom, Teams Meeting Invites Use Compromised Certificates to Drop Malware](https://hackread.com/fake-zoom-teams-invites-malware-certificates/) | HackRead | ai, apt, malware, phishing | 2026-03-04 21:27 |
+| [FBI Seizes Leakbase: One of the Largest English-Speaking Cybercrime Forums Shut Down](https://flare.io/learn/resources/blog/fbi-seizes-leakbase) | Flare.io Blog | ai, data_breach, incident_response | 2026-03-04 20:43 |
+| [Automate or orchestrate? Implementing a streamlined remediation program to shorten MTTR](https://securityaffairs.com/188917/security/automate-or-orchestrate-implementing-a-streamlined-remediation-program-to-shorten-mttr.html) | Security Affairs | cloud, incident_response, policy | 2026-03-04 20:25 |
+| [790GB Database From Agua y Drenaje de Monterrey Leaked for Free Covering All Water Service Users in Nuevo León](https://darkwebinformer.com/790gb-database-from-agua-y-drenaje-de-monterrey-leaked-for-free-covering-all-water-service-users-in-nuevo-leon/) | DarkWeb Informer | data_breach | 2026-03-04 19:41 |
+| [LeakBase seized, arrests made as part of  global action](https://databreaches.net/2026/03/04/leakbase-seized-arrests-made-as-part-of-global-action/?pk_campaign=feed&pk_kwd=leakbase-seized-arrests-made-as-part-of-global-action) | DataBreaches.net | ai, apt, data_breach, identity, iot, malware | 2026-03-04 19:05 |
+| [Monitoring Cyberattacks Directly Linked to the US-Israel-Iran Military Conflict](https://flare.io/learn/resources/blog/cyberattacks-us-israel-iran-military-conflict) | Flare.io Blog | ai, incident_response, iot | 2026-03-04 18:43 |
+| [Escalation in the Middle East: Tracking “Operation Epic Fury” Across Military and Cyber Domains](https://flashpoint.io/blog/escalation-in-the-middle-east-operation-epic-fury/) | Flashpoint Blog | ai, incident_response | 2026-03-04 18:14 |
+| [Tycoon 2FA Phishing Kit Disrupted by Microsoft, Europol and Partners](https://cybersecuritynews.com/tycoon-2fa-phishing-kit-dismatled/) | Cybersecurity News | ai, apt, identity, incident_response, phishing | 2026-03-04 17:33 |
+| [Windows 10 Update KB5068164 Breaks Windows Recovery Environment](https://cybersecuritynews.com/windows-10-update-kb5068164/) | Cybersecurity News | ai, incident_response | 2026-03-04 17:13 |
+| [Cyber Fallout After the Strikes: Signal, Noise, and What Comes Next](https://feeds.fortinet.com/~/949515869/0/fortinet/blog/threat-research~Cyber-Fallout-After-the-Strikes-Signal-Noise-and-What-Comes-Next) | Fortinet Threat Research | ai, identity, incident_response | 2026-03-04 17:00 |
+| [Best DeleteMe Alternatives (2026): Competitors and Comparisons](https://hackread.com/deleteme-alternatives-2026-competitors-comparisons/) | HackRead | unclassified | 2026-03-04 16:58 |
+| [Disruption targets Tycoon 2FA, popular AiTM PhaaS](https://www.proofpoint.com/us/blog/threat-insight/disruption-targets-tycoon-2fa-popular-aitm-phaas) | Proofpoint Blog | ai | 2026-03-04 16:28 |
+| [Sprawling FBI, European operation takes down Leakbase cybercriminal forum](https://therecord.media/leakbase-cybercrime-fbi-europe-takedown) | The Record (Recorded Future) | data_breach, identity, policy, vulnerabilities | 2026-03-04 16:26 |
+| [Inside Tycoon2FA: How a leading AiTM phishing kit operated at scale](https://www.microsoft.com/en-us/security/blog/2026/03/04/inside-tycoon2fa-how-a-leading-aitm-phishing-kit-operated-at-scale/) | Microsoft Threat Intelligence | ai, apt, incident_response, phishing | 2026-03-04 16:04 |
+| [Connecting Dots with SSL Certificates: Finding Threat Actors with Graph Theory](https://www.infoblox.com/blog/security/connecting-dots-with-ssl-certificates-finding-threat-actors-with-graph-theory/) | Infoblox Blog | ai, apt, incident_response | 2026-03-04 15:55 |
+| [Operation Leak Dismantles LeakBase Cybercriminal Forum – User Data, IP Logs Secured by Authorities](https://cybersecuritynews.com/operation-leak-dismantles-leakbase/) | Cybersecurity News | ai, data_breach, incident_response, policy | 2026-03-04 15:48 |
+| [Iran‑Nexus APT ‘Dust Specter’ Hits Iraqi Officials with AI‑Assisted Malware and Novel RATs](https://cybersecuritynews.com/iran-nexus-apt-dust-specter-hits-iraqi-officials/) | Cybersecurity News | ai, apt, incident_response, malware | 2026-03-04 15:36 |
+| [To Reduce MTTR and Business Risk, Start with Better SOC Collaboration](https://cybersecuritynews.com/to-reduce-mttr-and-business-risk-start-with-better-soc-collaboration/) | Cybersecurity News | ai, incident_response | 2026-03-04 15:26 |
+| [Ransomware Breach at University of Hawaii Cancer Center Affects 1.2M People](https://hackread.com/ransomware-breach-university-of-hawaii-cancer-center/) | HackRead | ai, data_breach, incident_response, malware | 2026-03-04 15:07 |
+| [LastPass warns of spoofed alerts aimed at stealing master passwords](https://securityaffairs.com/188911/security/lastpass-warns-of-spoofed-alerts-aimed-at-stealing-master-passwords.html) | Security Affairs | ai, apt, identity, phishing | 2026-03-04 15:07 |
+| [Win11Debloat: A 40k-Star PowerShell Script for Stripping Bloatware, Telemetry, and AI Features from Windows](https://darkwebinformer.com/win11debloat-a-40k-star-powershell-script-for-stripping-bloatware-telemetry-and-ai-features-from-windows/) | DarkWeb Informer | ai, defense | 2026-03-04 14:56 |
+| [New Threat Report Warns of AI is Automating High-Velocity Attacker Operations](https://cybersecuritynews.com/ai-is-automating-high-velocity-attacker-operations/) | Cybersecurity News | ai, cloud, incident_response, phishing | 2026-03-04 14:51 |
+| [The Most Common Swap Scams in 2026, and How to Avoid Them](https://hackread.com/common-swap-scams-2026-how-to-avoid/) | HackRead | phishing | 2026-03-04 14:42 |
+| [Reclaim Security Raises $26M to Eliminate the 27-Day Remediation Gap](https://hackread.com/reclaim-security-raises-26m-to-eliminate-the-27-day-remediation-gap/) | HackRead | ai, incident_response | 2026-03-04 14:38 |
+| [VoidLink Malware Framework Attacking Kubernetes and AI Workloads](https://cybersecuritynews.com/voidlink-malware-framework/) | Cybersecurity News | ai, cloud, incident_response, malware, policy | 2026-03-04 14:33 |
+| [Breaking down a supply chain attack leveraging a malicious Google Workspace OAuth app](https://redcanary.com/blog/threat-detection/google-workspace-oauth-attack/) | Red Canary Blog | ai, supply_chain | 2026-03-04 14:30 |
+| [Russian hackers deploy new malware in phishing campaign targeting Ukraine](https://therecord.media/russian-ukraine-hackers-malware) | The Record (Recorded Future) | ai, apt, malware, phishing | 2026-03-04 14:29 |
+| [Stolen Gemini API Key Turned $180 Bill to $82000 in Two Days](https://cybersecuritynews.com/stolen-gemini-api-key-turned-180-bill-to-82000/) | Cybersecurity News | cloud, identity, incident_response | 2026-03-04 14:20 |
+| [Escalating Iranian APT Threats Against Critical Infrastructure Amid Geopolitical Conflict](https://cybersecuritynews.com/escalating-iranian-apt-threats-against-critical-infrastructure/) | Cybersecurity News | ai, apt, incident_response, iot | 2026-03-04 14:18 |
+| [Phishing in 2026: 3 Attack Tactics That Beat Most Enterprise Defenses](https://hackread.com/phishing-2026-attack-tactics-beat-enterprise-defenses/) | HackRead | cloud, identity, iot, phishing | 2026-03-04 12:51 |
+| [Coruna: The Mysterious Journey of a Powerful iOS Exploit Kit](https://databreaches.net/2026/03/04/coruna-the-mysterious-journey-of-a-powerful-ios-exploit-kit/?pk_campaign=feed&pk_kwd=coruna-the-mysterious-journey-of-a-powerful-ios-exploit-kit) | DataBreaches.net | ai, apt, data_breach, iot, mobile, vulnerabilities | 2026-03-04 12:10 |
+| [Car Tyre Sensors Can Be Used to Track Drivers Without Their Knowledge](https://hackread.com/car-tyre-sensors-track-drivers-without-knowledge/) | HackRead | ai, incident_response, policy | 2026-03-04 11:58 |
 
 ---
 
